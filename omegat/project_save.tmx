@@ -4,6 +4,28 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
+ # Knight wounded/slain event strings for use in battle events. 
+ knight_wounded_no_enemy_friendly:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200920T044413Z" creationid="mohammad" creationdate="20200920T044413Z">
+        <seg>l_english:
+ # Knight wounded/slain event strings for use in battle events. 
+ knight_wounded_no_enemy_friendly:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
+ ACHIEVEMENT_GROUP_very_easy_achievements:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200920T044411Z" creationid="mohammad" creationdate="20200920T044411Z">
+        <seg>l_english:
+ ACHIEVEMENT_GROUP_very_easy_achievements:0</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
