@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>"$martial_authority_focus_short$ Focus"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184641Z" creationid="mohammad" creationdate="20200921T184641Z">
+        <seg>"تمرکز $martial_authority_focus_short$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$martial_strategy_focus_short$ Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184409Z" creationid="mohammad" creationdate="20200921T184409Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184110Z" creationid="mohammad" creationdate="20200921T184110Z">
         <seg>"ارجمند"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Authority"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184701Z" creationid="mohammad" creationdate="20200921T184651Z">
+        <seg>"اقتدار"</seg>
       </tuv>
     </tu>
     <tu>
@@ -126,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Focusing on Strategy grants:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184616Z" creationid="mohammad" creationdate="20200921T184616Z">
+        <seg>"مزایای تمرکز بر روی استراتژی:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Foreign Affairs Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183424Z" creationid="mohammad" creationdate="20200921T183424Z">
@@ -190,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Strategist"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184605Z" creationid="mohammad" creationdate="20200921T184605Z">
+        <seg>"استراتژیست"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Strategy"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184412Z" creationid="mohammad" creationdate="20200921T184412Z">
@@ -202,6 +234,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200920T140656Z" creationid="mohammad" creationdate="20200920T140656Z">
         <seg>"ترجمه جمله ...."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"To rule is to make all the aspects of a realm move in unison and work together."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184932Z" creationid="mohammad" creationdate="20200921T184932Z">
+        <seg>"فرمانروایی یعنی همه جنبه های یک قلمرو را متحد و هماهنگ کردن."</seg>
       </tuv>
     </tu>
     <tu>
@@ -226,6 +266,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183857Z" creationid="mohammad" creationdate="20200921T183857Z">
         <seg>"[GetFocus('diplomacy_majesty_focus').GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[GetFocus('martial_authority_focus').GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184705Z" creationid="mohammad" creationdate="20200921T184705Z">
+        <seg>"[GetFocus('martial_authority_focus').GetName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -456,6 +504,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>martial_authority_focus:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184616Z" creationid="mohammad" creationdate="20200921T184616Z">
+        <seg>martial_authority_focus:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>martial_authority_focus_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184707Z" creationid="mohammad" creationdate="20200921T184707Z">
+        <seg>martial_authority_focus_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>martial_authority_focus_modifier:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184701Z" creationid="mohammad" creationdate="20200921T184701Z">
+        <seg>martial_authority_focus_modifier:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>martial_authority_focus_short:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184641Z" creationid="mohammad" creationdate="20200921T184641Z">
+        <seg>martial_authority_focus_short:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>martial_chivalry_focus_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184655Z" creationid="mohammad" creationdate="20200921T184655Z">
+        <seg>martial_chivalry_focus_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>martial_lifestyle_desc:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184120Z" creationid="mohammad" creationdate="20200921T184120Z">
@@ -488,6 +576,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>martial_strategy_focus_effect_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184605Z" creationid="mohammad" creationdate="20200921T184605Z">
+        <seg>martial_strategy_focus_effect_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>martial_strategy_focus_modifier:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184413Z" creationid="mohammad" creationdate="20200921T184413Z">
@@ -500,6 +596,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184410Z" creationid="mohammad" creationdate="20200921T184410Z">
         <seg>martial_strategy_focus_short:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>strategy_name:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184602Z" creationid="mohammad" creationdate="20200921T184602Z">
+        <seg>strategy_name:1</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
