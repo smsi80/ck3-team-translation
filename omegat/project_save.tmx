@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$martial_chivalry_focus_short$ Focus"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T185031Z" creationid="mohammad" creationdate="20200921T185031Z">
+        <seg>"تمرکز $martial_chivalry_focus_short$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$martial_strategy_focus_short$ Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184409Z" creationid="mohammad" creationdate="20200921T184409Z">
@@ -58,6 +66,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184340Z" creationid="mohammad" creationdate="20200921T184340Z">
         <seg>"به دلیل [education|E] نظامی شما، #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! درصد [experience|E] بیشتری را در این سبک زندگی کسب می کنید."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Chivalry"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T185033Z" creationid="mohammad" creationdate="20200921T185033Z">
+        <seg>"جوانمردی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -114,6 +130,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183312Z" creationid="mohammad" creationdate="20200921T183312Z">
         <seg>"تمرکز روی درک افراد و انگیزه های آنها، چگونگی برخورد با کشور های مجاور و چگونگی کسب وفاداری بی چون و چرای افراد خود."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Focusing on Authority grants:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184940Z" creationid="mohammad" creationdate="20200921T184940Z">
+        <seg>"مزایای تمرکز بر روی اقتدار:"</seg>
       </tuv>
     </tu>
     <tu>
@@ -198,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Overseer"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T185007Z" creationid="mohammad" creationdate="20200921T185007Z">
+        <seg>"ناظر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Regality flows from ritual, tradition and glory."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184027Z" creationid="mohammad" creationdate="20200921T184027Z">
@@ -246,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Victory comes not through blood or gold, but honor."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T185113Z" creationid="mohammad" creationdate="20200921T185113Z">
+        <seg>"پیروزی نه از طریق خون یا طلا، بلکه با افتخار حاصل می شود."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[GetFocus('diplomacy_family_focus').GetName]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183718Z" creationid="mohammad" creationdate="20200921T183718Z">
@@ -274,6 +314,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184705Z" creationid="mohammad" creationdate="20200921T184705Z">
         <seg>"[GetFocus('martial_authority_focus').GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[GetFocus('martial_chivalry_focus').GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T185034Z" creationid="mohammad" creationdate="20200921T185034Z">
+        <seg>"[GetFocus('martial_chivalry_focus').GetName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -310,6 +358,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T182959Z" creationid="mohammad" creationdate="20200921T182959Z">
         <seg>#trust me</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>authority_name:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184940Z" creationid="mohammad" creationdate="20200921T184940Z">
+        <seg>authority_name:1</seg>
       </tuv>
     </tu>
     <tu>
@@ -520,6 +576,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>martial_authority_focus_effect_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184933Z" creationid="mohammad" creationdate="20200921T184933Z">
+        <seg>martial_authority_focus_effect_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>martial_authority_focus_modifier:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184701Z" creationid="mohammad" creationdate="20200921T184701Z">
@@ -536,10 +600,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>martial_chivalry_focus:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T185008Z" creationid="mohammad" creationdate="20200921T185008Z">
+        <seg>martial_chivalry_focus:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>martial_chivalry_focus_desc:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184655Z" creationid="mohammad" creationdate="20200921T184655Z">
         <seg>martial_chivalry_focus_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>martial_chivalry_focus_modifier:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T185033Z" creationid="mohammad" creationdate="20200921T185033Z">
+        <seg>martial_chivalry_focus_modifier:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>martial_chivalry_focus_short:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T185031Z" creationid="mohammad" creationdate="20200921T185031Z">
+        <seg>martial_chivalry_focus_short:0</seg>
       </tuv>
     </tu>
     <tu>
