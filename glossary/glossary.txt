@@ -1,3 +1,8 @@
 vassal	واسال
 diplomacy	دیپلماسی
 Foreign Affairs	امور خارجه
+Authority	اقتدار
+chivalry	جوانمردی
+Intrigue	دسیسه چینی
+Skulduggery	فریبکاری
+Temptation	اغواگری
