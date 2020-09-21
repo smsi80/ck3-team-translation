@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Focusing on Skulduggery grants:\n$intrigue_skulduggery_focus_effect$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T213254Z" creationid="mohammad" creationdate="20200921T213254Z">
+        <seg>"مزایای تمرکز بر روی فریبکاری:\n$intrigue_skulduggery_focus_effect$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Focusing on Strategy grants:"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184616Z" creationid="mohammad" creationdate="20200921T184616Z">
@@ -278,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Schemer"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T213323Z" creationid="mohammad" creationdate="20200921T213323Z">
+        <seg>"حیله گر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Schemes, subversion, and secrets."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T213228Z" creationid="mohammad" creationdate="20200921T213228Z">
@@ -306,6 +322,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184412Z" creationid="mohammad" creationdate="20200921T184412Z">
         <seg>"استراتژی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Temptation Focus"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T213403Z" creationid="mohammad" creationdate="20200921T213403Z">
+        <seg>"تمرکز روی اغواگری"</seg>
       </tuv>
     </tu>
     <tu>
@@ -612,10 +636,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>intrigue_skulduggery_focus_effect_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T213229Z" creationid="mohammad" creationdate="20200921T213229Z">
+        <seg>intrigue_skulduggery_focus_effect_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>intrigue_skulduggery_focus_modifier:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T213009Z" creationid="mohammad" creationdate="20200921T213009Z">
         <seg>intrigue_skulduggery_focus_modifier:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>intrigue_temptation_focus:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T213324Z" creationid="mohammad" creationdate="20200921T213324Z">
+        <seg>intrigue_temptation_focus:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -798,6 +838,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184410Z" creationid="mohammad" creationdate="20200921T184410Z">
         <seg>martial_strategy_focus_short:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>skulduggery_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T213255Z" creationid="mohammad" creationdate="20200921T213255Z">
+        <seg>skulduggery_name:0</seg>
       </tuv>
     </tu>
     <tu>
