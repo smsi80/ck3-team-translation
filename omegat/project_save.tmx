@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>"$martial_strategy_focus_short$ Focus"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184409Z" creationid="mohammad" creationdate="20200921T184409Z">
+        <seg>"تمرکز $martial_strategy_focus_short$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"9 14 20 18 9 7 21 5"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T182957Z" creationid="mohammad" creationdate="20200921T182957Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183413Z" creationid="mohammad" creationdate="20200921T183413Z">
         <seg>"به دلیل [education|E] دیپلماسی شما، #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! درصد [experience|E] بیشتری را در این سبک زندگی کسب می کنید."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Because of your Martial [education|E], you gain #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184340Z" creationid="mohammad" creationdate="20200921T184340Z">
+        <seg>"به دلیل [education|E] نظامی شما، #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! درصد [experience|E] بیشتری را در این سبک زندگی کسب می کنید."</seg>
       </tuv>
     </tu>
     <tu>
@@ -126,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Luck can win a duel. A fool can win a battle. It takes more to win a war."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184601Z" creationid="mohammad" creationdate="20200921T184601Z">
+        <seg>"برای پیروزی در یک دوئل شانس کافیست، یک نادان می تواند در یک نبرد پیروز شود اما پیروزی در جنگ بیشتر از این ها می خواهد."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Majesty Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183856Z" creationid="mohammad" creationdate="20200921T183856Z">
@@ -136,8 +160,8 @@
       <tuv lang="en">
         <seg>"Martial"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200921T184128Z" creationid="mohammad" creationdate="20200921T184119Z">
-        <seg>"رزمی"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184344Z" creationid="mohammad" creationdate="20200921T184119Z">
+        <seg>"نظامی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,6 +186,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T182955Z" creationid="mohammad" creationdate="20200921T182955Z">
         <seg>"Rigueint"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Strategy"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184412Z" creationid="mohammad" creationdate="20200921T184412Z">
+        <seg>"استراتژی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -194,6 +226,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183857Z" creationid="mohammad" creationdate="20200921T183857Z">
         <seg>"[GetFocus('diplomacy_majesty_focus').GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[GetFocus('martial_strategy_focus').GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184414Z" creationid="mohammad" creationdate="20200921T184414Z">
+        <seg>"[GetFocus('martial_strategy_focus').GetName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -420,6 +460,46 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184120Z" creationid="mohammad" creationdate="20200921T184120Z">
         <seg>martial_lifestyle_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>martial_lifestyle_highlight_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184331Z" creationid="mohammad" creationdate="20200921T184331Z">
+        <seg>martial_lifestyle_highlight_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>martial_strategy_focus:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184350Z" creationid="mohammad" creationdate="20200921T184350Z">
+        <seg>martial_strategy_focus:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>martial_strategy_focus_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184414Z" creationid="mohammad" creationdate="20200921T184414Z">
+        <seg>martial_strategy_focus_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>martial_strategy_focus_modifier:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184413Z" creationid="mohammad" creationdate="20200921T184413Z">
+        <seg>martial_strategy_focus_modifier:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>martial_strategy_focus_short:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184410Z" creationid="mohammad" creationdate="20200921T184410Z">
+        <seg>martial_strategy_focus_short:0</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
