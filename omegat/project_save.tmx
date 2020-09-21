@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Seduction, desire, and the gentle art of twisting people around your little finger."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T222529Z" creationid="mohammad" creationdate="20200921T222529Z">
+        <seg>"اغواگری، شهوت و هنر ظریف ملعبه کردن دیگران. "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Skulduggery Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T212956Z" creationid="mohammad" creationdate="20200921T212956Z">
@@ -394,6 +402,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T213009Z" creationid="mohammad" creationdate="20200921T213009Z">
         <seg>"[GetFocus('intrigue_skulduggery_focus').GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[GetFocus('intrigue_temptation_focus').GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T213913Z" creationid="mohammad" creationdate="20200921T213913Z">
+        <seg>"[GetFocus('intrigue_temptation_focus').GetName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -672,6 +688,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T213324Z" creationid="mohammad" creationdate="20200921T213324Z">
         <seg>intrigue_temptation_focus:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>intrigue_temptation_focus_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T213914Z" creationid="mohammad" creationdate="20200921T213914Z">
+        <seg>intrigue_temptation_focus_desc:0</seg>
       </tuv>
     </tu>
     <tu>
