@@ -1,1 +1,3 @@
 vassal	واسال
+diplomacy	دیپلماسی
+Foreign Affairs	امور خارجه
