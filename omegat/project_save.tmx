@@ -30,10 +30,58 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Diplomat"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T183708Z" creationid="mohammad" creationdate="20200921T183708Z">
+        <seg>"دیپلمات"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Even if we do not choose them, those closest to us are the most important."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T183751Z" creationid="mohammad" creationdate="20200921T183751Z">
+        <seg>"حتی اگر آن ها را انتخاب نکرده باشیم، مهم ترین افراد نزدیکان ما هستند.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Family Focus"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T183717Z" creationid="mohammad" creationdate="20200921T183717Z">
+        <seg>"تمرکز روی خانواده"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Family Hierarch"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T183834Z" creationid="mohammad" creationdate="20200921T183834Z">
+        <seg>"بزرگ خاندان خانواده"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Focus on understanding people and their motives, how to handle other realms, and how to win the unwavering loyalty of your subjects."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183312Z" creationid="mohammad" creationdate="20200921T183312Z">
         <seg>"تمرکز روی درک افراد و انگیزه های آنها، چگونگی برخورد با کشور های مجاور و چگونگی کسب وفاداری بی چون و چرای افراد خود."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Focusing on Family grants:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T183816Z" creationid="mohammad" creationdate="20200921T183801Z">
+        <seg>"مزایای تمرکز بر روی امور خانواده:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Focusing on Foreign Affairs grants:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T183705Z" creationid="mohammad" creationdate="20200921T183705Z">
+        <seg>"مزایای تمرکز بر روی امور خارجه:"</seg>
       </tuv>
     </tu>
     <tu>
@@ -50,6 +98,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T182958Z" creationid="mohammad" creationdate="20200921T182958Z">
         <seg>"Lqwuljxh"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Majesty Focus"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T183856Z" creationid="mohammad" creationdate="20200921T183856Z">
+        <seg>"تمرکز روی شکوهمندی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +130,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200920T140656Z" creationid="mohammad" creationdate="20200920T140656Z">
         <seg>"ترجمه جمله ...."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[GetFocus('diplomacy_family_focus').GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T183718Z" creationid="mohammad" creationdate="20200921T183718Z">
+        <seg>"[GetFocus('diplomacy_family_focus').GetName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -104,6 +168,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>diplomacy_family_focus:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T183709Z" creationid="mohammad" creationdate="20200921T183709Z">
+        <seg>diplomacy_family_focus:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>diplomacy_family_focus_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T183719Z" creationid="mohammad" creationdate="20200921T183719Z">
+        <seg>diplomacy_family_focus_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>diplomacy_family_focus_effect_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T183751Z" creationid="mohammad" creationdate="20200921T183751Z">
+        <seg>diplomacy_family_focus_effect_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>diplomacy_family_focus_modifier:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T183717Z" creationid="mohammad" creationdate="20200921T183717Z">
+        <seg>diplomacy_family_focus_modifier:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>diplomacy_foreign_affairs_focus:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183414Z" creationid="mohammad" creationdate="20200921T183414Z">
@@ -116,6 +212,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183435Z" creationid="mohammad" creationdate="20200921T183435Z">
         <seg>diplomacy_foreign_affairs_focus_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>diplomacy_foreign_affairs_focus_effect_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T183637Z" creationid="mohammad" creationdate="20200921T183637Z">
+        <seg>diplomacy_foreign_affairs_focus_effect_desc:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -140,6 +244,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183313Z" creationid="mohammad" creationdate="20200921T183313Z">
         <seg>diplomacy_lifestyle_highlight_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>diplomacy_majesty_focus:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T183834Z" creationid="mohammad" creationdate="20200921T183834Z">
+        <seg>diplomacy_majesty_focus:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>family_name:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T183803Z" creationid="mohammad" creationdate="20200921T183803Z">
+        <seg>family_name:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>foreign_affairs_name:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T183705Z" creationid="mohammad" creationdate="20200921T183705Z">
+        <seg>foreign_affairs_name:1</seg>
       </tuv>
     </tu>
     <tu>
