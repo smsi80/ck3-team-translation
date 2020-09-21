@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Focus on the manipulation of people, the nature of secrets, and the cunning plots that will bring your plans to fruition."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T185638Z" creationid="mohammad" creationdate="20200921T185638Z">
+        <seg>"تمرکز روی بر روی دستکاری افراد ، ماهیت اسرار و نقشه های حیله گرانه ای که برنامه های شما را به نتیجه می رساند تمرکز کنید."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Focus on understanding people and their motives, how to handle other realms, and how to win the unwavering loyalty of your subjects."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183312Z" creationid="mohammad" creationdate="20200921T183312Z">
@@ -138,6 +146,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184940Z" creationid="mohammad" creationdate="20200921T184940Z">
         <seg>"مزایای تمرکز بر روی اقتدار:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Focusing on Chivalry grants:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T185122Z" creationid="mohammad" creationdate="20200921T185122Z">
+        <seg>"مزایای تمرکز بر روی جوانمردی:"</seg>
       </tuv>
     </tu>
     <tu>
@@ -178,6 +194,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183424Z" creationid="mohammad" creationdate="20200921T183424Z">
         <seg>"تمرکز روی امور خارجه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Gallant"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T185212Z" creationid="mohammad" creationdate="20200921T185212Z">
+        <seg>"دلاور"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Intrigue"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T185220Z" creationid="mohammad" creationdate="20200921T185220Z">
+        <seg>"دسیسه"</seg>
       </tuv>
     </tu>
     <tu>
@@ -344,6 +376,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>#Intrigue
+ intrigue_lifestyle_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T185212Z" creationid="mohammad" creationdate="20200921T185212Z">
+        <seg>#Intrigue
+ intrigue_lifestyle_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>#Martial
  martial_lifestyle_name:0</seg>
       </tuv>
@@ -366,6 +408,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184940Z" creationid="mohammad" creationdate="20200921T184940Z">
         <seg>authority_name:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>chivalry_name:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T185123Z" creationid="mohammad" creationdate="20200921T185123Z">
+        <seg>chivalry_name:1</seg>
       </tuv>
     </tu>
     <tu>
@@ -506,6 +556,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>intrigue_lifestyle_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T185220Z" creationid="mohammad" creationdate="20200921T185220Z">
+        <seg>intrigue_lifestyle_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>intrigue_lqwuljxh:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T182957Z" creationid="mohammad" creationdate="20200921T182957Z">
@@ -612,6 +670,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184655Z" creationid="mohammad" creationdate="20200921T184655Z">
         <seg>martial_chivalry_focus_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>martial_chivalry_focus_effect_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T185113Z" creationid="mohammad" creationdate="20200921T185113Z">
+        <seg>martial_chivalry_focus_effect_desc:0</seg>
       </tuv>
     </tu>
     <tu>
