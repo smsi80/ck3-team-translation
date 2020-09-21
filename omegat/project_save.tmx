@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"August"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184110Z" creationid="mohammad" creationdate="20200921T184110Z">
+        <seg>"ارجمند"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Because of your Diplomacy [education|E], you gain #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183413Z" creationid="mohammad" creationdate="20200921T183413Z">
@@ -62,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Focus on control of your realm, honorable conduct, and the strategies that will win your wars."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184331Z" creationid="mohammad" creationdate="20200921T184124Z">
+        <seg>"تمرکز بر روی کنترل قلمرو خود، رفتار جوانمردانه و استراتژی هایی که به پیروزی در جنگ ها به شما کمک می کنند"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Focus on understanding people and their motives, how to handle other realms, and how to win the unwavering loyalty of your subjects."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183312Z" creationid="mohammad" creationdate="20200921T183312Z">
@@ -72,8 +88,8 @@
       <tuv lang="en">
         <seg>"Focusing on Family grants:"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200921T183816Z" creationid="mohammad" creationdate="20200921T183801Z">
-        <seg>"مزایای تمرکز بر روی امور خانواده:"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184048Z" creationid="mohammad" creationdate="20200921T183801Z">
+        <seg>"مزایای تمرکز بر روی خانواده:"</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +98,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183705Z" creationid="mohammad" creationdate="20200921T183705Z">
         <seg>"مزایای تمرکز بر روی امور خارجه:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Focusing on Majesty grants:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184045Z" creationid="mohammad" creationdate="20200921T184045Z">
+        <seg>"مزایای تمرکز بر روی شکوهمندی:"</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,10 +134,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Martial"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184128Z" creationid="mohammad" creationdate="20200921T184119Z">
+        <seg>"رزمی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"One can never have too many friends, near or far."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183636Z" creationid="mohammad" creationdate="20200921T183636Z">
         <seg>هرچه دوستان بیشتری داشته باشید بهتر است. دور یا نزدیک.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Regality flows from ritual, tradition and glory."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184027Z" creationid="mohammad" creationdate="20200921T184027Z">
+        <seg>"حقانیت از آیین، سنت ها و افتخار جاری می شود."</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,12 +190,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[GetFocus('diplomacy_majesty_focus').GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T183857Z" creationid="mohammad" creationdate="20200921T183857Z">
+        <seg>"[GetFocus('diplomacy_majesty_focus').GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>#Diplomacy
  diplomacy_lifestyle_name:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183001Z" creationid="mohammad" creationdate="20200921T183001Z">
         <seg>#Diplomacy
  diplomacy_lifestyle_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#Martial
+ martial_lifestyle_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184110Z" creationid="mohammad" creationdate="20200921T184110Z">
+        <seg>#Martial
+ martial_lifestyle_name:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -256,6 +314,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>diplomacy_majesty_focus_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T183901Z" creationid="mohammad" creationdate="20200921T183901Z">
+        <seg>diplomacy_majesty_focus_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>diplomacy_majesty_focus_effect_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184028Z" creationid="mohammad" creationdate="20200921T184028Z">
+        <seg>diplomacy_majesty_focus_effect_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>diplomacy_majesty_focus_modifier:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T183856Z" creationid="mohammad" creationdate="20200921T183856Z">
+        <seg>diplomacy_majesty_focus_modifier:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>family_name:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183803Z" creationid="mohammad" creationdate="20200921T183803Z">
@@ -322,6 +404,22 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200920T044411Z" creationid="mohammad" creationdate="20200920T044411Z">
         <seg>l_english:
  ACHIEVEMENT_GROUP_very_easy_achievements:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>majesty_name:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184055Z" creationid="mohammad" creationdate="20200921T184055Z">
+        <seg>majesty_name:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>martial_lifestyle_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T184120Z" creationid="mohammad" creationdate="20200921T184120Z">
+        <seg>martial_lifestyle_desc:0</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
