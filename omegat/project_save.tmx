@@ -1,15 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>"9 14 20 18 9 7 21 5"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T182957Z" creationid="mohammad" creationdate="20200921T182957Z">
+        <seg>"9 14 20 18 9 7 21 5"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Diplomacy"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T183006Z" creationid="mohammad" creationdate="20200921T183006Z">
+        <seg>"دیپلماسی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Focus on understanding people and their motives, how to handle other realms, and how to win the unwavering loyalty of your subjects."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T183312Z" creationid="mohammad" creationdate="20200921T183312Z">
+        <seg>"تمرکز روی درک افراد و انگیزه های آنها، چگونگی برخورد با کشور های مجاور و چگونگی کسب وفاداری بی چون و چرای افراد خود."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Lqwuljxh"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T182958Z" creationid="mohammad" creationdate="20200921T182958Z">
+        <seg>"Lqwuljxh"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Rigueint"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T182955Z" creationid="mohammad" creationdate="20200921T182955Z">
+        <seg>"Rigueint"</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="en">
         <seg>"This small but formidable fortification is situated upon a raised earthwork."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200920T140656Z" creationid="mohammad" creationdate="20200920T140656Z">
         <seg>"ترجمه جمله ...."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#Diplomacy
+ diplomacy_lifestyle_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T183001Z" creationid="mohammad" creationdate="20200921T183001Z">
+        <seg>#Diplomacy
+ diplomacy_lifestyle_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#trust me</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T182959Z" creationid="mohammad" creationdate="20200921T182959Z">
+        <seg>#trust me</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>diplomacy_lifestyle_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T183007Z" creationid="mohammad" creationdate="20200921T183007Z">
+        <seg>diplomacy_lifestyle_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>intrigue_9_14_20_18_9_7_21_5:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T182956Z" creationid="mohammad" creationdate="20200921T182956Z">
+        <seg>intrigue_9_14_20_18_9_7_21_5:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>intrigue_lqwuljxh:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T182957Z" creationid="mohammad" creationdate="20200921T182957Z">
+        <seg>intrigue_lqwuljxh:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
+ 
+ 
+ # these three strings are proper
+ intrigue_rigueint:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T182955Z" creationid="mohammad" creationdate="20200921T182955Z">
+        <seg>l_english:
+ 
+ 
+ # these three strings are proper
+ intrigue_rigueint:0</seg>
       </tuv>
     </tu>
     <tu>
