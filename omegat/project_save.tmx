@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Focus on dealing justice, administrating the lands of your realm, and filling your coffers with gold."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T223707Z" creationid="mohammad" creationdate="20200921T223707Z">
+        <seg>"تمرکز بر عدالت ، اداره سرزمین های قلمرو خود و پر کردن خزانه خود از طلا".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Focus on the manipulation of people, the nature of secrets, and the cunning plots that will bring your plans to fruition."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T213424Z" creationid="mohammad" creationdate="20200921T213424Z">
@@ -358,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Stewardship"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T223654Z" creationid="mohammad" creationdate="20200921T223654Z">
+        <seg>"مباشرت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Strategist"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184605Z" creationid="mohammad" creationdate="20200921T184605Z">
@@ -402,6 +418,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184932Z" creationid="mohammad" creationdate="20200921T184932Z">
         <seg>"فرمانروایی یعنی همه جنبه های یک قلمرو را متحد و هماهنگ کردن."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Torturer"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T223454Z" creationid="mohammad" creationdate="20200921T223454Z">
+        <seg>"شکنجه گر"</seg>
       </tuv>
     </tu>
     <tu>
@@ -512,6 +536,16 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184110Z" creationid="mohammad" creationdate="20200921T184110Z">
         <seg>#Martial
  martial_lifestyle_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#Stewardship
+ stewardship_lifestyle_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T223454Z" creationid="mohammad" creationdate="20200921T223454Z">
+        <seg>#Stewardship
+ stewardship_lifestyle_name:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -664,6 +698,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183705Z" creationid="mohammad" creationdate="20200921T183705Z">
         <seg>foreign_affairs_name:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>intimidation_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T223450Z" creationid="mohammad" creationdate="20200921T223450Z">
+        <seg>intimidation_name:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -974,6 +1016,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T213255Z" creationid="mohammad" creationdate="20200921T213255Z">
         <seg>skulduggery_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>stewardship_lifestyle_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T223655Z" creationid="mohammad" creationdate="20200921T223655Z">
+        <seg>stewardship_lifestyle_desc:0</seg>
       </tuv>
     </tu>
     <tu>
