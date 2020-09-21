@@ -636,6 +636,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>intrigue_skulduggery_focus:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T213848Z" creationid="mohammad" creationdate="20200921T213848Z">
+        <seg>intrigue_skulduggery_focus:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>intrigue_skulduggery_focus_desc:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T213011Z" creationid="mohammad" creationdate="20200921T213011Z">
