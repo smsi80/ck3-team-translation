@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Focusing on Intimidation grants:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T222621Z" creationid="mohammad" creationdate="20200921T222621Z">
+        <seg>"مزایای تمرکز بر روی ارعاب:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Focusing on Majesty grants:"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184045Z" creationid="mohammad" creationdate="20200921T184045Z">
@@ -206,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Focusing on Temptation grants:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T222546Z" creationid="mohammad" creationdate="20200921T222546Z">
+        <seg>"مزایای تمرکز بر روی اغواگری:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Foreign Affairs Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183424Z" creationid="mohammad" creationdate="20200921T183424Z">
@@ -218,6 +234,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T185212Z" creationid="mohammad" creationdate="20200921T185212Z">
         <seg>"دلاور"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Intimidation Focus"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T222612Z" creationid="mohammad" creationdate="20200921T222612Z">
+        <seg>"تمرکز روی ارعاب"</seg>
       </tuv>
     </tu>
     <tu>
@@ -310,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Seducer"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T222601Z" creationid="mohammad" creationdate="20200921T222601Z">
+        <seg>"اغواگر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Seduction, desire, and the gentle art of twisting people around your little finger."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T222529Z" creationid="mohammad" creationdate="20200921T222529Z">
@@ -358,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Threats, both overt and subtle, guide the path to true power."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T223450Z" creationid="mohammad" creationdate="20200921T223450Z">
+        <seg>"تهدید ها، چه آشکار و چه نهان راه رسیدن به قدرت واقعی هستند.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"To rule is to make all the aspects of a realm move in unison and work together."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184932Z" creationid="mohammad" creationdate="20200921T184932Z">
@@ -394,6 +434,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183857Z" creationid="mohammad" creationdate="20200921T183857Z">
         <seg>"[GetFocus('diplomacy_majesty_focus').GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[GetFocus('intrigue_intimidation_focus').GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T222613Z" creationid="mohammad" creationdate="20200921T222613Z">
+        <seg>"[GetFocus('intrigue_intimidation_focus').GetName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -628,6 +676,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>intrigue_intimidation_focus:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T222601Z" creationid="mohammad" creationdate="20200921T222601Z">
+        <seg>intrigue_intimidation_focus:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>intrigue_intimidation_focus_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T222621Z" creationid="mohammad" creationdate="20200921T222621Z">
+        <seg>intrigue_intimidation_focus_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>intrigue_intimidation_focus_effect_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T222615Z" creationid="mohammad" creationdate="20200921T222615Z">
+        <seg>intrigue_intimidation_focus_effect_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>intrigue_intimidation_focus_modifier:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T222613Z" creationid="mohammad" creationdate="20200921T222613Z">
+        <seg>intrigue_intimidation_focus_modifier:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>intrigue_lifestyle_desc:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T185220Z" creationid="mohammad" creationdate="20200921T185220Z">
@@ -696,6 +776,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T213914Z" creationid="mohammad" creationdate="20200921T213914Z">
         <seg>intrigue_temptation_focus_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>intrigue_temptation_focus_effect_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T222529Z" creationid="mohammad" creationdate="20200921T222529Z">
+        <seg>intrigue_temptation_focus_effect_desc:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -894,6 +982,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184602Z" creationid="mohammad" creationdate="20200921T184602Z">
         <seg>strategy_name:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>temptation_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T222546Z" creationid="mohammad" creationdate="20200921T222546Z">
+        <seg>temptation_name:0</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
