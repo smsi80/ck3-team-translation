@@ -208,8 +208,8 @@
       <tuv lang="en">
         <seg>"Intrigue"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200921T185220Z" creationid="mohammad" creationdate="20200921T185220Z">
-        <seg>"دسیسه"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T212805Z" creationid="mohammad" creationdate="20200921T185220Z">
+        <seg>"دسیسه چینی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,6 +278,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Schemes, subversion, and secrets."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T213228Z" creationid="mohammad" creationdate="20200921T213228Z">
+        <seg>"دسیسه چینی، خرابکاری و مخفی کاری" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Skulduggery Focus"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T212956Z" creationid="mohammad" creationdate="20200921T212956Z">
+        <seg>"تمرکز روی فریبکاری"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Strategist"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184605Z" creationid="mohammad" creationdate="20200921T184605Z">
@@ -338,6 +354,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183857Z" creationid="mohammad" creationdate="20200921T183857Z">
         <seg>"[GetFocus('diplomacy_majesty_focus').GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[GetFocus('intrigue_skulduggery_focus').GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T213009Z" creationid="mohammad" creationdate="20200921T213009Z">
+        <seg>"[GetFocus('intrigue_skulduggery_focus').GetName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -576,6 +600,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T182957Z" creationid="mohammad" creationdate="20200921T182957Z">
         <seg>intrigue_lqwuljxh:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>intrigue_skulduggery_focus_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T213011Z" creationid="mohammad" creationdate="20200921T213011Z">
+        <seg>intrigue_skulduggery_focus_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>intrigue_skulduggery_focus_modifier:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T213009Z" creationid="mohammad" creationdate="20200921T213009Z">
+        <seg>intrigue_skulduggery_focus_modifier:1</seg>
       </tuv>
     </tu>
     <tu>
