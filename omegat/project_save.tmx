@@ -38,10 +38,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"10%"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030259Z" creationid="mohammad" creationdate="20200922T030259Z">
+        <seg>"10%"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"20%"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030300Z" creationid="mohammad" creationdate="20200922T030300Z">
+        <seg>"20%"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"30%"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030301Z" creationid="mohammad" creationdate="20200922T030301Z">
+        <seg>"30%"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"40%"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030302Z" creationid="mohammad" creationdate="20200922T030302Z">
+        <seg>"40%"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"9 14 20 18 9 7 21 5"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T182957Z" creationid="mohammad" creationdate="20200921T182957Z">
         <seg>"9 14 20 18 9 7 21 5"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"A child of less than $AGE$ cannot have an [education_focus|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030421Z" creationid="mohammad" creationdate="20200922T030421Z">
+        <seg>"کودکان کوچکتر از $AGE$ نمی توانند یک [education_focus|E] داشته باشند.</seg>
       </tuv>
     </tu>
     <tu>
@@ -138,6 +178,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T185033Z" creationid="mohammad" creationdate="20200921T185033Z">
         <seg>"جوانمردی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Diplomacy Education"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030459Z" creationid="mohammad" creationdate="20200922T030459Z">
+        <seg>"آموزش دیپلماسی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Focusing on Scholarship grants:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030244Z" creationid="mohammad" creationdate="20200922T030244Z">
+        <seg>"مزایای تمرکز بر روی دانش:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Focusing on Skulduggery grants:\n$intrigue_skulduggery_focus_effect$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T213254Z" creationid="mohammad" creationdate="20200921T213254Z">
@@ -422,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Martial Education"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030515Z" creationid="mohammad" creationdate="20200922T030509Z">
+        <seg>"آموزش رزمی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Martial"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184344Z" creationid="mohammad" creationdate="20200921T184119Z">
@@ -494,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Scholar"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030252Z" creationid="mohammad" creationdate="20200922T030252Z">
+        <seg>"محقق"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Scholarship Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T025812Z" creationid="mohammad" creationdate="20200922T025812Z">
@@ -526,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Stewardship Education"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030604Z" creationid="mohammad" creationdate="20200922T030510Z">
+        <seg>"آموزش مدیریت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Stewardship"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T224249Z" creationid="mohammad" creationdate="20200921T223654Z">
@@ -554,6 +634,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T213403Z" creationid="mohammad" creationdate="20200921T213403Z">
         <seg>"تمرکز روی اغواگری"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The [education_focus|E] can only be changed once"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030453Z" creationid="mohammad" creationdate="20200922T030453Z">
+        <seg>"[education_focus|E] فقط یک بار قابل تغییر است."</seg>
       </tuv>
     </tu>
     <tu>
@@ -774,6 +862,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg># Education Focuses
+ education_diplomacy_modifier:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030455Z" creationid="mohammad" creationdate="20200922T030455Z">
+        <seg># Education Focuses
+ education_diplomacy_modifier:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>### EDUCATION
+ FOCUS_NO_AGE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030302Z" creationid="mohammad" creationdate="20200922T030302Z">
+        <seg>### EDUCATION
+ FOCUS_NO_AGE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>#Diplomacy
  diplomacy_lifestyle_name:0</seg>
       </tuv>
@@ -828,6 +936,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T182959Z" creationid="mohammad" creationdate="20200921T182959Z">
         <seg>#trust me</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FOCUS_MAX_CHANGES:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030421Z" creationid="mohammad" creationdate="20200922T030421Z">
+        <seg>FOCUS_MAX_CHANGES:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -972,6 +1088,54 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023558Z" creationid="mohammad" creationdate="20200922T023558Z">
         <seg>duty_name:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>education_martial_modifier:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030459Z" creationid="mohammad" creationdate="20200922T030459Z">
+        <seg>education_martial_modifier:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>education_rank_1_percentage:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030252Z" creationid="mohammad" creationdate="20200922T030252Z">
+        <seg>education_rank_1_percentage:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>education_rank_2_percentage:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030300Z" creationid="mohammad" creationdate="20200922T030300Z">
+        <seg>education_rank_2_percentage:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>education_rank_3_percentage:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030301Z" creationid="mohammad" creationdate="20200922T030301Z">
+        <seg>education_rank_3_percentage:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>education_rank_4_percentage:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030301Z" creationid="mohammad" creationdate="20200922T030301Z">
+        <seg>education_rank_4_percentage:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>education_stewardship_modifier:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030509Z" creationid="mohammad" creationdate="20200922T030509Z">
+        <seg>education_stewardship_modifier:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -1222,6 +1386,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>learning_scholarship_focus_effect_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030232Z" creationid="mohammad" creationdate="20200922T030232Z">
+        <seg>learning_scholarship_focus_effect_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>learning_scholarship_focus_modifier:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T025813Z" creationid="mohammad" creationdate="20200922T025813Z">
@@ -1410,6 +1582,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T025742Z" creationid="mohammad" creationdate="20200922T025742Z">
         <seg>medicine_name:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>scholarship_name:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030244Z" creationid="mohammad" creationdate="20200922T030244Z">
+        <seg>scholarship_name:1</seg>
       </tuv>
     </tu>
     <tu>
