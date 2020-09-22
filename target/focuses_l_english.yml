@@ -1,0 +1,158 @@
+l_english:
+ 
+ 
+ # these three strings are proper
+ intrigue_rigueint:0 "Rigueint"
+ intrigue_9_14_20_18_9_7_21_5:0 "9 14 20 18 9 7 21 5"
+ intrigue_lqwuljxh:0 "Lqwuljxh"
+ #trust me
+ 
+
+ #Diplomacy
+ diplomacy_lifestyle_name:0 "دیپلماسی"
+ diplomacy_lifestyle_desc:0 "تمرکز روی درک افراد و انگیزه های آنها، چگونگی برخورد با کشور های مجاور و چگونگی کسب وفاداری بی چون و چرای افراد خود."
+ diplomacy_lifestyle_highlight_desc:0 "به دلیل [education|E] دیپلماسی شما، #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! درصد [experience|E] بیشتری را در این سبک زندگی کسب می کنید."
+ diplomacy_foreign_affairs_focus:0 "تمرکز روی امور خارجه"
+ diplomacy_foreign_affairs_focus_modifier:1 "[GetFocus('diplomacy_foreign_affairs_focus').GetName]"
+ diplomacy_foreign_affairs_focus_desc:0 هرچه دوستان بیشتری داشته باشید بهتر است. دور یا نزدیک.
+ diplomacy_foreign_affairs_focus_effect_desc:0 "مزایای تمرکز بر روی امور خارجه:"
+ foreign_affairs_name:1 "دیپلمات"
+ diplomacy_family_focus:0 "تمرکز روی خانواده"
+ diplomacy_family_focus_modifier:1 "[GetFocus('diplomacy_family_focus').GetName]"
+ diplomacy_family_focus_desc:0 "حتی اگر آن ها را انتخاب نکرده باشیم، مهم ترین افراد نزدیکان ما هستند.
+ diplomacy_family_focus_effect_desc:0 "مزایای تمرکز بر روی خانواده:"
+ family_name:1 "بزرگ خاندان خانواده"
+ diplomacy_majesty_focus:0 "تمرکز روی شکوهمندی"
+ diplomacy_majesty_focus_modifier:1 "[GetFocus('diplomacy_majesty_focus').GetName]"
+ diplomacy_majesty_focus_desc:0 "حقانیت از آیین، سنت ها و افتخار جاری می شود."
+ diplomacy_majesty_focus_effect_desc:0 "مزایای تمرکز بر روی شکوهمندی:"
+ majesty_name:1 "ارجمند"
+
+ #Martial
+ martial_lifestyle_name:0 "نظامی"
+ martial_lifestyle_desc:0 "تمرکز بر روی کنترل قلمرو خود، رفتار جوانمردانه و استراتژی هایی که به پیروزی در جنگ ها به شما کمک می کنند"
+ martial_lifestyle_highlight_desc:0 "به دلیل [education|E] نظامی شما، #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! درصد [experience|E] بیشتری را در این سبک زندگی کسب می کنید."
+ martial_strategy_focus:1 "تمرکز $martial_strategy_focus_short$"
+ martial_strategy_focus_short:0 "استراتژی"
+ martial_strategy_focus_modifier:1 "[GetFocus('martial_strategy_focus').GetName]"
+ martial_strategy_focus_desc:0 "برای پیروزی در یک دوئل شانس کافیست، یک نادان می تواند در یک نبرد پیروز شود اما پیروزی در جنگ بیشتر از این ها می خواهد."
+ strategy_name:1 "استراتژیست"
+ martial_strategy_focus_effect_desc:0 "مزایای تمرکز بر روی استراتژی:"
+ martial_authority_focus:1 "تمرکز $martial_authority_focus_short$"
+ martial_authority_focus_short:0 "اقتدار"
+ martial_authority_focus_modifier:1 "[GetFocus('martial_authority_focus').GetName]"
+ martial_authority_focus_desc:0 "فرمانروایی یعنی همه جنبه های یک قلمرو را متحد و هماهنگ کردن."
+ martial_authority_focus_effect_desc:0 "مزایای تمرکز بر روی اقتدار:"
+ authority_name:1 "ناظر"
+ martial_chivalry_focus:1 "تمرکز $martial_chivalry_focus_short$"
+ martial_chivalry_focus_short:0 "جوانمردی"
+ martial_chivalry_focus_modifier:1 "[GetFocus('martial_chivalry_focus').GetName]"
+ martial_chivalry_focus_desc:0 "پیروزی نه از طریق خون یا طلا، بلکه با افتخار حاصل می شود."
+ martial_chivalry_focus_effect_desc:0 "مزایای تمرکز بر روی جوانمردی:"
+ chivalry_name:1 "دلاور"
+ 
+ #Intrigue
+ intrigue_lifestyle_name:0 "دسیسه چینی"
+ intrigue_lifestyle_desc:0 "Focus on the manipulation of people, the nature of secrets, and the cunning plots that will bring your plans to fruition."
+ intrigue_lifestyle_highlight_desc:0 "به دلیل [education|E] دسیسه چینی شما، #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! درصد [experience|E] بیشتری را در این سبک زندگی کسب می کنید."
+ intrigue_skulduggery_focus:1 "تمرکز روی فریبکاری"
+ intrigue_skulduggery_focus_modifier:1 "[GetFocus('intrigue_skulduggery_focus').GetName]"
+ intrigue_skulduggery_focus_desc:0 "دسیسه چینی، خرابکاری و مخفی کاری" 
+ intrigue_skulduggery_focus_effect_desc:0 "مزایای تمرکز بر روی فریبکاری:\n$intrigue_skulduggery_focus_effect$"
+ skulduggery_name:0 "حیله گر"
+ intrigue_temptation_focus:0 "تمرکز روی اغواگری"
+ intrigue_temptation_focus_modifier:1 "[GetFocus('intrigue_temptation_focus').GetName]"
+ intrigue_temptation_focus_desc:0 "اغواگری، شهوت و هنر ظریف ملعبه کردن دیگران. "
+ intrigue_temptation_focus_effect_desc:0 "مزایای تمرکز بر روی اغواگری:"
+ temptation_name:0 "اغواگر"
+ intrigue_intimidation_focus:0 "تمرکز روی ارعاب"
+ intrigue_intimidation_focus_modifier:1 "[GetFocus('intrigue_intimidation_focus').GetName]"
+ intrigue_intimidation_focus_effect_desc:0 "مزایای تمرکز بر روی ارعاب:"
+ intrigue_intimidation_focus_desc:0 "تهدید ها، چه آشکار و چه نهان راه رسیدن به قدرت واقعی هستند.
+ intimidation_name:0 "شکنجه گر"
+
+ #Stewardship
+ stewardship_lifestyle_name:0 "مدیریت"
+ stewardship_lifestyle_desc:0 "تمرکز بر روی برقراری عدالت، مدیریت زمین های قلمرو خود و پر کردن خزانه از طلا."
+ stewardship_lifestyle_highlight_desc:0 "به دلیل [education|E] مدیریتی شما، #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! درصد [experience|E] بیشتری را در این سبک زندگی کسب می کنید."
+ stewardship_domain_focus:0 "تمرکز روی مایملک"
+ stewardship_domain_focus_modifier:1 "[GetFocus('stewardship_domain_focus').GetName]"
+ stewardship_domain_focus_desc:0 قدرت من درمردم و سرزمین من است.
+ stewardship_domain_focus_effect_desc:0 "مزایای تمرکز بر روی مایملک:"
+ domain_name:1 "معمار"
+ stewardship_duty_focus:0 "تمرکز روی وظایف"
+ stewardship_duty_focus_modifier:1 "[GetFocus('stewardship_duty_focus').GetName]"
+ stewardship_duty_focus_desc:0 "پیوند های وفاداری ما را محدود نمی کنند، بلکه راه را نشانمان می دهند."
+ stewardship_duty_focus_effect_desc:1 "مزایای تمرکز بر روی وظایف:\n$stewardship_duty_focus_effect$"
+ duty_name:1 "مدیر"
+ stewardship_wealth_focus:1 "تمرکز $stewardship_wealth_focus_short$"
+ stewardship_wealth_focus_short:0 "ثروت"
+ stewardship_wealth_focus_modifier:1 "[GetFocus('stewardship_wealth_focus').GetName]"
+ stewardship_wealth_focus_desc:0 "جنگ، افتخار و وفاداری همه وسیله ای برای رسیدن به یک هدف هستند: طلا!"
+ stewardship_wealth_focus_effect_desc:0 "مزایای تمرکز بر روی ثروت:"
+ wealth_name:1 "طماع"
+ 
+ #Learning
+ learning_lifestyle_name:0 "یادگیری"
+ learning_lifestyle_desc:0 "تمرکز روی یادگیری هرچه بیشتر. قلمرو دانش، معنویت و همچنین راز های زندگی  در اختیار شماست."
+ learning_lifestyle_highlight_desc:0 "به دلیل [education|E]  یادگیری شما، #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! درصد [experience|E] بیشتری را در این سبک زندگی کسب می کنید."
+ learning_theology_focus:0 "تمرکز روی معنویات"
+ learning_theology_focus_modifier:1 "[GetFocus('learning_theology_focus').GetName]"
+ learning_theology_focus_desc:0 "ایمان و دانش. درک معنویات به معنای درک جهان است."
+ learning_theology_focus_effect_desc:0 "مزایای تمرکز بر روی معنویات:"
+ theology_name:1 "خداشناس"
+ learning_medicine_focus:0 "تمرکز روزی طبابت"
+ learning_medicine_focus_modifier:1 "[GetFocus('learning_medicine_focus').GetName]"
+ learning_medicine_focus_desc:0 "رسیدن به درکی از زندگی، فارق از تاثیرات منفی جهان بر بدن."
+ learning_medicine_focus_effect_desc:0 "مزایای تمرکز بر روی طبابت:"
+ medicine_name:1 "تمام بدن"
+ learning_scholarship_focus:0 "تمرکز روی دانش"
+ learning_scholarship_focus_modifier:1 "[GetFocus('learning_scholarship_focus').GetName]"
+ learning_scholarship_focus_desc:0 "دانش کسانی که قبلا آمده اند، دانش کسانی که هنوز زنده اند و دانش حقایق همیشگی"
+ learning_scholarship_focus_effect_desc:0 "مزایای تمرکز بر روی دانش:"
+ scholarship_name:1 "محقق"
+ 
+ education_rank_1_percentage:0 "10%"
+ education_rank_2_percentage:0 "20%"
+ education_rank_3_percentage:0 "30%"
+ education_rank_4_percentage:0 "40%"
+
+ ### EDUCATION
+ FOCUS_NO_AGE:0 "کودکان کوچکتر از $AGE$ نمی توانند یک [education_focus|E] داشته باشند.
+ FOCUS_MAX_CHANGES:0 "[education_focus|E] فقط یک بار قابل تغییر است."
+ # Education Focuses
+ education_diplomacy_modifier:0 "آموزش دیپلماسی"
+ education_martial_modifier:0 "آموزش رزمی"
+ education_stewardship_modifier:0 "آموزش مدیریت"
+ education_intrigue_modifier:0 "آموزش دسیسه چینی"
+ education_learning_modifier:0 "آموزش یادگیری"
+ #Diplomacy Education Focus
+ education_diplomacy:0 "آموزش دیپلماسی"
+ education_diplomacy_desc:0 "آموختن آداب و رسوم، ارتباطات و رسوم زندگی درباری."
+ education_diplomacy_tt.affinity:0 "\n\nکودکان #P [ROOT.Char.Custom('ChildhoodPersonalityTrait')]  معمولا دیپلماسی را بهتر فرا می گیرند.#!"
+ education_diplomacy_tt.disaffinity:0 "\n\nکودکان #N [ROOT.Char.Custom('ChildhoodPersonalityTrait')]  معمولا به سختی دیپلماسی را فرا می گیرند.#!"
+ education_diplomacy_effect_desc:0 "انتخاب این [education_focus|E] همچنین تاثیرات زیر را خواهد داشت:"
+ #Martial Education Focus
+ education_martial:0 "آموزش رزمی"
+ education_martial_desc:0 "آموختن فنون جنگاوری و نبرد و هدایت ارتش ها."
+ education_martial_tt.affinity:0 "\n\nکودکان #P [ROOT.Char.Custom('ChildhoodPersonalityTrait')]  معمولا تحصیلات نظامی را بهتر فرا می گیرند.#!"
+ education_martial_tt.disaffinity:0 "\n\nکودکان #N [ROOT.Char.Custom('ChildhoodPersonalityTrait')]  معمولا به سختی تحصیلات نظامی را فرا می گیرند.#!"
+ education_martial_effect_desc:0 "انتخاب این [education_focus|E] همچنین تاثیرات زیر را خواهد داشت:"
+ #Stewardship Education Focus
+ education_stewardship:0 "آموزش مدیریت"
+ education_stewardship_desc:0 "آموختن مدیریت، نظارت و تجارت."
+ education_stewardship_tt.affinity:0 "\n\nکودکان #P [ROOT.Char.Custom('ChildhoodPersonalityTrait')]  معمولا مدیریت را بهتر فرا می گیرند.#!"
+ education_stewardship_tt.disaffinity:0 "\n\nکودکان #N [ROOT.Char.Custom('ChildhoodPersonalityTrait')]  معمولا به سختی مدیریت را فرا می گیرند.#!"
+ education_stewardship_effect_desc:0 "انتخاب این [education_focus|E] همچنین تاثیرات زیر را خواهد داشت:"
+ #Learning Education Focus
+ education_learning:0 "آموزش یادگیری"
+ education_learning_desc:0 "آموزش تحقیق کردن، معنویات و جستجوی دانش"
+ education_learning_tt.affinity:0 "\n\nکودکان #P [ROOT.Char.Custom('ChildhoodPersonalityTrait')]  معمولا یادگیری را بهتر فرا می گیرند.#!"
+ education_learning_tt.disaffinity:0 "\n\nکودکان #N [ROOT.Char.Custom('ChildhoodPersonalityTrait')]  معمولا به سختی یادگیری را فرا می گیرند.#!"
+ education_learning_effect_desc:0 "انتخاب این [education_focus|E] همچنین تاثیرات زیر را خواهد داشت:"
+ #Intrigue Education Focus
+ education_intrigue:0 "آموزش دسیسه چینی"
+ education_intrigue_desc:0 "آموختن رازداری، مخفی کاری و برنامه ریزی دقیق."
+ education_intrigue_tt.affinity:0 "\n\nکودکان #P [ROOT.Char.Custom('ChildhoodPersonalityTrait')]  معمولا دسیسه چینی را بهتر فرا می گیرند.#!"
+ education_intrigue_tt.disaffinity:0 "\n\nکودکان #N [ROOT.Char.Custom('ChildhoodPersonalityTrait')]  معمولا به سختی دسیسه چینی را فرا می گیرند.#!"
+ education_intrigue_effect_desc:0 "انتخاب این [education_focus|E] همچنین تاثیرات زیر را خواهد داشت:"
