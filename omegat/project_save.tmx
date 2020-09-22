@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"An understanding of life, beyond the vagaries of the world upon the body."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T025733Z" creationid="mohammad" creationdate="20200922T025733Z">
+        <seg>"رسیدن به درکی از زندگی، فارق از تاثیرات منفی جهان بر بدن."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Architect"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T022725Z" creationid="mohammad" creationdate="20200922T022725Z">
@@ -414,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Medicine Focus"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T024934Z" creationid="mohammad" creationdate="20200922T024934Z">
+        <seg>"تمرکز روزی طبابت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"My land and the people under my care are my strength."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T022715Z" creationid="mohammad" creationdate="20200922T022715Z">
@@ -650,6 +666,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T213913Z" creationid="mohammad" creationdate="20200921T213913Z">
         <seg>"[GetFocus('intrigue_temptation_focus').GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[GetFocus('learning_medicine_focus').GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T024936Z" creationid="mohammad" creationdate="20200922T024936Z">
+        <seg>"[GetFocus('learning_medicine_focus').GetName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1106,6 +1130,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T024426Z" creationid="mohammad" creationdate="20200922T024426Z">
         <seg>learning_lifestyle_highlight_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>learning_medicine_focus:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T024902Z" creationid="mohammad" creationdate="20200922T024902Z">
+        <seg>learning_medicine_focus:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>learning_medicine_focus_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T024936Z" creationid="mohammad" creationdate="20200922T024936Z">
+        <seg>learning_medicine_focus_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>learning_medicine_focus_modifier:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T024934Z" creationid="mohammad" creationdate="20200922T024934Z">
+        <seg>learning_medicine_focus_modifier:1</seg>
       </tuv>
     </tu>
     <tu>
