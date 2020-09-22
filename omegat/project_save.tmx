@@ -30,10 +30,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$stewardship_wealth_focus_short$ Focus"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T023638Z" creationid="mohammad" creationdate="20200922T023638Z">
+        <seg>"تمرکز $stewardship_wealth_focus_short$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"9 14 20 18 9 7 21 5"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T182957Z" creationid="mohammad" creationdate="20200921T182957Z">
         <seg>"9 14 20 18 9 7 21 5"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Administrator"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T023601Z" creationid="mohammad" creationdate="20200922T023601Z">
+        <seg>"مدیر"</seg>
       </tuv>
     </tu>
     <tu>
@@ -58,6 +74,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184701Z" creationid="mohammad" creationdate="20200921T184651Z">
         <seg>"اقتدار"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Avaricious"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T023815Z" creationid="mohammad" creationdate="20200922T023815Z">
+        <seg>"بدخواه"</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Focusing on Duty grants:\n$stewardship_duty_focus_effect$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T023557Z" creationid="mohammad" creationdate="20200922T023557Z">
+        <seg>"مزایای تمرکز بر روی وظایف:\n$stewardship_duty_focus_effect$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Focusing on Family grants:"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184048Z" creationid="mohammad" creationdate="20200921T183801Z">
@@ -266,6 +298,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T222546Z" creationid="mohammad" creationdate="20200921T222546Z">
         <seg>"مزایای تمرکز بر روی اغواگری:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Focusing on Wealth grants:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T023812Z" creationid="mohammad" creationdate="20200922T023812Z">
+        <seg>"مزایای تمرکز بر روی ثروت:"</seg>
       </tuv>
     </tu>
     <tu>
@@ -494,6 +534,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"War, honor, and loyalty are all means to an end: gold!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T023803Z" creationid="mohammad" creationdate="20200922T023803Z">
+        <seg>"جنگ، افتخار و وفاداری همه وسیله ای برای رسیدن به یک هدف هستند: طلا!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Wealth"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T023734Z" creationid="mohammad" creationdate="20200922T023734Z">
+        <seg>"ثروت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[GetFocus('diplomacy_family_focus').GetName]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183718Z" creationid="mohammad" creationdate="20200921T183718Z">
@@ -578,6 +634,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T022745Z" creationid="mohammad" creationdate="20200922T022745Z">
         <seg>"[GetFocus('stewardship_duty_focus').GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[GetFocus('stewardship_wealth_focus').GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T023737Z" creationid="mohammad" creationdate="20200922T023737Z">
+        <seg>"[GetFocus('stewardship_wealth_focus').GetName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -762,6 +826,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T022724Z" creationid="mohammad" creationdate="20200922T022724Z">
         <seg>domain_name:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>duty_name:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T023558Z" creationid="mohammad" creationdate="20200922T023558Z">
+        <seg>duty_name:1</seg>
       </tuv>
     </tu>
     <tu>
@@ -1140,6 +1212,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>stewardship_duty_focus_effect_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T023522Z" creationid="mohammad" creationdate="20200922T023522Z">
+        <seg>stewardship_duty_focus_effect_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>stewardship_duty_focus_modifier:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T022744Z" creationid="mohammad" creationdate="20200922T022744Z">
@@ -1156,6 +1236,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>stewardship_wealth_focus:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T023601Z" creationid="mohammad" creationdate="20200922T023601Z">
+        <seg>stewardship_wealth_focus:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>stewardship_wealth_focus_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T023738Z" creationid="mohammad" creationdate="20200922T023738Z">
+        <seg>stewardship_wealth_focus_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>stewardship_wealth_focus_effect_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T023803Z" creationid="mohammad" creationdate="20200922T023803Z">
+        <seg>stewardship_wealth_focus_effect_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>stewardship_wealth_focus_modifier:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T023735Z" creationid="mohammad" creationdate="20200922T023735Z">
+        <seg>stewardship_wealth_focus_modifier:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>stewardship_wealth_focus_short:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T023639Z" creationid="mohammad" creationdate="20200922T023639Z">
+        <seg>stewardship_wealth_focus_short:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>strategy_name:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184602Z" creationid="mohammad" creationdate="20200921T184602Z">
@@ -1168,6 +1288,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T222546Z" creationid="mohammad" creationdate="20200921T222546Z">
         <seg>temptation_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>wealth_name:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T023812Z" creationid="mohammad" creationdate="20200922T023812Z">
+        <seg>wealth_name:1</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
