@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Because of your Learning [education|E], you gain #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T024554Z" creationid="mohammad" creationdate="20200922T024444Z">
+        <seg>"به دلیل [education|E]  یادگیری شما، #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! درصد [experience|E] بیشتری را در این سبک زندگی کسب می کنید."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Because of your Martial [education|E], you gain #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184340Z" creationid="mohammad" creationdate="20200921T184340Z">
@@ -162,6 +170,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183751Z" creationid="mohammad" creationdate="20200921T183751Z">
         <seg>"حتی اگر آن ها را انتخاب نکرده باشیم، مهم ترین افراد نزدیکان ما هستند.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Faith and knowledge. Understanding the divine means understanding the world."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T024642Z" creationid="mohammad" creationdate="20200922T024642Z">
+        <seg>"ایمان و دانش. درک معنویات به معنای درک جهان است."</seg>
       </tuv>
     </tu>
     <tu>
@@ -310,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Focusing on Theology grants:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T024649Z" creationid="mohammad" creationdate="20200922T024649Z">
+        <seg>"مزایای تمرکز بر روی معنویات:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Focusing on Wealth grants:"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023812Z" creationid="mohammad" creationdate="20200922T023812Z">
@@ -352,8 +376,8 @@
       <tuv lang="en">
         <seg>"Learning"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200922T023901Z" creationid="mohammad" creationdate="20200922T023901Z">
-        <seg>"دانش"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T024545Z" creationid="mohammad" creationdate="20200922T023901Z">
+        <seg>"یادگیری"</seg>
       </tuv>
     </tu>
     <tu>
@@ -510,6 +534,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Theologian"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T024902Z" creationid="mohammad" creationdate="20200922T024902Z">
+        <seg>"خداشناس"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Theology Focus"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T024610Z" creationid="mohammad" creationdate="20200922T024610Z">
+        <seg>"تمرکز روی معنویات"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"This small but formidable fortification is situated upon a raised earthwork."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200920T140656Z" creationid="mohammad" creationdate="20200920T140656Z">
@@ -610,6 +650,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T213913Z" creationid="mohammad" creationdate="20200921T213913Z">
         <seg>"[GetFocus('intrigue_temptation_focus').GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[GetFocus('learning_theology_focus').GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T024611Z" creationid="mohammad" creationdate="20200922T024611Z">
+        <seg>"[GetFocus('learning_theology_focus').GetName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1054,6 +1102,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>learning_lifestyle_highlight_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T024426Z" creationid="mohammad" creationdate="20200922T024426Z">
+        <seg>learning_lifestyle_highlight_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>learning_theology_focus:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T024558Z" creationid="mohammad" creationdate="20200922T024558Z">
+        <seg>learning_theology_focus:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>learning_theology_focus_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T024612Z" creationid="mohammad" creationdate="20200922T024612Z">
+        <seg>learning_theology_focus_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>learning_theology_focus_effect_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T024643Z" creationid="mohammad" creationdate="20200922T024643Z">
+        <seg>learning_theology_focus_effect_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>learning_theology_focus_modifier:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T024610Z" creationid="mohammad" creationdate="20200922T024610Z">
+        <seg>learning_theology_focus_modifier:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>majesty_name:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184055Z" creationid="mohammad" creationdate="20200921T184055Z">
@@ -1322,6 +1410,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T222546Z" creationid="mohammad" creationdate="20200921T222546Z">
         <seg>temptation_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>theology_name:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T024649Z" creationid="mohammad" creationdate="20200922T024649Z">
+        <seg>theology_name:1</seg>
       </tuv>
     </tu>
     <tu>
