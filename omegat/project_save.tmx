@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"The study of secrecy, shadows and careful planning."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032133Z" creationid="mohammad" creationdate="20200922T032133Z">
+        <seg>"آموختن رازداری، مخفی کاری و برنامه ریزی دقیق."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"The study of warfare and combat and the commanding of armies."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T031448Z" creationid="mohammad" creationdate="20200922T031448Z">
@@ -926,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"\n\n#N [ROOT.Char.Custom('ChildhoodPersonalityTrait')] children might struggle with a Intrigue Education.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032212Z" creationid="mohammad" creationdate="20200922T032212Z">
+        <seg>"\n\nکودکان #N [ROOT.Char.Custom('ChildhoodPersonalityTrait')]  معمولا به سختی دسیسه چینی را فرا می گیرند.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"\n\n#N [ROOT.Char.Custom('ChildhoodPersonalityTrait')] children might struggle with a Learning Education.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T032059Z" creationid="mohammad" creationdate="20200922T032059Z">
@@ -954,6 +970,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T031258Z" creationid="mohammad" creationdate="20200922T031258Z">
         <seg>"\n\nکودکان #P [ROOT.Char.Custom('ChildhoodPersonalityTrait')]  معمولا دیپلماسی را بهتر فرا می گیرند.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"\n\n#P [ROOT.Char.Custom('ChildhoodPersonalityTrait')] children often do well with a Intrigue Education.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032205Z" creationid="mohammad" creationdate="20200922T032205Z">
+        <seg>"\n\nکودکان #P [ROOT.Char.Custom('ChildhoodPersonalityTrait')]  معمولا دسیسه چینی را بهتر فرا می گیرند.#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1028,6 +1052,16 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200921T185212Z" creationid="mohammad" creationdate="20200921T185212Z">
         <seg>#Intrigue
  intrigue_lifestyle_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#Intrigue Education Focus
+ education_intrigue:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032101Z" creationid="mohammad" creationdate="20200922T032101Z">
+        <seg>#Intrigue Education Focus
+ education_intrigue:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -1284,6 +1318,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>education_intrigue_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032103Z" creationid="mohammad" creationdate="20200922T032103Z">
+        <seg>education_intrigue_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>education_intrigue_effect_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032213Z" creationid="mohammad" creationdate="20200922T032213Z">
+        <seg>education_intrigue_effect_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>education_intrigue_modifier:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030604Z" creationid="mohammad" creationdate="20200922T030604Z">
@@ -1292,10 +1342,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>education_intrigue_tt.affinity:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032134Z" creationid="mohammad" creationdate="20200922T032134Z">
+        <seg>education_intrigue_tt.affinity:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>education_intrigue_tt.disaffinity:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032205Z" creationid="mohammad" creationdate="20200922T032205Z">
+        <seg>education_intrigue_tt.disaffinity:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>education_learning_desc:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T031936Z" creationid="mohammad" creationdate="20200922T031936Z">
         <seg>education_learning_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>education_learning_effect_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032100Z" creationid="mohammad" creationdate="20200922T032100Z">
+        <seg>education_learning_effect_desc:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -1614,6 +1688,16 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200920T044411Z" creationid="mohammad" creationdate="20200920T044411Z">
         <seg>l_english:
  ACHIEVEMENT_GROUP_very_easy_achievements:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
+ councillor_coregent_modifier:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032218Z" creationid="mohammad" creationdate="20200922T032218Z">
+        <seg>l_english:
+ councillor_coregent_modifier:0</seg>
       </tuv>
     </tu>
     <tu>
