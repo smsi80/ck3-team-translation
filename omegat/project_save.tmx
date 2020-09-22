@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Architect"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T022725Z" creationid="mohammad" creationdate="20200922T022725Z">
+        <seg>"معمار"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"August"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184110Z" creationid="mohammad" creationdate="20200921T184110Z">
@@ -118,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Duty Focus"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T022744Z" creationid="mohammad" creationdate="20200922T022744Z">
+        <seg>"تمرکز روی وظایف"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Even if we do not choose them, those closest to us are the most important."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183751Z" creationid="mohammad" creationdate="20200921T183751Z">
@@ -186,6 +202,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T185122Z" creationid="mohammad" creationdate="20200921T185122Z">
         <seg>"مزایای تمرکز بر روی جوانمردی:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Focusing on Domain grants:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T022723Z" creationid="mohammad" creationdate="20200922T022723Z">
+        <seg>"مزایای تمرکز بر روی مایملک:"</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"The bonds of loyalty that bind us do not constrict; they show the way."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T023522Z" creationid="mohammad" creationdate="20200922T023522Z">
+        <seg>"پیوند های وفاداری ما را محدود نمی کنند، بلکه راه را نشانمان می دهند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"This small but formidable fortification is situated upon a raised earthwork."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200920T140656Z" creationid="mohammad" creationdate="20200920T140656Z">
@@ -538,6 +570,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T022543Z" creationid="mohammad" creationdate="20200922T022543Z">
         <seg>"[GetFocus('stewardship_domain_focus').GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[GetFocus('stewardship_duty_focus').GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T022745Z" creationid="mohammad" creationdate="20200922T022745Z">
+        <seg>"[GetFocus('stewardship_duty_focus').GetName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -714,6 +754,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183856Z" creationid="mohammad" creationdate="20200921T183856Z">
         <seg>diplomacy_majesty_focus_modifier:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>domain_name:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T022724Z" creationid="mohammad" creationdate="20200922T022724Z">
+        <seg>domain_name:1</seg>
       </tuv>
     </tu>
     <tu>
@@ -1060,10 +1108,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>stewardship_domain_focus_effect_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T022715Z" creationid="mohammad" creationdate="20200922T022715Z">
+        <seg>stewardship_domain_focus_effect_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>stewardship_domain_focus_modifier:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T022542Z" creationid="mohammad" creationdate="20200922T022542Z">
         <seg>stewardship_domain_focus_modifier:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>stewardship_duty_focus:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T022725Z" creationid="mohammad" creationdate="20200922T022725Z">
+        <seg>stewardship_duty_focus:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>stewardship_duty_focus_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T022746Z" creationid="mohammad" creationdate="20200922T022746Z">
+        <seg>stewardship_duty_focus_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>stewardship_duty_focus_modifier:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T022744Z" creationid="mohammad" creationdate="20200922T022744Z">
+        <seg>stewardship_duty_focus_modifier:1</seg>
       </tuv>
     </tu>
     <tu>
