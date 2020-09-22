@@ -6,3 +6,7 @@ chivalry	جوانمردی
 Intrigue	دسیسه چینی
 Skulduggery	فریبکاری
 Temptation	اغواگری
+Domain	مایملک	فعلا بهترین کلمه بنظرم همین هست
+Stewardship	مدیریت	به کاربرد کلمه تو بازی همین مدیریت میخوره بنظرم
+Intimidation	ارعاب
+Seducer	اغواگر
