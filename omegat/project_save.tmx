@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Focusing on Medicine grants:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T025741Z" creationid="mohammad" creationdate="20200922T025741Z">
+        <seg>"مزایای تمرکز بر روی طبابت:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Focusing on Skulduggery grants:\n$intrigue_skulduggery_focus_effect$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T213254Z" creationid="mohammad" creationdate="20200921T213254Z">
@@ -486,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Scholarship Focus"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T025812Z" creationid="mohammad" creationdate="20200922T025812Z">
+        <seg>"تمرکز روی دانش"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Seducer"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T222601Z" creationid="mohammad" creationdate="20200921T222601Z">
@@ -546,6 +562,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023522Z" creationid="mohammad" creationdate="20200922T023522Z">
         <seg>"پیوند های وفاداری ما را محدود نمی کنند، بلکه راه را نشانمان می دهند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The knowledge of those who have come before, the knowledge of those still living, and the knowledge of perpetual truths."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030231Z" creationid="mohammad" creationdate="20200922T030231Z">
+        <seg>"دانش کسانی که قبلا آمده اند، دانش کسانی که هنوز زنده اند و دانش حقایق همیشگی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -622,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Whole of Body"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T025748Z" creationid="mohammad" creationdate="20200922T025748Z">
+        <seg>"تمام بدن"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[GetFocus('diplomacy_family_focus').GetName]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183718Z" creationid="mohammad" creationdate="20200921T183718Z">
@@ -674,6 +706,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T024936Z" creationid="mohammad" creationdate="20200922T024936Z">
         <seg>"[GetFocus('learning_medicine_focus').GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[GetFocus('learning_scholarship_focus').GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T025813Z" creationid="mohammad" creationdate="20200922T025813Z">
+        <seg>"[GetFocus('learning_scholarship_focus').GetName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1150,10 +1190,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>learning_medicine_focus_effect_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T025734Z" creationid="mohammad" creationdate="20200922T025734Z">
+        <seg>learning_medicine_focus_effect_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>learning_medicine_focus_modifier:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T024934Z" creationid="mohammad" creationdate="20200922T024934Z">
         <seg>learning_medicine_focus_modifier:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>learning_scholarship_focus:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T025749Z" creationid="mohammad" creationdate="20200922T025749Z">
+        <seg>learning_scholarship_focus:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>learning_scholarship_focus_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T025813Z" creationid="mohammad" creationdate="20200922T025813Z">
+        <seg>learning_scholarship_focus_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>learning_scholarship_focus_modifier:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T025813Z" creationid="mohammad" creationdate="20200922T025813Z">
+        <seg>learning_scholarship_focus_modifier:1</seg>
       </tuv>
     </tu>
     <tu>
@@ -1330,6 +1402,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184410Z" creationid="mohammad" creationdate="20200921T184410Z">
         <seg>martial_strategy_focus_short:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>medicine_name:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T025742Z" creationid="mohammad" creationdate="20200922T025742Z">
+        <seg>medicine_name:1</seg>
       </tuv>
     </tu>
     <tu>
