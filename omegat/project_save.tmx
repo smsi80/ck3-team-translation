@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Because of your Stewardship [education|E], you gain #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! more [experience|E] in this Lifestyle."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T224242Z" creationid="mohammad" creationdate="20200921T224242Z">
+        <seg>"به دلیل [education|E] مدیریتی شما، #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! درصد [experience|E] بیشتری را در این سبک زندگی کسب می کنید."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Chivalry"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T185033Z" creationid="mohammad" creationdate="20200921T185033Z">
@@ -368,8 +376,8 @@
       <tuv lang="en">
         <seg>"Stewardship"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200921T223654Z" creationid="mohammad" creationdate="20200921T223654Z">
-        <seg>"مباشرت"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200921T224249Z" creationid="mohammad" creationdate="20200921T223654Z">
+        <seg>"مدیریت"</seg>
       </tuv>
     </tu>
     <tu>
