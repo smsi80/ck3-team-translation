@@ -80,8 +80,8 @@
       <tuv lang="en">
         <seg>"Avaricious"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200922T023815Z" creationid="mohammad" creationdate="20200922T023815Z">
-        <seg>"بدخواه"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T023832Z" creationid="mohammad" creationdate="20200922T023815Z">
+        <seg>"طماع"</seg>
       </tuv>
     </tu>
     <tu>
@@ -194,6 +194,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T224219Z" creationid="mohammad" creationdate="20200921T223707Z">
         <seg>"تمرکز بر روی برقراری عدالت، مدیریت زمین های قلمرو خود و پر کردن خزانه از طلا."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Focus on learning all that you can. The realm of knowledge and divinity lie within your grasp, as well as the secrets to life itself."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T024002Z" creationid="mohammad" creationdate="20200922T024002Z">
+        <seg>"تمرکز روی یادگیری هرچه بیشتر. قلمرو دانش و الوهیت در اختیار شما و همچنین اسرار خود زندگی است."</seg>
       </tuv>
     </tu>
     <tu>
@@ -338,6 +346,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T212805Z" creationid="mohammad" creationdate="20200921T185220Z">
         <seg>"دسیسه چینی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Learning"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T023901Z" creationid="mohammad" creationdate="20200922T023901Z">
+        <seg>"دانش"</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,6 +678,16 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200921T185212Z" creationid="mohammad" creationdate="20200921T185212Z">
         <seg>#Intrigue
  intrigue_lifestyle_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#Learning
+ learning_lifestyle_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T023820Z" creationid="mohammad" creationdate="20200922T023820Z">
+        <seg>#Learning
+ learning_lifestyle_name:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -1016,6 +1042,14 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200920T044411Z" creationid="mohammad" creationdate="20200920T044411Z">
         <seg>l_english:
  ACHIEVEMENT_GROUP_very_easy_achievements:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>learning_lifestyle_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T023901Z" creationid="mohammad" creationdate="20200922T023901Z">
+        <seg>learning_lifestyle_desc:0</seg>
       </tuv>
     </tu>
     <tu>
