@@ -680,8 +680,8 @@
       <tuv lang="en">
         <seg>"The study of etiquette, communication and the practices of courtly life."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200922T030909Z" creationid="mohammad" creationdate="20200922T030909Z">
-        <seg>"مطالعه آداب و رسوم ، ارتباطات و رسوم زندگی درباری."</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T031008Z" creationid="mohammad" creationdate="20200922T030909Z">
+        <seg>"آموختن آداب و رسوم، ارتباطات و رسوم زندگی درباری."</seg>
       </tuv>
     </tu>
     <tu>
@@ -882,6 +882,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023737Z" creationid="mohammad" creationdate="20200922T023737Z">
         <seg>"[GetFocus('stewardship_wealth_focus').GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"\n\n#P [ROOT.Char.Custom('ChildhoodPersonalityTrait')] children often do well with Diplomacy Education.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T031258Z" creationid="mohammad" creationdate="20200922T031258Z">
+        <seg>"\n\nکودکان #P [ROOT.Char.Custom('ChildhoodPersonalityTrait')]  معمولا دیپلماسی را بهتر فرا می گیرند.#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1130,6 +1138,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030802Z" creationid="mohammad" creationdate="20200922T030802Z">
         <seg>education_diplomacy_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>education_diplomacy_tt.affinity:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T031010Z" creationid="mohammad" creationdate="20200922T031010Z">
+        <seg>education_diplomacy_tt.affinity:0</seg>
       </tuv>
     </tu>
     <tu>
