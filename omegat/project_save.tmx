@@ -438,10 +438,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Intrigue Education"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030619Z" creationid="mohammad" creationdate="20200922T030619Z">
+        <seg>"آموزش دسیسه چینی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Intrigue"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T212805Z" creationid="mohammad" creationdate="20200921T185220Z">
         <seg>"دسیسه چینی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Learning Education"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030759Z" creationid="mohammad" creationdate="20200922T030759Z">
+        <seg>"آموزش یادگیری"</seg>
       </tuv>
     </tu>
     <tu>
@@ -658,6 +674,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030231Z" creationid="mohammad" creationdate="20200922T030231Z">
         <seg>"دانش کسانی که قبلا آمده اند، دانش کسانی که هنوز زنده اند و دانش حقایق همیشگی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The study of etiquette, communication and the practices of courtly life."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030909Z" creationid="mohammad" creationdate="20200922T030909Z">
+        <seg>"مطالعه آداب و رسوم ، ارتباطات و رسوم زندگی درباری."</seg>
       </tuv>
     </tu>
     <tu>
@@ -892,6 +916,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>#Diplomacy Education Focus
+ education_diplomacy:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030800Z" creationid="mohammad" creationdate="20200922T030800Z">
+        <seg>#Diplomacy Education Focus
+ education_diplomacy:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>#Intrigue
  intrigue_lifestyle_name:0</seg>
       </tuv>
@@ -1088,6 +1122,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023558Z" creationid="mohammad" creationdate="20200922T023558Z">
         <seg>duty_name:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>education_diplomacy_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030802Z" creationid="mohammad" creationdate="20200922T030802Z">
+        <seg>education_diplomacy_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>education_intrigue_modifier:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030604Z" creationid="mohammad" creationdate="20200922T030604Z">
+        <seg>education_intrigue_modifier:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>education_learning_modifier:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T030619Z" creationid="mohammad" creationdate="20200922T030619Z">
+        <seg>education_learning_modifier:0</seg>
       </tuv>
     </tu>
     <tu>
