@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Domain Focus"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T021041Z" creationid="mohammad" creationdate="20200922T021041Z">
+        <seg>"Domain Focus"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Even if we do not choose them, those closest to us are the most important."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183751Z" creationid="mohammad" creationdate="20200921T183751Z">
