@@ -112,8 +112,8 @@
       <tuv lang="en">
         <seg>"Domain Focus"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200922T021041Z" creationid="mohammad" creationdate="20200922T021041Z">
-        <seg>"Domain Focus"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T022541Z" creationid="mohammad" creationdate="20200922T021041Z">
+        <seg>"تمرکز روی مایملک"</seg>
       </tuv>
     </tu>
     <tu>
@@ -306,6 +306,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184344Z" creationid="mohammad" creationdate="20200921T184119Z">
         <seg>"نظامی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"My land and the people under my care are my strength."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T022715Z" creationid="mohammad" creationdate="20200922T022715Z">
+        <seg>قدرت من درمردم و سرزمین من است.</seg>
       </tuv>
     </tu>
     <tu>
@@ -522,6 +530,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184414Z" creationid="mohammad" creationdate="20200921T184414Z">
         <seg>"[GetFocus('martial_strategy_focus').GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[GetFocus('stewardship_domain_focus').GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T022543Z" creationid="mohammad" creationdate="20200922T022543Z">
+        <seg>"[GetFocus('stewardship_domain_focus').GetName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1032,6 +1048,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T213255Z" creationid="mohammad" creationdate="20200921T213255Z">
         <seg>skulduggery_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>stewardship_domain_focus_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T022543Z" creationid="mohammad" creationdate="20200922T022543Z">
+        <seg>stewardship_domain_focus_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>stewardship_domain_focus_modifier:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T022542Z" creationid="mohammad" creationdate="20200922T022542Z">
+        <seg>stewardship_domain_focus_modifier:1</seg>
       </tuv>
     </tu>
     <tu>
