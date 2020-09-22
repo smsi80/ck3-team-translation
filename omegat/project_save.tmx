@@ -230,6 +230,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Educate"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032427Z" creationid="mohammad" creationdate="20200922T032427Z">
+        <seg>"آموزش"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Educated"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032441Z" creationid="mohammad" creationdate="20200922T032441Z">
+        <seg>"تحصیل کرده"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Education Focus"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032337Z" creationid="mohammad" creationdate="20200922T032337Z">
+        <seg>"تمرکز آموزشی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Education"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032413Z" creationid="mohammad" creationdate="20200922T032413Z">
+        <seg>"تحصیلات"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Even if we do not choose them, those closest to us are the most important."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183751Z" creationid="mohammad" creationdate="20200921T183751Z">
@@ -298,6 +330,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183312Z" creationid="mohammad" creationdate="20200921T183312Z">
         <seg>"تمرکز روی درک افراد و انگیزه های آنها، چگونگی برخورد با کشور های مجاور و چگونگی کسب وفاداری بی چون و چرای افراد خود."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Focus"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032447Z" creationid="mohammad" creationdate="20200922T032447Z">
+        <seg>"تمرکز"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1526,6 +1566,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>game_concept_educate:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032413Z" creationid="mohammad" creationdate="20200922T032413Z">
+        <seg>game_concept_educate:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>game_concept_educated:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032450Z" creationid="mohammad" creationdate="20200922T032450Z">
+        <seg>game_concept_educated:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>game_concept_education:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032338Z" creationid="mohammad" creationdate="20200922T032338Z">
+        <seg>game_concept_education:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>game_concept_education_focus_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032449Z" creationid="mohammad" creationdate="20200922T032449Z">
+        <seg>game_concept_education_focus_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>game_concept_education_focus_short:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032453Z" creationid="mohammad" creationdate="20200922T032453Z">
+        <seg>game_concept_education_focus_short:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>intimidation_name:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T223450Z" creationid="mohammad" creationdate="20200921T223450Z">
@@ -1698,6 +1778,16 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200922T032218Z" creationid="mohammad" creationdate="20200922T032218Z">
         <seg>l_english:
  councillor_coregent_modifier:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
+ test_text_to_use_explanation:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032246Z" creationid="mohammad" creationdate="20200922T032246Z">
+        <seg>l_english:
+ test_text_to_use_explanation:0</seg>
       </tuv>
     </tu>
     <tu>
