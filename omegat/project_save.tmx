@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"The study of scholarship, theology and the pursuit of knowledge."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032040Z" creationid="mohammad" creationdate="20200922T032040Z">
+        <seg>"آموزش تحقیق کردن، معنویات و جستجوی دانش"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"The study of warfare and combat and the commanding of armies."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T031448Z" creationid="mohammad" creationdate="20200922T031448Z">
@@ -918,10 +926,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"\n\n#N [ROOT.Char.Custom('ChildhoodPersonalityTrait')] children might struggle with a Learning Education.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032059Z" creationid="mohammad" creationdate="20200922T032059Z">
+        <seg>"\n\nکودکان #N [ROOT.Char.Custom('ChildhoodPersonalityTrait')]  معمولا به سختی یادگیری را فرا می گیرند.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"\n\n#N [ROOT.Char.Custom('ChildhoodPersonalityTrait')] children might struggle with a Martial Education.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T031635Z" creationid="mohammad" creationdate="20200922T031608Z">
         <seg>"\n\nکودکان #N [ROOT.Char.Custom('ChildhoodPersonalityTrait')]  معمولا به سختی تحصیلات نظامی را فرا می گیرند.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"\n\n#N [ROOT.Char.Custom('ChildhoodPersonalityTrait')] children might struggle with a Stewardship Education.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T031928Z" creationid="mohammad" creationdate="20200922T031918Z">
+        <seg>"\n\nکودکان #N [ROOT.Char.Custom('ChildhoodPersonalityTrait')]  معمولا به سختی مدیریت را فرا می گیرند.#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -934,10 +958,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"\n\n#P [ROOT.Char.Custom('ChildhoodPersonalityTrait')] children often do well with a Learning Education.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032051Z" creationid="mohammad" creationdate="20200922T032051Z">
+        <seg>"\n\nکودکان #P [ROOT.Char.Custom('ChildhoodPersonalityTrait')]  معمولا یادگیری را بهتر فرا می گیرند.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"\n\n#P [ROOT.Char.Custom('ChildhoodPersonalityTrait')] children often do well with a Martial Education.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T031602Z" creationid="mohammad" creationdate="20200922T031602Z">
         <seg>"\n\nکودکان #P [ROOT.Char.Custom('ChildhoodPersonalityTrait')]  معمولا تحصیلات نظامی را بهتر فرا می گیرند.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"\n\n#P [ROOT.Char.Custom('ChildhoodPersonalityTrait')] children often do well with a Stewardship Education.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T031916Z" creationid="mohammad" creationdate="20200922T031916Z">
+        <seg>"\n\nکودکان #P [ROOT.Char.Custom('ChildhoodPersonalityTrait')]  معمولا مدیریت را بهتر فرا می گیرند.#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -998,6 +1038,16 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023820Z" creationid="mohammad" creationdate="20200922T023820Z">
         <seg>#Learning
  learning_lifestyle_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#Learning Education Focus
+ education_learning:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T031931Z" creationid="mohammad" creationdate="20200922T031931Z">
+        <seg>#Learning Education Focus
+ education_learning:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -1242,10 +1292,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>education_learning_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T031936Z" creationid="mohammad" creationdate="20200922T031936Z">
+        <seg>education_learning_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>education_learning_modifier:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030619Z" creationid="mohammad" creationdate="20200922T030619Z">
         <seg>education_learning_modifier:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>education_learning_tt.affinity:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032040Z" creationid="mohammad" creationdate="20200922T032040Z">
+        <seg>education_learning_tt.affinity:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>education_learning_tt.disaffinity:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T032051Z" creationid="mohammad" creationdate="20200922T032051Z">
+        <seg>education_learning_tt.disaffinity:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -1330,10 +1404,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>education_stewardship_effect_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T031929Z" creationid="mohammad" creationdate="20200922T031929Z">
+        <seg>education_stewardship_effect_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>education_stewardship_modifier:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030509Z" creationid="mohammad" creationdate="20200922T030509Z">
         <seg>education_stewardship_modifier:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>education_stewardship_tt.affinity:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T031857Z" creationid="mohammad" creationdate="20200922T031857Z">
+        <seg>education_stewardship_tt.affinity:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>education_stewardship_tt.disaffinity:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200922T031916Z" creationid="mohammad" creationdate="20200922T031916Z">
+        <seg>education_stewardship_tt.disaffinity:0</seg>
       </tuv>
     </tu>
     <tu>
