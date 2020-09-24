@@ -1460,8 +1460,8 @@
       <tuv lang="en">
         <seg>"Welcome to Crusader Kings"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T110310Z" creationid="mohammad" creationdate="20200924T110310Z">
-        <seg>"به پادشاهان صلیبی خوش آمدید"</seg>
+      <tuv lang="fa" changeid="Alireza" changedate="20200924T212140Z" creationid="mohammad" creationdate="20200924T110310Z">
+        <seg>"به کروسیدر کینگز خوش آمدید"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3302,6 +3302,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T110114Z" creationid="mohammad" creationdate="20200924T110114Z">
         <seg>lesson_warscore:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_welcome_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200924T212144Z" creationid="Alireza" creationdate="20200924T212144Z">
+        <seg>lesson_welcome_desc:1</seg>
       </tuv>
     </tu>
     <tu>
