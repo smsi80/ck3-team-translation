@@ -2591,6 +2591,18 @@
     <tu>
       <tuv lang="en">
         <seg>l_english:
+ #Yazidi
+ yazidi_religion:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200924T131837Z" creationid="Alireza" creationdate="20200924T131837Z">
+        <seg>l_english:
+ #Yazidi
+ yazidi_religion:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
  ACHIEVEMENT_GROUP_very_easy_achievements:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200920T044411Z" creationid="mohammad" creationdate="20200920T044411Z">
@@ -2646,6 +2658,16 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200924T055816Z" creationid="mohammad" creationdate="20200924T055816Z">
         <seg>l_english:
  LIFESTYLE_WINDOW_DESCRIPTION:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
+ LOADING_TIP_0:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200924T131837Z" creationid="Alireza" creationdate="20200924T131837Z">
+        <seg>l_english:
+ LOADING_TIP_0:1</seg>
       </tuv>
     </tu>
     <tu>
