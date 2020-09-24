@@ -1000,6 +1000,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Losing Wars"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T110229Z" creationid="mohammad" creationdate="20200924T110229Z">
+        <seg>"شکست در جنگ ها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Lqwuljxh"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T182958Z" creationid="mohammad" creationdate="20200921T182958Z">
@@ -1450,10 +1458,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Welcome to Crusader Kings"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T110310Z" creationid="mohammad" creationdate="20200924T110310Z">
+        <seg>"به پادشاهان صلیبی خوش آمدید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Whole of Body"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T025748Z" creationid="mohammad" creationdate="20200922T025748Z">
         <seg>"تمام بدن"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Winning Wars"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T110216Z" creationid="mohammad" creationdate="20200924T110216Z">
+        <seg>"پیروزی در جنگ ها"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1710,6 +1734,16 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T031916Z" creationid="mohammad" creationdate="20200922T031916Z">
         <seg>"\n\nکودکان #P [ROOT.Char.Custom('ChildhoodPersonalityTrait')]  معمولا مدیریت را بهتر فرا می گیرند.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg># Basics
+ lesson_basics_welcome:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T110230Z" creationid="mohammad" creationdate="20200924T110230Z">
+        <seg># Basics
+ lesson_basics_welcome:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -2898,6 +2932,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>lesson_losing_wars:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T110216Z" creationid="mohammad" creationdate="20200924T110216Z">
+        <seg>lesson_losing_wars:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>lesson_raise_troops:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T105744Z" creationid="mohammad" creationdate="20200924T105744Z">
@@ -3198,6 +3240,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T110114Z" creationid="mohammad" creationdate="20200924T110114Z">
         <seg>lesson_warscore:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_winning_wars:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T110143Z" creationid="mohammad" creationdate="20200924T110143Z">
+        <seg>lesson_winning_wars:0</seg>
       </tuv>
     </tu>
     <tu>
