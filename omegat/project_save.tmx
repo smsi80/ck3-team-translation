@@ -664,6 +664,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Deviant"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T221350Z" creationid="mohammad" creationdate="20200924T221350Z">
+        <seg>"منحرف"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Diplomacy Education"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030459Z" creationid="mohammad" creationdate="20200922T030459Z">
