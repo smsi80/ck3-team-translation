@@ -1288,18 +1288,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Is a Cannibal"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T230228Z" creationid="mohammad" creationdate="20200924T230228Z">
+        <seg>"یک ادمخوار است"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Is a Deviant"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T225313Z" creationid="mohammad" creationdate="20200924T225313Z">
-        <seg>"کج رفتار است"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T230248Z" creationid="mohammad" creationdate="20200924T225313Z">
+        <seg>"یک کج رفتار است"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"Is a Sodomite"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T225326Z" creationid="mohammad" creationdate="20200924T225326Z">
-        <seg>"همجنسگرا است"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T230235Z" creationid="mohammad" creationdate="20200924T225326Z">
+        <seg>"یک همجنسگرا است"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1540,6 +1548,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T215337Z" creationid="mohammad" creationdate="20200924T215337Z">
         <seg>"قتل"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Murdered [TARGET_CHARACTER.GetShortUIName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T230352Z" creationid="mohammad" creationdate="20200924T230352Z">
+        <seg>"Murdered [TARGET_CHARACTER.GetShortUIName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2431,6 +2447,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023737Z" creationid="mohammad" creationdate="20200922T023737Z">
         <seg>"[GetFocus('stewardship_wealth_focus').GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[TARGET_CHARACTER.GetShortUINamePossessive] lover"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T230257Z" creationid="mohammad" creationdate="20200924T230257Z">
+        <seg>"[TARGET_CHARACTER.GetShortUINamePossessive] عاشق"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4515,6 +4539,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>secret_cannibal_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T230211Z" creationid="mohammad" creationdate="20200924T230211Z">
+        <seg>secret_cannibal_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>secret_category_adultery:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T224926Z" creationid="mohammad" creationdate="20200924T224926Z">
@@ -4603,6 +4635,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>secret_lover_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T230249Z" creationid="mohammad" creationdate="20200924T230249Z">
+        <seg>secret_lover_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>secret_murder_attempt:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T215339Z" creationid="mohammad" creationdate="20200924T215339Z">
@@ -4615,6 +4655,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T225432Z" creationid="mohammad" creationdate="20200924T225432Z">
         <seg>secret_murder_attempt_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>secret_murder_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T230258Z" creationid="mohammad" creationdate="20200924T230258Z">
+        <seg>secret_murder_desc:0</seg>
       </tuv>
     </tu>
     <tu>
