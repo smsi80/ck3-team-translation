@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Do Explain"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T103112Z" creationid="mohammad" creationdate="20200924T103112Z">
+        <seg>"توضیح بده"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Domain Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T022541Z" creationid="mohammad" creationdate="20200922T021041Z">
@@ -662,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Never!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T102942Z" creationid="mohammad" creationdate="20200924T102942Z">
+        <seg>"هرگز!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Next"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T102557Z" creationid="mohammad" creationdate="20200924T102557Z">
@@ -682,6 +698,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T185007Z" creationid="mohammad" creationdate="20200921T185007Z">
         <seg>"ناظر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Read Later"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T102756Z" creationid="mohammad" creationdate="20200924T102756Z">
+        <seg>"بعدا بخوانید"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2508,10 +2532,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tutorial_lesson_button_explain:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T102946Z" creationid="mohammad" creationdate="20200924T102946Z">
+        <seg>tutorial_lesson_button_explain:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tutorial_lesson_button_next:2</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T102550Z" creationid="mohammad" creationdate="20200924T102550Z">
         <seg>tutorial_lesson_button_next:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tutorial_lesson_button_read_later:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T102741Z" creationid="mohammad" creationdate="20200924T102741Z">
+        <seg>tutorial_lesson_button_read_later:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tutorial_lesson_button_refuse:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T102759Z" creationid="mohammad" creationdate="20200924T102759Z">
+        <seg>tutorial_lesson_button_refuse:1</seg>
       </tuv>
     </tu>
     <tu>
