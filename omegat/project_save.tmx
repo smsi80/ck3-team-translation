@@ -216,8 +216,8 @@
       <tuv lang="en">
         <seg>"Choose Education Focus"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T074917Z" creationid="mohammad" creationdate="20200924T074917Z">
-        <seg>"انتخاب تمرکز آموزشی"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T075341Z" creationid="mohammad" creationdate="20200924T075341Z">
+        <seg>"Choose Education Focus"</seg>
       </tuv>
     </tu>
     <tu>
@@ -232,7 +232,7 @@
       <tuv lang="en">
         <seg>"Choose Lifestyle Focus"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T074931Z" creationid="mohammad" creationdate="20200924T074931Z">
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T075345Z" creationid="mohammad" creationdate="20200924T075345Z">
         <seg>"Choose Lifestyle Focus"</seg>
       </tuv>
     </tu>
@@ -1258,6 +1258,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T074918Z" creationid="mohammad" creationdate="20200924T074918Z">
         <seg>LIFESTYLE_FOCUS_VIEW_TITLE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TRIGGER_OR:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T075305Z" creationid="mohammad" creationdate="20200924T075305Z">
+        <seg>TRIGGER_OR:0</seg>
       </tuv>
     </tu>
     <tu>
