@@ -70,10 +70,122 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"1/2"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104102Z" creationid="mohammad" creationdate="20200924T104102Z">
+        <seg>"1/2"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"1/3"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104105Z" creationid="mohammad" creationdate="20200924T104105Z">
+        <seg>"1/3"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"1/4"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104106Z" creationid="mohammad" creationdate="20200924T104106Z">
+        <seg>"1/4"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"1/5"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104107Z" creationid="mohammad" creationdate="20200924T104107Z">
+        <seg>"1/5"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"1/6"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104109Z" creationid="mohammad" creationdate="20200924T104109Z">
+        <seg>"1/6"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"1/7"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104112Z" creationid="mohammad" creationdate="20200924T104112Z">
+        <seg>"1/7"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"1/8"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104114Z" creationid="mohammad" creationdate="20200924T104114Z">
+        <seg>"1/8"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"10%"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030259Z" creationid="mohammad" creationdate="20200922T030259Z">
         <seg>"10%"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"2/2"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104104Z" creationid="mohammad" creationdate="20200924T104104Z">
+        <seg>"2/2"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"2/3"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104105Z" creationid="mohammad" creationdate="20200924T104105Z">
+        <seg>"2/3"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"2/4"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104106Z" creationid="mohammad" creationdate="20200924T104106Z">
+        <seg>"2/4"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"2/5"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104107Z" creationid="mohammad" creationdate="20200924T104107Z">
+        <seg>"2/5"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"2/6"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104109Z" creationid="mohammad" creationdate="20200924T104109Z">
+        <seg>"2/6"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"2/7"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104112Z" creationid="mohammad" creationdate="20200924T104112Z">
+        <seg>"2/7"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"2/8"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104114Z" creationid="mohammad" creationdate="20200924T104114Z">
+        <seg>"2/8"</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,6 +198,54 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"3/3"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104105Z" creationid="mohammad" creationdate="20200924T104105Z">
+        <seg>"3/3"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"3/4"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104106Z" creationid="mohammad" creationdate="20200924T104106Z">
+        <seg>"3/4"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"3/5"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104108Z" creationid="mohammad" creationdate="20200924T104108Z">
+        <seg>"3/5"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"3/6"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104110Z" creationid="mohammad" creationdate="20200924T104110Z">
+        <seg>"3/6"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"3/7"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104112Z" creationid="mohammad" creationdate="20200924T104112Z">
+        <seg>"3/7"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"3/8"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104115Z" creationid="mohammad" creationdate="20200924T104115Z">
+        <seg>"3/8"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"30%"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030301Z" creationid="mohammad" creationdate="20200922T030301Z">
@@ -94,10 +254,130 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"4/4"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104107Z" creationid="mohammad" creationdate="20200924T104107Z">
+        <seg>"4/4"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"4/5"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104108Z" creationid="mohammad" creationdate="20200924T104108Z">
+        <seg>"4/5"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"4/6"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104110Z" creationid="mohammad" creationdate="20200924T104110Z">
+        <seg>"4/6"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"4/7"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104113Z" creationid="mohammad" creationdate="20200924T104113Z">
+        <seg>"4/7"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"4/8"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104115Z" creationid="mohammad" creationdate="20200924T104115Z">
+        <seg>"4/8"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"40%"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030302Z" creationid="mohammad" creationdate="20200922T030302Z">
         <seg>"40%"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"5/5"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104109Z" creationid="mohammad" creationdate="20200924T104109Z">
+        <seg>"5/5"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"5/6"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104110Z" creationid="mohammad" creationdate="20200924T104110Z">
+        <seg>"5/6"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"5/7"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104113Z" creationid="mohammad" creationdate="20200924T104113Z">
+        <seg>"5/7"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"5/8"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104116Z" creationid="mohammad" creationdate="20200924T104116Z">
+        <seg>"5/8"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"6/6"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104111Z" creationid="mohammad" creationdate="20200924T104111Z">
+        <seg>"6/6"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"6/7"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104113Z" creationid="mohammad" creationdate="20200924T104113Z">
+        <seg>"6/7"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"6/8"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104116Z" creationid="mohammad" creationdate="20200924T104116Z">
+        <seg>"6/8"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"7/7"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104114Z" creationid="mohammad" creationdate="20200924T104114Z">
+        <seg>"7/7"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"7/8"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104116Z" creationid="mohammad" creationdate="20200924T104116Z">
+        <seg>"7/8"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"8/8"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104117Z" creationid="mohammad" creationdate="20200924T104117Z">
+        <seg>"8/8"</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,6 +878,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"I — Basics"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104209Z" creationid="mohammad" creationdate="20200924T104209Z">
+        <seg>"I — اصول اولیه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"II — Map"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104215Z" creationid="mohammad" creationdate="20200924T104215Z">
+        <seg>"II — نقشه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"III — Character"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104225Z" creationid="mohammad" creationdate="20200924T104225Z">
+        <seg>"III — شخصیت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"IV — Resources"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104232Z" creationid="mohammad" creationdate="20200924T104232Z">
+        <seg>"IV — منابع"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Intimidation Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T222612Z" creationid="mohammad" creationdate="20200921T222612Z">
@@ -998,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"V — Lifestyle"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104239Z" creationid="mohammad" creationdate="20200924T104239Z">
+        <seg>"V — شیوه زندگی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Victory comes not through blood or gold, but honor."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T185113Z" creationid="mohammad" creationdate="20200921T185113Z">
@@ -1306,6 +1626,16 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200922T031931Z" creationid="mohammad" creationdate="20200922T031931Z">
         <seg>#Learning Education Focus
  education_learning:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#Lesson names
+ lesson_basics:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104118Z" creationid="mohammad" creationdate="20200924T104118Z">
+        <seg>#Lesson names
+ lesson_basics:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -2264,6 +2594,318 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T024610Z" creationid="mohammad" creationdate="20200922T024610Z">
         <seg>learning_theology_focus_modifier:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_character:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104215Z" creationid="mohammad" creationdate="20200924T104215Z">
+        <seg>lesson_basics_character:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_lifestyles:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104233Z" creationid="mohammad" creationdate="20200924T104233Z">
+        <seg>lesson_basics_lifestyles:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_map:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104210Z" creationid="mohammad" creationdate="20200924T104210Z">
+        <seg>lesson_basics_map:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_resources:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104226Z" creationid="mohammad" creationdate="20200924T104226Z">
+        <seg>lesson_basics_resources:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_1_of_2:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104059Z" creationid="mohammad" creationdate="20200924T104059Z">
+        <seg>lesson_step_1_of_2:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_1_of_3:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104104Z" creationid="mohammad" creationdate="20200924T104104Z">
+        <seg>lesson_step_1_of_3:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_1_of_4:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104106Z" creationid="mohammad" creationdate="20200924T104106Z">
+        <seg>lesson_step_1_of_4:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_1_of_5:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104107Z" creationid="mohammad" creationdate="20200924T104107Z">
+        <seg>lesson_step_1_of_5:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_1_of_6:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104109Z" creationid="mohammad" creationdate="20200924T104109Z">
+        <seg>lesson_step_1_of_6:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_1_of_7:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104112Z" creationid="mohammad" creationdate="20200924T104112Z">
+        <seg>lesson_step_1_of_7:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_1_of_8:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104114Z" creationid="mohammad" creationdate="20200924T104114Z">
+        <seg>lesson_step_1_of_8:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_2_of_2:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104103Z" creationid="mohammad" creationdate="20200924T104103Z">
+        <seg>lesson_step_2_of_2:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_2_of_3:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104105Z" creationid="mohammad" creationdate="20200924T104105Z">
+        <seg>lesson_step_2_of_3:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_2_of_4:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104106Z" creationid="mohammad" creationdate="20200924T104106Z">
+        <seg>lesson_step_2_of_4:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_2_of_5:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104107Z" creationid="mohammad" creationdate="20200924T104107Z">
+        <seg>lesson_step_2_of_5:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_2_of_6:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104109Z" creationid="mohammad" creationdate="20200924T104109Z">
+        <seg>lesson_step_2_of_6:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_2_of_7:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104112Z" creationid="mohammad" creationdate="20200924T104112Z">
+        <seg>lesson_step_2_of_7:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_2_of_8:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104114Z" creationid="mohammad" creationdate="20200924T104114Z">
+        <seg>lesson_step_2_of_8:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_3_of_3:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104105Z" creationid="mohammad" creationdate="20200924T104105Z">
+        <seg>lesson_step_3_of_3:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_3_of_4:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104106Z" creationid="mohammad" creationdate="20200924T104106Z">
+        <seg>lesson_step_3_of_4:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_3_of_5:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104108Z" creationid="mohammad" creationdate="20200924T104108Z">
+        <seg>lesson_step_3_of_5:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_3_of_6:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104109Z" creationid="mohammad" creationdate="20200924T104109Z">
+        <seg>lesson_step_3_of_6:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_3_of_7:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104112Z" creationid="mohammad" creationdate="20200924T104112Z">
+        <seg>lesson_step_3_of_7:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_3_of_8:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104115Z" creationid="mohammad" creationdate="20200924T104115Z">
+        <seg>lesson_step_3_of_8:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_4_of_4:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104107Z" creationid="mohammad" creationdate="20200924T104107Z">
+        <seg>lesson_step_4_of_4:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_4_of_5:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104108Z" creationid="mohammad" creationdate="20200924T104108Z">
+        <seg>lesson_step_4_of_5:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_4_of_6:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104110Z" creationid="mohammad" creationdate="20200924T104110Z">
+        <seg>lesson_step_4_of_6:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_4_of_7:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104113Z" creationid="mohammad" creationdate="20200924T104113Z">
+        <seg>lesson_step_4_of_7:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_4_of_8:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104115Z" creationid="mohammad" creationdate="20200924T104115Z">
+        <seg>lesson_step_4_of_8:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_5_of_5:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104108Z" creationid="mohammad" creationdate="20200924T104108Z">
+        <seg>lesson_step_5_of_5:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_5_of_6:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104110Z" creationid="mohammad" creationdate="20200924T104110Z">
+        <seg>lesson_step_5_of_6:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_5_of_7:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104113Z" creationid="mohammad" creationdate="20200924T104113Z">
+        <seg>lesson_step_5_of_7:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_5_of_8:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104115Z" creationid="mohammad" creationdate="20200924T104115Z">
+        <seg>lesson_step_5_of_8:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_6_of_6:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104111Z" creationid="mohammad" creationdate="20200924T104111Z">
+        <seg>lesson_step_6_of_6:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_6_of_7:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104113Z" creationid="mohammad" creationdate="20200924T104113Z">
+        <seg>lesson_step_6_of_7:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_6_of_8:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104116Z" creationid="mohammad" creationdate="20200924T104116Z">
+        <seg>lesson_step_6_of_8:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_7_of_7:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104114Z" creationid="mohammad" creationdate="20200924T104114Z">
+        <seg>lesson_step_7_of_7:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_7_of_8:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104116Z" creationid="mohammad" creationdate="20200924T104116Z">
+        <seg>lesson_step_7_of_8:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_step_8_of_8:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104116Z" creationid="mohammad" creationdate="20200924T104116Z">
+        <seg>lesson_step_8_of_8:0</seg>
       </tuv>
     </tu>
     <tu>
