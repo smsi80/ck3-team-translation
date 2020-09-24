@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1891,11 +1891,41 @@
     <tu>
       <tuv lang="en">
         <seg>l_english:
+ DECISION_ON_COOLDOWN:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T055735Z" creationid="mohammad" creationdate="20200924T055735Z">
+        <seg>l_english:
+ DECISION_ON_COOLDOWN:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
  EDUCATION_FOCUS_VIEW_TITLE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T074901Z" creationid="mohammad" creationdate="20200924T074901Z">
         <seg>l_english:
  EDUCATION_FOCUS_VIEW_TITLE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
+ GAME_RULES:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T055602Z" creationid="mohammad" creationdate="20200924T055602Z">
+        <seg>l_english:
+ GAME_RULES:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
+ LIFESTYLE_WINDOW_DESCRIPTION:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T055816Z" creationid="mohammad" creationdate="20200924T055816Z">
+        <seg>l_english:
+ LIFESTYLE_WINDOW_DESCRIPTION:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -1916,6 +1946,28 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200922T032246Z" creationid="mohammad" creationdate="20200922T032246Z">
         <seg>l_english:
  test_text_to_use_explanation:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
+ tutorial_lesson_button_skip:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T055719Z" creationid="mohammad" creationdate="20200924T055719Z">
+        <seg>l_english:
+ tutorial_lesson_button_skip:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
+#Reasons
+ ALREADY_CONTAINTS_TRAIT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T055822Z" creationid="mohammad" creationdate="20200924T055822Z">
+        <seg>l_english:
+#Reasons
+ ALREADY_CONTAINTS_TRAIT:0</seg>
       </tuv>
     </tu>
     <tu>
