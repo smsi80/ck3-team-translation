@@ -910,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"IX — Titles"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104307Z" creationid="mohammad" creationdate="20200924T104307Z">
+        <seg>"IX — عناوین"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Intimidation Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T222612Z" creationid="mohammad" creationdate="20200921T222612Z">
@@ -1318,6 +1326,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"VI — Interacting"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104247Z" creationid="mohammad" creationdate="20200924T104247Z">
+        <seg>"VI — تعامل"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"VII — Dynasty"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104252Z" creationid="mohammad" creationdate="20200924T104252Z">
+        <seg>"VII — سلسله"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"VIII — Marriage"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104259Z" creationid="mohammad" creationdate="20200924T104259Z">
+        <seg>"VIII — ازدواج"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Victory comes not through blood or gold, but honor."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T185113Z" creationid="mohammad" creationdate="20200921T185113Z">
@@ -1346,6 +1378,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T025748Z" creationid="mohammad" creationdate="20200922T025748Z">
         <seg>"تمام بدن"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"X — Holdings"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104349Z" creationid="mohammad" creationdate="20200924T104349Z">
+        <seg>"X — Holdings"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"XI — Vassals"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T105008Z" creationid="mohammad" creationdate="20200924T105008Z">
+        <seg>"XI — واسال ها"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2606,6 +2654,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>lesson_basics_holdings:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104307Z" creationid="mohammad" creationdate="20200924T104307Z">
+        <seg>lesson_basics_holdings:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_interacting:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104240Z" creationid="mohammad" creationdate="20200924T104240Z">
+        <seg>lesson_basics_interacting:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>lesson_basics_lifestyles:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T104233Z" creationid="mohammad" creationdate="20200924T104233Z">
@@ -2622,10 +2686,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>lesson_basics_marriage:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104253Z" creationid="mohammad" creationdate="20200924T104253Z">
+        <seg>lesson_basics_marriage:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>lesson_basics_resources:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T104226Z" creationid="mohammad" creationdate="20200924T104226Z">
         <seg>lesson_basics_resources:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_succession:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104248Z" creationid="mohammad" creationdate="20200924T104248Z">
+        <seg>lesson_basics_succession:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_titles:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104300Z" creationid="mohammad" creationdate="20200924T104300Z">
+        <seg>lesson_basics_titles:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_vassals:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T104350Z" creationid="mohammad" creationdate="20200924T104350Z">
+        <seg>lesson_basics_vassals:0</seg>
       </tuv>
     </tu>
     <tu>
