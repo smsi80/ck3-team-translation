@@ -1538,6 +1538,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"You are a medieval ruler! Land is yours for the taking, through clever marriages and diplomacy, or by way of the sword...\n\n#TUT There is no one way to 'win' in Crusader Kings, only different ways to enjoy the story that unfolds.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200924T131601Z" creationid="Alireza" creationdate="20200924T131601Z">
+        <seg>"You are a medieval ruler! Land is yours for the taking, through clever marriages and diplomacy, or by way of the sword...\n\n#TUT There is no one way to 'win' in Crusader Kings, only different ways to enjoy the story that unfolds.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[GetFocus('diplomacy_family_focus').GetName]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183718Z" creationid="mohammad" creationdate="20200921T183718Z">
