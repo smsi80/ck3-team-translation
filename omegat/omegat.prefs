@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <omegat>
   <preference version="1.0">
-    <source_font>Vazir</source_font>
-    <source_font_size>14</source_font_size>
+    <source_font>Dialog</source_font>
+    <source_font_size>12</source_font_size>
     <sb_progress_mode>DEFAULT</sb_progress_mode>
     <ac_glossary_enabled>true</ac_glossary_enabled>
     <ac_autotext_enabled>true</ac_autotext_enabled>
@@ -19,7 +19,7 @@
     <mt_auto_fetch>true</mt_auto_fetch>
     <dictionary_fuzzy_matching>true</dictionary_fuzzy_matching>
     <project_files_window_x>0</project_files_window_x>
-    <project_files_window_y>36</project_files_window_y>
+    <project_files_window_y>101</project_files_window_y>
     <project_files_window_width>1366</project_files_window_width>
     <project_files_window_height>667</project_files_window_height>
     <screen_x>-3</screen_x>
@@ -29,10 +29,10 @@
     <source_lang>en</source_lang>
     <target_lang>fa</target_lang>
     <most_recent_projects_size>10</most_recent_projects_size>
-    <most_recent_projects_0>/home/mohammad/ck3-persian/test</most_recent_projects_0>
-    <most_recent_projects_1>/home/mohammad/ck</most_recent_projects_1>
-    <most_recent_projects_2></most_recent_projects_2>
-    <most_recent_projects_3></most_recent_projects_3>
+    <most_recent_projects_0>/home/mohammad/ck3-persian/ck3-team-translation</most_recent_projects_0>
+    <most_recent_projects_1>/home/mohammad/general</most_recent_projects_1>
+    <most_recent_projects_2>/home/mohammad/ck3-persian/test</most_recent_projects_2>
+    <most_recent_projects_3>/home/mohammad/ck</most_recent_projects_3>
     <most_recent_projects_4></most_recent_projects_4>
     <most_recent_projects_5></most_recent_projects_5>
     <most_recent_projects_6></most_recent_projects_6>
@@ -103,7 +103,7 @@ ${targetText}
     <search_window_date_to_value>2020/09/18 06:57</search_window_date_to_value>
     <search_window_exclude_orphans>false</search_window_exclude_orphans>
     <search_window_full_half_width_insensitive>false</search_window_full_half_width_insensitive>
-    <search_window_search_history_item_0>education:</search_window_search_history_item_0>
+    <search_window_search_history_item_0>intrigue:</search_window_search_history_item_0>
     <wf_minimalSimilarity>80</wf_minimalSimilarity>
     <mark_para_delimitation_text>— ¶ —————————————————————</mark_para_delimitation_text>
     <wf_noSourceText>false</wf_noSourceText>
@@ -112,7 +112,7 @@ ${targetText}
     <wf_exportCurrentSegment>false</wf_exportCurrentSegment>
     <wf_stopOnAlternativeTranslation>false</wf_stopOnAlternativeTranslation>
     <wf_convertNumbers>false</wf_convertNumbers>
-    <allowTagEditing>true</allowTagEditing>
+    <allowTagEditing>false</allowTagEditing>
     <tagValidateOnLeave>false</tagValidateOnLeave>
     <save_auto_status>false</save_auto_status>
     <view_option_mod_info_template>${creationId} - ${changedId} ${changedDate} ${changedTime}</view_option_mod_info_template>
@@ -129,8 +129,8 @@ ${targetText}
     <ac_glossary_show_source>false</ac_glossary_show_source>
     <ac_glossary_sort_by_length>false</ac_glossary_sort_by_length>
     <ac_glossary_sort_alphabetically>false</ac_glossary_sort_alphabetically>
-    <allow_history_completer>false</allow_history_completer>
-    <history_completer_prediction_enabled>false</history_completer_prediction_enabled>
+    <allow_history_completer>true</allow_history_completer>
+    <history_completer_prediction_enabled>true</history_completer_prediction_enabled>
     <taas.user.key></taas.user.key>
     <mt_only_untranslated>false</mt_only_untranslated>
     <allow_belazar_translate>true</allow_belazar_translate>
@@ -144,7 +144,7 @@ ${targetText}
     <allow_google2_translate>false</allow_google2_translate>
     <allow_yandex_translate>false</allow_yandex_translate>
     <allow_yandex_cloud_translate>false</allow_yandex_cloud_translate>
-    <project_files_use_font>true</project_files_use_font>
+    <project_files_use_font>false</project_files_use_font>
     <lt_remoteURL></lt_remoteURL>
     <lt_localServerJarPath></lt_localServerJarPath>
     <lt_disabledCategories_fa>TYPOS,SPELL</lt_disabledCategories_fa>
@@ -165,8 +165,8 @@ ${targetText}
     <keep_foreign_matches>false</keep_foreign_matches>
     <external_finder_allow_project_commands>false</external_finder_allow_project_commands>
     <allow_google_translate_without_api_key>true</allow_google_translate_without_api_key>
-    <create_glossary_dialog_x>482</create_glossary_dialog_x>
-    <create_glossary_dialog_y>269</create_glossary_dialog_y>
+    <create_glossary_dialog_x>794</create_glossary_dialog_x>
+    <create_glossary_dialog_y>155</create_glossary_dialog_y>
     <create_glossary_dialog_width>398</create_glossary_dialog_width>
     <create_glossary_dialog_height>249</create_glossary_dialog_height>
     <issue_providers_disabled></issue_providers_disabled>
@@ -178,19 +178,21 @@ ${targetText}
     <issues_window_divider_location_bottom>476</issues_window_divider_location_bottom>
     <mark_translated_segments>true</mark_translated_segments>
     <mark_untranslated_segments>false</mark_untranslated_segments>
-    <search_window_search_history_item_1>education</search_window_search_history_item_1>
-    <search_window_search_history_item_2>grants</search_window_search_history_item_2>
-    <search_window_search_history_item_3>steward</search_window_search_history_item_3>
+    <search_window_search_history_item_1>intrigue</search_window_search_history_item_1>
+    <search_window_search_history_item_2>EDUCATION</search_window_search_history_item_2>
+    <search_window_search_history_item_3>education:</search_window_search_history_item_3>
     <notify_comments>true</notify_comments>
-    <search_window_search_history_item_4>holdings</search_window_search_history_item_4>
-    <search_window_search_history_item_5>domain_limit</search_window_search_history_item_5>
-    <search_window_search_history_item_6>domain</search_window_search_history_item_6>
-    <search_window_search_history_item_7>\n</search_window_search_history_item_7>
-    <stat_window_x>64</stat_window_x>
-    <stat_window_y>58</stat_window_y>
+    <search_window_search_history_item_4>education</search_window_search_history_item_4>
+    <search_window_search_history_item_5>grants</search_window_search_history_item_5>
+    <search_window_search_history_item_6>steward</search_window_search_history_item_6>
+    <search_window_search_history_item_7>holdings</search_window_search_history_item_7>
+    <stat_window_x>283</stat_window_x>
+    <stat_window_y>194</stat_window_y>
     <stat_window_width>800</stat_window_width>
     <stat_window_height>400</stat_window_height>
     <notify_glossary_hits>true</notify_glossary_hits>
     <notify_notes>true</notify_notes>
+    <search_window_search_history_item_8>domain_limit</search_window_search_history_item_8>
+    <search_window_search_history_item_9>domain</search_window_search_history_item_9>
   </preference>
 </omegat>
