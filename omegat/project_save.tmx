@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Adultery"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T224916Z" creationid="mohammad" creationdate="20200924T224916Z">
+        <seg>"زناکار"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Al-Andalus"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221615Z" creationid="BIG GAMER" creationdate="20200924T221615Z">
@@ -764,6 +772,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T105743Z" creationid="mohammad" creationdate="20200924T105743Z">
         <seg>"اعلان جنگ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Deviancy"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T225106Z" creationid="mohammad" creationdate="20200924T225106Z">
+        <seg>"کج رفتاری"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1324,6 +1340,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T221403Z" creationid="mohammad" creationdate="20200924T221403Z">
         <seg>"منحرف [GetTrait('deviant').GetName( GetNullCharacter )]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Known [GetTrait('fornicator').GetName( GetNullCharacter )]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T224918Z" creationid="mohammad" creationdate="20200924T224918Z">
+        <seg>"Known [GetTrait('fornicator').GetName( GetNullCharacter )]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2817,6 +2841,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>adulterer_intolerant:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T224831Z" creationid="mohammad" creationdate="20200924T224831Z">
+        <seg>adulterer_intolerant:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>authority_name:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184940Z" creationid="mohammad" creationdate="20200921T184940Z">
@@ -3221,6 +3253,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183705Z" creationid="mohammad" creationdate="20200921T183705Z">
         <seg>foreign_affairs_name:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>fornicator_crime:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T224904Z" creationid="mohammad" creationdate="20200924T224904Z">
+        <seg>fornicator_crime:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>fornicator_intolerant:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T224925Z" creationid="mohammad" creationdate="20200924T224925Z">
+        <seg>fornicator_intolerant:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -4431,6 +4479,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T220021Z" creationid="mohammad" creationdate="20200924T220021Z">
         <seg>secret_cannibal:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>secret_category_adultery:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T224926Z" creationid="mohammad" creationdate="20200924T224926Z">
+        <seg>secret_category_adultery:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>secret_category_deviancy:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T224927Z" creationid="mohammad" creationdate="20200924T224927Z">
+        <seg>secret_category_deviancy:0</seg>
       </tuv>
     </tu>
     <tu>
