@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Attempted Murder"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T215507Z" creationid="mohammad" creationdate="20200924T215507Z">
+        <seg>"اقدام به قتل"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"August"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184110Z" creationid="mohammad" creationdate="20200921T184110Z">
@@ -570,6 +578,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T224242Z" creationid="mohammad" creationdate="20200921T224242Z">
         <seg>"به دلیل [education|E] مدیریتی شما، #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! درصد [experience|E] بیشتری را در این سبک زندگی کسب می کنید."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Cannibal"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T220203Z" creationid="mohammad" creationdate="20200924T220203Z">
+        <seg>"ادمخوار"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1036,6 +1052,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T212805Z" creationid="mohammad" creationdate="20200921T185220Z">
         <seg>"دسیسه چینی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Known [GetTrait('cannibal').GetName( GetNullCharacter )]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T220013Z" creationid="mohammad" creationdate="20200924T220013Z">
+        <seg>"Known [GetTrait('cannibal').GetName( GetNullCharacter )]"ca</seg>
       </tuv>
     </tu>
     <tu>
@@ -2213,6 +2237,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184940Z" creationid="mohammad" creationdate="20200921T184940Z">
         <seg>authority_name:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>cannibal_crime:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T215509Z" creationid="mohammad" creationdate="20200924T215509Z">
+        <seg>cannibal_crime:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -3767,10 +3799,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>secret_cannibal:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T220021Z" creationid="mohammad" creationdate="20200924T220021Z">
+        <seg>secret_cannibal:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>secret_disputed_heritage_type_desc:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T171126Z" creationid="mohammad" creationdate="20200924T171126Z">
         <seg>secret_disputed_heritage_type_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>secret_murder_attempt:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T215339Z" creationid="mohammad" creationdate="20200924T215339Z">
+        <seg>secret_murder_attempt:0</seg>
       </tuv>
     </tu>
     <tu>
