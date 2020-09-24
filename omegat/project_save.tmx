@@ -566,6 +566,24 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Culture" #reactive advice now
+ lesson_basics_religion:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T105608Z" creationid="mohammad" creationdate="20200924T105608Z">
+        <seg>"Culture" #reactive advice now
+ lesson_basics_religion:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Declare War"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T105743Z" creationid="mohammad" creationdate="20200924T105743Z">
+        <seg>"اعلان جنگ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Diplomacy Education"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030459Z" creationid="mohammad" creationdate="20200922T030459Z">
@@ -1054,6 +1072,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Raise Armies"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T105845Z" creationid="mohammad" creationdate="20200924T105845Z">
+        <seg>"Raise Armies"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Read Later"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T102756Z" creationid="mohammad" creationdate="20200924T102756Z">
@@ -1066,6 +1092,16 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184027Z" creationid="mohammad" creationdate="20200921T184027Z">
         <seg>"حقانیت از آیین، سنت ها و افتخار جاری می شود."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Religion" #reactive advice now
+ lesson_basics_war:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T105609Z" creationid="mohammad" creationdate="20200924T105609Z">
+        <seg>"Religion" #reactive advice now
+ lesson_basics_war:2</seg>
       </tuv>
     </tu>
     <tu>
@@ -1320,8 +1356,8 @@
       <tuv lang="en">
         <seg>"V — Lifestyle"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T104239Z" creationid="mohammad" creationdate="20200924T104239Z">
-        <seg>"V — شیوه زندگی"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T105013Z" creationid="mohammad" creationdate="20200924T104239Z">
+        <seg>"V — سبک زندگی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1394,6 +1430,46 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T105008Z" creationid="mohammad" creationdate="20200924T105008Z">
         <seg>"XI — واسال ها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"XII — Domain"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T105033Z" creationid="mohammad" creationdate="20200924T105033Z">
+        <seg>"XII — Domain"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"XIII — Council"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T105050Z" creationid="mohammad" creationdate="20200924T105050Z">
+        <seg>"XIII — شورا"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"XIV — Schemes"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T105604Z" creationid="mohammad" creationdate="20200924T105604Z">
+        <seg>"XIV — نقشه ها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"XV — War"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T105614Z" creationid="mohammad" creationdate="20200924T105614Z">
+        <seg>"XV — جنگ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"XVI — Unpausing"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T105736Z" creationid="mohammad" creationdate="20200924T105736Z">
+        <seg>"XVI — Unpausing"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2654,6 +2730,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>lesson_basics_culture:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T105605Z" creationid="mohammad" creationdate="20200924T105605Z">
+        <seg>lesson_basics_culture:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>lesson_basics_holdings:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T104307Z" creationid="mohammad" creationdate="20200924T104307Z">
@@ -2702,6 +2786,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>lesson_basics_schemes:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T105053Z" creationid="mohammad" creationdate="20200924T105053Z">
+        <seg>lesson_basics_schemes:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>lesson_basics_succession:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T104248Z" creationid="mohammad" creationdate="20200924T104248Z">
@@ -2718,10 +2810,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>lesson_basics_unpause:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T105615Z" creationid="mohammad" creationdate="20200924T105615Z">
+        <seg>lesson_basics_unpause:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>lesson_basics_vassals:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T104350Z" creationid="mohammad" creationdate="20200924T104350Z">
         <seg>lesson_basics_vassals:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_declare_war:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T105737Z" creationid="mohammad" creationdate="20200924T105737Z">
+        <seg>lesson_declare_war:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_raise_troops:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T105744Z" creationid="mohammad" creationdate="20200924T105744Z">
+        <seg>lesson_raise_troops:0</seg>
       </tuv>
     </tu>
     <tu>
