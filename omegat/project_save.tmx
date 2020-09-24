@@ -2591,6 +2591,18 @@
     <tu>
       <tuv lang="en">
         <seg>l_english:
+ #Become Greatest of Khans
+ become_greatest_of_khans_decision:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200924T133230Z" creationid="Alireza" creationdate="20200924T133230Z">
+        <seg>l_english:
+ #Become Greatest of Khans
+ become_greatest_of_khans_decision:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
  #Yazidi
  yazidi_religion:0</seg>
       </tuv>
@@ -2678,6 +2690,26 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200922T032218Z" creationid="mohammad" creationdate="20200922T032218Z">
         <seg>l_english:
  councillor_coregent_modifier:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
+ feast_strategy_discussions_modifier:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200924T133230Z" creationid="Alireza" creationdate="20200924T133230Z">
+        <seg>l_english:
+ feast_strategy_discussions_modifier:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
+ innovative_strategy_modifier:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200924T133228Z" creationid="Alireza" creationdate="20200924T133228Z">
+        <seg>l_english:
+ innovative_strategy_modifier:0</seg>
       </tuv>
     </tu>
     <tu>
