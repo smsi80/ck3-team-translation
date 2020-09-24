@@ -414,10 +414,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"A House of My Own"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T214417Z" creationid="BIG GAMER" creationdate="20200924T214417Z">
+        <seg>خاندانی برای خودم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"A Legacy to Last the Ages"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T214332Z" creationid="BIG GAMER" creationdate="20200924T214332Z">
+        <seg>میراثی که در اعصار پا بر جا بماند</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"A Name Known Throughout the World"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215411Z" creationid="BIG GAMER" creationdate="20200924T215411Z">
+        <seg>نامی شناخته شده در جهان</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"A Perfect Circle"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223340Z" creationid="BIG GAMER" creationdate="20200924T223340Z">
+        <seg>مدور کامل</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"A child of less than $AGE$ cannot have an [education_focus|E]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030421Z" creationid="mohammad" creationdate="20200922T030421Z">
         <seg>"کودکان کوچکتر از $AGE$ نمی توانند یک [education_focus|E] داشته باشند.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Above God"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222248Z" creationid="BIG GAMER" creationdate="20200924T222248Z">
+        <seg>خداوند بالاسری</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Al-Andalus"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221615Z" creationid="BIG GAMER" creationdate="20200924T221615Z">
+        <seg>الاندلس</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"All Sound Effects"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T184122Z" creationid="mohammad" creationdate="20200924T184122Z">
@@ -450,6 +498,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T213815Z" creationid="mohammad" creationdate="20200924T213815Z">
         <seg>"محیط"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"An Unfortunate Accident"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222941Z" creationid="BIG GAMER" creationdate="20200924T222941Z">
+        <seg>بک حادثه ناگوار</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,10 +590,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Bad Blood"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223054Z" creationid="BIG GAMER" creationdate="20200924T223054Z">
+        <seg>خون کثیف</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Battles"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T110107Z" creationid="mohammad" creationdate="20200924T110107Z">
         <seg>"نبردها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Beacon of Progress"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223558Z" creationid="BIG GAMER" creationdate="20200924T223558Z">
+        <seg>مشعل پیشرفت</seg>
       </tuv>
     </tu>
     <tu>
@@ -582,10 +654,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Blood Eagle"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221941Z" creationid="BIG GAMER" creationdate="20200924T221941Z">
+        <seg>عقاب خونین</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Cannibal"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T220203Z" creationid="mohammad" creationdate="20200924T220203Z">
         <seg>"ادمخوار"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Carolingian Consolidation"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223454Z" creationid="BIG GAMER" creationdate="20200924T223454Z">
+        <seg>تمرکز قدرت کارولینگیان</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Celebrity"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215942Z" creationid="BIG GAMER" creationdate="20200924T215942Z">
+        <seg>مشهور</seg>
       </tuv>
     </tu>
     <tu>
@@ -656,6 +752,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Death Did Us Part"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223013Z" creationid="BIG GAMER" creationdate="20200924T223013Z">
+        <seg>مرگ جدایمان کرد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Declare War"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T105743Z" creationid="mohammad" creationdate="20200924T105743Z">
@@ -720,10 +824,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Dreadful Ruler"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T214452Z" creationid="BIG GAMER" creationdate="20200924T214452Z">
+        <seg>حاکم مهیب</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Duty Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T022744Z" creationid="mohammad" creationdate="20200922T022744Z">
         <seg>"تمرکز روی وظایف"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Easy"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T213442Z" creationid="BIG GAMER" creationdate="20200924T213442Z">
+        <seg>اسان"Easy"</seg>
       </tuv>
     </tu>
     <tu>
@@ -756,6 +876,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T032413Z" creationid="mohammad" creationdate="20200922T032413Z">
         <seg>"تحصیلات"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"End of an Era"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215442Z" creationid="BIG GAMER" creationdate="20200924T215442Z">
+        <seg>پایان یک دوران</seg>
       </tuv>
     </tu>
     <tu>
@@ -796,6 +924,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183834Z" creationid="mohammad" creationdate="20200921T183834Z">
         <seg>"بزرگ خاندان خانواده"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Fine Print"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222612Z" creationid="BIG GAMER" creationdate="20200924T222612Z">
+        <seg>کپی خوب</seg>
       </tuv>
     </tu>
     <tu>
@@ -976,6 +1112,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Followed by Shadows"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221003Z" creationid="BIG GAMER" creationdate="20200924T221003Z">
+        <seg>تعقب شدن به وسیله ی سایه</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"For the Faith!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223033Z" creationid="BIG GAMER" creationdate="20200924T223033Z">
+        <seg>برای ایمان</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Foreign Affairs Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183424Z" creationid="mohammad" creationdate="20200921T183424Z">
@@ -984,10 +1136,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Frankokratia"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215920Z" creationid="BIG GAMER" creationdate="20200924T215920Z">
+        <seg>فرانسوی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"From Rags to Riches"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221506Z" creationid="BIG GAMER" creationdate="20200924T221506Z">
+        <seg>از گدایی به ثروت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Gallant"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T185212Z" creationid="mohammad" creationdate="20200921T185212Z">
         <seg>"دلاور"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Give a Dog a Bone"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221549Z" creationid="BIG GAMER" creationdate="20200924T221549Z">
+        <seg>به یک سگ یه استخوان بده</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Going Places"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222201Z" creationid="BIG GAMER" creationdate="20200924T222201Z">
+        <seg>جاهای رفتنی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Hard"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T213842Z" creationid="BIG GAMER" creationdate="20200924T213842Z">
+        <seg>سخت</seg>
       </tuv>
     </tu>
     <tu>
@@ -1072,6 +1264,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"It's not a Cult!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222805Z" creationid="BIG GAMER" creationdate="20200924T222805Z">
+        <seg>این یک فرقه نیست</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Keeping it in the Family"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T220200Z" creationid="BIG GAMER" creationdate="20200924T220200Z">
+        <seg>حفظ ان در داخل خنواده</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Kings to the Seventh Generation"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222015Z" creationid="BIG GAMER" creationdate="20200924T222015Z">
+        <seg>شاه برای نصل هفتم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Know Your Place"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222640Z" creationid="BIG GAMER" creationdate="20200924T222640Z">
+        <seg>جایگاه خودت را بدان</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Known Incester"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T222719Z" creationid="mohammad" creationdate="20200924T222719Z">
@@ -1108,6 +1332,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T222119Z" creationid="mohammad" creationdate="20200924T222119Z">
         <seg>"معروف به [GetTrait('witch').GetName( GetNullCharacter )]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Land of the Rus"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222223Z" creationid="BIG GAMER" creationdate="20200924T222223Z">
+        <seg>ملک روس</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Last Count, First King"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215057Z" creationid="BIG GAMER" creationdate="20200924T215057Z">
+        <seg>اخرین کنت ،اولین شاه</seg>
       </tuv>
     </tu>
     <tu>
@@ -1208,6 +1448,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Medium"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T213717Z" creationid="BIG GAMER" creationdate="20200924T213717Z">
+        <seg>متوسط</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Monumental"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222735Z" creationid="BIG GAMER" creationdate="20200924T222735Z">
+        <seg>عظیم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Mother of us All"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223727Z" creationid="BIG GAMER" creationdate="20200924T223727Z">
+        <seg>مادر همه ماها</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Moving up in the World"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223525Z" creationid="BIG GAMER" creationdate="20200924T223525Z">
+        <seg>قرقی کردن در دنیا</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Murder"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T215337Z" creationid="mohammad" creationdate="20200924T215337Z">
@@ -1240,10 +1512,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Non Nobis Domine"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T220742Z" creationid="BIG GAMER" creationdate="20200924T220742Z">
+        <seg>نه بر ما</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Non-Believer"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T222246Z" creationid="mohammad" creationdate="20200924T222246Z">
         <seg>"بی اعتقاد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Norman Yoke"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222039Z" creationid="BIG GAMER" creationdate="20200924T222039Z">
+        <seg>یوغ نورمنها</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Not So Feudal System"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T214658Z" creationid="BIG GAMER" creationdate="20200924T214658Z">
+        <seg>سیستمی نه چندان فئودالی</seg>
       </tuv>
     </tu>
     <tu>
@@ -1272,10 +1568,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Paragon of Virtue"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222435Z" creationid="BIG GAMER" creationdate="20200924T222435Z">
+        <seg>نماد خوبی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Please, Repeat"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T103414Z" creationid="mohammad" creationdate="20200924T103414Z">
         <seg>"لطفا، تکرار کنید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Prolific"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215258Z" creationid="BIG GAMER" creationdate="20200924T215258Z">
+        <seg>پر برکت</seg>
       </tuv>
     </tu>
     <tu>
@@ -1305,6 +1617,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Reconquista"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215624Z" creationid="BIG GAMER" creationdate="20200924T215624Z">
+        <seg>فتح  دوباره</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Regality flows from ritual, tradition and glory."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184027Z" creationid="mohammad" creationdate="20200921T184027Z">
@@ -1327,6 +1647,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T182955Z" creationid="mohammad" creationdate="20200921T182955Z">
         <seg>"Rigueint"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Rise from the Ashes"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221258Z" creationid="BIG GAMER" creationdate="20200924T221258Z">
+        <seg>بر خیز از خاکسترها</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Royal Dignity"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222104Z" creationid="BIG GAMER" creationdate="20200924T222104Z">
+        <seg>شرف همایونی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Saint"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T220020Z" creationid="BIG GAMER" creationdate="20200924T220020Z">
+        <seg>شیخ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1379,10 +1723,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Seductive"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223233Z" creationid="BIG GAMER" creationdate="20200924T223233Z">
+        <seg>جذاب</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Seven Holy Cities"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215725Z" creationid="BIG GAMER" creationdate="20200924T215725Z">
+        <seg>هفت شهر مقدس</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Show Me Again"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T103402Z" creationid="mohammad" creationdate="20200924T103402Z">
         <seg>"دوباره نشان بده"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Sibling Rivalry"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221911Z" creationid="BIG GAMER" creationdate="20200924T221911Z">
+        <seg>رقابت خواهر برادری</seg>
       </tuv>
     </tu>
     <tu>
@@ -1459,6 +1827,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Stressful Situation"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T214611Z" creationid="BIG GAMER" creationdate="20200924T214611Z">
+        <seg>وضعیت اضطراب اور</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Tell Me More"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T103310Z" creationid="mohammad" creationdate="20200924T103310Z">
@@ -1471,6 +1847,46 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T213403Z" creationid="mohammad" creationdate="20200921T213403Z">
         <seg>"تمرکز روی اغواگری"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The Emerald Isle"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221358Z" creationid="BIG GAMER" creationdate="20200924T221358Z">
+        <seg>جزیره  زمرد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The Emperor's New Clothes"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223319Z" creationid="BIG GAMER" creationdate="20200924T223319Z">
+        <seg>لباس های جدید امپراطور</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The Succession is Safe"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T214849Z" creationid="BIG GAMER" creationdate="20200924T214849Z">
+        <seg>جانشینی در امان است</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The Things Love Does for Us"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222542Z" creationid="BIG GAMER" creationdate="20200924T222542Z">
+        <seg>کارهایی که عشق برایمان میکند</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The Things We Do for Love"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222902Z" creationid="BIG GAMER" creationdate="20200924T222902Z">
+        <seg>کارهایی که بخاطر عشق انجام میدهیم</seg>
       </tuv>
     </tu>
     <tu>
@@ -1595,6 +2011,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Trapped in the Web"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T220845Z" creationid="BIG GAMER" creationdate="20200924T220845Z">
+        <seg>گرفتار در تار عنکبوت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Turning to Diamonds"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215526Z" creationid="BIG GAMER" creationdate="20200924T215526Z">
+        <seg>مبدل شدن به الماس</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Tutorial"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T172318Z" creationid="mohammad" creationdate="20200924T172155Z">
@@ -1607,6 +2039,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T183609Z" creationid="mohammad" creationdate="20200924T183609Z">
         <seg>"باز کردن تاخیر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Until Death Do Us Part"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T214031Z" creationid="BIG GAMER" creationdate="20200924T214031Z">
+        <seg>تا مرگ جدایمان سازد</seg>
       </tuv>
     </tu>
     <tu>
@@ -1643,6 +2083,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Very Easy"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T213421Z" creationid="BIG GAMER" creationdate="20200924T213421Z">
+        <seg>خیلی ساده</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Very Hard"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T213936Z" creationid="BIG GAMER" creationdate="20200924T213936Z">
+        <seg>خیلی سخت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Victory comes not through blood or gold, but honor."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T185113Z" creationid="mohammad" creationdate="20200921T185113Z">
@@ -1667,6 +2123,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Way of Life"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T214204Z" creationid="BIG GAMER" creationdate="20200924T214204Z">
+        <seg>راه  و روش زندگی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Wealth"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023734Z" creationid="mohammad" creationdate="20200922T023734Z">
@@ -1683,10 +2147,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"What Nepotism?"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221215Z" creationid="BIG GAMER" creationdate="20200924T221215Z">
+        <seg>چه پارتی بازی؟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Whole of Body"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T025748Z" creationid="mohammad" creationdate="20200922T025748Z">
         <seg>"تمام بدن"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Wily as the Fox"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221725Z" creationid="BIG GAMER" creationdate="20200924T221652Z">
+        <seg>حیله گر به مانند روباه</seg>
       </tuv>
     </tu>
     <tu>
@@ -1967,6 +2447,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T031916Z" creationid="mohammad" creationdate="20200922T031916Z">
         <seg>"\n\nکودکان #P [ROOT.Char.Custom('ChildhoodPersonalityTrait')]  معمولا مدیریت را بهتر فرا می گیرند.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Álmost There"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T214931Z" creationid="BIG GAMER" creationdate="20200924T214931Z">
+        <seg>داره میاد</seg>
       </tuv>
     </tu>
     <tu>
