@@ -1288,6 +1288,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Is Incestuous"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T230627Z" creationid="mohammad" creationdate="20200924T230627Z">
+        <seg>"Is Incestuous"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Is a Cannibal"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T230228Z" creationid="mohammad" creationdate="20200924T230228Z">
@@ -1304,10 +1312,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Is a Non-Believer"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T230553Z" creationid="mohammad" creationdate="20200924T230553Z">
+        <seg>"یک بی ایمان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Is a Sodomite"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T230235Z" creationid="mohammad" creationdate="20200924T225326Z">
         <seg>"یک همجنسگرا است"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Is a Witch"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T230643Z" creationid="mohammad" creationdate="20200924T230643Z">
+        <seg>"یک ساحره است"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4627,6 +4651,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>secret_incest_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T230555Z" creationid="mohammad" creationdate="20200924T230555Z">
+        <seg>secret_incest_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>secret_lover:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T220205Z" creationid="mohammad" creationdate="20200924T220205Z">
@@ -4675,10 +4707,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>secret_non_believer_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T230353Z" creationid="mohammad" creationdate="20200924T230353Z">
+        <seg>secret_non_believer_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>secret_witch:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T221905Z" creationid="mohammad" creationdate="20200924T221905Z">
         <seg>secret_witch:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>secret_witch_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T230629Z" creationid="mohammad" creationdate="20200924T230629Z">
+        <seg>secret_witch_desc:0</seg>
       </tuv>
     </tu>
     <tu>
