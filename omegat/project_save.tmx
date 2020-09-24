@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $SETTING_TOOLTIP_DELAY$#!\nSets the delay before tooltips appear."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T183544Z" creationid="mohammad" creationdate="20200924T183544Z">
+        <seg>"#T $SETTING_TOOLTIP_DELAY$#!\nSets the delay before tooltips appear."</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="en">
         <seg>"#TUT_KW Current Lifestyle Focus#!"</seg>
@@ -58,6 +66,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184409Z" creationid="mohammad" creationdate="20200921T184409Z">
         <seg>"تمرکز $martial_strategy_focus_short$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$secret_disputed_heritage_tooltip_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T171121Z" creationid="mohammad" creationdate="20200924T171121Z">
+        <seg>"$secret_disputed_heritage_tooltip_desc$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"All Sound Effects"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T184122Z" creationid="mohammad" creationdate="20200924T184122Z">
+        <seg>"کل صدای جلوه ها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"An understanding of life, beyond the vagaries of the world upon the body."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T025733Z" creationid="mohammad" creationdate="20200922T025733Z">
@@ -466,6 +490,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184701Z" creationid="mohammad" creationdate="20200921T184651Z">
         <seg>"اقتدار"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Autosave interval"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T172058Z" creationid="mohammad" creationdate="20200924T170940Z">
+        <seg>"ذخیره سازی خودکار"</seg>
       </tuv>
     </tu>
     <tu>
@@ -632,6 +664,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Disabled hints"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T173909Z" creationid="mohammad" creationdate="20200924T172250Z">
+        <seg>"غیرفعال کردن راهنماها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Do Explain"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T103112Z" creationid="mohammad" creationdate="20200924T103112Z">
@@ -724,6 +764,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183834Z" creationid="mohammad" creationdate="20200921T183834Z">
         <seg>"بزرگ خاندان خانواده"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Focus on combat"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T175827Z" creationid="mohammad" creationdate="20200924T175827Z">
+        <seg>"تمرکز بر نبرد"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1000,6 +1048,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Lock Delay"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T183708Z" creationid="mohammad" creationdate="20200924T183708Z">
+        <seg>"قفل تاخیر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Locked Open Delay"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T184029Z" creationid="mohammad" creationdate="20200924T184029Z">
+        <seg>"قفل تاخیر باز شده"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Losing Wars"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T110229Z" creationid="mohammad" creationdate="20200924T110229Z">
@@ -1080,6 +1144,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Number of debug saves"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T175910Z" creationid="mohammad" creationdate="20200924T170950Z">
+        <seg>"تعداد اشکال زدائی های ذخیره ها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"One can never have too many friends, near or far."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183636Z" creationid="mohammad" creationdate="20200921T183636Z">
@@ -1116,6 +1188,15 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T102756Z" creationid="mohammad" creationdate="20200924T102756Z">
         <seg>"بعدا بخوانید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>در حا</note>
+      <tuv lang="en">
+        <seg>"Realm Borders on Coasts"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T181759Z" creationid="mohammad" creationdate="20200924T180851Z">
+        <seg>"مرز های قلمرو در کرانه دریا"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1386,10 +1467,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Tooltip Delay"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T182913Z" creationid="mohammad" creationdate="20200924T182913Z">
+        <seg>"Tooltip Delay"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Torturer"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T223454Z" creationid="mohammad" creationdate="20200921T223454Z">
         <seg>"شکنجه گر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Tutorial"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T172318Z" creationid="mohammad" creationdate="20200924T172155Z">
+        <seg>"خودآموز"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Unlock Delay"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T183609Z" creationid="mohammad" creationdate="20200924T183609Z">
+        <seg>"باز کردن تاخیر"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1746,6 +1851,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg># Audio
+ SETTING_Sound_Effects:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T184040Z" creationid="mohammad" creationdate="20200924T184040Z">
+        <seg># Audio
+ SETTING_Sound_Effects:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg># Basics
  lesson_basics_welcome:0</seg>
       </tuv>
@@ -1954,6 +2069,110 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T074918Z" creationid="mohammad" creationdate="20200924T074918Z">
         <seg>LIFESTYLE_FOCUS_VIEW_TITLE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_DEBUG_SAVES:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T170941Z" creationid="mohammad" creationdate="20200924T170941Z">
+        <seg>SETTING_DEBUG_SAVES:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_DISABLED_HINTS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T172302Z" creationid="mohammad" creationdate="20200924T172302Z">
+        <seg>SETTING_DISABLED_HINTS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_FOCUS_ON_COMBAT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T174436Z" creationid="mohammad" creationdate="20200924T174436Z">
+        <seg>SETTING_FOCUS_ON_COMBAT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_REALM_BORDERS_AGAINST_WATER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T182920Z" creationid="mohammad" creationdate="20200924T182920Z">
+        <seg>SETTING_REALM_BORDERS_AGAINST_WATER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_Sound_Effects_TOOLTIP:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T184503Z" creationid="mohammad" creationdate="20200924T184503Z">
+        <seg>SETTING_Sound_Effects_TOOLTIP:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_TOOLTIP_DELAY:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T181215Z" creationid="mohammad" creationdate="20200924T181215Z">
+        <seg>SETTING_TOOLTIP_DELAY:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_TOOLTIP_DELAY_TOOLTIP:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T183710Z" creationid="mohammad" creationdate="20200924T183710Z">
+        <seg>SETTING_TOOLTIP_DELAY_TOOLTIP:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_TOOLTIP_LOCK_TIME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T183732Z" creationid="mohammad" creationdate="20200924T183732Z">
+        <seg>SETTING_TOOLTIP_LOCK_TIME:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_TOOLTIP_LOCK_TIME_TOOLTIP:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T183926Z" creationid="mohammad" creationdate="20200924T183926Z">
+        <seg>SETTING_TOOLTIP_LOCK_TIME_TOOLTIP:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_TOOLTIP_OPEN_TIME_WHEN_ANOTHER_LOCKED_TOOLTIP:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T184038Z" creationid="mohammad" creationdate="20200924T184038Z">
+        <seg>SETTING_TOOLTIP_OPEN_TIME_WHEN_ANOTHER_LOCKED_TOOLTIP:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_TOOLTIP_UNLOCK_TIME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T183721Z" creationid="mohammad" creationdate="20200924T183721Z">
+        <seg>SETTING_TOOLTIP_UNLOCK_TIME:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_TOOLTIP_UNLOCK_TIME_TOOLTIP:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T183725Z" creationid="mohammad" creationdate="20200924T183725Z">
+        <seg>SETTING_TOOLTIP_UNLOCK_TIME_TOOLTIP:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_TUTORIAL:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T172305Z" creationid="mohammad" creationdate="20200924T172305Z">
+        <seg>SETTING_TUTORIAL:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -2685,6 +2904,36 @@
     <tu>
       <tuv lang="en">
         <seg>l_english:
+ SETTING_AUTOSAVE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T170858Z" creationid="mohammad" creationdate="20200924T170858Z">
+        <seg>l_english:
+ SETTING_AUTOSAVE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
+ SUCCESSION_LAW_CHANGE_WINDOW_TITLE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T170859Z" creationid="mohammad" creationdate="20200924T170859Z">
+        <seg>l_english:
+ SUCCESSION_LAW_CHANGE_WINDOW_TITLE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
+ belittled_my_enemy:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T180350Z" creationid="mohammad" creationdate="20200924T180350Z">
+        <seg>l_english:
+ belittled_my_enemy:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
  councillor_coregent_modifier:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T032218Z" creationid="mohammad" creationdate="20200922T032218Z">
@@ -2710,6 +2959,16 @@
       <tuv lang="fa" changeid="Alireza" changedate="20200924T133228Z" creationid="Alireza" creationdate="20200924T133228Z">
         <seg>l_english:
  innovative_strategy_modifier:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
+ secret_murder:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T170852Z" creationid="mohammad" creationdate="20200924T170852Z">
+        <seg>l_english:
+ secret_murder:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -3478,6 +3737,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030244Z" creationid="mohammad" creationdate="20200922T030244Z">
         <seg>scholarship_name:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>secret_disputed_heritage_type_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T171126Z" creationid="mohammad" creationdate="20200924T171126Z">
+        <seg>secret_disputed_heritage_type_desc:0</seg>
       </tuv>
     </tu>
     <tu>
