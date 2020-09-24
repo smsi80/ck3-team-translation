@@ -1040,6 +1040,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Incestuous"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T222349Z" creationid="mohammad" creationdate="20200924T222349Z">
+        <seg>زنا با محارم"Incestuous"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Intimidation Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T222612Z" creationid="mohammad" creationdate="20200921T222612Z">
@@ -1076,6 +1084,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T221403Z" creationid="mohammad" creationdate="20200924T221403Z">
         <seg>"منحرف [GetTrait('deviant').GetName( GetNullCharacter )]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Known [GetTrait('sodomite').GetName( GetNullCharacter )]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T222126Z" creationid="mohammad" creationdate="20200924T222126Z">
+        <seg>"معروف به [GetTrait('sodomite').GetName( GetNullCharacter )]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1212,6 +1228,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T102557Z" creationid="mohammad" creationdate="20200924T102557Z">
         <seg>"بعدی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Non-Believer"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T222246Z" creationid="mohammad" creationdate="20200924T222246Z">
+        <seg>"بی اعتقاد"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3907,6 +3931,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>secret_incest:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T222234Z" creationid="mohammad" creationdate="20200924T222234Z">
+        <seg>secret_incest:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>secret_lover:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T220205Z" creationid="mohammad" creationdate="20200924T220205Z">
@@ -3919,6 +3951,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T215339Z" creationid="mohammad" creationdate="20200924T215339Z">
         <seg>secret_murder_attempt:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>secret_non_believer:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T222231Z" creationid="mohammad" creationdate="20200924T222231Z">
+        <seg>secret_non_believer:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -3943,6 +3983,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T213255Z" creationid="mohammad" creationdate="20200921T213255Z">
         <seg>skulduggery_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sodomite_crime:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T222133Z" creationid="mohammad" creationdate="20200924T222133Z">
+        <seg>sodomite_crime:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sodomite_intolerant:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T222134Z" creationid="mohammad" creationdate="20200924T222134Z">
+        <seg>sodomite_intolerant:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -4199,6 +4255,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T221914Z" creationid="mohammad" creationdate="20200924T221914Z">
         <seg>witch_crime:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>witchcraft_crime:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T222137Z" creationid="mohammad" creationdate="20200924T222137Z">
+        <seg>witchcraft_crime:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>witchcraft_intolerant:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T222142Z" creationid="mohammad" creationdate="20200924T222142Z">
+        <seg>witchcraft_intolerant:0</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
