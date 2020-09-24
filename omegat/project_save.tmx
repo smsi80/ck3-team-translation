@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Attempted to murder [TARGET_CHARACTER.GetShortUIName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T225328Z" creationid="mohammad" creationdate="20200924T225328Z">
+        <seg>"Attempted to murder [TARGET_CHARACTER.GetShortUIName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"August"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184110Z" creationid="mohammad" creationdate="20200921T184110Z">
@@ -1284,6 +1292,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T225313Z" creationid="mohammad" creationdate="20200924T225313Z">
         <seg>"کج رفتار است"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Is a Sodomite"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T225326Z" creationid="mohammad" creationdate="20200924T225326Z">
+        <seg>"همجنسگرا است"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4563,6 +4579,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>secret_homosexual_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T225315Z" creationid="mohammad" creationdate="20200924T225315Z">
+        <seg>secret_homosexual_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>secret_incest:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T222234Z" creationid="mohammad" creationdate="20200924T222234Z">
@@ -4583,6 +4607,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T215339Z" creationid="mohammad" creationdate="20200924T215339Z">
         <seg>secret_murder_attempt:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>secret_murder_attempt_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T225432Z" creationid="mohammad" creationdate="20200924T225432Z">
+        <seg>secret_murder_attempt_desc:1</seg>
       </tuv>
     </tu>
     <tu>
