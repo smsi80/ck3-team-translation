@@ -438,6 +438,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Army Movement"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T110038Z" creationid="mohammad" creationdate="20200924T110038Z">
+        <seg>"حرکت ارتش"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Army Purpose"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T110043Z" creationid="mohammad" creationdate="20200924T110043Z">
+        <seg>"هدف ارتش"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"August"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184110Z" creationid="mohammad" creationdate="20200921T184110Z">
@@ -466,6 +482,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T103322Z" creationid="mohammad" creationdate="20200924T103322Z">
         <seg>"بازگشت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Battles"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T110107Z" creationid="mohammad" creationdate="20200924T110107Z">
+        <seg>"نبردها"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1074,8 +1098,8 @@
       <tuv lang="en">
         <seg>"Raise Armies"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T105845Z" creationid="mohammad" creationdate="20200924T105845Z">
-        <seg>"Raise Armies"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T110029Z" creationid="mohammad" creationdate="20200924T105845Z">
+        <seg>"جمع کردن ارتش"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1166,6 +1190,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T103402Z" creationid="mohammad" creationdate="20200924T103402Z">
         <seg>"دوباره نشان بده"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Sieges"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T110114Z" creationid="mohammad" creationdate="20200924T110114Z">
+        <seg>"محاصره"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1402,6 +1434,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Warscore"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T110141Z" creationid="mohammad" creationdate="20200924T110141Z">
+        <seg>"Warscore"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Wealth"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023734Z" creationid="mohammad" creationdate="20200922T023734Z">
@@ -1468,8 +1508,8 @@
       <tuv lang="en">
         <seg>"XVI — Unpausing"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T105736Z" creationid="mohammad" creationdate="20200924T105736Z">
-        <seg>"XVI — Unpausing"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T105852Z" creationid="mohammad" creationdate="20200924T105736Z">
+        <seg>"XVI — شروع دوباره"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2722,6 +2762,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>lesson_army_movement:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T110030Z" creationid="mohammad" creationdate="20200924T110030Z">
+        <seg>lesson_army_movement:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_army_purpose:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T110038Z" creationid="mohammad" creationdate="20200924T110038Z">
+        <seg>lesson_army_purpose:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>lesson_basics_character:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T104215Z" creationid="mohammad" creationdate="20200924T104215Z">
@@ -2826,6 +2882,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>lesson_battle_mechanics:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T110044Z" creationid="mohammad" creationdate="20200924T110044Z">
+        <seg>lesson_battle_mechanics:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>lesson_declare_war:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T105737Z" creationid="mohammad" creationdate="20200924T105737Z">
@@ -2838,6 +2902,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T105744Z" creationid="mohammad" creationdate="20200924T105744Z">
         <seg>lesson_raise_troops:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_siege_mechanics:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T110108Z" creationid="mohammad" creationdate="20200924T110108Z">
+        <seg>lesson_siege_mechanics:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -3118,6 +3190,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T104116Z" creationid="mohammad" creationdate="20200924T104116Z">
         <seg>lesson_step_8_of_8:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_warscore:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T110114Z" creationid="mohammad" creationdate="20200924T110114Z">
+        <seg>lesson_warscore:0</seg>
       </tuv>
     </tu>
     <tu>
