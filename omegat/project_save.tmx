@@ -726,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Skip Lesson"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T101319Z" creationid="mohammad" creationdate="20200924T101319Z">
+        <seg>"رد کردن آموزش"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Skulduggery Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T212956Z" creationid="mohammad" creationdate="20200921T212956Z">
@@ -1882,6 +1890,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T214533Z" creationid="mohammad" creationdate="20200922T214533Z">
         <seg>intrigue_temptation_focus_modifier:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T101135Z" creationid="mohammad" creationdate="20200924T101135Z">
+        <seg>l_english:</seg>
       </tuv>
     </tu>
     <tu>
