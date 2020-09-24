@@ -1072,6 +1072,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Known Incester"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T222719Z" creationid="mohammad" creationdate="20200924T222719Z">
+        <seg>"Known Incester"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Known [GetTrait('cannibal').GetName( GetNullCharacter )]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T221209Z" creationid="mohammad" creationdate="20200924T220013Z">
@@ -2749,6 +2757,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T032453Z" creationid="mohammad" creationdate="20200922T032453Z">
         <seg>game_concept_education_focus_short:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>incest_intolerant:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T222350Z" creationid="mohammad" creationdate="20200924T222350Z">
+        <seg>incest_intolerant:0</seg>
       </tuv>
     </tu>
     <tu>
