@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$secret_unmarried_illegitimate_child$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T230746Z" creationid="mohammad" creationdate="20200924T230746Z">
+        <seg>"$secret_unmarried_illegitimate_child$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$stewardship_wealth_focus_short$ Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023638Z" creationid="mohammad" creationdate="20200922T023638Z">
@@ -710,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Child's Heritage"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T230744Z" creationid="mohammad" creationdate="20200924T230744Z">
+        <seg>"Child's Heritage"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Chivalry"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T185033Z" creationid="mohammad" creationdate="20200921T185033Z">
@@ -828,6 +844,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T173909Z" creationid="mohammad" creationdate="20200924T172250Z">
         <seg>"غیرفعال کردن راهنماها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Disputed Heritage"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T230826Z" creationid="mohammad" creationdate="20200924T230826Z">
+        <seg>"Disputed Heritage"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4619,6 +4643,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>secret_disputed_heritage:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T230747Z" creationid="mohammad" creationdate="20200924T230747Z">
+        <seg>secret_disputed_heritage:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>secret_disputed_heritage_type_desc:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T171126Z" creationid="mohammad" creationdate="20200924T171126Z">
@@ -4639,6 +4671,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T225315Z" creationid="mohammad" creationdate="20200924T225315Z">
         <seg>secret_homosexual_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>secret_illegitimate_child:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T230746Z" creationid="mohammad" creationdate="20200924T230746Z">
+        <seg>secret_illegitimate_child:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -4711,6 +4751,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T230353Z" creationid="mohammad" creationdate="20200924T230353Z">
         <seg>secret_non_believer_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>secret_unmarried_illegitimate_child:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T230644Z" creationid="mohammad" creationdate="20200924T230644Z">
+        <seg>secret_unmarried_illegitimate_child:0</seg>
       </tuv>
     </tu>
     <tu>
