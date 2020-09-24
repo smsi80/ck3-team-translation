@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#low To continue:#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T103640Z" creationid="mohammad" creationdate="20200924T103640Z">
+        <seg>"#low To continue:#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$martial_authority_focus_short$ Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184641Z" creationid="mohammad" creationdate="20200921T184641Z">
@@ -718,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Please, Repeat"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T103414Z" creationid="mohammad" creationdate="20200924T103414Z">
+        <seg>"لطفا، تکرار کنید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Read Later"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T102756Z" creationid="mohammad" creationdate="20200924T102756Z">
@@ -786,6 +802,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T222529Z" creationid="mohammad" creationdate="20200921T222529Z">
         <seg>"اغواگری، شهوت و هنر ظریف ملعبه کردن دیگران. "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Show Me Again"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T103402Z" creationid="mohammad" creationdate="20200924T103402Z">
+        <seg>"دوباره نشان بده"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1394,6 +1418,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T075305Z" creationid="mohammad" creationdate="20200924T075305Z">
         <seg>TRIGGER_OR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TUTORIAL_STEP_INSTRUCTIONS:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T103415Z" creationid="mohammad" creationdate="20200924T103415Z">
+        <seg>TUTORIAL_STEP_INSTRUCTIONS:1</seg>
       </tuv>
     </tu>
     <tu>
@@ -2548,6 +2580,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tutorial_lesson_button_come_again:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T103403Z" creationid="mohammad" creationdate="20200924T103403Z">
+        <seg>tutorial_lesson_button_come_again:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tutorial_lesson_button_complete:2</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T102603Z" creationid="mohammad" creationdate="20200924T102603Z">
@@ -2608,6 +2648,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T102759Z" creationid="mohammad" creationdate="20200924T102759Z">
         <seg>tutorial_lesson_button_refuse:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tutorial_lesson_button_repeat_step:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T103339Z" creationid="mohammad" creationdate="20200924T103339Z">
+        <seg>tutorial_lesson_button_repeat_step:2</seg>
       </tuv>
     </tu>
     <tu>
