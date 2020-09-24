@@ -560,8 +560,8 @@
       <tuv lang="en">
         <seg>"Attempted to murder [TARGET_CHARACTER.GetShortUIName]"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T225328Z" creationid="mohammad" creationdate="20200924T225328Z">
-        <seg>"Attempted to murder [TARGET_CHARACTER.GetShortUIName]"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T230209Z" creationid="mohammad" creationdate="20200924T225328Z">
+        <seg>"قصد قتل [TARGET_CHARACTER.GetShortUIName]"</seg>
       </tuv>
     </tu>
     <tu>
