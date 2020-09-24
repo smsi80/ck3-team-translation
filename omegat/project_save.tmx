@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1058,8 +1058,8 @@
       <tuv lang="en">
         <seg>"Known [GetTrait('cannibal').GetName( GetNullCharacter )]"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T220013Z" creationid="mohammad" creationdate="20200924T220013Z">
-        <seg>"Known [GetTrait('cannibal').GetName( GetNullCharacter )]"ca</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T221209Z" creationid="mohammad" creationdate="20200924T220013Z">
+        <seg>"معروف [GetTrait('cannibal').GetName( GetNullCharacter )]"</seg>
       </tuv>
     </tu>
     <tu>
