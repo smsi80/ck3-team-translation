@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Ambience"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T213815Z" creationid="mohammad" creationdate="20200924T213815Z">
+        <seg>"محیط"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"An understanding of life, beyond the vagaries of the world upon the body."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T025733Z" creationid="mohammad" creationdate="20200922T025733Z">
@@ -1116,6 +1124,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T024934Z" creationid="mohammad" creationdate="20200922T024934Z">
         <seg>"تمرکز روزی طبابت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Murder"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T215337Z" creationid="mohammad" creationdate="20200924T215337Z">
+        <seg>"قتل"</seg>
       </tuv>
     </tu>
     <tu>
