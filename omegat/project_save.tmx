@@ -1280,6 +1280,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Is a Deviant"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T225313Z" creationid="mohammad" creationdate="20200924T225313Z">
+        <seg>"کج رفتار است"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"It's not a Cult!"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222805Z" creationid="BIG GAMER" creationdate="20200924T222805Z">
@@ -1671,6 +1679,14 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200924T105609Z" creationid="mohammad" creationdate="20200924T105609Z">
         <seg>"Religion" #reactive advice now
  lesson_basics_war:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Religious"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T225203Z" creationid="mohammad" creationdate="20200924T225203Z">
+        <seg>"مومن "</seg>
       </tuv>
     </tu>
     <tu>
@@ -4499,10 +4515,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>secret_category_murder:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T225107Z" creationid="mohammad" creationdate="20200924T225107Z">
+        <seg>secret_category_murder:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>secret_category_religious:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T225110Z" creationid="mohammad" creationdate="20200924T225110Z">
+        <seg>secret_category_religious:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>secret_deviant:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T220709Z" creationid="mohammad" creationdate="20200924T220709Z">
         <seg>secret_deviant:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>secret_deviant_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T225204Z" creationid="mohammad" creationdate="20200924T225204Z">
+        <seg>secret_deviant_desc:0</seg>
       </tuv>
     </tu>
     <tu>
