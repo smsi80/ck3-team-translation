@@ -1934,6 +1934,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"After having went through major reconstruction, the Citadel of Aleppo has been significantly fortified and turned into a proper palatial city!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T113910Z" creationid="Novin Pendar" creationdate="20200925T113910Z">
+        <seg>"پس از بازسازی های اساسی ، ارک حلب به شدت مستحکم شده و به شهر مجللی واقعی تبدیل گشته!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Agent Joined Scheme: [LEFT_CHARACTER.GetShortUINameNoTooltip]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071438Z" creationid="mohammad" creationdate="20200925T071438Z">
@@ -3440,10 +3448,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Grand Cathedral"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T113930Z" creationid="Novin Pendar" creationdate="20200925T113930Z">
+        <seg>"کلیسای جامع بزرگ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Grand Estates"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T073203Z" creationid="Novin Pendar" creationdate="20200925T073203Z">
         <seg>"املاک بزرگ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Grand Mosque"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T113942Z" creationid="Novin Pendar" creationdate="20200925T113942Z">
+        <seg>"مسجد جامع"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3468,6 +3492,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T115848Z" creationid="Novin Pendar" creationdate="20200924T115848Z">
         <seg>"معبد بزرگ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Great Mosque of Mecca"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T114111Z" creationid="Novin Pendar" creationdate="20200925T114111Z">
+        <seg>"مسجد الحرام"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3660,6 +3692,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T122909Z" creationid="mohammad" creationdate="20200924T122909Z">
         <seg>"حرامزادگان غیر مشروع نمیتوانند به سلطنت شما پایان دهند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Imam Ali Mosque"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T114026Z" creationid="Novin Pendar" creationdate="20200925T114026Z">
+        <seg>"مسجد امام علی علیه سلام"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4621,6 +4661,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215624Z" creationid="BIG GAMER" creationdate="20200924T215624Z">
         <seg>فتح  دوباره</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Reconstructed Citadel of Aleppo"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T113825Z" creationid="Novin Pendar" creationdate="20200925T113825Z">
+        <seg>"ارک حلب بازسازی شده"</seg>
       </tuv>
     </tu>
     <tu>
