@@ -128,8 +128,8 @@
       <tuv lang="en">
         <seg>"#I Right-click to dismiss.#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T193812Z" creationid="mohammad" creationdate="20200924T193812Z">
-        <seg>"#I راست کلیک برای.#!"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T065248Z" creationid="mohammad" creationdate="20200924T193812Z">
+        <seg>"#I راست کلیک برای ناپدید کردن.#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4419,6 +4419,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[MessageFeedHandler.GetNumberOfQueuedMessages] more messages"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T065615Z" creationid="mohammad" creationdate="20200925T065615Z">
+        <seg>"[MessageFeedHandler.GetNumberOfQueuedMessages] پیام های بیشتر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[SelectLocalization(FeedMessageItem.IsExpanded,'MESSAGE_CLICK_TO_HIDE','MESSAGE_CLICK_TO_HIDE')]\n$MESSAGE_CLICK_TO_DISMISS$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T192525Z" creationid="mohammad" creationdate="20200924T192525Z">
@@ -5749,6 +5757,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T121204Z" creationid="mohammad" creationdate="20200924T121204Z">
         <seg>LOADING_TIP_9:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MESSAGES_IN_QUEUE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T065249Z" creationid="mohammad" creationdate="20200925T065249Z">
+        <seg>MESSAGES_IN_QUEUE:0</seg>
       </tuv>
     </tu>
     <tu>
