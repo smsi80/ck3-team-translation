@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T $SETTING_TOOLTIP_MODE$#!\nSets the way tooltips</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T171738Z" creationid="mohammad" creationdate="20200925T171738Z">
+        <seg>"#T $SETTING_TOOLTIP_MODE$#!\nتنظیم حالت تولتیپ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T $SETTING_TOOLTIP_UNLOCK_TIME$#!\nSets the delay before tooltips are unlocked."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T165703Z" creationid="mohammad" creationdate="20200925T165703Z">
@@ -6667,6 +6675,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Tooltip Mode"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T171636Z" creationid="mohammad" creationdate="20200925T171636Z">
+        <seg>"حالت تولتیپ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Torturer"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T223454Z" creationid="mohammad" creationdate="20200921T223454Z">
@@ -8019,6 +8035,14 @@
         <seg>-"مرواریدی در میان زمردها.""
  
  building_type_shwedagon_pagoda_01:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"lock in," enabling tooltips-in-tooltips."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T171853Z" creationid="mohammad" creationdate="20200925T171853Z">
+        <seg>"قفل کردن," فعال کردن تولتیپ در تولتیپ"</seg>
       </tuv>
     </tu>
     <tu>
