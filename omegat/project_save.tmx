@@ -3456,6 +3456,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"I can no longer claim to be the ruler of [title_to_destroy.GetNameNoTierNoTooltip], because I hold none of its De Jure land."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T104854Z" creationid="mahan" creationdate="20200925T104854Z">
+        <seg>"من دیگر نمیتوانم حاکم [title_to_destroy.GetNameNoTierNoTooltip]، باشم چون هیچ حق مالکیتی برا آن ندارم."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"I — Basics"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T104209Z" creationid="mohammad" creationdate="20200924T104209Z">
@@ -4020,6 +4028,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223525Z" creationid="BIG GAMER" creationdate="20200924T223525Z">
         <seg>قرقی کردن در دنیا</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Multiplayer: Murder Schemes"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T104933Z" creationid="mahan" creationdate="20200925T104933Z">
+        <seg>"بخش چند نفره: نقشه قتل"</seg>
       </tuv>
     </tu>
     <tu>
