@@ -2952,6 +2952,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Cancel"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211335Z" creationid="mohammad" creationdate="20200925T211335Z">
+        <seg>"لغو"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Cannibal"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T220203Z" creationid="mohammad" creationdate="20200924T220203Z">
@@ -4490,6 +4498,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Help"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211141Z" creationid="mohammad" creationdate="20200925T211141Z">
+        <seg>"کمک"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Heresy outbreaks do not have regional weighting, encouraging the appearance of more diverse heresies."</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T122259Z" creationid="mahan" creationdate="20200925T122259Z">
@@ -5114,6 +5130,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Lobby"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211424Z" creationid="mohammad" creationdate="20200925T211424Z">
+        <seg>"Lobby"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Lock Delay"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T183708Z" creationid="mohammad" creationdate="20200924T183708Z">
@@ -5698,6 +5722,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Open source file"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211330Z" creationid="mohammad" creationdate="20200925T211330Z">
+        <seg>"بازکردن فایل منبع"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Orchards"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054358Z" creationid="Novin Pendar" creationdate="20200925T054358Z">
@@ -5961,6 +5993,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T225203Z" creationid="mohammad" creationdate="20200924T225203Z">
         <seg>"مومن "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Reload"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211157Z" creationid="mohammad" creationdate="20200925T211157Z">
+        <seg>"بارگزاری مجدد"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8953,6 +8993,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CANCEL:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211331Z" creationid="mohammad" creationdate="20200925T211331Z">
+        <seg>CANCEL:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CAN_ONLY_CHANGE_FOCUS_ONCE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T085616Z" creationid="mohammad" creationdate="20200924T085616Z">
@@ -9117,6 +9165,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T142641Z" creationid="mohammad" creationdate="20200925T142641Z">
         <seg>HALFYEAR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HELP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211135Z" creationid="mohammad" creationdate="20200925T211135Z">
+        <seg>HELP:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -10129,6 +10185,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LOBBY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211336Z" creationid="mohammad" creationdate="20200925T211336Z">
+        <seg>LOBBY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MAIN_MENU:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205139Z" creationid="mohammad" creationdate="20200925T205139Z">
@@ -10189,6 +10253,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205146Z" creationid="mohammad" creationdate="20200925T205146Z">
         <seg>NEW:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OPEN_SOURCE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211158Z" creationid="mohammad" creationdate="20200925T211158Z">
+        <seg>OPEN_SOURCE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RELOAD:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211143Z" creationid="mohammad" creationdate="20200925T211143Z">
+        <seg>RELOAD:0</seg>
       </tuv>
     </tu>
     <tu>
