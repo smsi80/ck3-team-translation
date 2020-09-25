@@ -1446,6 +1446,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$secret_cannibal_tooltip_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113922Z" creationid="mohammad" creationdate="20200925T113922Z">
+        <seg>"$secret_cannibal_tooltip_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$secret_deviant_tooltip_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113919Z" creationid="mohammad" creationdate="20200925T113919Z">
+        <seg>"$secret_deviant_tooltip_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$secret_disputed_heritage_tooltip_desc$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T171121Z" creationid="mohammad" creationdate="20200924T171121Z">
@@ -1454,10 +1470,74 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$secret_homosexual_tooltip_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113919Z" creationid="mohammad" creationdate="20200925T113919Z">
+        <seg>"$secret_homosexual_tooltip_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$secret_incest_tooltip_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113927Z" creationid="mohammad" creationdate="20200925T113927Z">
+        <seg>"$secret_incest_tooltip_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$secret_lover_tooltip_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113924Z" creationid="mohammad" creationdate="20200925T113924Z">
+        <seg>"$secret_lover_tooltip_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$secret_murder_attempt_tooltip_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113921Z" creationid="mohammad" creationdate="20200925T113921Z">
+        <seg>"$secret_murder_attempt_tooltip_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$secret_murder_tooltip_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113925Z" creationid="mohammad" creationdate="20200925T113925Z">
+        <seg>"$secret_murder_tooltip_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$secret_non_believer_tooltip_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113926Z" creationid="mohammad" creationdate="20200925T113926Z">
+        <seg>"$secret_non_believer_tooltip_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$secret_unmarried_illegitimate_child$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T230746Z" creationid="mohammad" creationdate="20200924T230746Z">
         <seg>"$secret_unmarried_illegitimate_child$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$secret_unmarried_illegitimate_child_tooltip_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113927Z" creationid="mohammad" creationdate="20200925T113927Z">
+        <seg>"$secret_unmarried_illegitimate_child_tooltip_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$secret_witch_tooltip_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113927Z" creationid="mohammad" creationdate="20200925T113927Z">
+        <seg>"$secret_witch_tooltip_desc$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5463,6 +5543,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T112832Z" creationid="mohammad" creationdate="20200925T112604Z">
         <seg>"این شخصیت با مردان دیگر در رابطه جنسی است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"This character has a predilection for socially unacceptable acts."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T114200Z" creationid="mohammad" creationdate="20200925T114200Z">
+        <seg>"این شخصیت دارای تمایل برای اعمال اجتماعی غیر قابل قبول دارد."</seg>
       </tuv>
     </tu>
     <tu>
@@ -11009,6 +11097,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>secret_cannibal_type_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113921Z" creationid="mohammad" creationdate="20200925T113921Z">
+        <seg>secret_cannibal_type_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>secret_category_adultery:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T224926Z" creationid="mohammad" creationdate="20200924T224926Z">
@@ -11113,6 +11209,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>secret_homosexual_type_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113919Z" creationid="mohammad" creationdate="20200925T113919Z">
+        <seg>secret_homosexual_type_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>secret_illegitimate_child:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T230746Z" creationid="mohammad" creationdate="20200924T230746Z">
@@ -11161,6 +11265,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>secret_incest_type_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113927Z" creationid="mohammad" creationdate="20200925T113927Z">
+        <seg>secret_incest_type_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>secret_lover:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T220205Z" creationid="mohammad" creationdate="20200924T220205Z">
@@ -11181,6 +11293,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T113006Z" creationid="mohammad" creationdate="20200925T113006Z">
         <seg>secret_lover_tooltip_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>secret_lover_type_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113922Z" creationid="mohammad" creationdate="20200925T113922Z">
+        <seg>secret_lover_type_desc:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -11209,6 +11329,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>secret_murder_attempt_type_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113920Z" creationid="mohammad" creationdate="20200925T113920Z">
+        <seg>secret_murder_attempt_type_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>secret_murder_desc:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T230258Z" creationid="mohammad" creationdate="20200924T230258Z">
@@ -11221,6 +11349,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T113201Z" creationid="mohammad" creationdate="20200925T113201Z">
         <seg>secret_murder_tooltip_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>secret_murder_type_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113925Z" creationid="mohammad" creationdate="20200925T113925Z">
+        <seg>secret_murder_type_desc:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -11249,6 +11385,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>secret_non_believer_type_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113926Z" creationid="mohammad" creationdate="20200925T113926Z">
+        <seg>secret_non_believer_type_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>secret_unmarried_illegitimate_child:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T230644Z" creationid="mohammad" creationdate="20200924T230644Z">
@@ -11273,6 +11417,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>secret_unmarried_illegitimate_child_type_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113927Z" creationid="mohammad" creationdate="20200925T113927Z">
+        <seg>secret_unmarried_illegitimate_child_type_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>secret_witch:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T221905Z" creationid="mohammad" creationdate="20200924T221905Z">
@@ -11293,6 +11445,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T113643Z" creationid="mohammad" creationdate="20200925T113643Z">
         <seg>secret_witch_tooltip_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>secret_witch_type_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113927Z" creationid="mohammad" creationdate="20200925T113927Z">
+        <seg>secret_witch_type_desc:0</seg>
       </tuv>
     </tu>
     <tu>
