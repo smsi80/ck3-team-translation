@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Apiaries"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T053924Z" creationid="Novin Pendar" creationdate="20200925T053924Z">
+        <seg>"کندو زنبور"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Architect"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T022725Z" creationid="mohammad" creationdate="20200922T022725Z">
@@ -778,6 +786,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T224242Z" creationid="mohammad" creationdate="20200921T224242Z">
         <seg>"به دلیل [education|E] مدیریتی شما، #P [GetPlayer.Custom('GetEducationLifestylePercentageBoost')]#! درصد [experience|E] بیشتری را در این سبک زندگی کسب می کنید."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Between the forest and the fields, bees housed in apiaries produce much sought-after honey."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054028Z" creationid="Novin Pendar" creationdate="20200925T054028Z">
+        <seg>"بین جنگل ها و علفزار ها، زنبور ها در کندو ها برای تولید اصل نگه داری میشوند." </seg>
       </tuv>
     </tu>
     <tu>
@@ -930,6 +946,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T053113Z" creationid="Novin Pendar" creationdate="20200925T053113Z">
         <seg>"مرغ داری"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Corrals"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054100Z" creationid="Novin Pendar" creationdate="20200925T054100Z">
+        <seg>"استبل"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2519,6 +2543,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030231Z" creationid="mohammad" creationdate="20200922T030231Z">
         <seg>"دانش کسانی که قبلا آمده اند، دانش کسانی که هنوز زنده اند و دانش حقایق همیشگی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The livestock pens are sturdy enough to keep larger animals contained and secure."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T053901Z" creationid="Novin Pendar" creationdate="20200925T053901Z">
+        <seg>"اقلام دامی به اندازه کافی بزرگ هستند که حیوانات بزرگتر رو در خود جا بدن."</seg>
       </tuv>
     </tu>
     <tu>
