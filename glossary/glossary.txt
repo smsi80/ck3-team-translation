@@ -16,3 +16,4 @@ Motte	قلعه چوبی
 province	ایالت	؟
 Traits	ویژگی
 Lowborn	موقعیت اجتماعی پایین	Lowborn
+infant	نوزاد	شیرخوارگی
