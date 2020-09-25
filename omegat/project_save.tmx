@@ -5306,8 +5306,8 @@
       <tuv lang="en">
         <seg>"Pausing ($lesson_basics$)"</seg>
       </tuv>
-      <tuv lang="fa" changeid="Alireza" changedate="20200925T164411Z" creationid="Alireza" creationdate="20200925T164411Z">
-        <seg>"Pausing ($lesson_basics$)"</seg>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T164840Z" creationid="Alireza" creationdate="20200925T164411Z">
+        <seg>"مکث کردن ($lesson_basics$)"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5845,8 +5845,8 @@
       <tuv lang="en">
         <seg>"Skip ahead to next topic"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T104058Z" creationid="mohammad" creationdate="20200924T104058Z">
-        <seg>"Skip ahead to next topic"</seg>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T164416Z" creationid="mohammad" creationdate="20200924T104058Z">
+        <seg>"بریم سراغ موضوع بعدی"</seg>
       </tuv>
     </tu>
     <tu>
