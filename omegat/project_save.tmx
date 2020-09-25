@@ -9145,6 +9145,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CURRENT_DATE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211714Z" creationid="mohammad" creationdate="20200925T211714Z">
+        <seg>CURRENT_DATE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DELETE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205437Z" creationid="mohammad" creationdate="20200925T205437Z">
