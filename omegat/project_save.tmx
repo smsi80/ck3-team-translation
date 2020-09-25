@@ -3248,6 +3248,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Law Replaced"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080510Z" creationid="mohammad" creationdate="20200925T080510Z">
+        <seg>"قانون جایگزین شد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Learning Education"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030759Z" creationid="mohammad" creationdate="20200922T030759Z">
@@ -4395,6 +4403,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Title Law Removed"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080239Z" creationid="mohammad" creationdate="20200925T080239Z">
+        <seg>"قانون عنوان حذف شد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Title Lost"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071033Z" creationid="mohammad" creationdate="20200925T071033Z">
@@ -5019,10 +5035,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Your Liege has passed the law [LAW.GetName] on [TITLE.GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080223Z" creationid="mohammad" creationdate="20200925T080223Z">
+        <seg>"ارباب شما قانون را تصویب کرد [LAW.GetName] بر [TITLE.GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Your Liege has passed the law [LAW.GetName]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T080137Z" creationid="mohammad" creationdate="20200925T080137Z">
         <seg>"ارباب شما قانون را تصویب کرد [LAW.GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Your Liege has removed the law [LAW.GetName] from [TITLE.GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080457Z" creationid="mohammad" creationdate="20200925T080457Z">
+        <seg>"ارباب شما قانون را حذف کرد [LAW.GetName] از [TITLE.GetName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8941,6 +8973,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_law_invalidated:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080458Z" creationid="mohammad" creationdate="20200925T080458Z">
+        <seg>msg_law_invalidated:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_liege_passed_law:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T080101Z" creationid="mohammad" creationdate="20200925T080101Z">
@@ -8961,6 +9001,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T080138Z" creationid="mohammad" creationdate="20200925T080138Z">
         <seg>msg_liege_passed_title_law:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_liege_passed_title_law_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080203Z" creationid="mohammad" creationdate="20200925T080203Z">
+        <seg>msg_liege_passed_title_law_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_liege_removed_title_law:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080223Z" creationid="mohammad" creationdate="20200925T080223Z">
+        <seg>msg_liege_removed_title_law:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_liege_removed_title_law_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080240Z" creationid="mohammad" creationdate="20200925T080240Z">
+        <seg>msg_liege_removed_title_law_desc:0</seg>
       </tuv>
     </tu>
     <tu>
