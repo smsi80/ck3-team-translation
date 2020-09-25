@@ -2594,16 +2594,16 @@
       <tuv lang="en">
         <seg>"Diplomatic Range"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mahan" changedate="20200925T101927Z" creationid="mahan" creationdate="20200924T140142Z">
-        <seg>"مرز دیپلماتیک "</seg>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T103713Z" creationid="mahan" creationdate="20200924T140142Z">
+        <seg>"دامنه ی دسترسی دیپلماتیک "</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"Diplomatic range is turned off, allowing anyone on the map to interact with anyone else."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mahan" changedate="20200925T102232Z" creationid="mahan" creationdate="20200925T102232Z">
-        <seg>"مرز دیپلماتیک خاموش میباشد، میتوان با تمامی افراد موجود بر روی نقشه ارتباط برقرار کرد."</seg>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T104024Z" creationid="mahan" creationdate="20200925T102232Z">
+        <seg>"دامنه ی دسترسی دیپلماتیک خاموش میباشد، میتوان با تمامی افراد موجود بر روی نقشه ارتباط برقرار کرد."</seg>
       </tuv>
     </tu>
     <tu>
@@ -4909,16 +4909,16 @@
       <tuv lang="en">
         <seg>"The diplomatic range is further restricted, making non-local interactions significantly more rare."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mahan" changedate="20200925T102124Z" creationid="mahan" creationdate="20200925T102124Z">
-        <seg>"مرز دیپلماتیک محدود شده است، ارتباط با خارج از محدوده معمول نمیباشد."</seg>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T103851Z" creationid="mahan" creationdate="20200925T102124Z">
+        <seg>"دامنه ی دسترسی دیپلماتیک محدود شده است، ارتباط با خارج از محدوده معمول نمیباشد."</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"The diplomatic range is unchanged."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mahan" changedate="20200925T101950Z" creationid="mahan" creationdate="20200925T101950Z">
-        <seg>"مرز دیپلماتیک تغییری نکرده است."</seg>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T103844Z" creationid="mahan" creationdate="20200925T101950Z">
+        <seg>"دامنه ی دسترسی دیپلماتیک تغییری نکرده است."</seg>
       </tuv>
     </tu>
     <tu>
