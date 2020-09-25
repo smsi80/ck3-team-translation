@@ -2166,6 +2166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Alhambra"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T122228Z" creationid="Novin Pendar" creationdate="20200925T122228Z">
+        <seg>"کاخ الحمرا"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"All Faiths have full acceptance towards other Faiths. There are no Opinion penalties for having a different Faith."</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T133653Z" creationid="mahan" creationdate="20200924T133653Z">
@@ -3018,8 +3026,8 @@
       <tuv lang="en">
         <seg>"Dome of the Rock"</seg>
       </tuv>
-      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T121142Z" creationid="Novin Pendar" creationdate="20200925T121142Z">
-        <seg>"گنبد سنگی"</seg>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T121336Z" creationid="Novin Pendar" creationdate="20200925T121142Z">
+        <seg>"قبه الصخره"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4116,6 +4124,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T212805Z" creationid="mohammad" creationdate="20200921T185220Z">
         <seg>"دسیسه چینی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Iron Pillar of Dhar"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T122116Z" creationid="Novin Pendar" creationdate="20200925T122116Z">
+        <seg>"ستون آهنین </seg>
       </tuv>
     </tu>
     <tu>
@@ -5403,6 +5419,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Stonehenge"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T121936Z" creationid="Novin Pendar" creationdate="20200925T121936Z">
+        <seg>"استون هنج"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Strategist"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184605Z" creationid="mohammad" creationdate="20200921T184605Z">
@@ -5591,6 +5615,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222902Z" creationid="BIG GAMER" creationdate="20200924T222902Z">
         <seg>کارهایی که بخاطر عشق انجام میدهیم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The Third Temple"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T121344Z" creationid="Novin Pendar" creationdate="20200925T121344Z">
+        <seg>"معبد سوم"</seg>
       </tuv>
     </tu>
     <tu>
