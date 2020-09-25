@@ -1710,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Alliance Invalid: [LEFT_CHARACTER.GetShortUINameNoTooltip]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072943Z" creationid="mohammad" creationdate="20200925T072943Z">
+        <seg>"اتحاد نا معتبر است: [LEFT_CHARACTER.GetShortUINameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Ambience"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T213815Z" creationid="mohammad" creationdate="20200924T213815Z">
@@ -3480,6 +3488,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Powerful Vassal"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073034Z" creationid="mohammad" creationdate="20200925T073034Z">
+        <seg>"واسال قدرتمند"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Prolific"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215258Z" creationid="BIG GAMER" creationdate="20200924T215258Z">
@@ -4507,6 +4523,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"You no longer have an [alliance|E] with [LEFT_CHARACTER.GetUINameNoTooltip] because [LEFT_CHARACTER.GetSheHe] is no longer a [ruler|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073024Z" creationid="mohammad" creationdate="20200925T073024Z">
+        <seg>"شما دیگر ندارید [alliance|E] با [LEFT_CHARACTER.GetUINameNoTooltip] به خاطر [LEFT_CHARACTER.GetSheHe] دیگر نیست [ruler|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"You now control [PROVINCE.GetName]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071224Z" creationid="mohammad" creationdate="20200925T071224Z">
@@ -4731,6 +4755,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] has died"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072845Z" creationid="mohammad" creationdate="20200925T072845Z">
+        <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] فوت کرد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] is no longer an agent in your [scheme|E] to [SCHEME.GetFullActionName]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T072145Z" creationid="mohammad" creationdate="20200925T072145Z">
@@ -4783,6 +4815,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T230257Z" creationid="mohammad" creationdate="20200924T230257Z">
         <seg>"[TARGET_CHARACTER.GetShortUINamePossessive] عاشق"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[alliance|E] formed with [LEFT_CHARACTER.GetUINameNoTooltip] because [LEFT_CHARACTER.GetSheHe] is now a [ruler|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072931Z" creationid="mohammad" creationdate="20200925T072931Z">
+        <seg>"[alliance|E] شکل گرفت با [LEFT_CHARACTER.GetUINameNoTooltip] به خاطر [LEFT_CHARACTER.GetSheHe] اکنون یک [ruler|E]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8013,6 +8053,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_alliance_became_landed:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072848Z" creationid="mohammad" creationdate="20200925T072848Z">
+        <seg>msg_alliance_became_landed:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_alliance_became_landed_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072850Z" creationid="mohammad" creationdate="20200925T072850Z">
+        <seg>msg_alliance_became_landed_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_alliance_became_unlanded:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072932Z" creationid="mohammad" creationdate="20200925T072932Z">
+        <seg>msg_alliance_became_unlanded:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_alliance_became_unlanded_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072946Z" creationid="mohammad" creationdate="20200925T072946Z">
+        <seg>msg_alliance_became_unlanded_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_alliance_desc:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T072600Z" creationid="mohammad" creationdate="20200925T072600Z">
@@ -8077,10 +8149,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_expired_alliance_ally_death_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072816Z" creationid="mohammad" creationdate="20200925T072816Z">
+        <seg>msg_expired_alliance_ally_death_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_expired_alliance_desc:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T072653Z" creationid="mohammad" creationdate="20200925T072653Z">
         <seg>msg_expired_alliance_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_i_am_not_powerful_vassal:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073025Z" creationid="mohammad" creationdate="20200925T073025Z">
+        <seg>msg_i_am_not_powerful_vassal:0</seg>
       </tuv>
     </tu>
     <tu>
