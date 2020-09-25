@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1288,6 +1288,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T Advanced Shader Effects\n#!This option will enable advanced shader effects.\n\nTurning it off may increase performance at the cost of making some effects (e.g. terrain and water) look worse"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T191200Z" creationid="mohammad" creationdate="20200925T185306Z">
+        <seg>"#T Advanced Shader Effects\n#!این ویژگی جلوه های پیشرفته سایه ساز را فعال میکند.\n\nخاموش کردن آن ممکن است عملکرد را به قیمت ایجاد برخی از اثرات افزایش دهد.(به عنوان مثال دریا و زمین ها) بد به نظر میرسند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T Ambience Volume\n#!Sets the volume of environmental ambience."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T171619Z" creationid="mohammad" creationdate="20200925T171619Z">
@@ -2258,8 +2266,8 @@
       <tuv lang="en">
         <seg>"Action Lock"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T142510Z" creationid="mohammad" creationdate="20200925T142510Z">
-        <seg>"Action Lock"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T185234Z" creationid="mohammad" creationdate="20200925T142510Z">
+        <seg>"طرز عمل قفل"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2282,8 +2290,8 @@
       <tuv lang="en">
         <seg>"Advanced Shader Effects"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T175435Z" creationid="mohammad" creationdate="20200925T174646Z">
-        <seg>"جلوه های پیشرفته ش"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T185415Z" creationid="mohammad" creationdate="20200925T174646Z">
+        <seg>"جلوه های پیشرفته سایه ساز"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2474,8 +2482,8 @@
       <tuv lang="en">
         <seg>"Always Show"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T142928Z" creationid="mohammad" creationdate="20200925T142928Z">
-        <seg>"همیشه نشون بدهد"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T191239Z" creationid="mohammad" creationdate="20200925T142928Z">
+        <seg>"همیشه نشان بده"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6831,8 +6839,8 @@
       <tuv lang="en">
         <seg>"Tooltip Delay"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T182913Z" creationid="mohammad" creationdate="20200924T182913Z">
-        <seg>"Tooltip Delay"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T185141Z" creationid="mohammad" creationdate="20200924T182913Z">
+        <seg>"تاخیر تولتیپ"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9721,6 +9729,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T173311Z" creationid="mohammad" creationdate="20200925T173311Z">
         <seg>SETTING_ADVANCED_SHADERS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_ADVANCED_SHADERS_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T185129Z" creationid="mohammad" creationdate="20200925T185129Z">
+        <seg>SETTING_ADVANCED_SHADERS_TOOLTIP:0</seg>
       </tuv>
     </tu>
     <tu>
