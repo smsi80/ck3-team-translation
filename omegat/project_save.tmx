@@ -2448,6 +2448,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Faction Disbanded"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T075043Z" creationid="mohammad" creationdate="20200925T075043Z">
+        <seg>"جناح منحل شد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Faith and knowledge. Understanding the divine means understanding the world."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T024642Z" creationid="mohammad" creationdate="20200922T024642Z">
@@ -3704,6 +3712,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Rank Lost"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074950Z" creationid="mohammad" creationdate="20200925T074950Z">
+        <seg>"رتبه از دست رفته"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Read Later"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T102756Z" creationid="mohammad" creationdate="20200924T102756Z">
@@ -4771,6 +4787,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"You are now a mere [CHARACTER.GetTitleTierName|V]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T075031Z" creationid="mohammad" creationdate="20200925T075031Z">
+        <seg>"شما اکنون صرفا یک هستید [CHARACTER.GetTitleTierName|V]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"You are now a mighty [CHARACTER.GetTitleTierName|V]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T074929Z" creationid="mohammad" creationdate="20200925T074929Z">
@@ -4951,6 +4975,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065945Z" creationid="mohammad" creationdate="20200925T065945Z">
         <seg>"[BUILDING.GetName] ساخته شد در [PROVINCE.GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[FACTION.GetName] target [CHARACTER.GetUINameNoTooltip] died, therefore the faction has been disbanded"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T075340Z" creationid="mohammad" creationdate="20200925T075340Z">
+        <seg>"[FACTION.GetName] هدف [CHARACTER.GetUINameNoTooltip] فوت کرد, به همین خاطر جناح منحل شد"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8621,6 +8653,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_disbanded_faction_target_died:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T075032Z" creationid="mohammad" creationdate="20200925T075032Z">
+        <seg>msg_disbanded_faction_target_died:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_disbanded_faction_target_died_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T075044Z" creationid="mohammad" creationdate="20200925T075044Z">
+        <seg>msg_disbanded_faction_target_died_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_expired_alliance:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T072642Z" creationid="mohammad" creationdate="20200925T072642Z">
@@ -8993,6 +9041,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071216Z" creationid="mohammad" creationdate="20200925T071216Z">
         <seg>msg_siege_won_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_title_rank_down:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074930Z" creationid="mohammad" creationdate="20200925T074930Z">
+        <seg>msg_title_rank_down:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_title_rank_down_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074951Z" creationid="mohammad" creationdate="20200925T074951Z">
+        <seg>msg_title_rank_down_desc:1</seg>
       </tuv>
     </tu>
     <tu>
