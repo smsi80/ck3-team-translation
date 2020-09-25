@@ -9597,10 +9597,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"him"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T230626Z" creationid="mohammad" creationdate="20200925T230626Z">
+        <seg>"مال او"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"his"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T230733Z" creationid="mohammad" creationdate="20200925T230733Z">
+        <seg>"مال او"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"it"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T230540Z" creationid="mohammad" creationdate="20200925T230532Z">
         <seg>"آن"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"its"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T230749Z" creationid="mohammad" creationdate="20200925T230744Z">
+        <seg>"مال آن"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9621,10 +9645,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"my"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T230802Z" creationid="mohammad" creationdate="20200925T230802Z">
+        <seg>"مال من"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"she"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T230444Z" creationid="mohammad" creationdate="20200925T230444Z">
         <seg>"او"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"their"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T230754Z" creationid="mohammad" creationdate="20200925T230754Z">
+        <seg>"انها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"them"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T230643Z" creationid="mohammad" creationdate="20200925T230643Z">
+        <seg>"آنها"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10321,6 +10369,78 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T230552Z" creationid="mohammad" creationdate="20200925T230552Z">
         <seg>CHARACTER_HERHIM_HER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_HERHIM_HIM:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T230615Z" creationid="mohammad" creationdate="20200925T230615Z">
+        <seg>CHARACTER_HERHIM_HIM:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_HERHIM_IT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T230628Z" creationid="mohammad" creationdate="20200925T230628Z">
+        <seg>CHARACTER_HERHIM_IT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_HERHIM_THEM:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T230632Z" creationid="mohammad" creationdate="20200925T230632Z">
+        <seg>CHARACTER_HERHIM_THEM:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_HERHISMY_MY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T230755Z" creationid="mohammad" creationdate="20200925T230755Z">
+        <seg>CHARACTER_HERHISMY_MY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_HERHIS_HER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T230645Z" creationid="mohammad" creationdate="20200925T230645Z">
+        <seg>CHARACTER_HERHIS_HER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_HERHIS_HIS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T230649Z" creationid="mohammad" creationdate="20200925T230649Z">
+        <seg>CHARACTER_HERHIS_HIS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_HERHIS_ITS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T230733Z" creationid="mohammad" creationdate="20200925T230733Z">
+        <seg>CHARACTER_HERHIS_ITS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_HERHIS_THEIR:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T230746Z" creationid="mohammad" creationdate="20200925T230746Z">
+        <seg>CHARACTER_HERHIS_THEIR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_HERSHIS_HERS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T230913Z" creationid="mohammad" creationdate="20200925T230913Z">
+        <seg>CHARACTER_HERSHIS_HERS:0</seg>
       </tuv>
     </tu>
     <tu>
