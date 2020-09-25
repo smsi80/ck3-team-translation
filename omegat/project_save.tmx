@@ -3624,6 +3624,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Great Mosque of Djenne"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T115447Z" creationid="Novin Pendar" creationdate="20200925T115447Z">
+        <seg>"مسجد جامع جینیه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Great Mosque of Mecca"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T114111Z" creationid="Novin Pendar" creationdate="20200925T114111Z">
@@ -6007,6 +6015,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T114736Z" creationid="Novin Pendar" creationdate="20200925T114736Z">
         <seg>"دیوار های بنین"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Walls of Genoa"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T115313Z" creationid="Novin Pendar" creationdate="20200925T115255Z">
+        <seg>"دیوار های جنوا"</seg>
       </tuv>
     </tu>
     <tu>
