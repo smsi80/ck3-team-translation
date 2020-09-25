@@ -3160,6 +3160,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Exclaves of Independent AI Rulers at peace will be removed on succession unless connected via a naval path or part of the De Jure territory."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T121242Z" creationid="mahan" creationdate="20200925T121242Z">
+        <seg>"قلمرو غیرمتصل حاکمان (هوش مصنوعی)مستفل در صلح درصورت جانشینی از بین خواهد رفت مگر اینکه به منطقه اصلی به وسیله یک ایالت و یا راه دریایی وصل شده باشد یا اینکه بخشی از قلمرو قانونی باشد."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Exclaves of Independent AI Rulers at peace will be removed on succession unless they are connected via a naval path."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T121253Z" creationid="mahan" creationdate="20200925T121253Z">
+        <seg>"قلمرو غیرمتصل حاکمان (هوش مصنوعی)مستفل در صلح درصورت جانشینی از بین خواهد رفت مگر اینکه به منطقه اصلی به وسیله یک ایالت و یا راه دریایی وصل شده باشد یا اینکه بخشی از قلمرو قانونی باشد."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Exclaves of Independent Rulers at peace will be removed on succession unless connected to the Capital area by one County, via a naval path or part of the De Jure territory."</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T121104Z" creationid="mahan" creationdate="20200925T120604Z">
@@ -4989,6 +5005,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T073523Z" creationid="Novin Pendar" creationdate="20200925T073523Z">
         <seg>"زمین های نظامی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Regional Heresies"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T121323Z" creationid="mahan" creationdate="20200925T121323Z">
+        <seg>"ارتداد منطقه ای"</seg>
       </tuv>
     </tu>
     <tu>
