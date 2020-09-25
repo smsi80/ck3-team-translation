@@ -1214,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#high Off#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T104413Z" creationid="mahan" creationdate="20200925T104413Z">
+        <seg>"#high خاموش#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#high On (Limited)#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T103127Z" creationid="mahan" creationdate="20200925T103127Z">
@@ -5149,8 +5157,8 @@
       <tuv lang="en">
         <seg>"Titles with De Jure land will eventually be destroyed if a character holds no De Jure land of the title within their realm. The Player's Primary title will never be destroyed."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mahan" changedate="20200925T104250Z" creationid="mahan" creationdate="20200925T103525Z">
-        <seg>"اگر دارنده ی سمت هایی که دارای ملک هایی با حق زمین هستند هیچ ملکی با حق مالکیت آن سمت را دارا نباشد،آن سمت در نهایت نابود خواهد شد."</seg>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T104407Z" creationid="mahan" creationdate="20200925T103525Z">
+        <seg>"عناوینی با محدوده زمین قانونی مشخص، خود به خود نابود خواهند شد اگر شخصیت دارای عنوان، هیچ یک از زمین‌های قانونی متعلق به ان عنوان را در اختیار نداشته باشد. عنوان اصلی شخص نابود نمیشود."</seg>
       </tuv>
     </tu>
     <tu>
@@ -5159,6 +5167,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T104334Z" creationid="mahan" creationdate="20200925T103112Z">
         <seg>"عناوینی با محدوده زمین قانونی مشخص، خود به خود نابود خواهند شد اگر شخصیت دارای عنوان، هیچ یک از زمین‌های قانونی متعلق به ان عنوان را در اختیار نداشته باشد."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Titles with De Jure land will never be destroyed."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T104441Z" creationid="mahan" creationdate="20200925T104441Z">
+        <seg>"مقام های دارای حق مالکیت هرگز نابود نخواهند شد."</seg>
       </tuv>
     </tu>
     <tu>
@@ -6223,6 +6239,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T072609Z" creationid="mohammad" creationdate="20200925T072609Z">
         <seg>"[alliance|E] شکل گرفت با [LEFT_CHARACTER.GetUINameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[title_to_destroy.GetName] Forfeit!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T104625Z" creationid="mahan" creationdate="20200925T104625Z">
+        <seg>"[title_to_destroy.GetName] جریمه!"</seg>
       </tuv>
     </tu>
     <tu>
