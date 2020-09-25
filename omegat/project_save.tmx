@@ -3474,6 +3474,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Dead since [DATE.GetStringShort|V]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T215405Z" creationid="mohammad" creationdate="20200925T215405Z">
+        <seg>"مرده است از [DATE.GetStringShort|V]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Dead"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T215318Z" creationid="mohammad" creationdate="20200925T215318Z">
+        <seg>"مرده"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Death Did Us Part"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223013Z" creationid="BIG GAMER" creationdate="20200924T223013Z">
@@ -4430,6 +4446,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063640Z" creationid="Novin Pendar" creationdate="20200925T063640Z">
         <seg>"پلانتشین سبزیجات و گیاهان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Gathering Army in $LOCATION$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T215313Z" creationid="mohammad" creationdate="20200925T215313Z">
+        <seg>"جمع اورش ارتش در $LOCATION$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9113,6 +9137,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"as an infant"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T215520Z" creationid="mohammad" creationdate="20200925T215520Z">
+        <seg>"به عنوان یک نوزاد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"at age $AGE|V$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T215423Z" creationid="mohammad" creationdate="20200925T215423Z">
+        <seg>"در سن $AGE|V$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"equal to"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T213046Z" creationid="mohammad" creationdate="20200925T213046Z">
@@ -9737,6 +9777,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DEAD:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T215314Z" creationid="mohammad" creationdate="20200925T215314Z">
+        <seg>DEAD:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DEAD_SINCE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T215320Z" creationid="mohammad" creationdate="20200925T215320Z">
+        <seg>DEAD_SINCE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DELETE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205437Z" creationid="mohammad" creationdate="20200925T205437Z">
@@ -9757,6 +9813,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205407Z" creationid="mohammad" creationdate="20200925T205407Z">
         <seg>DELETE_GAME:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DIED_AS_INFANT:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T215436Z" creationid="mohammad" creationdate="20200925T215436Z">
+        <seg>DIED_AS_INFANT:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DIED_AT_AGE:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T215406Z" creationid="mohammad" creationdate="20200925T215406Z">
+        <seg>DIED_AT_AGE:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DIED_AT_AGE_SINGULAR:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T215432Z" creationid="mohammad" creationdate="20200925T215432Z">
+        <seg>DIED_AT_AGE_SINGULAR:1</seg>
       </tuv>
     </tu>
     <tu>
@@ -9869,6 +9949,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T212713Z" creationid="mohammad" creationdate="20200925T212713Z">
         <seg>GAME_YEARS_SINCE_START_DATE_STRING:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GATHERING_ARMY_NAME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T215246Z" creationid="mohammad" creationdate="20200925T215246Z">
+        <seg>GATHERING_ARMY_NAME:0</seg>
       </tuv>
     </tu>
     <tu>
