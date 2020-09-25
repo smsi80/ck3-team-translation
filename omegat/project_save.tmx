@@ -1198,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#high Fewer#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T102338Z" creationid="mahan" creationdate="20200925T102338Z">
+        <seg>"#high کمتر#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#high Inverted#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T125133Z" creationid="mahan" creationdate="20200924T125133Z">
@@ -1234,6 +1242,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T122601Z" creationid="mahan" creationdate="20200924T122601Z">
         <seg>"#high کند#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#high Unrestricted#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T102147Z" creationid="mahan" creationdate="20200925T102147Z">
+        <seg>"#high نامحدود#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2564,6 +2580,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T101927Z" creationid="mahan" creationdate="20200924T140142Z">
         <seg>"مرز دیپلماتیک "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Diplomatic range is turned off, allowing anyone on the map to interact with anyone else."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T102232Z" creationid="mahan" creationdate="20200925T102232Z">
+        <seg>"مرز دیپلماتیک خاموش میباشد، میتوان با تمامی افراد موجود بر روی نقشه ارتباط برقرار کرد."</seg>
       </tuv>
     </tu>
     <tu>
@@ -3916,6 +3940,30 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T122816Z" creationid="Novin Pendar" creationdate="20200924T122816Z">
         <seg>"کشتی تجار در این بندر بار های خود را خالی یا بارگزاری میکنند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Minor Diseases"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T102310Z" creationid="mahan" creationdate="20200925T102310Z">
+        <seg>"بیماری های جزئی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Minor diseases will appear as per normal."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T102332Z" creationid="mahan" creationdate="20200925T102332Z">
+        <seg>"بیماری های جزئی به صورت معمولی اتفاق میوفتند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Minor diseases will appear less often."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T102436Z" creationid="mahan" creationdate="20200925T102436Z">
+        <seg>"بیماری های جزئی کمتر اتفاق میوفتند."</seg>
       </tuv>
     </tu>
     <tu>
