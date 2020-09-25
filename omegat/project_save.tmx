@@ -3898,6 +3898,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Faction $NAME$ [$ID$]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213436Z" creationid="mohammad" creationdate="20200925T213436Z">
+        <seg>"Faction $NAME$ [$ID$]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Faction Abandoned"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T075419Z" creationid="mohammad" creationdate="20200925T075346Z">
@@ -4038,6 +4046,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T123056Z" creationid="Novin Pendar" creationdate="20200924T123056Z">
         <seg>"تور ماهیگیری بافی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Flag $NAME$ [$ID$]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213421Z" creationid="mohammad" creationdate="20200925T213421Z">
+        <seg>"Flag $NAME$ [$ID$]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4542,6 +4558,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T115848Z" creationid="Novin Pendar" creationdate="20200924T115848Z">
         <seg>"معبد بزرگ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Great Holy War $NAME$ [$ID$]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213631Z" creationid="mohammad" creationdate="20200925T213631Z">
+        <seg>"Great Holy War $NAME$ [$ID$]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6066,6 +6090,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Province $NAME$ [$ID$]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213306Z" creationid="mohammad" creationdate="20200925T213306Z">
+        <seg>"ایالت $NAME$ [$ID$]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Raise Armies"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T110029Z" creationid="mohammad" creationdate="20200924T105845Z">
@@ -6369,6 +6401,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205435Z" creationid="mohammad" creationdate="20200925T205435Z">
         <seg>"ذخیره"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Scheme $NAME$ [$ID$]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213401Z" creationid="mohammad" creationdate="20200925T213401Z">
+        <seg>"نقشه $NAME$ [$ID$]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7413,6 +7453,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Title $NAME$ [$ID$]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213254Z" creationid="mohammad" creationdate="20200925T213254Z">
+        <seg>"لقب $NAME$ [$ID$]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Title Law Removed"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T080239Z" creationid="mohammad" creationdate="20200925T080239Z">
@@ -7685,6 +7733,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Value $VALUE$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213317Z" creationid="mohammad" creationdate="20200925T213317Z">
+        <seg>"ارزش $VALUE$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Vast Crown Forests"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T125808Z" creationid="mahan" creationdate="20200925T125808Z">
@@ -7753,6 +7809,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T115313Z" creationid="Novin Pendar" creationdate="20200925T115255Z">
         <seg>"دیوار های جنوا"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"War $NAME$ [$ID$]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213431Z" creationid="mohammad" creationdate="20200925T213431Z">
+        <seg>"جنگ $NAME$ [$ID$]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8801,6 +8865,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T072609Z" creationid="mohammad" creationdate="20200925T072609Z">
         <seg>"[alliance|E] شکل گرفت با [LEFT_CHARACTER.GetUINameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[battle|E] $NAME$ [$ID$]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213408Z" creationid="mohammad" creationdate="20200925T213408Z">
+        <seg>"[battle|E] $NAME$ [$ID$]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[battle|E] Side $NAME$ [$ID$]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213413Z" creationid="mohammad" creationdate="20200925T213413Z">
+        <seg>"[battle|E] Side $NAME$ [$ID$]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10953,10 +11033,90 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SCOPE_DEBUG_COMBAT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213402Z" creationid="mohammad" creationdate="20200925T213402Z">
+        <seg>SCOPE_DEBUG_COMBAT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_DEBUG_COMBAT_SIDE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213411Z" creationid="mohammad" creationdate="20200925T213411Z">
+        <seg>SCOPE_DEBUG_COMBAT_SIDE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_DEBUG_FACTION:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213433Z" creationid="mohammad" creationdate="20200925T213433Z">
+        <seg>SCOPE_DEBUG_FACTION:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_DEBUG_GREAT_HOLY_WAR:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213437Z" creationid="mohammad" creationdate="20200925T213437Z">
+        <seg>SCOPE_DEBUG_GREAT_HOLY_WAR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_DEBUG_INTEGER_FLAG:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213416Z" creationid="mohammad" creationdate="20200925T213416Z">
+        <seg>SCOPE_DEBUG_INTEGER_FLAG:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_DEBUG_PROVINCE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213254Z" creationid="mohammad" creationdate="20200925T213254Z">
+        <seg>SCOPE_DEBUG_PROVINCE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_DEBUG_SCHEME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213319Z" creationid="mohammad" creationdate="20200925T213319Z">
+        <seg>SCOPE_DEBUG_SCHEME:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SCOPE_DEBUG_SECRET:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T213154Z" creationid="mohammad" creationdate="20200925T213154Z">
         <seg>SCOPE_DEBUG_SECRET:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_DEBUG_TITLE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213227Z" creationid="mohammad" creationdate="20200925T213227Z">
+        <seg>SCOPE_DEBUG_TITLE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_DEBUG_VALUE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213307Z" creationid="mohammad" creationdate="20200925T213307Z">
+        <seg>SCOPE_DEBUG_VALUE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_DEBUG_WAR:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213421Z" creationid="mohammad" creationdate="20200925T213421Z">
+        <seg>SCOPE_DEBUG_WAR:0</seg>
       </tuv>
     </tu>
     <tu>
