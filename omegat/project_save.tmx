@@ -4740,24 +4740,24 @@
       <tuv lang="en">
         <seg>"Known Incester"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T224828Z" creationid="mohammad" creationdate="20200924T222719Z">
-        <seg>"معروف به زنا با محارم"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T193949Z" creationid="mohammad" creationdate="20200924T222719Z">
+        <seg>"شناخته شده زنا با محارم"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"Known [GetTrait('adulterer').GetName( GetNullCharacter )]"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T224407Z" creationid="mohammad" creationdate="20200924T224407Z">
-        <seg>"معروف به [GetTrait('adulterer').GetName( GetNullCharacter )]"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T193959Z" creationid="mohammad" creationdate="20200924T224407Z">
+        <seg>"شناخته شده [GetTrait('adulterer').GetName( GetNullCharacter )]"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"Known [GetTrait('cannibal').GetName( GetNullCharacter )]"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T221209Z" creationid="mohammad" creationdate="20200924T220013Z">
-        <seg>"معروف [GetTrait('cannibal').GetName( GetNullCharacter )]"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T193915Z" creationid="mohammad" creationdate="20200924T220013Z">
+        <seg>"شناخته شده [GetTrait('cannibal').GetName( GetNullCharacter )]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4772,24 +4772,24 @@
       <tuv lang="en">
         <seg>"Known [GetTrait('fornicator').GetName( GetNullCharacter )]"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T224918Z" creationid="mohammad" creationdate="20200924T224918Z">
-        <seg>"Known [GetTrait('fornicator').GetName( GetNullCharacter )]"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T194025Z" creationid="mohammad" creationdate="20200924T224918Z">
+        <seg>"شناخته شد [GetTrait('fornicator').GetName( GetNullCharacter )]"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"Known [GetTrait('sodomite').GetName( GetNullCharacter )]"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T222126Z" creationid="mohammad" creationdate="20200924T222126Z">
-        <seg>"معروف به [GetTrait('sodomite').GetName( GetNullCharacter )]"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T193920Z" creationid="mohammad" creationdate="20200924T222126Z">
+        <seg>"شناخته شده [GetTrait('sodomite').GetName( GetNullCharacter )]"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"Known [GetTrait('witch').GetName( GetNullCharacter )]"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T222119Z" creationid="mohammad" creationdate="20200924T222119Z">
-        <seg>"معروف به [GetTrait('witch').GetName( GetNullCharacter )]"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T193938Z" creationid="mohammad" creationdate="20200924T222119Z">
+        <seg>"شناخته شده [GetTrait('witch').GetName( GetNullCharacter )]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5196,8 +5196,8 @@
       <tuv lang="en">
         <seg>"Murdered [TARGET_CHARACTER.GetShortUIName]"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T230352Z" creationid="mohammad" creationdate="20200924T230352Z">
-        <seg>"Murdered [TARGET_CHARACTER.GetShortUIName]"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T194212Z" creationid="mohammad" creationdate="20200924T230352Z">
+        <seg>" [TARGET_CHARACTER.GetShortUIName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8063,8 +8063,8 @@
       <tuv lang="en">
         <seg>"[TARGET_CHARACTER.GetShortUIName|U] is the illegitimate child of [TARGET_CHARACTER.GetMother.GetShortUIName] and [TARGET_CHARACTER.GetRealFather.GetShortUIName]"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T112444Z" creationid="mohammad" creationdate="20200925T112444Z">
-        <seg>"[TARGET_CHARACTER.GetShortUIName|U] is the illegitimate child of [TARGET_CHARACTER.GetMother.GetShortUIName] and [TARGET_CHARACTER.GetRealFather.GetShortUIName]"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T194437Z" creationid="mohammad" creationdate="20200925T112444Z">
+        <seg>"[TARGET_CHARACTER.GetShortUIName|U] فرزند حرامزاده [TARGET_CHARACTER.GetMother.GetShortUIName] و [TARGET_CHARACTER.GetRealFather.GetShortUIName] است"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8287,6 +8287,18 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030455Z" creationid="mohammad" creationdate="20200922T030455Z">
         <seg># Education Focuses
  education_diplomacy_modifier:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg># Secret type description uses the same loc keys as active secret tooltip, but it doesn't have access to target character or owner. 
+# Change description, if active secret starts using that data
+ secret_deviant_type_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T194239Z" creationid="mohammad" creationdate="20200925T194239Z">
+        <seg># Secret type description uses the same loc keys as active secret tooltip, but it doesn't have access to target character or owner. 
+# Change description, if active secret starts using that data
+ secret_deviant_type_desc:0</seg>
       </tuv>
     </tu>
     <tu>
