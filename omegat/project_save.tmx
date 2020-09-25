@@ -7325,6 +7325,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"You are already planning another [activity|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T195900Z" creationid="BIG GAMER" creationdate="20200925T195900Z">
+        <seg>شما از قبل در حال برنامه فعالیت دیگری هستید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"You are no longer considered a [powerful_vassal|E] of [LEFT_CHARACTER.GetUINameNoTooltip]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T073057Z" creationid="mohammad" creationdate="20200925T073057Z">
