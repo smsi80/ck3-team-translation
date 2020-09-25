@@ -4286,6 +4286,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Fellow [vassal|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233449Z" creationid="mohammad" creationdate="20200925T233449Z">
+        <seg>"همکار [vassal|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Filter the list of Achievements to display all Achievements possible in the current playthrough"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T115154Z" creationid="mahan" creationdate="20200924T114258Z">
@@ -6066,6 +6074,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T022715Z" creationid="mohammad" creationdate="20200922T022715Z">
         <seg>قدرت من درمردم و سرزمین من است.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Neighboring Fellow [vassal|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233628Z" creationid="mohammad" creationdate="20200925T233628Z">
+        <seg>"همسایه همکار [vassal|E]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8205,6 +8221,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T223658Z" creationid="mohammad" creationdate="20200925T223658Z">
         <seg>"ارزش: $VALUE|+0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Vassal in your [realm|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233433Z" creationid="mohammad" creationdate="20200925T233433Z">
+        <seg>"واسال درون [realm|E]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12661,6 +12685,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>RELATION_FELLOW_VASSAL:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233434Z" creationid="mohammad" creationdate="20200925T233434Z">
+        <seg>RELATION_FELLOW_VASSAL:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>RELATION_FOREIGN_RULER:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233304Z" creationid="mohammad" creationdate="20200925T233304Z">
@@ -12681,6 +12713,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233318Z" creationid="mohammad" creationdate="20200925T233318Z">
         <seg>RELATION_MY_TOP_LIEGE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RELATION_NEIGHBORING_FELLOW_VASSAL:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233449Z" creationid="mohammad" creationdate="20200925T233449Z">
+        <seg>RELATION_NEIGHBORING_FELLOW_VASSAL:0</seg>
       </tuv>
     </tu>
     <tu>
