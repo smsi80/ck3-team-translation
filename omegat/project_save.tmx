@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#F The untamed wilds are calling, and all manner of beasts are awaiting my spear and arrow!#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T200355Z" creationid="BIG GAMER" creationdate="20200925T200355Z">
+        <seg>حیات وحش رام نشده ندا میدهد،و حیوانت گوناگون منتظر نیزه و تیر من هستند</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#F This building is seemingly excellent for growing vegetables.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T134228Z" creationid="Novin Pendar" creationdate="20200924T134228Z">
@@ -2196,6 +2204,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223340Z" creationid="BIG GAMER" creationdate="20200924T223340Z">
         <seg>مدور کامل</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"A [hunt|E] will be held"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T200049Z" creationid="BIG GAMER" creationdate="20200925T200049Z">
+        <seg>یک شکار بر گزار میشود</seg>
       </tuv>
     </tu>
     <tu>
