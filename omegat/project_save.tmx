@@ -1134,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$SCHEME_NAME|V$ on [CHARACTER.GetUINameNoTooltip] has been abandoned"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071423Z" creationid="mohammad" creationdate="20200925T071423Z">
+        <seg>"$SCHEME_NAME|V$ بر روی [CHARACTER.GetUINameNoTooltip] رها شد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$martial_authority_focus_short$ Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184641Z" creationid="mohammad" creationdate="20200921T184641Z">
@@ -1618,6 +1626,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T224916Z" creationid="mohammad" creationdate="20200924T224916Z">
         <seg>"زناکار"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Agent Joined Scheme: [LEFT_CHARACTER.GetShortUINameNoTooltip]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071438Z" creationid="mohammad" creationdate="20200925T071438Z">
+        <seg>"مامور به دسیسه پیوست: [LEFT_CHARACTER.GetShortUINameNoTooltip]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3531,6 +3547,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Scheme Abandoned"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071334Z" creationid="mohammad" creationdate="20200925T071334Z">
+        <seg>"دسیسه چینی رها شده"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Schemer"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T213323Z" creationid="mohammad" creationdate="20200921T213323Z">
@@ -3639,6 +3663,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221911Z" creationid="BIG GAMER" creationdate="20200924T221911Z">
         <seg>رقابت خواهر برادری</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Siege Won"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071214Z" creationid="mohammad" creationdate="20200925T071214Z">
+        <seg>"محاصره موفقیت امیز بود"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4403,6 +4435,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"You now control [PROVINCE.GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071224Z" creationid="mohammad" creationdate="20200925T071224Z">
+        <seg>"شما در اختیار دارید [PROVINCE.GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"You now control [PROVINCE.GetName]\nYou got [gold_i]$VALUE|V0$ from occupying [PROVINCE.GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071311Z" creationid="mohammad" creationdate="20200925T071311Z">
+        <seg>"شما الان در اختیار دارید [PROVINCE.GetName]\nو شما گرفتید [gold_i]$VALUE|V0$ from occupying [PROVINCE.GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Your 'Domain' is the land you personally own. There is a limit to how much you can hold, so you need to rely on Vassals to expand further."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T140908Z" creationid="mohammad" creationdate="20200924T125150Z">
@@ -4575,6 +4623,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T070239Z" creationid="mohammad" creationdate="20200925T070239Z">
         <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] دیگر وارث شما نیست. [heir|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] joined as an [agent|E] in your [scheme|E] to [SCHEME.GetFullActionName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071516Z" creationid="mohammad" creationdate="20200925T071516Z">
+        <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] ملحق شد به عنوان [agent|E] در [scheme|E] به [SCHEME.GetFullActionName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7757,6 +7813,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_agent_joined_my_scheme:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071425Z" creationid="mohammad" creationdate="20200925T071425Z">
+        <seg>msg_agent_joined_my_scheme:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_agent_joined_my_scheme_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071440Z" creationid="mohammad" creationdate="20200925T071440Z">
+        <seg>msg_agent_joined_my_scheme_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_building_done:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065922Z" creationid="mohammad" creationdate="20200925T065922Z">
@@ -7933,6 +8005,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_scheme_abandoned:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071313Z" creationid="mohammad" creationdate="20200925T071313Z">
+        <seg>msg_scheme_abandoned:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_scheme_abandoned_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071337Z" creationid="mohammad" creationdate="20200925T071337Z">
+        <seg>msg_scheme_abandoned_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_siege_loot:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071226Z" creationid="mohammad" creationdate="20200925T071226Z">
+        <seg>msg_siege_loot:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_siege_loot_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071229Z" creationid="mohammad" creationdate="20200925T071229Z">
+        <seg>msg_siege_loot_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_siege_started:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071136Z" creationid="mohammad" creationdate="20200925T071136Z">
@@ -7945,6 +8049,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071144Z" creationid="mohammad" creationdate="20200925T071144Z">
         <seg>msg_siege_started_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_siege_won:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071200Z" creationid="mohammad" creationdate="20200925T071200Z">
+        <seg>msg_siege_won:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_siege_won_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071216Z" creationid="mohammad" creationdate="20200925T071216Z">
+        <seg>msg_siege_won_desc:1</seg>
       </tuv>
     </tu>
     <tu>
