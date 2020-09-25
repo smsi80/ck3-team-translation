@@ -2326,6 +2326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Always Show"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142928Z" creationid="mohammad" creationdate="20200925T142928Z">
+        <seg>"همیشه نشون بدهد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Ambience"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T213815Z" creationid="mohammad" creationdate="20200924T213815Z">
@@ -2850,6 +2858,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T120945Z" creationid="Novin Pendar" creationdate="20200924T120605Z">
         <seg>"شهر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Coastal Borders"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142954Z" creationid="mohammad" creationdate="20200925T142954Z">
+        <seg>"مرز های ساحلی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4520,6 +4536,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Language"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T143204Z" creationid="mohammad" creationdate="20200925T143204Z">
+        <seg>"Language"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Large City"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T120937Z" creationid="Novin Pendar" creationdate="20200924T120937Z">
@@ -4676,6 +4700,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063527Z" creationid="Novin Pendar" creationdate="20200925T063527Z">
         <seg>"عمارت ها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Map Controls"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T143156Z" creationid="mohammad" creationdate="20200925T143110Z">
+        <seg>"کنترل نقشه"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5471,6 +5503,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T132516Z" creationid="mahan" creationdate="20200924T132516Z">
         <seg>"در تمامی ادیان با همجنسگرایی موافقت شده است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Save Games"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T143145Z" creationid="mohammad" creationdate="20200925T143145Z">
+        <seg>"ذخیره بازی ها "</seg>
       </tuv>
     </tu>
     <tu>
@@ -7905,6 +7945,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ALWAYS_SHOW:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142919Z" creationid="mohammad" creationdate="20200925T142919Z">
+        <seg>ALWAYS_SHOW:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CAN_ONLY_CHANGE_FOCUS_ONCE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T085616Z" creationid="mohammad" creationdate="20200924T085616Z">
@@ -8977,10 +9025,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SETTINGS_CATEGORY_AUDIO_GENERAL:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T143026Z" creationid="mohammad" creationdate="20200925T143026Z">
+        <seg>SETTINGS_CATEGORY_AUDIO_GENERAL:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SETTINGS_CATEGORY_INTERFACE_MISC:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T142517Z" creationid="mohammad" creationdate="20200925T142517Z">
         <seg>SETTINGS_CATEGORY_INTERFACE_MISC:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTINGS_CATEGORY_LANGUAGE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T143158Z" creationid="mohammad" creationdate="20200925T143158Z">
+        <seg>SETTINGS_CATEGORY_LANGUAGE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTINGS_CATEGORY_MAP_CONTROLS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T143027Z" creationid="mohammad" creationdate="20200925T143027Z">
+        <seg>SETTINGS_CATEGORY_MAP_CONTROLS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTINGS_CATEGORY_SAVE_GAMES:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T143110Z" creationid="mohammad" creationdate="20200925T143110Z">
+        <seg>SETTINGS_CATEGORY_SAVE_GAMES:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -9037,6 +9117,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T174436Z" creationid="mohammad" creationdate="20200924T174436Z">
         <seg>SETTING_FOCUS_ON_COMBAT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_HIDE_COAST_BORDER_ON_ZOOM:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142928Z" creationid="mohammad" creationdate="20200925T142928Z">
+        <seg>SETTING_HIDE_COAST_BORDER_ON_ZOOM:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_HIDE_COAST_BORDER_ON_ZOOM_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142956Z" creationid="mohammad" creationdate="20200925T142956Z">
+        <seg>SETTING_HIDE_COAST_BORDER_ON_ZOOM_TOOLTIP:0</seg>
       </tuv>
     </tu>
     <tu>
