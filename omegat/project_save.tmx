@@ -8225,6 +8225,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Vassal in the [CHARACTER.GetPrimaryTitle.GetBaseName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233812Z" creationid="mohammad" creationdate="20200925T233812Z">
+        <seg>"واسال درون [CHARACTER.GetPrimaryTitle.GetBaseName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Vassal in your [realm|E]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233433Z" creationid="mohammad" creationdate="20200925T233433Z">
@@ -8309,6 +8317,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T115313Z" creationid="Novin Pendar" creationdate="20200925T115255Z">
         <seg>"دیوار های جنوا"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Wandering"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233826Z" creationid="mohammad" creationdate="20200925T233826Z">
+        <seg>"سرگردان"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8917,6 +8933,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065945Z" creationid="mohammad" creationdate="20200925T065945Z">
         <seg>"[BUILDING.GetName] ساخته شد در [PROVINCE.GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[CHARACTER.GetCouncilTitle] of [TARGET_CHARACTER.GetShortUIName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234039Z" creationid="mohammad" creationdate="20200925T234039Z">
+        <seg>"[CHARACTER.GetCouncilTitle] از [TARGET_CHARACTER.GetShortUIName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12685,6 +12709,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>RELATION_COUNCIL_POSITION:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233841Z" creationid="mohammad" creationdate="20200925T233841Z">
+        <seg>RELATION_COUNCIL_POSITION:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>RELATION_FELLOW_VASSAL:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233434Z" creationid="mohammad" creationdate="20200925T233434Z">
@@ -12729,6 +12761,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233254Z" creationid="mohammad" creationdate="20200925T233254Z">
         <seg>RELATION_NEIGHBORING_RULER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RELATION_POOL_CHARACTER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233828Z" creationid="mohammad" creationdate="20200925T233828Z">
+        <seg>RELATION_POOL_CHARACTER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RELATION_POOL_CHARACTER_LOCATION:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233814Z" creationid="mohammad" creationdate="20200925T233814Z">
+        <seg>RELATION_POOL_CHARACTER_LOCATION:0</seg>
       </tuv>
     </tu>
     <tu>
