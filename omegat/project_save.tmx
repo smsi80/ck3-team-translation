@@ -1808,6 +1808,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$NAME$ accepted your $INTERACTION|D$."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T220610Z" creationid="mohammad" creationdate="20200925T220610Z">
+        <seg>"$NAME$ پذیرفت $INTERACTION|D$."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$NAME$: [DATE.GetString|V]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T212636Z" creationid="mohammad" creationdate="20200925T212636Z">
@@ -3598,6 +3606,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T103713Z" creationid="mahan" creationdate="20200924T140142Z">
         <seg>"دامنه ی دسترسی دیپلماتیک "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Diplomatic Response"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T220543Z" creationid="mohammad" creationdate="20200925T220543Z">
+        <seg>"پاسخ دیپلماتیک"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8503,7 +8519,7 @@
       <tuv lang="en">
         <seg>"[CHARACTER.GetUIName] is waiting for answer regarding $INTERACTION|D$ between [TARGET_CHARACTER.GetUIName] and [TARGET_CHARACTER_2.GetUIName]."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T220035Z" creationid="mohammad" creationdate="20200925T220035Z">
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T220502Z" creationid="mohammad" creationdate="20200925T220035Z">
         <seg>"[CHARACTER.GetUIName] is waiting for answer regarding $INTERACTION|D$ between [TARGET_CHARACTER.GetUIName] and [TARGET_CHARACTER_2.GetUIName]."</seg>
       </tuv>
     </tu>
@@ -9677,6 +9693,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T220001Z" creationid="mohammad" creationdate="20200925T220001Z">
         <seg>CHARACTER_INTERACTION_REPLY_MARRIAGE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_INTERACTION_REPLY_POSITIVE:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T220545Z" creationid="mohammad" creationdate="20200925T220545Z">
+        <seg>CHARACTER_INTERACTION_REPLY_POSITIVE:1</seg>
       </tuv>
     </tu>
     <tu>
