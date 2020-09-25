@@ -8501,6 +8501,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[CHARACTER.GetUIName] is waiting for answer regarding $INTERACTION|D$."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T215942Z" creationid="mohammad" creationdate="20200925T215942Z">
+        <seg>"[CHARACTER.GetUIName] منتظر جواب درمورد $INTERACTION|D$."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[Character.GetDeathReason|U] on [Character.GetDeathDate.GetString|V] [Character.GetAgeInfo] (born [Character.GetBirthDate.GetString|V])"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T215642Z" creationid="mohammad" creationdate="20200925T215642Z">
@@ -9645,6 +9653,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T215647Z" creationid="mohammad" creationdate="20200925T215647Z">
         <seg>CHARACTER_INCAPABLE_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_INTERACTION_REPLY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T215921Z" creationid="mohammad" creationdate="20200925T215921Z">
+        <seg>CHARACTER_INTERACTION_REPLY:0</seg>
       </tuv>
     </tu>
     <tu>
