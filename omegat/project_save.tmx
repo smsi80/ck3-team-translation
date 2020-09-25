@@ -134,6 +134,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#N Not Available#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T113434Z" creationid="mahan" creationdate="20200924T113434Z">
+        <seg>"#N ناموجود#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#P Available#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T113356Z" creationid="mahan" creationdate="20200924T113356Z">
+        <seg>"#P موجود#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#P Enabled#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T112816Z" creationid="mahan" creationdate="20200924T112816Z">
+        <seg>"#P فعال#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T $SETTING_TOOLTIP_DELAY$#!\nSets the delay before tooltips appear."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T183544Z" creationid="mohammad" creationdate="20200924T183544Z">
@@ -1086,6 +1110,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T Achievements Available\n#!Achievements can currently be unlocked while playing the game.\n$ACHIEVEMENTS_EXPLANATION$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T113121Z" creationid="mahan" creationdate="20200924T113121Z">
+        <seg>"#T دستاورد ها موجود هستند\n#!درحال حاضر دستاورد ها میتوانند باز شوند.\n$ACHIEVEMENTS_EXPLANATION$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T Achievements Not Available#!\nAchievements cannot currently be unlocked while playing the game.\n$ACHIEVEMENTS_EXPLANATION$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T113309Z" creationid="mahan" creationdate="20200924T113309Z">
+        <seg>"#T دستاورد ها موجود نیستند#!\nدرحال حاضر دستاورد ها نمیتوانند باز شوند.\n$ACHIEVEMENTS_EXPLANATION$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T From an Event#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T074627Z" creationid="mohammad" creationdate="20200925T074627Z">
@@ -1122,6 +1162,78 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T075034Z" creationid="mohammad" creationdate="20200924T075034Z">
         <seg>"#TUT_KW [CHARACTER.GetShortUINameNoTooltip] can change to this education focus.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#high Accepted#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T132436Z" creationid="mahan" creationdate="20200924T132436Z">
+        <seg>"#high موافق#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#high Easy#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T114414Z" creationid="mahan" creationdate="20200924T114414Z">
+        <seg>"#high آسان#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#high Equal#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T124648Z" creationid="mahan" creationdate="20200924T124648Z">
+        <seg>"#high برابر#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#high Faster#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T122606Z" creationid="mahan" creationdate="20200924T120219Z">
+        <seg>"#high سریع#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#high Inverted#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T125133Z" creationid="mahan" creationdate="20200924T125133Z">
+        <seg>"#high معکوس#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#high Significantly Faster#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T121800Z" creationid="mahan" creationdate="20200924T121800Z">
+        <seg>"#high بسیار سریع#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#high Significantly Slower#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T122103Z" creationid="mahan" creationdate="20200924T122103Z">
+        <seg>"#high بسیار کند #!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#high Slower#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T122601Z" creationid="mahan" creationdate="20200924T122601Z">
+        <seg>"#high کند#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#high Very Easy#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T115510Z" creationid="mahan" creationdate="20200924T115510Z">
+        <seg>"#high خیلی آسان#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1590,6 +1702,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"A Faith's attitude towards other Faiths is dictated by their doctrines."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T133604Z" creationid="mahan" creationdate="20200924T133604Z">
+        <seg>"بستگی به قوانین آن دین دارد."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"A House of My Own"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T214417Z" creationid="BIG GAMER" creationdate="20200924T214417Z">
@@ -1670,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Achievements"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T111912Z" creationid="mahan" creationdate="20200924T111912Z">
+        <seg>"دستاورد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Acting as Coregent"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T214547Z" creationid="mohammad" creationdate="20200922T214547Z">
@@ -1734,10 +1862,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"All Faiths have full acceptance towards other Faiths. There are no Opinion penalties for having a different Faith."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T133653Z" creationid="mahan" creationdate="20200924T133653Z">
+        <seg>"تمامی ادیان ادیان دیگر را قبول دارند و آزادی کامل وجود دارد."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"All Sexualities in the game are equally common."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T130608Z" creationid="mahan" creationdate="20200924T130536Z">
+        <seg>"تمام دگرگونی های جنسی در بازی به صورت برابر هستند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"All Sound Effects"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T184122Z" creationid="mohammad" creationdate="20200924T184122Z">
         <seg>"کل صدای جلوه ها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"All gender-related Doctrines and Laws are inverted. The rules and rights which applies to men under</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T125435Z" creationid="mahan" creationdate="20200924T125435Z">
+        <seg>"تمام قوانین مربوط به جنسیت به صورت معکوس اجرا میشوند. قوانینی که در حالت پیش فرض بر روی مردان اعمال میشد حال برروی زنان.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"All gender-related Doctrines and Laws are set to Equal. The same rules and rights apply to all characters, regardless of gender."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T125025Z" creationid="mahan" creationdate="20200924T125025Z">
+        <seg>"تمامی قوانین جسنیتی به صورت برابر اجرا میشوند. قوانین دولت و تعالیم دینی به صورت برابر بدون توجه به جنسیت شخص اعمال میشوند."</seg>
       </tuv>
     </tu>
     <tu>
@@ -1866,6 +2026,22 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063051Z" creationid="Novin Pendar" creationdate="20200925T063051Z">
         <seg>"تا به جایی که چشم سو میدهد، ردیفی از درختان میوه دار به چشم میخورد."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Asexuality is the most common Sexuality, while Heterosexuality, Homosexuality and Bisexuality are less common."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T131630Z" creationid="mahan" creationdate="20200924T131045Z">
+        <seg>"بی تعامل جنسی معمول ترین است، درحالی که همجنسگرا، دوجنسگرا و دگرجنسگرا بودن معمول نیست."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Asexuality"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T131627Z" creationid="mahan" creationdate="20200924T130955Z">
+        <seg>"بدون تعامل جنسی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2030,6 +2206,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Bisexuality is the most common Sexuality, while Heterosexuality, Homosexuality and Asexuality are less common."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T131509Z" creationid="mahan" creationdate="20200924T130901Z">
+        <seg>"دوجنسگرا معمول ترین است، درحالی که همجنسگرا، دگرجنسگرا و بی تعامل جنسی بودن معمول نیست."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Bisexuality"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T130730Z" creationid="mahan" creationdate="20200924T130730Z">
+        <seg>"دوجنسگرایی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Blood Eagle"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221941Z" creationid="BIG GAMER" creationdate="20200924T221941Z">
@@ -2106,6 +2298,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T074942Z" creationid="mohammad" creationdate="20200924T074942Z">
         <seg>"تغییر تمرکز"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Characters and Counties are assigned random Faiths. All Faiths in the game are available."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T133307Z" creationid="mahan" creationdate="20200924T133307Z">
+        <seg>"اشخاص و شهرستان ها ادیان مختلفی دارند. تمامی ادیان موجود در بازی فعال هستند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Characters and Counties have historical Faiths."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T133212Z" creationid="mahan" creationdate="20200924T133212Z">
+        <seg>"اشخاص و شهرستان ها ادیان تاریخی دارند."</seg>
       </tuv>
     </tu>
     <tu>
@@ -2206,6 +2414,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Conversion speed is unchanged."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T121637Z" creationid="mahan" creationdate="20200924T120211Z">
+        <seg>"سرعت جایگزینی قومی عوض نشده است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Coops house easy-to-keep fowl, prized for both their eggs and meat."</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T053153Z" creationid="Novin Pendar" creationdate="20200925T053153Z">
@@ -2226,6 +2442,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054100Z" creationid="Novin Pendar" creationdate="20200925T054100Z">
         <seg>"استبل"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Culture Conversion Speed"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T121632Z" creationid="mahan" creationdate="20200924T120039Z">
+        <seg>"سرعت جایگزینی قومی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2264,6 +2488,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Default"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T120147Z" creationid="mahan" creationdate="20200924T120147Z">
+        <seg>"حالت پیش فرض"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Default" now apply to women, and vice versa."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T125657Z" creationid="mahan" creationdate="20200924T125628Z">
+        <seg>و قوانین "پیش فرض" زنان حال برروی مردان اعمال میشود."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Deviancy"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T225106Z" creationid="mohammad" creationdate="20200924T225106Z">
@@ -2276,6 +2516,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T221350Z" creationid="mohammad" creationdate="20200924T221350Z">
         <seg>"منحرف"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Difficulty"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T114321Z" creationid="mahan" creationdate="20200924T114321Z">
+        <seg>"دشواری"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2304,10 +2552,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Diplomatic Range"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T140142Z" creationid="mahan" creationdate="20200924T140142Z">
+        <seg>""</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Disable"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T111658Z" creationid="mahan" creationdate="20200924T111658Z">
+        <seg>"غیرفعال سازی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Disabled hints"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T173909Z" creationid="mohammad" creationdate="20200924T172250Z">
         <seg>"غیرفعال کردن راهنماها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Disabled"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T111823Z" creationid="mahan" creationdate="20200924T111823Z">
+        <seg>"غیرفعال"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2400,6 +2672,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Enable"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T111627Z" creationid="mahan" creationdate="20200924T111627Z">
+        <seg>"فعال سازی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"End of an Era"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215442Z" creationid="BIG GAMER" creationdate="20200924T215442Z">
@@ -2428,6 +2708,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T073224Z" creationid="mohammad" creationdate="20200925T073224Z">
         <seg>"متحد دشمن به جنگ پیوست: [LEFT_CHARACTER.GetShortUINameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Equal"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T130441Z" creationid="mahan" creationdate="20200924T130441Z">
+        <seg>"برابر"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2480,6 +2768,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Faith Acceptance"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T133348Z" creationid="mahan" creationdate="20200924T133348Z">
+        <seg>"موافقت با ادیان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Faith Conversion Speed"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T123533Z" creationid="mahan" creationdate="20200924T123533Z">
+        <seg>"سرعت تغییر دین"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Faith and knowledge. Understanding the divine means understanding the world."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T024642Z" creationid="mohammad" creationdate="20200922T024642Z">
@@ -2516,6 +2820,30 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063930Z" creationid="Novin Pendar" creationdate="20200925T063930Z">
         <seg>"املاک زراعی صلاحیت قانونی و تسلط بر زمین ها جنگل ها و سازه های اطرافشان دارند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Filter the list of Achievements to display all Achievements possible in the current playthrough"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T115154Z" creationid="mahan" creationdate="20200924T114258Z">
+        <seg>"فیلتر کردن لیست دستاورد ها، فقط دستاورد های قابل انجام دادن درحال حاضر را نشان بدهد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Filter the list of Achievements to display locked Achievements"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T115423Z" creationid="mahan" creationdate="20200924T114205Z">
+        <seg>"فیلتر کردن لیست دستاورد ها، فقط دستاورد های باز نشده را نشان بدهد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Filter the list of Achievements to display unlocked Achievements"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T115440Z" creationid="mahan" creationdate="20200924T114051Z">
+        <seg>"فیلتر کردن لیست دستاورد ها، فقط دستاورد های باز شده را نشان بدهد"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2800,6 +3128,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Full"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T133612Z" creationid="mahan" creationdate="20200924T133612Z">
+        <seg>"کامل"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Gallant"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T185212Z" creationid="mohammad" creationdate="20200921T185212Z">
@@ -2808,10 +3144,74 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Game Rule: #N x#![SCOPE.ScriptValue('significantly_slower_game_rule_value')|N]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T123032Z" creationid="mahan" creationdate="20200924T123032Z">
+        <seg>"قانون بازی: #N x#![SCOPE.ScriptValue('significantly_slower_game_rule_value')|N]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Game Rule: #N x#![SCOPE.ScriptValue('slower_game_rule_value')|N]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T123024Z" creationid="mahan" creationdate="20200924T123024Z">
+        <seg>"قانون بازی: #N x#![SCOPE.ScriptValue('slower_game_rule_value')|N]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Game Rule: #P x#![SCOPE.ScriptValue('faster_game_rule_value')|P0]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T123003Z" creationid="mahan" creationdate="20200924T123003Z">
+        <seg>"قانون بازی: #P x#![SCOPE.ScriptValue('faster_game_rule_value')|P0]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Game Rule: #P x#![SCOPE.ScriptValue('significantly_faster_game_rule_value')|P0]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T123013Z" creationid="mahan" creationdate="20200924T123013Z">
+        <seg>"قانون بازی: #P x#![SCOPE.ScriptValue('significantly_faster_game_rule_value')|P0]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Game Rules"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T110630Z" creationid="mahan" creationdate="20200924T110630Z">
+        <seg>"قوانین بازی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Game is saved automatically. Switching Character or playing Multiplayer is not allowed."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T113627Z" creationid="mahan" creationdate="20200924T112809Z">
+        <seg>"بازی به صورت خودکار ذخیره شد. عوض کردن شخصیت یا مراجعه به بخش چند نفره امکان پذیر نیست."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Gardens &amp; Vegetable Plantations"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063640Z" creationid="Novin Pendar" creationdate="20200925T063640Z">
         <seg>"پلانتشین سبزیجات و گیاهان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Gender Equality"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T123928Z" creationid="mahan" creationdate="20200924T123928Z">
+        <seg>"برابری جنسیتی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Gender rules are determined by Gender Laws and Faith Doctrines."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T124640Z" creationid="mahan" creationdate="20200924T124640Z">
+        <seg>"برابری جنسیتی بر پایه تعالیم دینی و قوانین دولت میباشد ."</seg>
       </tuv>
     </tu>
     <tu>
@@ -2936,6 +3336,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Heterosexuality is the most common Sexuality, while Homosexuality, Bisexuality, and Asexuality are less common."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T131702Z" creationid="mahan" creationdate="20200924T130412Z">
+        <seg>"دگرجنسگرا معمول ترین است، درحالی که همجنسگرا، دوجنسگرا و بی تعامل جنسی بودن معمول نیست ."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Homesteads house peasant farmers, who grow grain and keep animals for their own use."</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T052853Z" creationid="Novin Pendar" creationdate="20200925T052853Z">
@@ -2948,6 +3356,22 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T052755Z" creationid="Novin Pendar" creationdate="20200925T052755Z">
         <seg>"مزارع رعیتی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Homosexuality is the most common Sexuality, while Heterosexuality, Bisexuality and Asexuality are less common."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T131524Z" creationid="mahan" creationdate="20200924T130722Z">
+        <seg>"همجنسگرایی معمول ترین است، درحالی که دگرجنسگرا، دوجنسگرا و بی تعامل جنسی بودن معمول نیست."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Homosexuality"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T130629Z" creationid="mahan" creationdate="20200924T130629Z">
+        <seg>"همجنسگرایی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3040,6 +3464,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"In order to unlock achievements, the game needs to be played without modifications, in single player, and with Ironman mode enabled."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T133918Z" creationid="mahan" creationdate="20200924T112107Z">
+        <seg>"برای بدست اوردن دستاورد ها، نیاز است بازی را بدون مد و یا چیزهای اضافی بر روی حالت تک نفره بر روی مد آیرون من بازی کنید ."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Incestuous"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T222349Z" creationid="mohammad" creationdate="20200924T222349Z">
@@ -3076,6 +3508,38 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T212805Z" creationid="mohammad" creationdate="20200921T185220Z">
         <seg>"دسیسه چینی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Ironman Disabled"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T111741Z" creationid="mahan" creationdate="20200924T111741Z">
+        <seg>"آیرون من غیرفعال"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Ironman Enabled"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T111725Z" creationid="mahan" creationdate="20200924T111725Z">
+        <seg>"آیرون من فعال"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Ironman can only be played in Single Player"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T113658Z" creationid="mahan" creationdate="20200924T113658Z">
+        <seg>"آیرون من فقط در بخش تک نفره قابل انتخاب است"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Ironman"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T111543Z" creationid="mahan" creationdate="20200924T111543Z">
+        <seg>"آیرون من"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3624,6 +4088,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Normal"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T115814Z" creationid="mahan" creationdate="20200924T115814Z">
+        <seg>"معمولی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Norman Yoke"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222039Z" creationid="BIG GAMER" creationdate="20200924T222039Z">
@@ -3660,6 +4132,30 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T050905Z" creationid="BIG GAMER" creationdate="20200925T050905Z">
         <seg>همه برتری ها را در یک سبک  زندگی به دست اورید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Off"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T133140Z" creationid="mahan" creationdate="20200924T133140Z">
+        <seg>"غیرفعال"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"On (Conversion)"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T135831Z" creationid="mahan" creationdate="20200924T135831Z">
+        <seg>"روشن (تبدیل)"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"On"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T133218Z" creationid="mahan" creationdate="20200924T133218Z">
+        <seg>"فعال"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3764,6 +4260,22 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054351Z" creationid="Novin Pendar" creationdate="20200925T054351Z">
         <seg>"پرورشگاه های مکانی ایده آل برای نگه داری گله های بزرگ گاو و گوساله است که دارای چراگاه و فضا برای گردش است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Random Ruler Placement"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T133950Z" creationid="mahan" creationdate="20200924T133828Z">
+        <seg>" مختلف بودن حاکم ها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Randomized Faiths"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T133130Z" creationid="mahan" creationdate="20200924T132939Z">
+        <seg>"مختلف بودن ادیان"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3883,10 +4395,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Rulers are randomly placed on the map. The Realms are largely the same, but Titles are held by different rulers."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T135757Z" creationid="mahan" creationdate="20200924T135757Z">
+        <seg>"حاکم ها به صورت تصادفی بر روی مپ قرار میگیرند. مناطق و بخش ها تغیری نمیکنند ، ولی مقام ها و حاکم ها به صورت تصادفی انتخاب میشوند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Rulers are randomly placed on the map. They convert to the local Faith."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T135919Z" creationid="mahan" creationdate="20200924T135919Z">
+        <seg>"حاکم هایی که به صورت تصادفی انتخاب شده اند دینشان به دین منطقه تغییر میابد."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Rulers have their historical Titles and Realm."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T134627Z" creationid="mahan" creationdate="20200924T134124Z">
+        <seg>"حاکمان تاریخی هستند و تاج و تخت خود را دارند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Saint"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T220020Z" creationid="BIG GAMER" creationdate="20200924T220020Z">
         <seg>شیخ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Same-Sex Relations"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T132056Z" creationid="mahan" creationdate="20200924T131257Z">
+        <seg>"رابطه با همجنس"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Same-sex relations are fully accepted by all Faiths."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T132516Z" creationid="mahan" creationdate="20200924T132516Z">
+        <seg>"در تمامی ادیان با همجنسگرایی موافقت شده است."</seg>
       </tuv>
     </tu>
     <tu>
@@ -3979,6 +4531,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Sexuality Distribution"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T130557Z" creationid="mahan" creationdate="20200924T125829Z">
+        <seg>"دگرگونی جنسی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Shipwrights"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T123527Z" creationid="Novin Pendar" creationdate="20200924T123527Z">
@@ -3999,6 +4559,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T103402Z" creationid="mohammad" creationdate="20200924T103402Z">
         <seg>"دوباره نشان بده"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Show the full list of Achievements"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T113949Z" creationid="mahan" creationdate="20200924T113949Z">
+        <seg>"نمایش لیست دستاورد ها"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4079,6 +4647,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T221901Z" creationid="mohammad" creationdate="20200924T221901Z">
         <seg>"Sodomite"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Start Ironman"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T112559Z" creationid="mahan" creationdate="20200924T112559Z">
+        <seg>"شروع آیرون من"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4315,6 +4891,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"The speed is increased, making conversion take roughly half of the time."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T122428Z" creationid="mahan" creationdate="20200924T120436Z">
+        <seg>"سرعت جایگزینی قومی زیاد شده است، سرعت جایگذینی دو برابر بیشتر از حالت معمولی است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The speed is reduced, making conversion take roughly twice the time."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T122722Z" creationid="mahan" creationdate="20200924T122722Z">
+        <seg>"سرعت جایگزینی قومی کم شده است، سرعت جایگزینی 2 برابر کند تر از حالت معمولی است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The speed is significantly increased, making conversion take roughly a quarter of the time."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T122234Z" creationid="mahan" creationdate="20200924T121958Z">
+        <seg>"سرعت جایگزینی قومی زیاد شده است، سرعت جایگزینی چندین برابر بیشتر از حالت معمولی است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The speed is significantly reduced, making conversion take roughly four times longer."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T122200Z" creationid="mahan" creationdate="20200924T122200Z">
+        <seg>"سرعت جایگزینی قومی کم شده است، سرعت جایگزینی 4 برابر کند تر از حالت معمولی است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"The study of administration, management and the flow of gold."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T031856Z" creationid="mohammad" creationdate="20200922T031646Z">
@@ -4355,6 +4963,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"The view on same-sex relations depend on each Faith's $doctrine_homosexuality_name$ Doctrine."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T132409Z" creationid="mahan" creationdate="20200924T132248Z">
+        <seg>"طرز نگاه به رابطه با همجنس بستگی به $doctrine_homosexuality_name$  قوانین دین فرد دارد ."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Theologian"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T024902Z" creationid="mohammad" creationdate="20200922T024902Z">
@@ -4383,6 +4999,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T122639Z" creationid="Novin Pendar" creationdate="20200924T122639Z">
         <seg>"این شهر به موقعیت های پر سخاوت و بسیار که درونش قرار دارد معروف است — گفته شده که حتی ضعیف ترین روستایی هم میتواند اینجا مالی بی اندوزد. خانه ها تا جایی که چشم سو میدهد در خطوط کنار خیابان قرار گرفته اند، با گاری ها و حیوانات مشغول حمل کالا ها هر طرفی که می نگری ."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"This game rule disables Achievements"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T112504Z" creationid="mahan" creationdate="20200924T112504Z">
+        <seg>"این حالت دستاورد هارا غیرفعال میکند"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5023,6 +5647,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T073804Z" creationid="mohammad" creationdate="20200925T073804Z">
         <seg>شما جایگزین [RIGHT_CHARACTER.GetUINameNoTooltip] در [WAR.GetName|V]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"You will be given bonuses, such as lessening the impact of disease, hostile schemes and stress. It will also be easier to handle Factions."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T115555Z" creationid="mahan" creationdate="20200924T115110Z">
+        <seg>"به شما منابع های اضافی داده میشود، قبیل از کم شدن مریضی ها، دشمنان های حیله گر و استرس و همینطور کنترل دولت آسان تر خواهد بود."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"You will be given significant bonuses, such as lessening the impact of disease, hostile schemes and stress. It will also be much easier to handle Factions."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T115629Z" creationid="mahan" creationdate="20200924T115547Z">
+        <seg>"به شما چندین برابر منابع داده میشود، قبیل از کم شدن مریضی ها، دشمنان های حیله گر و استرس و همینطور کنترل دولت آسان تر خواهد بود."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"You will play on an even playing field, without any significant bonuses."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200924T115858Z" creationid="mahan" creationdate="20200924T115858Z">
+        <seg>"شما به صورت معمولی بازی میکنید، بدون هیچگونه منابع اضافی."</seg>
       </tuv>
     </tu>
     <tu>
