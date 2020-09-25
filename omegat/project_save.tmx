@@ -5571,6 +5571,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"The AI will not attempt to start the Hungarian Migration."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T123154Z" creationid="mahan" creationdate="20200925T123154Z">
+        <seg>"بازی مهاجرت را بدون دستور بازیکن آغاز نخواهد کرد."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"The Concentric Castle is surrounded by two or more walls, the inner one higher than the outer one."</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T114044Z" creationid="Novin Pendar" creationdate="20200924T114044Z">
