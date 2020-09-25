@@ -3862,6 +3862,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Disband All"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234855Z" creationid="mohammad" creationdate="20200925T234855Z">
+        <seg>"منحل کردن همه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Dishonor: $VALUE|=+0$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T224225Z" creationid="mohammad" creationdate="20200925T224129Z">
@@ -5086,6 +5094,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Holy Orders"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234948Z" creationid="mohammad" creationdate="20200925T234948Z">
+        <seg>"احکام مقدس"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Homesteads house peasant farmers, who grow grain and keep animals for their own use."</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T052853Z" creationid="Novin Pendar" creationdate="20200925T052853Z">
@@ -5934,6 +5950,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Mercenaries"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234912Z" creationid="mohammad" creationdate="20200925T234912Z">
+        <seg>"مزدوران"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Merchant galleys load and off-load their cargo at this port."</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T122816Z" creationid="Novin Pendar" creationdate="20200924T122816Z">
@@ -6114,6 +6138,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T022715Z" creationid="mohammad" creationdate="20200922T022715Z">
         <seg>قدرت من درمردم و سرزمین من است.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Name"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T235042Z" creationid="mohammad" creationdate="20200925T235042Z">
+        <seg>"نام"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6390,6 +6422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Opinion of you"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T235159Z" creationid="mohammad" creationdate="20200925T235159Z">
+        <seg>"نظز نسبت به شما"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Orchards"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054358Z" creationid="Novin Pendar" creationdate="20200925T054358Z">
@@ -6634,6 +6674,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T074950Z" creationid="mohammad" creationdate="20200925T074950Z">
         <seg>"رتبه از دست رفته"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Rank"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T235032Z" creationid="mohammad" creationdate="20200925T235032Z">
+        <seg>"رتبه"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11509,6 +11557,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DISBAND_ALL:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234851Z" creationid="mohammad" creationdate="20200925T234851Z">
+        <seg>DISBAND_ALL:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DOMAIN:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234603Z" creationid="mohammad" creationdate="20200925T234603Z">
@@ -11681,6 +11737,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234644Z" creationid="mohammad" creationdate="20200925T234644Z">
         <seg>HIRED:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HOLY_ORDERS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234914Z" creationid="mohammad" creationdate="20200925T234914Z">
+        <seg>HOLY_ORDERS:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -12765,6 +12829,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MERCENARIES:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234856Z" creationid="mohammad" creationdate="20200925T234856Z">
+        <seg>MERCENARIES:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MESSAGES_IN_QUEUE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065249Z" creationid="mohammad" creationdate="20200925T065249Z">
@@ -13537,6 +13609,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T172305Z" creationid="mohammad" creationdate="20200924T172305Z">
         <seg>SETTING_TUTORIAL:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SORT_NAME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T235034Z" creationid="mohammad" creationdate="20200925T235034Z">
+        <seg>SORT_NAME:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SORT_OPINION:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T235043Z" creationid="mohammad" creationdate="20200925T235043Z">
+        <seg>SORT_OPINION:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SORT_RANK:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234950Z" creationid="mohammad" creationdate="20200925T234950Z">
+        <seg>SORT_RANK:0</seg>
       </tuv>
     </tu>
     <tu>
