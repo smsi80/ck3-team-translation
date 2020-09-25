@@ -86,6 +86,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#F The Doge's Palace acts as the residence for the government of the Republic of Venice. An impressive structure, it houses multiple chambers dedicated to things such as the Council, Senate, administration, and justice.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T114538Z" creationid="Novin Pendar" creationdate="20200925T114538Z">
+        <seg>"#F کاخ دُژ محل اسکان دولت جمهوری ونیز است. سازه ای با شکوه ، این ساختمان چندین </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#F The Great Mosque of Mecca is a massive and ancient structure whose walls surround the holy Kaaba. Many great Sultans have expanded upon the mosque and its surroundings since its construction. Every Muslim is supposed to visit this site when on the Hajj.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T114310Z" creationid="Novin Pendar" creationdate="20200925T114310Z">
+        <seg>"#F مسجد الحرام مکه سازه ای باستانی و وسیع است که اطراف کعبه مقدس را احاطه کرده. سلاطین بزرگ بسیاری از زمان ساخت این مسجد سازه های اطراف را گسترش داده اند. برای هر مسلمان دیدار از این مکان در عملی به نام حج واجب است.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#F The Lords and Ladies of the manor employ hundreds of peasants to till their fields and tend to their livestock. The more power they hold, the more land their subjects can work and, most importantly, the more tax they will produce!#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063506Z" creationid="Novin Pendar" creationdate="20200925T063506Z">
@@ -2462,6 +2478,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Canterbury Cathedral"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T114411Z" creationid="Novin Pendar" creationdate="20200925T114411Z">
+        <seg>"کلیسای جامع کنتربری"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Carolingian Consolidation"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223454Z" creationid="BIG GAMER" creationdate="20200924T223454Z">
@@ -2618,6 +2642,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T120945Z" creationid="Novin Pendar" creationdate="20200924T120605Z">
         <seg>"شهر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Cologne Cathedral"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T114351Z" creationid="Novin Pendar" creationdate="20200925T114351Z">
+        <seg>"کلیسا جامع کُلُن"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2852,6 +2884,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T103112Z" creationid="mohammad" creationdate="20200924T103112Z">
         <seg>"توضیح بده"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Doge's Palace"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T114422Z" creationid="Novin Pendar" creationdate="20200925T114422Z">
+        <seg>"تلار دُژ"</seg>
       </tuv>
     </tu>
     <tu>
