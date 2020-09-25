@@ -1920,6 +1920,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$game_concept_concubine_female$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233208Z" creationid="mohammad" creationdate="20200925T233208Z">
+        <seg>"$game_concept_concubine_female$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$game_concept_concubine_male$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233207Z" creationid="mohammad" creationdate="20200925T233207Z">
+        <seg>"$game_concept_concubine_male$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$lesson_basics_tooltips_in_tooltips$"</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T172831Z" creationid="Alireza" creationdate="20200925T172831Z">
@@ -4534,6 +4550,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Foreign [ruler|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233317Z" creationid="mohammad" creationdate="20200925T233317Z">
+        <seg>"خارجی [ruler|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Forgiveness: $VALUE|=+0$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T225725Z" creationid="mohammad" creationdate="20200925T225725Z">
@@ -6042,6 +6066,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T022715Z" creationid="mohammad" creationdate="20200922T022715Z">
         <seg>قدرت من درمردم و سرزمین من است.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Neighboring [ruler|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233303Z" creationid="mohammad" creationdate="20200925T233303Z">
+        <seg>"همسایه [ruler|E]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8801,6 +8833,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Your [top_liege|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233335Z" creationid="mohammad" creationdate="20200925T233335Z">
+        <seg>"شما [top_liege|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Your new [faith|E] dictates that you may no longer be betrothed to [LEFT_CHARACTER.GetShortUIName]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T154159Z" creationid="mohammad" creationdate="20200925T154159Z">
@@ -8857,10 +8897,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[CHARACTER.GetCouncilTitle]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233246Z" creationid="mohammad" creationdate="20200925T233246Z">
+        <seg>"[CHARACTER.GetCouncilTitle]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[CHARACTER.GetLiege.Custom('KnightCulture')]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233244Z" creationid="mohammad" creationdate="20200925T233244Z">
+        <seg>"[CHARACTER.GetLiege.Custom('KnightCulture')]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[CHARACTER.GetShortUINamePossessive] Opinion of [TARGET_CHARACTER.GetShortUIName]: $VALUE|+0$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T223543Z" creationid="mohammad" creationdate="20200925T223543Z">
         <seg>"[CHARACTER.GetShortUINamePossessive] نظر [TARGET_CHARACTER.GetShortUIName]: $VALUE|+0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[CHARACTER.GetShortUINamePossessive|U] $LIST$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233234Z" creationid="mohammad" creationdate="20200925T233234Z">
+        <seg>"[CHARACTER.GetShortUINamePossessive|U] $LIST$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9417,6 +9481,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[courtier|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233251Z" creationid="mohammad" creationdate="20200925T233251Z">
+        <seg>"[courtier|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[guest|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233252Z" creationid="mohammad" creationdate="20200925T233252Z">
+        <seg>"[guest|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[liege|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233242Z" creationid="mohammad" creationdate="20200925T233242Z">
+        <seg>"[liege|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[player_heir|E] $msg_betrothal_invalidated$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T154203Z" creationid="mohammad" creationdate="20200925T154203Z">
@@ -9453,6 +9541,22 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T104625Z" creationid="mahan" creationdate="20200925T104625Z">
         <seg>"[title_to_destroy.GetName] جریمه!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[vassal|E] to $LIEGE$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233228Z" creationid="mohammad" creationdate="20200925T233228Z">
+        <seg>"[vassal|E] به $LIEGE$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[vassal|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233240Z" creationid="mohammad" creationdate="20200925T233240Z">
+        <seg>"[vassal|E]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9597,6 +9701,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"father"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233217Z" creationid="mohammad" creationdate="20200925T233217Z">
+        <seg>"پدر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"girl"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T231157Z" creationid="mohammad" creationdate="20200925T231157Z">
@@ -9663,8 +9775,8 @@
       <tuv lang="en">
         <seg>"himself"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T231707Z" creationid="mohammad" creationdate="20200925T231707Z">
-        <seg>"خودش"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233047Z" creationid="mohammad" creationdate="20200925T231707Z">
+        <seg>"برای او"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9673,6 +9785,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T230733Z" creationid="mohammad" creationdate="20200925T230733Z">
         <seg>"مال او"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"husband"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233200Z" creationid="mohammad" creationdate="20200925T233200Z">
+        <seg>"شوهر"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9695,8 +9815,8 @@
       <tuv lang="en">
         <seg>"itself"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T231711Z" creationid="mohammad" creationdate="20200925T231711Z">
-        <seg>"خود"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233053Z" creationid="mohammad" creationdate="20200925T231711Z">
+        <seg>"برای ان"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9757,6 +9877,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"mother"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233214Z" creationid="mohammad" creationdate="20200925T233214Z">
+        <seg>"مادر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"my"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T230929Z" creationid="mohammad" creationdate="20200925T230802Z">
@@ -9799,8 +9927,16 @@
       <tuv lang="en">
         <seg>"themself"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T231914Z" creationid="mohammad" creationdate="20200925T231914Z">
-        <seg>"themself"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233057Z" creationid="mohammad" creationdate="20200925T231914Z">
+        <seg>"برای ان ها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"themselves"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233148Z" creationid="mohammad" creationdate="20200925T233148Z">
+        <seg>"خودشان"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9809,6 +9945,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T230549Z" creationid="mohammad" creationdate="20200925T230549Z">
         <seg>"آنها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"wife"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233154Z" creationid="mohammad" creationdate="20200925T233154Z">
+        <seg>"همسر"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10525,10 +10669,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CHARACTER_CONCUBINE_FEMALE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233208Z" creationid="mohammad" creationdate="20200925T233208Z">
+        <seg>CHARACTER_CONCUBINE_FEMALE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_CONCUBINE_MALE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233203Z" creationid="mohammad" creationdate="20200925T233203Z">
+        <seg>CHARACTER_CONCUBINE_MALE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CHARACTER_DEAD_TOOLTIP:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T215534Z" creationid="mohammad" creationdate="20200925T215534Z">
         <seg>CHARACTER_DEAD_TOOLTIP:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_FATHER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233214Z" creationid="mohammad" creationdate="20200925T233214Z">
+        <seg>CHARACTER_FATHER:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -10677,6 +10845,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CHARACTER_HUSBAND:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233155Z" creationid="mohammad" creationdate="20200925T233155Z">
+        <seg>CHARACTER_HUSBAND:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CHARACTER_INCAPABLE_TOOLTIP:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T215647Z" creationid="mohammad" creationdate="20200925T215647Z">
@@ -10805,6 +10981,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CHARACTER_MOTHER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233209Z" creationid="mohammad" creationdate="20200925T233209Z">
+        <seg>CHARACTER_MOTHER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CHARACTER_SHEHE_HE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T230447Z" creationid="mohammad" creationdate="20200925T230447Z">
@@ -10845,10 +11029,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CHARACTER_THEMSELVES:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233059Z" creationid="mohammad" creationdate="20200925T233059Z">
+        <seg>CHARACTER_THEMSELVES:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CHARACTER_TRAITS:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T213633Z" creationid="mohammad" creationdate="20200925T213633Z">
         <seg>CHARACTER_TRAITS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_WIFE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233149Z" creationid="mohammad" creationdate="20200925T233149Z">
+        <seg>CHARACTER_WIFE:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -10897,6 +11097,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205258Z" creationid="mohammad" creationdate="20200925T205258Z">
         <seg>CONTENT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>COUNCILLOR:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233245Z" creationid="mohammad" creationdate="20200925T233245Z">
+        <seg>COUNCILLOR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>COURTIER:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233246Z" creationid="mohammad" creationdate="20200925T233246Z">
+        <seg>COURTIER:1</seg>
       </tuv>
     </tu>
     <tu>
@@ -11237,6 +11453,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GUEST:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233252Z" creationid="mohammad" creationdate="20200925T233252Z">
+        <seg>GUEST:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HALFYEAR:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T142641Z" creationid="mohammad" creationdate="20200925T142641Z">
@@ -11269,10 +11493,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>KNIGHT:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233242Z" creationid="mohammad" creationdate="20200925T233242Z">
+        <seg>KNIGHT:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LESS_THAN:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T213014Z" creationid="mohammad" creationdate="20200925T213014Z">
         <seg>LESS_THAN:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LIEGE:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233241Z" creationid="mohammad" creationdate="20200925T233241Z">
+        <seg>LIEGE:1</seg>
       </tuv>
     </tu>
     <tu>
@@ -12413,6 +12653,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>RELATION_BELOW_VASSAL:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233337Z" creationid="mohammad" creationdate="20200925T233337Z">
+        <seg>RELATION_BELOW_VASSAL:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RELATION_FOREIGN_RULER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233304Z" creationid="mohammad" creationdate="20200925T233304Z">
+        <seg>RELATION_FOREIGN_RULER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RELATION_LIST:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233230Z" creationid="mohammad" creationdate="20200925T233230Z">
+        <seg>RELATION_LIST:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RELATION_MY_TOP_LIEGE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233318Z" creationid="mohammad" creationdate="20200925T233318Z">
+        <seg>RELATION_MY_TOP_LIEGE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RELATION_NEIGHBORING_RULER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233254Z" creationid="mohammad" creationdate="20200925T233254Z">
+        <seg>RELATION_NEIGHBORING_RULER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>RELOAD:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T211143Z" creationid="mohammad" creationdate="20200925T211143Z">
@@ -13025,6 +13305,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T222938Z" creationid="mohammad" creationdate="20200925T222938Z">
         <seg>VALUE_COLON:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>VASSAL:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233237Z" creationid="mohammad" creationdate="20200925T233237Z">
+        <seg>VASSAL:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>VASSAL_TO:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T233218Z" creationid="mohammad" creationdate="20200925T233218Z">
+        <seg>VASSAL_TO:0</seg>
       </tuv>
     </tu>
     <tu>
