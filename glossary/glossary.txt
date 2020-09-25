@@ -15,3 +15,10 @@ Scheme	نقشه
 Motte	قلعه چوبی
 province	ایالت	؟
 Traits	ویژگی
+Lowborn	موقعیت اجتماعی پایین	Lowborn
+Adjective
+born to a family that has a low social status.
+a retinue of low-born soldiers
+صفت
+در خانواده ای به دنیا آمده که از موقعیت اجتماعی پایینی برخوردار هستند.
+مجموعه ای از سربازان پست
