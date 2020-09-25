@@ -16,8 +16,8 @@
       <tuv lang="en">
         <seg>"#F A place of higher learning for those with influence, and gold, enough to gain admission.#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T052039Z" creationid="Novin Pendar" creationdate="20200925T052039Z">
-        <seg>"#F مکانی برای آموختن دانش عالیه برای کسانی که نفوذ و طلای کافی ای برای .#!"</seg>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T052328Z" creationid="Novin Pendar" creationdate="20200925T052039Z">
+        <seg>"#F مکانی برای آموختن دانش عالیه برای کسانی که نفوذ و طلای کافی برای پذیرفته شدن در آن دارند.#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -34,6 +34,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T120907Z" creationid="Novin Pendar" creationdate="20200924T120907Z">
         <seg>"#F شهری پر جمعیت که عده زیادی دزد، تاجر و شهرنشین پرتلاش را اسکان میدهد.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#F A significant portion of this province is dedicated to animal husbandry and as grazing lands for herds of pastoral animals.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T052627Z" creationid="Novin Pendar" creationdate="20200925T052627Z">
+        <seg>"#F بخش وسیعی از این ایالت برای دامداری و چراگاه برای گله حیوانات دامی اختصاص داده شده.#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1472,6 +1480,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Homesteads house peasant farmers, who grow grain and keep animals for their own use."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T052853Z" creationid="Novin Pendar" creationdate="20200925T052853Z">
+        <seg>"مزارع رعیتی محل اسکان کشاورزان روستایی ای است که برای نگه داری از حیوانات خود و استفاده شخصی گندم کشت میکنند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Homesteads"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T052755Z" creationid="Novin Pendar" creationdate="20200925T052755Z">
+        <seg>"مزارع رعیتی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"House of Worship"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T115336Z" creationid="Novin Pendar" creationdate="20200924T115336Z">
@@ -1996,6 +2020,30 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T131015Z" creationid="Novin Pendar" creationdate="20200924T131015Z">
         <seg>"مجلس</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Pastoral Lands"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T052258Z" creationid="Novin Pendar" creationdate="20200925T052258Z">
+        <seg>"زمین های دامداری"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Pastures are used by local peasants to keep smaller animals, such as sheep or goats."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T052732Z" creationid="Novin Pendar" creationdate="20200925T052732Z">
+        <seg>"علفزار ها توسط مردم محلی برای نگه داری از حیوانات کوچک مثل گوسفند و یا بز ها استفاده میشوند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Pastures"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T052648Z" creationid="Novin Pendar" creationdate="20200925T052648Z">
+        <seg>"علفزار"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2623,6 +2671,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T052206Z" creationid="Novin Pendar" creationdate="20200925T052206Z">
         <seg>"دانشگاه سطح پنج"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"University VI"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T052215Z" creationid="Novin Pendar" creationdate="20200925T052215Z">
+        <seg>"دانشگاه سطح شش"</seg>
       </tuv>
     </tu>
     <tu>
