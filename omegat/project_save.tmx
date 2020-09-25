@@ -4120,6 +4120,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Most landed historical AI characters with no recorded family will have a spouse and up to three children generated for them. This increases the risk of an early game over."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T112049Z" creationid="mahan" creationdate="20200925T112049Z">
+        <seg>"هوش مصنوعی داخل بازی یک خواهر یا برادر و بیشتر از 3 فرزند خواهند داشت. این روش باعث پایان زودهنگام بازی میشود."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Most landed historical characters with no recorded family will have a spouse and up to three children generated for them. This reduces the risk of an early game over."</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T110922Z" creationid="mahan" creationdate="20200925T110922Z">
