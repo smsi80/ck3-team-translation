@@ -6411,6 +6411,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[TARGET_CHARACTER.GetShortUIName|U] is the illegitimate child of [TARGET_CHARACTER.GetMother.GetShortUIName] and [TARGET_CHARACTER.GetRealFather.GetShortUIName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T112444Z" creationid="mohammad" creationdate="20200925T112444Z">
+        <seg>"[TARGET_CHARACTER.GetShortUIName|U] is the illegitimate child of [TARGET_CHARACTER.GetMother.GetShortUIName] and [TARGET_CHARACTER.GetRealFather.GetShortUIName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[alliance|E] formed with [LEFT_CHARACTER.GetUINameNoTooltip] because [LEFT_CHARACTER.GetSheHe] is now a [ruler|E]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T072931Z" creationid="mohammad" creationdate="20200925T072931Z">
@@ -8666,6 +8674,18 @@
     <tu>
       <tuv lang="en">
         <seg>l_english:
+ # Title Hierarchy Triggers
+ PROVINCE_DE_JURE_EQUAL:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T111942Z" creationid="mohammad" creationdate="20200925T111942Z">
+        <seg>l_english:
+ # Title Hierarchy Triggers
+ PROVINCE_DE_JURE_EQUAL:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
  #Become Greatest of Khans
  become_greatest_of_khans_decision:0</seg>
       </tuv>
@@ -10865,6 +10885,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T230644Z" creationid="mohammad" creationdate="20200924T230644Z">
         <seg>secret_unmarried_illegitimate_child:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>secret_unmarried_illegitimate_child_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T112025Z" creationid="mohammad" creationdate="20200925T112025Z">
+        <seg>secret_unmarried_illegitimate_child_desc:0</seg>
       </tuv>
     </tu>
     <tu>
