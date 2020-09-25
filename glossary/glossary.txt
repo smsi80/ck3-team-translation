@@ -12,3 +12,4 @@ Intimidation	ارعاب
 Seducer	اغواگر
 lifestyle	سبک زندگی
 Scheme	نقشه
+Motte	قلعه چوبی
