@@ -1638,6 +1638,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Agent Removed from Scheme"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072108Z" creationid="mohammad" creationdate="20200925T072108Z">
+        <seg>"مامور از دسیسه حذف شد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Agents Joined Scheme"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071538Z" creationid="mohammad" creationdate="20200925T071538Z">
@@ -4639,6 +4647,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T072052Z" creationid="mohammad" creationdate="20200925T072052Z">
         <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] و [RIGHT_CHARACTER.GetUINameNoTooltip] ملحق شد به [scheme|E] به [SCHEME.GetFullActionName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] is no longer an agent in your [scheme|E] to [SCHEME.GetFullActionName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072145Z" creationid="mohammad" creationdate="20200925T072145Z">
+        <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] دیگر به عنوان مامور شما در [scheme|E] به [SCHEME.GetFullActionName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7865,6 +7881,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071440Z" creationid="mohammad" creationdate="20200925T071440Z">
         <seg>msg_agent_joined_my_scheme_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_agent_removed_my_scheme:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072053Z" creationid="mohammad" creationdate="20200925T072053Z">
+        <seg>msg_agent_removed_my_scheme:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_agent_removed_my_scheme_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072110Z" creationid="mohammad" creationdate="20200925T072110Z">
+        <seg>msg_agent_removed_my_scheme_desc:1</seg>
       </tuv>
     </tu>
     <tu>
