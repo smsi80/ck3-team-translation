@@ -7785,6 +7785,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ACHIEVEMENT_GROUP_easy_achievements:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T140834Z" creationid="mohammad" creationdate="20200925T140834Z">
+        <seg>ACHIEVEMENT_GROUP_easy_achievements:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CAN_ONLY_CHANGE_FOCUS_ONCE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T085616Z" creationid="mohammad" creationdate="20200924T085616Z">
