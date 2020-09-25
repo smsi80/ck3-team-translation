@@ -2342,6 +2342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Casus Bellis cost resources to declare, such as Prestige or Piety."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T110423Z" creationid="mahan" creationdate="20200925T110423Z">
+        <seg>"برای اعلام دلیل جنگ نیاز به پرستیژ یا تقوای دینی دارید."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Cattle Ranches"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054259Z" creationid="Novin Pendar" creationdate="20200925T054259Z">
