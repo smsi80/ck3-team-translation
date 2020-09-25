@@ -3586,6 +3586,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"English"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T204542Z" creationid="mohammad" creationdate="20200925T204542Z">
+        <seg>"انگلیسی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Equal"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T130441Z" creationid="mahan" creationdate="20200924T130441Z">
@@ -6217,6 +6225,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T201556Z" creationid="BIG GAMER" creationdate="20200925T201556Z">
         <seg>شیپور را به صدا در بیاورید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Spanish"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205046Z" creationid="mohammad" creationdate="20200925T205046Z">
+        <seg>"اسپانیایی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10229,6 +10245,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T172305Z" creationid="mohammad" creationdate="20200924T172305Z">
         <seg>SETTING_TUTORIAL:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SPANISH:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T204546Z" creationid="mohammad" creationdate="20200925T204546Z">
+        <seg>SPANISH:0</seg>
       </tuv>
     </tu>
     <tu>
