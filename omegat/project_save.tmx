@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T $SETTING_SHOW_DISTURBING_PORTRAIT_MODIFIERS$#!\nSets whether graphic injuries and diseases will be visible on character portraits."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T161315Z" creationid="mohammad" creationdate="20200925T161315Z">
+        <seg>"#T $SETTING_SHOW_DISTURBING_PORTRAIT_MODIFIERS$#!\nSets whether graphic injuries and diseases will be visible on character portraits."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T $SETTING_TOOLTIP_DELAY$#!\nSets the delay before tooltips appear."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T183544Z" creationid="mohammad" creationdate="20200924T183544Z">
@@ -9447,6 +9455,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T161143Z" creationid="mohammad" creationdate="20200925T161143Z">
         <seg>SETTING_SHOW_DISTURBING_PORTRAIT_MODIFIERS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_SHOW_DISTURBING_PORTRAIT_MODIFIERS_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T161303Z" creationid="mohammad" creationdate="20200925T161303Z">
+        <seg>SETTING_SHOW_DISTURBING_PORTRAIT_MODIFIERS_TOOLTIP:0</seg>
       </tuv>
     </tu>
     <tu>
