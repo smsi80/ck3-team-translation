@@ -2456,6 +2456,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Faction Created against [RIGHT_CHARACTER.GetShortUINameNoTooltip]!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T075749Z" creationid="mohammad" creationdate="20200925T075749Z">
+        <seg>" جناح ساخته شد مقابل[RIGHT_CHARACTER.GetShortUINameNoTooltip]!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Faction Disbanded"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T075043Z" creationid="mohammad" creationdate="20200925T075043Z">
@@ -3244,6 +3252,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T024545Z" creationid="mohammad" creationdate="20200922T023901Z">
         <seg>"یادگیری"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Left Faction"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T075655Z" creationid="mohammad" creationdate="20200925T075655Z">
+        <seg>"جناح رها شد"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4963,6 +4979,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Your [GetPlayer.Custom2('RelationToMeShort', LEFT_CHARACTER.Self )] [LEFT_CHARACTER.GetShortUINameNoTooltip] created the [FACTION.GetName] against [RIGHT_CHARACTER.GetShortUINameNoTooltip]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T075854Z" creationid="mohammad" creationdate="20200925T075854Z">
+        <seg>"شما [GetPlayer.Custom2('RelationToMeShort', LEFT_CHARACTER.Self )] [LEFT_CHARACTER.GetShortUINameNoTooltip] ساخت [FACTION.GetName] مقابل [RIGHT_CHARACTER.GetShortUINameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Your [GetPlayer.Custom2('RelationToMeShort', LEFT_CHARACTER.Self )] [LEFT_CHARACTER.GetShortUINameNotMe] married [RIGHT_CHARACTER.GetUINameNotMe]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065921Z" creationid="mohammad" creationdate="20200925T065921Z">
@@ -4991,6 +5015,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065945Z" creationid="mohammad" creationdate="20200925T065945Z">
         <seg>"[BUILDING.GetName] ساخته شد در [PROVINCE.GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[CHARACTER.GetUINameNoTooltip] is not your liege anymore so you have left the [FACTION.GetName] against [CHARACTER.GetHerHim]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T075731Z" creationid="mohammad" creationdate="20200925T075731Z">
+        <seg>"[CHARACTER.GetUINameNoTooltip] دیگر ارباب شما نیست پس شما هم تر کردید [FACTION.GetName] مقابل [CHARACTER.GetHerHim]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8717,6 +8749,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_faction_against_liege_or_me_created:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T075731Z" creationid="mohammad" creationdate="20200925T075731Z">
+        <seg>msg_faction_against_liege_or_me_created:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_faction_against_liege_or_me_created_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T075750Z" creationid="mohammad" creationdate="20200925T075750Z">
+        <seg>msg_faction_against_liege_or_me_created_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_gain_nickname:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T074725Z" creationid="mohammad" creationdate="20200925T074725Z">
@@ -9001,6 +9049,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T070247Z" creationid="mohammad" creationdate="20200925T070247Z">
         <seg>msg_no_new_heir_old_heir_dead_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_removed_from_faction_not_liege:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T075635Z" creationid="mohammad" creationdate="20200925T075635Z">
+        <seg>msg_removed_from_faction_not_liege:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_removed_from_faction_not_liege_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T075656Z" creationid="mohammad" creationdate="20200925T075656Z">
+        <seg>msg_removed_from_faction_not_liege_desc:1</seg>
       </tuv>
     </tu>
     <tu>
