@@ -2918,6 +2918,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Consort Invalid"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T160053Z" creationid="mohammad" creationdate="20200925T160053Z">
+        <seg>"همسر نامعتبر است"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Continue"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T102602Z" creationid="mohammad" creationdate="20200924T102602Z">
@@ -4762,8 +4770,8 @@
       <tuv lang="en">
         <seg>"Marriage by strong hook"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T155938Z" creationid="mohammad" creationdate="20200925T155938Z">
-        <seg>"hcn,h[ lp;l"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T155956Z" creationid="mohammad" creationdate="20200925T155938Z">
+        <seg>"ازدواج محکم"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7267,6 +7275,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Your new [faith|E]'s beliefs mean that [LEFT_CHARACTER.GetShortUIName] is no longer your Consort"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T160229Z" creationid="mohammad" creationdate="20200925T160229Z">
+        <seg>"جدید شما [faith|E]'اعتقادات شما میگویند که دیگر همسر شما نیست ]LEFT_CHARACTER.GetShortUIName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Your new [faith|E]'s beliefs mean that [LEFT_CHARACTER.GetShortUIName] is no longer your [spouse|E]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T154818Z" creationid="mohammad" creationdate="20200925T154818Z">
@@ -7487,6 +7503,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T155603Z" creationid="mohammad" creationdate="20200925T155603Z">
         <seg>"[LEFT_CHARACTER.GetShortUINamePossessive] جدید [faith|E]'s اعتقادات شما به این معنی هستند که [RIGHT_CHARACTER.GetShortUIName] دیگر نیستr [LEFT_CHARACTER.GetHerHis] [spouse|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[LEFT_CHARACTER.GetShortUIName|U] and [RIGHT_CHARACTER.GetShortUIName] are marrying due to a [strong_hook|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T160028Z" creationid="mohammad" creationdate="20200925T160028Z">
+        <seg>"[LEFT_CHARACTER.GetShortUIName|U] و [RIGHT_CHARACTER.GetShortUIName] به خاطر ازدواج میکنند [strong_hook|E]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11498,6 +11522,22 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_consort_invalidated:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T160029Z" creationid="mohammad" creationdate="20200925T160029Z">
+        <seg>msg_consort_invalidated:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_consort_invalidated_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T160054Z" creationid="mohammad" creationdate="20200925T160054Z">
+        <seg>msg_consort_invalidated_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_council_task_finished:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T072505Z" creationid="mohammad" creationdate="20200925T072505Z">
@@ -11918,6 +11958,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T155803Z" creationid="mohammad" creationdate="20200925T155803Z">
         <seg>msg_marriage_forced:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_marriage_forced_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T155940Z" creationid="mohammad" creationdate="20200925T155940Z">
+        <seg>msg_marriage_forced_desc:0</seg>
       </tuv>
     </tu>
     <tu>
