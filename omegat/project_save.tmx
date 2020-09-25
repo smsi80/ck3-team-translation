@@ -1808,6 +1808,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$NUM|O$ Army of [PROVINCE.GetNameNoTooltip]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T215220Z" creationid="mohammad" creationdate="20200925T215220Z">
+        <seg>"$NUM|O$ ارتش از [PROVINCE.GetNameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$NUM|O$ Raiders of [PROVINCE.GetNameNoTooltip]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T215240Z" creationid="mohammad" creationdate="20200925T215240Z">
+        <seg>"$NUM|O$ مهاجمان [PROVINCE.GetNameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$SCHEME_NAME|V$ on [CHARACTER.GetUINameNoTooltip] has been abandoned"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071423Z" creationid="mohammad" creationdate="20200925T071423Z">
@@ -6074,6 +6090,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Poor"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T215153Z" creationid="mohammad" creationdate="20200925T215153Z">
+        <seg>"فقیر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Portraits"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T165020Z" creationid="mohammad" creationdate="20200925T161141Z">
@@ -6249,6 +6273,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T173310Z" creationid="mohammad" creationdate="20200925T173009Z">
         <seg>"راه اندازی مجدد واکنش های نصیحت آمیز "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Rich"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T215147Z" creationid="mohammad" creationdate="20200925T215147Z">
+        <seg>"ثروتمند"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7359,8 +7391,8 @@
       <tuv lang="en">
         <seg>"This character is Lowborn"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T215014Z" creationid="mohammad" creationdate="20200925T215014Z">
-        <seg>"This character is Lowborn"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T215135Z" creationid="mohammad" creationdate="20200925T215014Z">
+        <seg>"این شخصیت دارای موقعیت اجتماعی پایینی است"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9437,6 +9469,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T142919Z" creationid="mohammad" creationdate="20200925T142919Z">
         <seg>ALWAYS_SHOW:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ARMY_NAME:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T215153Z" creationid="mohammad" creationdate="20200925T215153Z">
+        <seg>ARMY_NAME:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ARMY_NAME_RAIDER:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T215221Z" creationid="mohammad" creationdate="20200925T215221Z">
+        <seg>ARMY_NAME_RAIDER:1</seg>
       </tuv>
     </tu>
     <tu>
@@ -11573,6 +11621,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T103415Z" creationid="mohammad" creationdate="20200924T103415Z">
         <seg>TUTORIAL_STEP_INSTRUCTIONS:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>WEALTH_POOR:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T215148Z" creationid="mohammad" creationdate="20200925T215148Z">
+        <seg>WEALTH_POOR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>WEALTH_RICH:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T215136Z" creationid="mohammad" creationdate="20200925T215136Z">
+        <seg>WEALTH_RICH:0</seg>
       </tuv>
     </tu>
     <tu>
