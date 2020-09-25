@@ -1350,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#high Relaxed#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T122224Z" creationid="mahan" creationdate="20200925T122224Z">
+        <seg>"#high آرام#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#high Restricted#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T102019Z" creationid="mahan" creationdate="20200925T102019Z">
@@ -1394,6 +1402,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T122601Z" creationid="mahan" creationdate="20200924T122601Z">
         <seg>"#high کند#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#high Strict#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T121951Z" creationid="mahan" creationdate="20200925T121951Z">
+        <seg>"#high کامل#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3876,6 +3892,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T121842Z" creationid="mahan" creationdate="20200925T121842Z">
         <seg>"شیوع بدعت در بعضی نقاط مختلف بیشتر ارتداد های تاریخی خواهند بود. مثل جنبش لولارد در انگلستان."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Heresy outbreaks in certain regions will almost always be historical heresies."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T122016Z" creationid="mahan" creationdate="20200925T122016Z">
+        <seg>"شیوع بدعت در بعضی نقاط مختلف تقریبا ارتداد های تاریخی خواهند بود."</seg>
       </tuv>
     </tu>
     <tu>
