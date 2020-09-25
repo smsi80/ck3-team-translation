@@ -1214,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#high No Costs#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T110453Z" creationid="mahan" creationdate="20200925T110453Z">
+        <seg>"#high بدون بها#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#high No Player Families#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T105233Z" creationid="mahan" creationdate="20200925T105233Z">
@@ -2338,6 +2346,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T110023Z" creationid="mahan" creationdate="20200925T110023Z">
         <seg>"دلیل جنگ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Casus Bellis are free to use, without any associated costs."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T110509Z" creationid="mahan" creationdate="20200925T110509Z">
+        <seg>"Casus Bellis are free to use, without."</seg>
       </tuv>
     </tu>
     <tu>
