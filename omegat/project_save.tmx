@@ -2456,6 +2456,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Activity $NAME$ [$ID$]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213147Z" creationid="mohammad" creationdate="20200925T213147Z">
+        <seg>"فعالیت $NAME$ [$ID$]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Administrator"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023601Z" creationid="mohammad" creationdate="20200922T023601Z">
@@ -3152,6 +3160,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Character $NAME$ [$ID$]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213128Z" creationid="mohammad" creationdate="20200925T213128Z">
+        <seg>"کاراکتر $NAME$ [$ID$]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Character Nudity"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T120916Z" creationid="mahan" creationdate="20200925T120916Z">
@@ -3766,6 +3782,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183751Z" creationid="mohammad" creationdate="20200921T183751Z">
         <seg>"حتی اگر آن ها را انتخاب نکرده باشیم، مهم ترین افراد نزدیکان ما هستند.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Event: $EVENT$ Character: $NAME$ [$ID$]\n"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213114Z" creationid="mohammad" creationdate="20200925T213114Z">
+        <seg>"اونت: $EVENT$ کاراکتر: $NAME$ [$ID$]\n"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6397,6 +6421,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Secret $NAME$ [$ID$]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213223Z" creationid="mohammad" creationdate="20200925T213223Z">
+        <seg>"راز $NAME$ [$ID$]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Seducer"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T222601Z" creationid="mohammad" creationdate="20200921T222601Z">
@@ -8945,6 +8977,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"equal to"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213046Z" creationid="mohammad" creationdate="20200925T213046Z">
+        <seg>"مساوی با"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"greater than"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213013Z" creationid="mohammad" creationdate="20200925T213013Z">
+        <seg>"بزرگتر از"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"less than"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213023Z" creationid="mohammad" creationdate="20200925T213023Z">
+        <seg>"کمتر از"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"lock in," enabling tooltips-in-tooltips."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T171853Z" creationid="mohammad" creationdate="20200925T171853Z">
@@ -9569,6 +9625,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>EQUAL_TO:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213038Z" creationid="mohammad" creationdate="20200925T213038Z">
+        <seg>EQUAL_TO:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>EVENT_DEBUG_CHARACTER_EVENT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213047Z" creationid="mohammad" creationdate="20200925T213047Z">
+        <seg>EVENT_DEBUG_CHARACTER_EVENT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FEED_MESSAGE_GOTO_TOOLTIP:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065617Z" creationid="mohammad" creationdate="20200925T065617Z">
@@ -9657,6 +9729,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GREATER_THAN:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T212959Z" creationid="mohammad" creationdate="20200925T212959Z">
+        <seg>GREATER_THAN:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HALFYEAR:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T142641Z" creationid="mohammad" creationdate="20200925T142641Z">
@@ -9677,6 +9757,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T085940Z" creationid="mohammad" creationdate="20200924T085940Z">
         <seg>I_HAVE_THIS_LIFESTYLE_FOCUS_DESCRIPTION:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LESS_THAN:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213014Z" creationid="mohammad" creationdate="20200925T213014Z">
+        <seg>LESS_THAN:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -10845,6 +10933,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205332Z" creationid="mohammad" creationdate="20200925T205332Z">
         <seg>SAVE_GAME:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_DEBUG_ACTIVITY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213129Z" creationid="mohammad" creationdate="20200925T213129Z">
+        <seg>SCOPE_DEBUG_ACTIVITY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_DEBUG_CHARACTER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213115Z" creationid="mohammad" creationdate="20200925T213115Z">
+        <seg>SCOPE_DEBUG_CHARACTER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_DEBUG_SECRET:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213154Z" creationid="mohammad" creationdate="20200925T213154Z">
+        <seg>SCOPE_DEBUG_SECRET:0</seg>
       </tuv>
     </tu>
     <tu>
