@@ -88,8 +88,8 @@
       <tuv lang="en">
         <seg>"#F The Doge's Palace acts as the residence for the government of the Republic of Venice. An impressive structure, it houses multiple chambers dedicated to things such as the Council, Senate, administration, and justice.#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T114538Z" creationid="Novin Pendar" creationdate="20200925T114538Z">
-        <seg>"#F کاخ دُژ محل اسکان دولت جمهوری ونیز است. سازه ای با شکوه ، این ساختمان چندین </seg>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T114703Z" creationid="Novin Pendar" creationdate="20200925T114538Z">
+        <seg>"#F کاخ دُژ محل اسکان دولت جمهوری ونیز است. سازه ای با شکوه ، این ساختمان چندین تالار را که به مسئولیت های همچون شورا ، سنا ، مدیریت و دادگستری را دارند تقسیم شده.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2890,8 +2890,8 @@
       <tuv lang="en">
         <seg>"Doge's Palace"</seg>
       </tuv>
-      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T114422Z" creationid="Novin Pendar" creationdate="20200925T114422Z">
-        <seg>"تلار دُژ"</seg>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T114542Z" creationid="Novin Pendar" creationdate="20200925T114422Z">
+        <seg>"کاخ دُژ"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5267,6 +5267,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"The Friday Mosque"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T114834Z" creationid="Novin Pendar" creationdate="20200925T114834Z">
+        <seg>"مسجد جامع اصفهان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"The Mongols will invade around the year 1200."</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T112125Z" creationid="mahan" creationdate="20200925T112125Z">
@@ -5967,6 +5975,22 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T120919Z" creationid="Novin Pendar" creationdate="20200924T120919Z">
         <seg>"مرکز روستا"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Visby Ringmur"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T114721Z" creationid="Novin Pendar" creationdate="20200925T114721Z">
+        <seg>"ویسبی رینگمور"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Walls of Benin"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T114736Z" creationid="Novin Pendar" creationdate="20200925T114736Z">
+        <seg>"دیوار های بنین"</seg>
       </tuv>
     </tu>
     <tu>
