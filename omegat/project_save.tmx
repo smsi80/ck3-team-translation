@@ -9685,6 +9685,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"men"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T231519Z" creationid="mohammad" creationdate="20200925T231519Z">
+        <seg>"مردان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"my"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T230929Z" creationid="mohammad" creationdate="20200925T230802Z">
@@ -9745,6 +9753,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T231133Z" creationid="mohammad" creationdate="20200925T231133Z">
         <seg>"زن ها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"women"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T231512Z" creationid="mohammad" creationdate="20200925T231223Z">
+        <seg>"زنان"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10641,6 +10657,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T231134Z" creationid="mohammad" creationdate="20200925T231134Z">
         <seg>CHARACTER_MAN_POSSESSIVE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_MEN:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T231514Z" creationid="mohammad" creationdate="20200925T231514Z">
+        <seg>CHARACTER_MEN:0</seg>
       </tuv>
     </tu>
     <tu>
