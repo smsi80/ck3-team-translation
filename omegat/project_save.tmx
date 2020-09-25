@@ -1622,6 +1622,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$lesson_basics_tooltips_in_tooltips$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T172831Z" creationid="Alireza" creationdate="20200925T172831Z">
+        <seg>"$lesson_basics_tooltips_in_tooltips$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$lesson_basics_tooltips_in_tooltips_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T172859Z" creationid="Alireza" creationdate="20200925T172859Z">
+        <seg>"$lesson_basics_tooltips_in_tooltips_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$martial_authority_focus_short$ Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184641Z" creationid="mohammad" creationdate="20200921T184641Z">
@@ -5683,6 +5699,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Rulers of Land ($lesson_basics_map$)"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T172955Z" creationid="Alireza" creationdate="20200925T172955Z">
+        <seg>"فرمانروایان سرزمین ($lesson_basics_map$)"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Saint"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T220020Z" creationid="BIG GAMER" creationdate="20200924T220020Z">
@@ -8091,6 +8115,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T214931Z" creationid="BIG GAMER" creationdate="20200924T214931Z">
         <seg>داره میاد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#  @test_flower! [pic|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T172901Z" creationid="Alireza" creationdate="20200925T172901Z">
+        <seg>#  @test_flower! [pic|E]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11084,6 +11116,22 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>lesson_basics_tooltips_in_tooltips_complete:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T172806Z" creationid="Alireza" creationdate="20200925T172806Z">
+        <seg>lesson_basics_tooltips_in_tooltips_complete:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_tooltips_in_tooltips_complete_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T172858Z" creationid="Alireza" creationdate="20200925T172858Z">
+        <seg>lesson_basics_tooltips_in_tooltips_complete_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>lesson_basics_tooltips_in_tooltips_desc:1</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T170927Z" creationid="Alireza" creationdate="20200925T170927Z">
@@ -11120,6 +11168,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T104350Z" creationid="mohammad" creationdate="20200924T104350Z">
         <seg>lesson_basics_vassals:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_web_of_titles:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T172902Z" creationid="Alireza" creationdate="20200925T172902Z">
+        <seg>lesson_basics_web_of_titles:0</seg>
       </tuv>
     </tu>
     <tu>
