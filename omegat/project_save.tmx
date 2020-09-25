@@ -1224,8 +1224,8 @@
       <tuv lang="en">
         <seg>"#high No Players#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mahan" changedate="20200925T105121Z" creationid="mahan" creationdate="20200925T105121Z">
-        <seg>"#high بازیکنان نمیتوانند#!"</seg>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T105301Z" creationid="mahan" creationdate="20200925T105121Z">
+        <seg>"#high غیرقابل اجرا بر روی بازیکنان#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2516,6 +2516,14 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200924T105608Z" creationid="mohammad" creationdate="20200924T105608Z">
         <seg>"Culture" #reactive advice now
  lesson_basics_religion:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Custom Kingdoms"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T105445Z" creationid="mahan" creationdate="20200925T105445Z">
+        <seg>"شخصی سازی پادشاهی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4344,6 +4352,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Players can not start Hostile Schemes against other players or their close family members."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T105339Z" creationid="mahan" creationdate="20200925T105339Z">
+        <seg>"بازیکنان نمیتوانند برای خانواده بازیکنان دیگر نقشه های پلید بکشند ."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Players can not start Hostile Schemes against other players."</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T105143Z" creationid="mahan" creationdate="20200925T105143Z">
@@ -4959,6 +4975,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023522Z" creationid="mohammad" creationdate="20200922T023522Z">
         <seg>"پیوند های وفاداری ما را محدود نمی کنند، بلکه راه را نشانمان می دهند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The creation of custom non-historical Kingdoms and Empires is allowed."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T105539Z" creationid="mahan" creationdate="20200925T105539Z">
+        <seg>"ساختن."</seg>
       </tuv>
     </tu>
     <tu>
