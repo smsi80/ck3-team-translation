@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#F The Tower of London is a castle that serves as both a vital fortification and a prison. The central tower is called the 'White Tower' and houses the ruling class. The position of the Tower of London means that it's vital to the defense of the entire County.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T113706Z" creationid="Novin Pendar" creationdate="20200925T113706Z">
+        <seg>"#F برج لندن قصری است که هم به عنوان استحکامی حیاتی و زندان استفاده میشود، برجک مرکزی آن "برج سفید" نام دارد که مکان سکونت طبقه حاکمیت است. موقعیت قلعه لندن به آن حد اهمیت دارد که نقطه حیاتی دفاع از کل ایالت است..#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#F The regimental grounds not only contain several buildings designed to house large amounts of levies but is also connected to a vast swathe of land for them to train for war.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T073727Z" creationid="Novin Pendar" creationdate="20200925T073727Z">
@@ -2498,6 +2506,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T031405Z" creationid="mohammad" creationdate="20200922T031405Z">
         <seg>"انتخاب این [education_focus|E] همچنین تاثیرات زیر را خواهد داشت:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Citadel of Aleppo"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T113804Z" creationid="Novin Pendar" creationdate="20200925T113754Z">
+        <seg>"ارک حلب"</seg>
       </tuv>
     </tu>
     <tu>
