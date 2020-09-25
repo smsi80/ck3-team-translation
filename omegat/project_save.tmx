@@ -2950,8 +2950,8 @@
       <tuv lang="en">
         <seg>"Base: $VALUE|V0$"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T222003Z" creationid="mohammad" creationdate="20200925T222003Z">
-        <seg>"Base: $VALUE|V0$"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T222124Z" creationid="mohammad" creationdate="20200925T222003Z">
+        <seg>"پایه: $VALUE|V0$"</seg>
       </tuv>
     </tu>
     <tu>
