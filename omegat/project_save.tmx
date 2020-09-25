@@ -1262,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#high Limited#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T120339Z" creationid="mahan" creationdate="20200925T120339Z">
+        <seg>"#high محدود#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#high Never#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T112132Z" creationid="mahan" creationdate="20200925T112132Z">
@@ -1338,6 +1346,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T102019Z" creationid="mahan" creationdate="20200925T102019Z">
         <seg>"#high محدود#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#high Significant#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T120632Z" creationid="mahan" creationdate="20200925T120632Z">
+        <seg>"#high شدید#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3066,8 +3082,16 @@
       <tuv lang="en">
         <seg>"Exclave Independence"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mahan" changedate="20200925T120218Z" creationid="mahan" creationdate="20200925T113234Z">
-        <seg>"استقلال سرزمین غیر متصل"</seg>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T120324Z" creationid="mahan" creationdate="20200925T113234Z">
+        <seg>"استقلال قلمرو غیر متصل"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Exclaves of Independent Rulers at peace will be removed on succession unless connected to the Capital area by one County, via a naval path or part of the De Jure territory."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T120604Z" creationid="mahan" creationdate="20200925T120604Z">
+        <seg>"."</seg>
       </tuv>
     </tu>
     <tu>
@@ -3898,8 +3922,8 @@
       <tuv lang="en">
         <seg>"Independent Rulers can have exclaves (disconnected land) anywhere in the world."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mahan" changedate="20200925T120316Z" creationid="mahan" creationdate="20200925T120316Z">
-        <seg>"حاکمان مستقل میتوانند در هرجای دنیا قلمرو غیر متصل."</seg>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T120332Z" creationid="mahan" creationdate="20200925T120316Z">
+        <seg>"حاکمان مستقل میتوانند در هرجای دنیا قلمرو غیر متصل داشته باشند."</seg>
       </tuv>
     </tu>
     <tu>
