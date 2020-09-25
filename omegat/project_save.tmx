@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -258,6 +258,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T183544Z" creationid="mohammad" creationdate="20200924T183544Z">
         <seg>"#T $SETTING_TOOLTIP_DELAY$#!\nSets the delay before tooltips appear."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $SETTING_TOOLTIP_LOCK_TIME$#!\nSets the delay before tooltips are locked."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T170527Z" creationid="mohammad" creationdate="20200925T170527Z">
+        <seg>"#T $SETTING_TOOLTIP_LOCK_TIME$#!\n."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $SETTING_TOOLTIP_UNLOCK_TIME$#!\nSets the delay before tooltips are unlocked."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T165703Z" creationid="mohammad" creationdate="20200925T165703Z">
+        <seg>"#T $SETTING_TOOLTIP_UNLOCK_TIME$#!\nتأخیر را قبل از باز کردن قفل راهنمای ابزار تنظیم می کند."</seg>
       </tuv>
     </tu>
     <tu>
