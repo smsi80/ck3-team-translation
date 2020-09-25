@@ -3910,6 +3910,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Domain"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234642Z" creationid="mohammad" creationdate="20200925T234642Z">
+        <seg>"مایملک"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Dome of the Rock"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T121336Z" creationid="Novin Pendar" creationdate="20200925T121142Z">
@@ -5058,6 +5066,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T131702Z" creationid="mahan" creationdate="20200924T130412Z">
         <seg>"دگرجنسگرا معمول ترین است، درحالی که همجنسگرا، دوجنسگرا و بی تعامل جنسی بودن معمول نیست ."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Hired"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234649Z" creationid="mohammad" creationdate="20200925T234649Z">
+        <seg>"استخدام شده"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6542,10 +6558,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Raise All Armies"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234713Z" creationid="mohammad" creationdate="20200925T234713Z">
+        <seg>"آماده کردن همه ارتش ها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Raise All as Raiders"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234825Z" creationid="mohammad" creationdate="20200925T234825Z">
+        <seg>"آماده کردن همه محاجمان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Raise Armies"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T110029Z" creationid="mohammad" creationdate="20200924T105845Z">
         <seg>"جمع کردن ارتش"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Raise"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234850Z" creationid="mohammad" creationdate="20200925T234850Z">
+        <seg>"اماده کردن"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9625,6 +9665,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[levies|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234603Z" creationid="mohammad" creationdate="20200925T234603Z">
+        <seg>"[levies|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[liege|E]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233242Z" creationid="mohammad" creationdate="20200925T233242Z">
@@ -9669,6 +9717,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T104625Z" creationid="mahan" creationdate="20200925T104625Z">
         <seg>"[title_to_destroy.GetName] جریمه!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[vassals|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234643Z" creationid="mohammad" creationdate="20200925T234643Z">
+        <seg>"[vassals|E]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10629,6 +10685,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ARMY_LEVIES:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234559Z" creationid="mohammad" creationdate="20200925T234559Z">
+        <seg>ARMY_LEVIES:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ARMY_NAME:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T215153Z" creationid="mohammad" creationdate="20200925T215153Z">
@@ -11445,6 +11509,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DOMAIN:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234603Z" creationid="mohammad" creationdate="20200925T234603Z">
+        <seg>DOMAIN:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ENGLISH:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T204534Z" creationid="mohammad" creationdate="20200925T204534Z">
@@ -11601,6 +11673,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T211135Z" creationid="mohammad" creationdate="20200925T211135Z">
         <seg>HELP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HIRED:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234644Z" creationid="mohammad" creationdate="20200925T234644Z">
+        <seg>HIRED:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -12797,6 +12877,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>RAISE_ALL:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234649Z" creationid="mohammad" creationdate="20200925T234649Z">
+        <seg>RAISE_ALL:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RAISE_ALL_RAIDERS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234714Z" creationid="mohammad" creationdate="20200925T234714Z">
+        <seg>RAISE_ALL_RAIDERS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RAISE_HIRED_TROOP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234827Z" creationid="mohammad" creationdate="20200925T234827Z">
+        <seg>RAISE_HIRED_TROOP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>REALM_VIEW:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234451Z" creationid="mohammad" creationdate="20200925T234451Z">
@@ -13577,6 +13681,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233237Z" creationid="mohammad" creationdate="20200925T233237Z">
         <seg>VASSAL:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>VASSALS:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234642Z" creationid="mohammad" creationdate="20200925T234642Z">
+        <seg>VASSALS:2</seg>
       </tuv>
     </tu>
     <tu>
