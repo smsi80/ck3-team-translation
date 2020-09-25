@@ -1888,6 +1888,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$TRAIT$ dislikes $OTHER_TRAIT$: $VALUE|=+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T223626Z" creationid="mohammad" creationdate="20200925T223626Z">
+        <seg>"$TRAIT$ دوست ندارد $OTHER_TRAIT$: $VALUE|=+0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$TRAIT$ likes $OTHER_TRAIT$: $VALUE|=+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T223617Z" creationid="mohammad" creationdate="20200925T223617Z">
+        <seg>"$TRAIT$ دوست دارد $OTHER_TRAIT$: $VALUE|=+0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$lesson_basics_tooltips_in_tooltips$"</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T172831Z" creationid="Alireza" creationdate="20200925T172831Z">
@@ -3758,6 +3774,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Dishonor: $VALUE|=+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T224129Z" creationid="mohammad" creationdate="20200925T224129Z">
+        <seg>"Dishonor: $VALUE|=+0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Disputed Heritage"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T230826Z" creationid="mohammad" creationdate="20200924T230826Z">
@@ -4934,6 +4958,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Honor: $VALUE|=+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T223750Z" creationid="mohammad" creationdate="20200925T223750Z">
+        <seg>"افتخار: $VALUE|=+0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Host Feast"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T201632Z" creationid="BIG GAMER" creationdate="20200925T201632Z">
@@ -5670,6 +5702,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Maximum Value: $VALUE|+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T223742Z" creationid="mohammad" creationdate="20200925T223742Z">
+        <seg>"حد اکثر ارزش: $VALUE|+0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"May increase your liege's [opinion|E] of you"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T203009Z" creationid="BIG GAMER" creationdate="20200925T203009Z">
@@ -5738,6 +5778,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T131037Z" creationid="mahan" creationdate="20200925T131037Z">
         <seg>"مدارس نظامی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Minimum Value: $VALUE|+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T223729Z" creationid="mohammad" creationdate="20200925T223729Z">
+        <seg>"حدعقل ارزش: $VALUE|+0$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6202,6 +6250,14 @@
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T164840Z" creationid="Alireza" creationdate="20200925T164411Z">
         <seg>"مکث کردن ($lesson_basics$)"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Personality: $VALUE|=+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T223707Z" creationid="mohammad" creationdate="20200925T223707Z">
+        <seg>"شخصیت: $VALUE|=+0$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7977,6 +8033,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Value: $VALUE|+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T223658Z" creationid="mohammad" creationdate="20200925T223658Z">
+        <seg>"ارزش: $VALUE|+0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Vast Crown Forests"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T125808Z" creationid="mahan" creationdate="20200925T125808Z">
@@ -8637,6 +8701,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065945Z" creationid="mohammad" creationdate="20200925T065945Z">
         <seg>"[BUILDING.GetName] ساخته شد در [PROVINCE.GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[CHARACTER.GetShortUINamePossessive] Opinion of [TARGET_CHARACTER.GetShortUIName]: $VALUE|+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T223543Z" creationid="mohammad" creationdate="20200925T223543Z">
+        <seg>"[CHARACTER.GetShortUINamePossessive] نظر [TARGET_CHARACTER.GetShortUIName]: $VALUE|+0$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9681,6 +9753,46 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T140834Z" creationid="mohammad" creationdate="20200925T140834Z">
         <seg>ACHIEVEMENT_GROUP_easy_achievements:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AI_VALUE_MODIFIER_COMPOUND:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T223700Z" creationid="mohammad" creationdate="20200925T223700Z">
+        <seg>AI_VALUE_MODIFIER_COMPOUND:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AI_VALUE_MODIFIER_DISHONOR:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T223752Z" creationid="mohammad" creationdate="20200925T223752Z">
+        <seg>AI_VALUE_MODIFIER_DISHONOR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AI_VALUE_MODIFIER_HONOR:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T223743Z" creationid="mohammad" creationdate="20200925T223743Z">
+        <seg>AI_VALUE_MODIFIER_HONOR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AI_VALUE_MODIFIER_MAX_VALUE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T223732Z" creationid="mohammad" creationdate="20200925T223732Z">
+        <seg>AI_VALUE_MODIFIER_MAX_VALUE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AI_VALUE_MODIFIER_MIN_VALUE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T223710Z" creationid="mohammad" creationdate="20200925T223710Z">
+        <seg>AI_VALUE_MODIFIER_MIN_VALUE:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -11661,6 +11773,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SCRIPTED_VALUE_MODIFIER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T223626Z" creationid="mohammad" creationdate="20200925T223626Z">
+        <seg>SCRIPTED_VALUE_MODIFIER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SETTINGS_CATEGORY_ADVANCED_GRAPHICS:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T160957Z" creationid="mohammad" creationdate="20200925T160957Z">
@@ -12041,6 +12161,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T212917Z" creationid="mohammad" creationdate="20200925T212917Z">
         <seg>SVN_REVISION:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TRAIT_COMPATIBILITY_DISLIKES:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T223619Z" creationid="mohammad" creationdate="20200925T223619Z">
+        <seg>TRAIT_COMPATIBILITY_DISLIKES:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TRAIT_COMPATIBILITY_LIKES:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T223545Z" creationid="mohammad" creationdate="20200925T223545Z">
+        <seg>TRAIT_COMPATIBILITY_LIKES:0</seg>
       </tuv>
     </tu>
     <tu>
