@@ -1800,6 +1800,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$NAME$: [DATE.GetString|V]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T212636Z" creationid="mohammad" creationdate="20200925T212636Z">
+        <seg>"$NAME$: [DATE.GetString|V]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$SCHEME_NAME|V$ on [CHARACTER.GetUINameNoTooltip] has been abandoned"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071423Z" creationid="mohammad" creationdate="20200925T071423Z">
@@ -6685,6 +6693,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Started on [DATE.GetString]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T212713Z" creationid="mohammad" creationdate="20200925T212713Z">
+        <seg>"شروع در [DATE.GetString]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Stewardship Education"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030604Z" creationid="mohammad" creationdate="20200922T030510Z">
@@ -7333,6 +7349,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"This is the SVN revision"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T212958Z" creationid="mohammad" creationdate="20200925T212958Z">
+        <seg>"این نسخه SVN است"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"This small but formidable fortification is situated upon a raised earthwork."</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T111446Z" creationid="mohammad" creationdate="20200920T140656Z">
@@ -7881,6 +7905,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T105852Z" creationid="mohammad" creationdate="20200924T105736Z">
         <seg>"XVI — شروع دوباره"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Years from game start: $YEARS|V$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T212913Z" creationid="mohammad" creationdate="20200925T212913Z">
+        <seg>"سالها از شروع بازی: $YEARS|V$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9593,6 +9625,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GAME_START_DATE_STRING:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T212638Z" creationid="mohammad" creationdate="20200925T212638Z">
+        <seg>GAME_START_DATE_STRING:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GAME_YEARS_SINCE_START_DATE_STRING:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T212713Z" creationid="mohammad" creationdate="20200925T212713Z">
+        <seg>GAME_YEARS_SINCE_START_DATE_STRING:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GERMAN:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205048Z" creationid="mohammad" creationdate="20200925T205048Z">
@@ -10713,6 +10761,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PLAYER_DATE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T212630Z" creationid="mohammad" creationdate="20200925T212630Z">
+        <seg>PLAYER_DATE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PLAYER_SYNC_DATES:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T212603Z" creationid="mohammad" creationdate="20200925T212603Z">
@@ -11165,6 +11221,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T211457Z" creationid="mohammad" creationdate="20200925T211457Z">
         <seg>START:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SVN_REVISION:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T212917Z" creationid="mohammad" creationdate="20200925T212917Z">
+        <seg>SVN_REVISION:0</seg>
       </tuv>
     </tu>
     <tu>
