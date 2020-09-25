@@ -2948,6 +2948,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Base: $VALUE|V0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T222003Z" creationid="mohammad" creationdate="20200925T222003Z">
+        <seg>"Base: $VALUE|V0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Battles"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T110107Z" creationid="mohammad" creationdate="20200924T110107Z">
@@ -3374,16 +3382,16 @@
       <tuv lang="en">
         <seg>"Cloud Save"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T205849Z" creationid="mohammad" creationdate="20200925T205830Z">
-        <seg>"دخیره انلاین"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T222101Z" creationid="mohammad" creationdate="20200925T205830Z">
+        <seg>"دخیره ابری"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"Cloud saves are not available"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T205718Z" creationid="mohammad" creationdate="20200925T205655Z">
-        <seg>"ذخیره انلاین در دسترس نیست"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T222014Z" creationid="mohammad" creationdate="20200925T205655Z">
+        <seg>"ذخیره ابری در دسترس نیست"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6523,8 +6531,8 @@
       <tuv lang="en">
         <seg>"Save to cloud"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T205844Z" creationid="mohammad" creationdate="20200925T205705Z">
-        <seg>"ذخیره به صورت انلاین"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T222111Z" creationid="mohammad" creationdate="20200925T205705Z">
+        <seg>"ذخیره کردن در فضای ابری"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7435,8 +7443,8 @@
       <tuv lang="en">
         <seg>"This Character is controlled by [Character.PlayerName]."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T221812Z" creationid="mohammad" creationdate="20200925T221812Z">
-        <seg>"This Character is controlled by [Character.PlayerName]."</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T221936Z" creationid="mohammad" creationdate="20200925T221812Z">
+        <seg>"این شخصیت توسط [Character.PlayerName] کنترل میشود."</seg>
       </tuv>
     </tu>
     <tu>
@@ -9641,6 +9649,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T172711Z" creationid="mohammad" creationdate="20200925T172711Z">
         <seg>BASED_ON_ZOOM_LEVEL:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>BASE_COLON:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T221858Z" creationid="mohammad" creationdate="20200925T221858Z">
+        <seg>BASE_COLON:0</seg>
       </tuv>
     </tu>
     <tu>
