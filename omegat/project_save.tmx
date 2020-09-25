@@ -3200,6 +3200,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Content"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205304Z" creationid="mohammad" creationdate="20200925T205304Z">
+        <seg>"محتوا"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Continue"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T102602Z" creationid="mohammad" creationdate="20200924T102602Z">
@@ -3326,6 +3334,22 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T125657Z" creationid="mahan" creationdate="20200924T125628Z">
         <seg>و قوانین "پیش فرض" زنان حال برروی مردان اعمال میشود."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Delete Game"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205426Z" creationid="mohammad" creationdate="20200925T205414Z">
+        <seg>"حذف بازی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Delete"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205443Z" creationid="mohammad" creationdate="20200925T205443Z">
+        <seg>"حذف"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5002,6 +5026,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Load Game"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205331Z" creationid="mohammad" creationdate="20200925T205331Z">
+        <seg>"بارگزاری بازی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Lock Delay"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T183708Z" creationid="mohammad" creationdate="20200924T183708Z">
@@ -5054,6 +5086,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184601Z" creationid="mohammad" creationdate="20200921T184601Z">
         <seg>"برای پیروزی در یک دوئل شانس کافیست، یک نادان می تواند در یک نبرد پیروز شود اما پیروزی در جنگ بیشتر از این ها می خواهد."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Main menu"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205144Z" creationid="mohammad" creationdate="20200925T205144Z">
+        <seg>"منوی اصلی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5414,6 +5454,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T073842Z" creationid="mohammad" creationdate="20200925T073842Z">
         <seg>"جنگ جدید: [WAR.GetActiveCB.GetAttacker.GetUINameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"New"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205151Z" creationid="mohammad" creationdate="20200925T205151Z">
+        <seg>"جدید"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5965,10 +6013,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Save Game"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205406Z" creationid="mohammad" creationdate="20200925T205406Z">
+        <seg>"ذخیره بازی "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Save Games"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T143145Z" creationid="mohammad" creationdate="20200925T143145Z">
         <seg>"ذخیره بازی ها "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Save"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205435Z" creationid="mohammad" creationdate="20200925T205435Z">
+        <seg>"ذخیره"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7079,8 +7143,8 @@
       <tuv lang="en">
         <seg>"Tutorial"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T172318Z" creationid="mohammad" creationdate="20200924T172155Z">
-        <seg>"خودآموز"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205258Z" creationid="mohammad" creationdate="20200924T172155Z">
+        <seg>"آموزش"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8817,6 +8881,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CONTENT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205258Z" creationid="mohammad" creationdate="20200925T205258Z">
+        <seg>CONTENT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DELETE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205437Z" creationid="mohammad" creationdate="20200925T205437Z">
+        <seg>DELETE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DELETE_GAME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205407Z" creationid="mohammad" creationdate="20200925T205407Z">
+        <seg>DELETE_GAME:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ENGLISH:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T204534Z" creationid="mohammad" creationdate="20200925T204534Z">
@@ -9849,6 +9937,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LOAD_GAME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205306Z" creationid="mohammad" creationdate="20200925T205306Z">
+        <seg>LOAD_GAME:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MAIN_MENU:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205139Z" creationid="mohammad" creationdate="20200925T205139Z">
+        <seg>MAIN_MENU:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MESSAGES_IN_QUEUE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065249Z" creationid="mohammad" creationdate="20200925T065249Z">
@@ -9897,6 +10001,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>NEW:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205146Z" creationid="mohammad" creationdate="20200925T205146Z">
+        <seg>NEW:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>RESET_REACTIVE_ADVICE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T172807Z" creationid="mohammad" creationdate="20200925T172807Z">
@@ -9925,6 +10037,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T173018Z" creationid="mohammad" creationdate="20200925T173018Z">
         <seg>RESET_REACTIVE_ADVICE_TOOLTIP:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SAVE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205427Z" creationid="mohammad" creationdate="20200925T205427Z">
+        <seg>SAVE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SAVE_GAME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205332Z" creationid="mohammad" creationdate="20200925T205332Z">
+        <seg>SAVE_GAME:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -10301,6 +10429,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T075305Z" creationid="mohammad" creationdate="20200924T075305Z">
         <seg>TRIGGER_OR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TUTORIAL:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205210Z" creationid="mohammad" creationdate="20200925T205210Z">
+        <seg>TUTORIAL:0</seg>
       </tuv>
     </tu>
     <tu>
