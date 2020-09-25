@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"All kinds of trees, both local and imported, are distributed within the orchard — guaranteeing a fruitful yield regardless of circumstance."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T062953Z" creationid="Novin Pendar" creationdate="20200925T062953Z">
+        <seg>"همه نوع درخت، بومی یا صادر شده، در باغ پخش شده اند — برداشتی پربار را در هر صورتی تضمین میکند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Ambience"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T213815Z" creationid="mohammad" creationdate="20200924T213815Z">
@@ -1512,6 +1520,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Grand Orchards"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063017Z" creationid="Novin Pendar" creationdate="20200925T063017Z">
+        <seg>"باغ وسیع"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Grand Port"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T124628Z" creationid="Novin Pendar" creationdate="20200924T124628Z">
@@ -1652,6 +1668,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T104307Z" creationid="mohammad" creationdate="20200924T104307Z">
         <seg>"IX — عناوین"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"In addition to fruit trees, rows of nut-bearing trees reach into the distance."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T062829Z" creationid="Novin Pendar" creationdate="20200925T062829Z">
+        <seg>"در کنار درختان میوه، ردیف هایی از درختان حامل گردو و دانه نیز وجود دارد."</seg>
       </tuv>
     </tu>
     <tu>
@@ -1992,6 +2016,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Mixed Gardens"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T062854Z" creationid="Novin Pendar" creationdate="20200925T062836Z">
+        <seg>"باغ مختلط"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Monumental"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222735Z" creationid="BIG GAMER" creationdate="20200924T222735Z">
@@ -2108,6 +2140,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T175910Z" creationid="mohammad" creationdate="20200924T170950Z">
         <seg>"تعداد اشکال زدائی های ذخیره ها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Nut Tree Rows"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T062757Z" creationid="Novin Pendar" creationdate="20200925T062757Z">
+        <seg>"ردیف درخت گردو"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3669,14 +3709,6 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184940Z" creationid="mohammad" creationdate="20200921T184940Z">
         <seg>authority_name:1</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>building_orchards_05:1</seg>
-      </tuv>
-      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T062552Z" creationid="Novin Pendar" creationdate="20200925T062552Z">
-        <seg>سbuilding_orchards_05:1</seg>
       </tuv>
     </tu>
     <tu>
