@@ -14,3 +14,4 @@ lifestyle	سبک زندگی
 Scheme	نقشه
 Motte	قلعه چوبی
 province	ایالت	؟
+Traits	ویژگی
