@@ -1384,6 +1384,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T Current date: [DATE.GetString]#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T212601Z" creationid="mohammad" creationdate="20200925T212601Z">
+        <seg>"#T تاریخ فعلی: [DATE.GetString]#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T From an Event#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T074627Z" creationid="mohammad" creationdate="20200925T074627Z">
@@ -3938,6 +3946,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Fast"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T212451Z" creationid="mohammad" creationdate="20200925T212451Z">
+        <seg>"سریع"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Fastest"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T212456Z" creationid="mohammad" creationdate="20200925T212456Z">
+        <seg>"سریعترین"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Filter the list of Achievements to display all Achievements possible in the current playthrough"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T115154Z" creationid="mahan" creationdate="20200924T114258Z">
@@ -5946,6 +5970,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Player dates:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T212626Z" creationid="mohammad" creationdate="20200925T212626Z">
+        <seg>"تاریخ بازیکن:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Player-Only"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T123134Z" creationid="mahan" creationdate="20200925T123134Z">
@@ -6553,6 +6585,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T212956Z" creationid="mohammad" creationdate="20200921T212956Z">
         <seg>"تمرکز روی فریبکاری"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Slow"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T212404Z" creationid="mohammad" creationdate="20200925T212349Z">
+        <seg>"آهسته"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Slowest"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T212438Z" creationid="mohammad" creationdate="20200925T212337Z">
+        <seg>"خیلی آهسته"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9393,6 +9441,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CURRENT_SPEED_TEXT_1:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T212334Z" creationid="mohammad" creationdate="20200925T212334Z">
+        <seg>CURRENT_SPEED_TEXT_1:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CURRENT_SPEED_TEXT_2:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T212338Z" creationid="mohammad" creationdate="20200925T212338Z">
+        <seg>CURRENT_SPEED_TEXT_2:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CURRENT_SPEED_TEXT_3:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T212350Z" creationid="mohammad" creationdate="20200925T212350Z">
+        <seg>CURRENT_SPEED_TEXT_3:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CURRENT_SPEED_TEXT_4:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T212447Z" creationid="mohammad" creationdate="20200925T212447Z">
+        <seg>CURRENT_SPEED_TEXT_4:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CURRENT_SPEED_TEXT_5:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T212451Z" creationid="mohammad" creationdate="20200925T212451Z">
+        <seg>CURRENT_SPEED_TEXT_5:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CURRENT_SPEED_TOOLTIP:3</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T212127Z" creationid="mohammad" creationdate="20200925T212127Z">
@@ -10621,6 +10709,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T211158Z" creationid="mohammad" creationdate="20200925T211158Z">
         <seg>OPEN_SOURCE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PLAYER_SYNC_DATES:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T212603Z" creationid="mohammad" creationdate="20200925T212603Z">
+        <seg>PLAYER_SYNC_DATES:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PLAYER_SYNC_DATES_HEADER:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T212457Z" creationid="mohammad" creationdate="20200925T212457Z">
+        <seg>PLAYER_SYNC_DATES_HEADER:1</seg>
       </tuv>
     </tu>
     <tu>
