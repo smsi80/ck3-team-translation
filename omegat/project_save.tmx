@@ -1486,6 +1486,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$ACHIEVEMENT_LOCKED_GENERIC$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T140945Z" creationid="mohammad" creationdate="20200925T140945Z">
+        <seg>"$ACHIEVEMENT_LOCKED_GENERIC$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$AMOUNT$ levies from [LEFT_CHARACTER.GetShortUINameNoTooltip] are disbanding due to civil war"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T074442Z" creationid="mohammad" creationdate="20200925T074442Z">
