@@ -1238,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T Ambience Volume\n#!Sets the volume of environmental ambience."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T171619Z" creationid="mohammad" creationdate="20200925T171619Z">
+        <seg>"#T Ambience Volume\n#!تنظیم کردن صدای اطراف محیط."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T From an Event#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T074627Z" creationid="mohammad" creationdate="20200925T074627Z">
