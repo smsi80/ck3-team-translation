@@ -2354,6 +2354,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"@warning_icon!#X No target selected#! "
+ CHARACTER_OTHER_PLAYER_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T221605Z" creationid="mohammad" creationdate="20200925T221605Z">
+        <seg>"@warning_icon!#X هیچ هدفی انتخاب نشده است#! "
+ CHARACTER_OTHER_PLAYER_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"@warning_icon!#X [CHARACTER.GetShortUINameNoTooltip] already has this focus!#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T074949Z" creationid="mohammad" creationdate="20200924T074949Z">
@@ -7419,6 +7429,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T024610Z" creationid="mohammad" creationdate="20200922T024610Z">
         <seg>"تمرکز روی معنویات"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"This Character is controlled by [Character.PlayerName]."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T221812Z" creationid="mohammad" creationdate="20200925T221812Z">
+        <seg>"This Character is controlled by [Character.PlayerName]."</seg>
       </tuv>
     </tu>
     <tu>
