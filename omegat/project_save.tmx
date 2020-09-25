@@ -11009,6 +11009,16 @@ building_royal_forest_03:0</seg>
     <tu>
       <tuv lang="en">
         <seg>l_english:
+ SM_LANGUAGE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T202959Z" creationid="mohammad" creationdate="20200925T202959Z">
+        <seg>l_english:
+ SM_LANGUAGE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
  SUCCESSION_LAW_CHANGE_WINDOW_TITLE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T170859Z" creationid="mohammad" creationdate="20200924T170859Z">
