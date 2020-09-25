@@ -2900,6 +2900,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Army Maintenance: [gold_i]$VALUE|=+1$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T235521Z" creationid="mohammad" creationdate="20200925T235521Z">
+        <seg>"نگهداری ارتش: [gold_i]$VALUE|=+1$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Army Movement"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T110038Z" creationid="mohammad" creationdate="20200924T110038Z">
@@ -6678,6 +6686,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Raised [armies|E] [embarked_i]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T235601Z" creationid="mohammad" creationdate="20200925T235601Z">
+        <seg>"آماده [armies|E] [embarked_i]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Raised [armies|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T235605Z" creationid="mohammad" creationdate="20200925T235541Z">
+        <seg>"آماده [armies|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Ranches are ideal for housing large herds of cattle, providing ample grazing and space to move."</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054351Z" creationid="Novin Pendar" creationdate="20200925T054351Z">
@@ -9817,6 +9841,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[men_at_arms|E]: [gold_i]$VALUE|=+1$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T235611Z" creationid="mohammad" creationdate="20200925T235611Z">
+        <seg>"[men_at_arms|E]: [gold_i]$VALUE|=+1$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[player_heir|E] $msg_betrothal_invalidated$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T154203Z" creationid="mohammad" creationdate="20200925T154203Z">
@@ -10829,6 +10861,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ARMY_MAINTENANCE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T235501Z" creationid="mohammad" creationdate="20200925T235501Z">
+        <seg>ARMY_MAINTENANCE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ARMY_NAME:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T215153Z" creationid="mohammad" creationdate="20200925T215153Z">
@@ -10897,6 +10937,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T222925Z" creationid="mohammad" creationdate="20200925T222925Z">
         <seg>BASE_TIME:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>BREAKDOWN_ARMY_MAINTENANCE:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T235523Z" creationid="mohammad" creationdate="20200925T235523Z">
+        <seg>BREAKDOWN_ARMY_MAINTENANCE:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>BREAKDOWN_ARMY_MAINTENANCE_EMBARKED:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T235541Z" creationid="mohammad" creationdate="20200925T235541Z">
+        <seg>BREAKDOWN_ARMY_MAINTENANCE_EMBARKED:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -12953,6 +13009,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T214028Z" creationid="mohammad" creationdate="20200925T214028Z">
         <seg>LOWBORN_DESC:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MAA_MAINTENENCE_COST:0 " - Maintenance: [gold_i]$VALUE|=+1$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T235756Z" creationid="mohammad" creationdate="20200925T235612Z">
+        <seg>MAA_MAINTENENCE_COST:0 " - نگهداری: [gold_i]$VALUE|=+1$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MAA_REINFORCEMENT_COST:0 " - Reinforcement: [gold_i]$VALUE|=+1$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T235814Z" creationid="mohammad" creationdate="20200925T235747Z">
+        <seg>MAA_REINFORCEMENT_COST:0 " - تقویت: [gold_i]$VALUE|=+1$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MAA_TOTAL_COST:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T235602Z" creationid="mohammad" creationdate="20200925T235602Z">
+        <seg>MAA_TOTAL_COST:0</seg>
       </tuv>
     </tu>
     <tu>
