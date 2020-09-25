@@ -1654,6 +1654,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Agents Removed from Scheme"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072202Z" creationid="mohammad" creationdate="20200925T072202Z">
+        <seg>"ماموران از دسیسه حذف شدند"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Al-Andalus"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221615Z" creationid="BIG GAMER" creationdate="20200924T221615Z">
@@ -1674,6 +1682,30 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T062953Z" creationid="Novin Pendar" creationdate="20200925T062953Z">
         <seg>"همه نوع درخت، بومی یا صادر شده، در باغ پخش شده اند — برداشتی پربار را در هر صورتی تضمین میکند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Alliance Broken: [LEFT_CHARACTER.GetShortUINameNoTooltip]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072620Z" creationid="mohammad" creationdate="20200925T072620Z">
+        <seg>"اتحاد شکسته شد: [LEFT_CHARACTER.GetShortUINameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Alliance Expired: [LEFT_CHARACTER.GetShortUINameNoTooltip]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072651Z" creationid="mohammad" creationdate="20200925T072651Z">
+        <seg>"اتحاد منقضی شد: [LEFT_CHARACTER.GetShortUINameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Alliance Formed: [LEFT_CHARACTER.GetShortUINameNoTooltip]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072558Z" creationid="mohammad" creationdate="20200925T072558Z">
+        <seg>"اتحاد شکل گرفت: [LEFT_CHARACTER.GetShortUINameNoTooltip]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3256,6 +3288,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"My [alliance|E] with [LEFT_CHARACTER.GetUINameNoTooltip] has ended since [SECONDARY_ACTOR.GetNameNoTooltip] and [SECONDARY_RECIPIENT.GetNameNoTooltip] are no longer married or betrothed"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072814Z" creationid="mohammad" creationdate="20200925T072814Z">
+        <seg>"من [alliance|E] با [LEFT_CHARACTER.GetUINameNoTooltip] تمام شد به علت اینکه [SECONDARY_ACTOR.GetNameNoTooltip] و [SECONDARY_RECIPIENT.GetNameNoTooltip] دیگر مزدوج یا نمزد نیستند"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"My land and the people under my care are my strength."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T022715Z" creationid="mohammad" creationdate="20200922T022715Z">
@@ -3787,6 +3827,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Task Finished"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072518Z" creationid="mohammad" creationdate="20200925T072518Z">
+        <seg>"کار به پایان رسید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Tell Me More"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T103310Z" creationid="mohammad" creationdate="20200924T103310Z">
@@ -3871,6 +3919,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222902Z" creationid="BIG GAMER" creationdate="20200924T222902Z">
         <seg>کارهایی که بخاطر عشق انجام میدهیم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The [alliance|E] with [LEFT_CHARACTER.GetUINameNoTooltip] has been broken"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072641Z" creationid="mohammad" creationdate="20200925T072641Z">
+        <seg>"The [alliance|E] با [LEFT_CHARACTER.GetUINameNoTooltip] شکسته شد"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4635,6 +4691,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] and $OTHER|V$ other [agents|E] are no longer part of your [scheme|E] to [SCHEME.GetFullActionName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072504Z" creationid="mohammad" creationdate="20200925T072504Z">
+        <seg>"‏‎[LEFT_CHARACTER.GetUINameNoTooltip] به $OTHER|V$ other [agents|E]‎‏ دیگر بخشی از [scheme|E] به [SCHEME.GetFullActionName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] and $OTHER|V$ other [agents|E] joined your [scheme|E] to [SCHEME.GetFullActionName]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071649Z" creationid="mohammad" creationdate="20200925T071540Z">
@@ -4643,10 +4707,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] and [RIGHT_CHARACTER.GetUINameNoTooltip] are no longer part of your [scheme|E] to [SCHEME.GetFullActionName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072243Z" creationid="mohammad" creationdate="20200925T072243Z">
+        <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] و [RIGHT_CHARACTER.GetUINameNoTooltip] دیگر به عنوان بخشی از [scheme|E] به [SCHEME.GetFullActionName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] and [RIGHT_CHARACTER.GetUINameNoTooltip] joined your [scheme|E] to [SCHEME.GetFullActionName]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T072052Z" creationid="mohammad" creationdate="20200925T072052Z">
         <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] و [RIGHT_CHARACTER.GetUINameNoTooltip] ملحق شد به [scheme|E] به [SCHEME.GetFullActionName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] finished the $TASK_NAME|D$ task"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072547Z" creationid="mohammad" creationdate="20200925T072547Z">
+        <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] تمام کرد $TASK_NAME|D$ کار را"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4703,6 +4783,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T230257Z" creationid="mohammad" creationdate="20200924T230257Z">
         <seg>"[TARGET_CHARACTER.GetShortUINamePossessive] عاشق"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[alliance|E] formed with [LEFT_CHARACTER.GetUINameNoTooltip]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072609Z" creationid="mohammad" creationdate="20200925T072609Z">
+        <seg>"[alliance|E] شکل گرفت با [LEFT_CHARACTER.GetUINameNoTooltip]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7869,6 +7957,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_2_agents_removed_my_scheme:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072145Z" creationid="mohammad" creationdate="20200925T072145Z">
+        <seg>msg_2_agents_removed_my_scheme:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_2_agents_removed_my_scheme_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072204Z" creationid="mohammad" creationdate="20200925T072204Z">
+        <seg>msg_2_agents_removed_my_scheme_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_agent_joined_my_scheme:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071425Z" creationid="mohammad" creationdate="20200925T071425Z">
@@ -7901,6 +8005,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_alliance:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072548Z" creationid="mohammad" creationdate="20200925T072548Z">
+        <seg>msg_alliance:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_alliance_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072600Z" creationid="mohammad" creationdate="20200925T072600Z">
+        <seg>msg_alliance_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_broken_alliance:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072610Z" creationid="mohammad" creationdate="20200925T072610Z">
+        <seg>msg_broken_alliance:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_broken_alliance_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072622Z" creationid="mohammad" creationdate="20200925T072622Z">
+        <seg>msg_broken_alliance_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_building_done:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065922Z" creationid="mohammad" creationdate="20200925T065922Z">
@@ -7913,6 +8049,38 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065934Z" creationid="mohammad" creationdate="20200925T065934Z">
         <seg>msg_building_done_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_council_task_finished:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072505Z" creationid="mohammad" creationdate="20200925T072505Z">
+        <seg>msg_council_task_finished:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_council_task_finished_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072519Z" creationid="mohammad" creationdate="20200925T072519Z">
+        <seg>msg_council_task_finished_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_expired_alliance:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072642Z" creationid="mohammad" creationdate="20200925T072642Z">
+        <seg>msg_expired_alliance:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_expired_alliance_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072653Z" creationid="mohammad" creationdate="20200925T072653Z">
+        <seg>msg_expired_alliance_desc:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -8009,6 +8177,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071538Z" creationid="mohammad" creationdate="20200925T071538Z">
         <seg>msg_multiple_agents_joined_my_scheme_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_multiple_agents_removed_my_scheme:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072244Z" creationid="mohammad" creationdate="20200925T072244Z">
+        <seg>msg_multiple_agents_removed_my_scheme:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_multiple_agents_removed_my_scheme_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072251Z" creationid="mohammad" creationdate="20200925T072251Z">
+        <seg>msg_multiple_agents_removed_my_scheme_desc:0</seg>
       </tuv>
     </tu>
     <tu>
