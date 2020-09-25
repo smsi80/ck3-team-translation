@@ -3688,6 +3688,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Forced To Join Faction"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T153915Z" creationid="mohammad" creationdate="20200925T153915Z">
+        <seg>"مجبور به پیوستن به جناح شدید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Foreign Affairs Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183424Z" creationid="mohammad" creationdate="20200921T183424Z">
@@ -6963,6 +6971,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"You are now the leader of the [FACTION.GetName] against [CHARACTER.GetShortUINameNoTooltip]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T153810Z" creationid="mohammad" creationdate="20200925T153810Z">
+        <seg>"شما اکنون رهبر [FACTION.GetName] مقابل [CHARACTER.GetShortUINameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"You are the new target of the [WAR.GetName|V]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T073856Z" creationid="mohammad" creationdate="20200925T073856Z">
@@ -7527,6 +7543,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071159Z" creationid="mohammad" creationdate="20200925T071159Z">
         <seg>"[PROVINCE.GetName] تحت  [siege|E]!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[RIGHT_CHARACTER.GetShortUINameNoTooltip] used [RIGHT_CHARACTER.GetHerHis] [hook|E] on you to force you into joining the [FACTION.GetName] against [LEFT_CHARACTER.GetShortUINameNoTooltip]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T154040Z" creationid="mohammad" creationdate="20200925T154040Z">
+        <seg>"[RIGHT_CHARACTER.GetShortUINameNoTooltip] استفاده کرد از [RIGHT_CHARACTER.GetHerHis] [hook|E] بر روی شما تا شما را مجبور به پیوستن [FACTION.GetName] مقابل [LEFT_CHARACTER.GetShortUINameNoTooltip]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11334,6 +11358,38 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T080023Z" creationid="mohammad" creationdate="20200925T080023Z">
         <seg>msg_faction_against_me_disbanded_desc:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_faction_forced_to_join:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T153810Z" creationid="mohammad" creationdate="20200925T153810Z">
+        <seg>msg_faction_forced_to_join:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_faction_forced_to_join_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T153916Z" creationid="mohammad" creationdate="20200925T153916Z">
+        <seg>msg_faction_forced_to_join_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_faction_local_becomes_leader:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T153735Z" creationid="mohammad" creationdate="20200925T153735Z">
+        <seg>msg_faction_local_becomes_leader:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_faction_local_becomes_leader_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T153739Z" creationid="mohammad" creationdate="20200925T153739Z">
+        <seg>msg_faction_local_becomes_leader_desc:1</seg>
       </tuv>
     </tu>
     <tu>
