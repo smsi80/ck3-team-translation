@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2674,6 +2674,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T062740Z" creationid="Novin Pendar" creationdate="20200925T062551Z">
         <seg>"با پخش شدن کندو های عسل بین درختان، حالا نه تنها فقط محصولی از عسل تولید میشود، بلکه کل باغ پربار تر شده."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Camera ($lesson_basics$)"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T160256Z" creationid="Alireza" creationdate="20200925T160256Z">
+        <seg>"دوربین ($lesson_basics$)"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6909,8 +6917,8 @@
       <tuv lang="en">
         <seg>"X — Holdings"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T104349Z" creationid="mohammad" creationdate="20200924T104349Z">
-        <seg>"X — Holdings"</seg>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T155147Z" creationid="mohammad" creationdate="20200924T104349Z">
+        <seg>"X — ممالک"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6981,8 +6989,8 @@
       <tuv lang="en">
         <seg>"You are a medieval ruler! Land is yours for the taking, through clever marriages and diplomacy, or by way of the sword...\n\n#TUT There is no one way to 'win' in Crusader Kings, only different ways to enjoy the story that unfolds.#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="Alireza" changedate="20200924T131601Z" creationid="Alireza" creationdate="20200924T131601Z">
-        <seg>"You are a medieval ruler! Land is yours for the taking, through clever marriages and diplomacy, or by way of the sword...\n\n#TUT There is no one way to 'win' in Crusader Kings, only different ways to enjoy the story that unfolds.#!"</seg>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T160220Z" creationid="Alireza" creationdate="20200924T131601Z">
+        <seg>"شما یک حاکم قرون وسطایی هستید! سرزمین مال شماست، از طریق ازدواج های زیرکانه و دیپلماسی، یا از طریق شمشیر...\n\n#TUT هیچ راهی برای 'پیروزی' در کروسیدر کینگز ویجود ندارد، فقط مسیر های متفاوت برای لذت بردن از داستانی که آشکار می شود.#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7935,6 +7943,16 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030302Z" creationid="mohammad" creationdate="20200922T030302Z">
         <seg>### EDUCATION
  FOCUS_NO_AGE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#Camera &amp; Map
+ lesson_basics_camera:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T160236Z" creationid="Alireza" creationdate="20200925T160236Z">
+        <seg>#Camera &amp; Map
+ lesson_basics_camera:0</seg>
       </tuv>
     </tu>
     <tu>
