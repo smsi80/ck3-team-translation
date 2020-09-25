@@ -6875,6 +6875,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[TARGET_CHARACTER.GetShortUIName|U] is almost certainly the illegitimate child of [TARGET_CHARACTER.GetMother.GetShortUIName] and [TARGET_CHARACTER.GetRealFather.GetShortUIName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T115318Z" creationid="mohammad" creationdate="20200925T115318Z">
+        <seg>"[TARGET_CHARACTER.GetShortUIName|U] is almost certainly the illegitimate child of [TARGET_CHARACTER.GetMother.GetShortUIName] and [TARGET_CHARACTER.GetRealFather.GetShortUIName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[TARGET_CHARACTER.GetShortUIName|U] is the illegitimate child of [TARGET_CHARACTER.GetMother.GetShortUIName] and [TARGET_CHARACTER.GetRealFather.GetShortUIName]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T112444Z" creationid="mohammad" creationdate="20200925T112444Z">
