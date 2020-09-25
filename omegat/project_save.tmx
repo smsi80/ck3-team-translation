@@ -7429,6 +7429,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"You go on a #V Hunt#! in one of the baronies of your realm"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T200721Z" creationid="BIG GAMER" creationdate="20200925T200721Z">
+        <seg>شما برای شکار به یکی از استانهیتان میروید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"You had to leave the [FACTION.GetName] against [CHARACTER.GetUINameNoTooltip].\n$REASONS$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T075446Z" creationid="mohammad" creationdate="20200925T075446Z">
