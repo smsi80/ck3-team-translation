@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -230,10 +230,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T $SETTING_HIDE_COAST_BORDER_ON_ZOOM$#!\nThis option will control when coastal realm borders should be shown.\nIf $BASED_ON_ZOOM_LEVEL$ then they will be hidden in the detail zoom level.\n\nPicking a $ALWAYS_SHOW$ or $ALWAYS_HIDE$ may increase performance at the cost of the coastal realm borders not hiding dynamically."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T164025Z" creationid="mohammad" creationdate="20200925T164025Z">
+        <seg>"#T $SETTING_HIDE_COAST_BORDER_ON_ZOOM$#!\nThis option will control when coastal realm borders should be shown.\nIf $BASED_ON_ZOOM_LEVEL$ then they will be hidden in the detail zoom level.\n\nPicking a $ALWAYS_SHOW$ or $ALWAYS_HIDE$ may increase performance at the cost of the coastal realm borders not hiding dynamically."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T $SETTING_REACTIVE_TUTORIAL$#!\nSets if the game should show tutorial Advice reacting to how you play. Useful for players new to Crusader Kings III."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T164003Z" creationid="mohammad" creationdate="20200925T164003Z">
-        <seg>"#T $SETTING_REACTIVE_TUTORIAL$#!\nSets if the game should show tutorial Advice reacting to how you play. Useful for players new to Crusader Kings III."</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T164729Z" creationid="mohammad" creationdate="20200925T164003Z">
+        <seg>"#T $SETTING_REACTIVE_TUTORIAL$#!\nدر صورت بکاربردن,خوداموز شما دربرابر چگونگی بازی کردن شما واکنش نشون میدهد.اگر تازه وارد هستید,این برای شما کارامد و مفید است."</seg>
       </tuv>
     </tu>
     <tu>
@@ -3946,8 +3954,8 @@
       <tuv lang="en">
         <seg>"General"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T142622Z" creationid="mohammad" creationdate="20200925T142622Z">
-        <seg>"General"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T165009Z" creationid="mohammad" creationdate="20200925T142622Z">
+        <seg>"کلی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4634,8 +4642,8 @@
       <tuv lang="en">
         <seg>"Language"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T143204Z" creationid="mohammad" creationdate="20200925T143204Z">
-        <seg>"Language"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T164835Z" creationid="mohammad" creationdate="20200925T143204Z">
+        <seg>"زبان"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5354,8 +5362,8 @@
       <tuv lang="en">
         <seg>"Portraits"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T161141Z" creationid="mohammad" creationdate="20200925T161141Z">
-        <seg>"Portraits"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T165020Z" creationid="mohammad" creationdate="20200925T161141Z">
+        <seg>"تصویر"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5765,8 +5773,8 @@
       <tuv lang="en">
         <seg>"Show Suggestions"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T142905Z" creationid="mohammad" creationdate="20200925T142905Z">
-        <seg>"Show Suggestions"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T164751Z" creationid="mohammad" creationdate="20200925T142905Z">
+        <seg>"نشون دادن پیشنهاد ها"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5871,6 +5879,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T221901Z" creationid="mohammad" creationdate="20200924T221901Z">
         <seg>"Sodomite"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Specific Sound Effects"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T164819Z" creationid="mohammad" creationdate="20200925T164819Z">
+        <seg>"جلوه های خاص صوتی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9503,6 +9519,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T142830Z" creationid="mohammad" creationdate="20200925T142830Z">
         <seg>SETTING_SHOW_SUGGESTIONS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_SHOW_SUGGESTIONS_TOOLTIP:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T164804Z" creationid="mohammad" creationdate="20200925T164804Z">
+        <seg>SETTING_SHOW_SUGGESTIONS_TOOLTIP:2</seg>
       </tuv>
     </tu>
     <tu>
