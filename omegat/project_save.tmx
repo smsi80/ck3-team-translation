@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#F Thanks to the unique properties of the soil, these orchards produce particularly sweet and delicious fruits and berries.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054506Z" creationid="Novin Pendar" creationdate="20200925T054506Z">
+        <seg>"#F به لطف ویژگی های خاص خاک این مکان، باغ ها میوه های شیرین و خوشمزه ای تولید میکنند.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#F This building is seemingly excellent for growing vegetables.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T134228Z" creationid="Novin Pendar" creationdate="20200924T134228Z">
@@ -790,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Berry Groves"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054644Z" creationid="Novin Pendar" creationdate="20200925T054644Z">
+        <seg>"بیشه زار توت ها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Between the forest and the fields, bees housed in apiaries produce much sought-after honey."</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054028Z" creationid="Novin Pendar" creationdate="20200925T054028Z">
@@ -1420,6 +1436,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221506Z" creationid="BIG GAMER" creationdate="20200924T221506Z">
         <seg>از گدایی به ثروت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Fruit Orchards"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054518Z" creationid="Novin Pendar" creationdate="20200925T054518Z">
+        <seg>"باغ میوه"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2227,6 +2251,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Rows of berry bushes break the monotony of fruit-bearing trees."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T062421Z" creationid="Novin Pendar" creationdate="20200925T062421Z">
+        <seg>"ردیف بوته های توت و میوه یک نواختی درختان میوه دار را از بین میبرد."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Royal Dignity"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222104Z" creationid="BIG GAMER" creationdate="20200924T222104Z">
@@ -2551,6 +2583,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023522Z" creationid="mohammad" creationdate="20200922T023522Z">
         <seg>"پیوند های وفاداری ما را محدود نمی کنند، بلکه راه را نشانمان می دهند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The fruit orchards, while small, produce a decent and succulent harvest."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054608Z" creationid="Novin Pendar" creationdate="20200925T054608Z">
+        <seg>"باغ های میوه درحین کوچکی ، برداشت های پرباری را تولید میکنند."</seg>
       </tuv>
     </tu>
     <tu>
