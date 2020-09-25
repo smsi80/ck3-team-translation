@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3080,8 +3080,8 @@
       <tuv lang="en">
         <seg>"Crusader Kings spans over hundreds of years and many generations. Right now, time is standing still because the game is #EMP paused#!.\n\n#TUT For this part of the tutorial, we'll keep the game paused, while we walk you through some game concepts.#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="Alireza" changedate="20200925T165615Z" creationid="Alireza" creationdate="20200925T165503Z">
-        <seg>"کروسیدر کینگز بیش از صدها سال و چندین نسل طول می کشد. در حال حاض، زمان ایستاده است زیرا بازی متوقف شده است.#!"</seg>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T170818Z" creationid="Alireza" creationdate="20200925T165503Z">
+        <seg>"کروسیدر کینگز بیش از صدها سال و چندین نسل طول می کشد. در حال حاضر، زمان ایستاده است زیرا بازی #EMP متوقف شده است#!. \n\n#TUT برای این قسمت از آموزش، در حالی که بازی را متوقف نگه داشته ایم، شما را با برخی از مفاهیم بازی آشنا می کنیم.#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4328,6 +4328,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Hover over the highlighted phrase inside the $game_concept_highlighted_text$ tooltip"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T172804Z" creationid="Alireza" creationdate="20200925T172804Z">
+        <seg>"Hover over the highlighted phrase inside the $game_concept_highlighted_text$ tooltip"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Hundred-acre Fields"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063940Z" creationid="Novin Pendar" creationdate="20200925T063940Z">
@@ -5384,6 +5392,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Place your cursor over this [highlighted_text|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T172614Z" creationid="Alireza" creationdate="20200925T172614Z">
+        <seg>"نشانگر خود را بر روی این [highlighted_text|E] قرار دهید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Player-Only"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T123134Z" creationid="mahan" creationdate="20200925T123134Z">
@@ -5935,6 +5951,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T221901Z" creationid="mohammad" creationdate="20200924T221901Z">
         <seg>"Sodomite"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Sometimes you will see blue [highlighted_text|E] like this. This means you can hover your cursor over the words for more information.\n\n#TUT Some of these words can lead to other highlighted words, which can then show even further information. [duchy|E] can lead to [county|E], which can lead to [barony|E].#!\n"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T172513Z" creationid="Alireza" creationdate="20200925T172513Z">
+        <seg>"گاهی اوقات شما متن های آبی می بینید [highlighted_text|E] مثل این. این بدان معنی است که شما می توانید نشانگر موس را برای اطلاعات بیشتر روی کلمات قرار دهید.\n\n#TUT برخی از این کلمات می توانند شما را به کلمات برجسته دیگری که اطلاعات بیشتری را به شما نشان می دهند راهنمایی کنند. [duchy|E] می تواند به [county|E] منجر شود، که در نهایت به [barony|E] تبدیل می شود.#!\n"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6687,6 +6711,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T171636Z" creationid="mohammad" creationdate="20200925T171636Z">
         <seg>"حالت تولتیپ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Tooltips in Tooltips ($lesson_basics$)"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T170926Z" creationid="Alireza" creationdate="20200925T170926Z">
+        <seg>"تولتیپ در تولتیپ ($lesson_basics$)"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11048,6 +11080,30 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T165734Z" creationid="Alireza" creationdate="20200925T165734Z">
         <seg>lesson_basics_tooltips_in_tooltips:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_tooltips_in_tooltips_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T170927Z" creationid="Alireza" creationdate="20200925T170927Z">
+        <seg>lesson_basics_tooltips_in_tooltips_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_tooltips_in_tooltips_hover_word:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T172533Z" creationid="Alireza" creationdate="20200925T172533Z">
+        <seg>lesson_basics_tooltips_in_tooltips_hover_word:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_tooltips_in_tooltips_hover_word_deeper:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T172615Z" creationid="Alireza" creationdate="20200925T172615Z">
+        <seg>lesson_basics_tooltips_in_tooltips_hover_word_deeper:0</seg>
       </tuv>
     </tu>
     <tu>
