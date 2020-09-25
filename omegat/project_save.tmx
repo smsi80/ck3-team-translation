@@ -5942,6 +5942,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Military"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234447Z" creationid="mohammad" creationdate="20200925T234447Z">
+        <seg>"نظامی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Minimum Value: $VALUE|+0$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T223729Z" creationid="mohammad" creationdate="20200925T223729Z">
@@ -6611,6 +6619,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T181759Z" creationid="mohammad" creationdate="20200924T180851Z">
         <seg>"مرز های قلمرو در کرانه دریا"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Realm View (Old military view)"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234559Z" creationid="mohammad" creationdate="20200925T234559Z">
+        <seg>"نمای قلمرویی (نمای قدیمی نظامی)"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7925,6 +7941,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234307Z" creationid="mohammad" creationdate="20200925T234307Z">
         <seg>"ظاهراً ،این شما هستید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"This is you, and you are #EMP magnificent#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234427Z" creationid="mohammad" creationdate="20200925T234427Z">
+        <seg>"این تو هستی و #EMP باشکوهی#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"This is you, though you don't always feel like yourself"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234438Z" creationid="mohammad" creationdate="20200925T234438Z">
+        <seg>"این تو هستی ، گرچه همیشه مثل خودت نیستی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"This is you, unfortunately"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234321Z" creationid="mohammad" creationdate="20200925T234321Z">
+        <seg>"متاسفانه ، این تو هستی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11573,6 +11613,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>INTRIGUE_VIEW:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234448Z" creationid="mohammad" creationdate="20200925T234448Z">
+        <seg>INTRIGUE_VIEW:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I_HAVE_THIS_LIFESTYLE_FOCUS_DESCRIPTION:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T085940Z" creationid="mohammad" creationdate="20200924T085940Z">
@@ -12669,6 +12717,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MILITARY_VIEW:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234439Z" creationid="mohammad" creationdate="20200925T234439Z">
+        <seg>MILITARY_VIEW:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MONTHLY:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T142631Z" creationid="mohammad" creationdate="20200925T142631Z">
@@ -12737,6 +12793,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T212457Z" creationid="mohammad" creationdate="20200925T212457Z">
         <seg>PLAYER_SYNC_DATES_HEADER:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>REALM_VIEW:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234451Z" creationid="mohammad" creationdate="20200925T234451Z">
+        <seg>REALM_VIEW:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -13421,10 +13485,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>THIS_IS_YOU_KEY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234324Z" creationid="mohammad" creationdate="20200925T234324Z">
+        <seg>THIS_IS_YOU_KEY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>THIS_IS_YOU_MAGNIFICENT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234326Z" creationid="mohammad" creationdate="20200925T234326Z">
+        <seg>THIS_IS_YOU_MAGNIFICENT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>THIS_IS_YOU_NOT_FEEL:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234428Z" creationid="mohammad" creationdate="20200925T234428Z">
+        <seg>THIS_IS_YOU_NOT_FEEL:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>THIS_IS_YOU_STATIC:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234203Z" creationid="mohammad" creationdate="20200925T234203Z">
         <seg>THIS_IS_YOU_STATIC:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>THIS_IS_YOU_UNFORTUNATELY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234308Z" creationid="mohammad" creationdate="20200925T234308Z">
+        <seg>THIS_IS_YOU_UNFORTUNATELY:0</seg>
       </tuv>
     </tu>
     <tu>
