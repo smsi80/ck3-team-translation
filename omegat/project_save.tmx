@@ -1214,6 +1214,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#high No Player Families#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T105233Z" creationid="mahan" creationdate="20200925T105233Z">
+        <seg>"#high غیرقابل اجرا برروی خانواده بازیکن#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#high No Players#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T105121Z" creationid="mahan" creationdate="20200925T105121Z">
+        <seg>"#high بازیکنان نمیتوانند#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#high Off#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T104413Z" creationid="mahan" creationdate="20200925T104413Z">
@@ -3432,6 +3448,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Hostile Schemes can be used against players and their families."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T105036Z" creationid="mahan" creationdate="20200925T105036Z">
+        <seg>"نقشه های پلید میتوانند بر روی بازیکن ها و خانواده هایشان استفاده شوند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"House of Worship"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T115336Z" creationid="Novin Pendar" creationdate="20200924T115336Z">
@@ -4316,6 +4340,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T052648Z" creationid="Novin Pendar" creationdate="20200925T052648Z">
         <seg>"علفزار"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Players can not start Hostile Schemes against other players."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T105143Z" creationid="mahan" creationdate="20200925T105143Z">
+        <seg>"بازیکنان نمیتوانند برای بازیکنان دیگر نقشه های پلید بچینند."</seg>
       </tuv>
     </tu>
     <tu>
