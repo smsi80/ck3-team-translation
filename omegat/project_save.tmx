@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#F The Great Mosque of Cordoba was erected after the Islamic Conquest of the Visigothic Kingdom, upon the foundation of a Christian church. Originally the site was shared, with both Muslims and Christians using it, but the Christian half was eventually purchased and demolished to make room for the Grand Mosque.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T115248Z" creationid="Novin Pendar" creationdate="20200925T115248Z">
+        <seg>"#F مسجد جامعه قرطبه پس از فتح اسلامی پادشاهی ویزیگوتیک بنا شد، با تاسیس یک کلیسای مسیحی، این محوطه بین مسلمانان و مسیحیان مشترک بود اما در آخر بخش مسیحی آن خریداری و تخریب شد تا فضای بیشتری به مسجد اختصاص داده شود.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#F The Great Mosque of Mecca is a massive and ancient structure whose walls surround the holy Kaaba. Many great Sultans have expanded upon the mosque and its surroundings since its construction. Every Muslim is supposed to visit this site when on the Hajj.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T114310Z" creationid="Novin Pendar" creationdate="20200925T114310Z">
@@ -5271,6 +5279,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T114834Z" creationid="Novin Pendar" creationdate="20200925T114834Z">
         <seg>"مسجد جامع اصفهان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The Great Mosque of Cordoba"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T115023Z" creationid="Novin Pendar" creationdate="20200925T115023Z">
+        <seg>"مسجد جامع قرطبه"</seg>
       </tuv>
     </tu>
     <tu>
