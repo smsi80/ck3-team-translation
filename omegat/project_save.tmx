@@ -2126,6 +2126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Action Lock"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142510Z" creationid="mohammad" creationdate="20200925T142510Z">
+        <seg>"Action Lock"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Administrator"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023601Z" creationid="mohammad" creationdate="20200922T023601Z">
@@ -4732,6 +4740,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T102436Z" creationid="mahan" creationdate="20200925T102436Z">
         <seg>"بیماری های جزئی کمتر اتفاق میوفتند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Misc"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142522Z" creationid="mohammad" creationdate="20200925T142522Z">
+        <seg>"Misc"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8849,6 +8865,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SETTINGS_CATEGORY_INTERFACE_MISC:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142517Z" creationid="mohammad" creationdate="20200925T142517Z">
+        <seg>SETTINGS_CATEGORY_INTERFACE_MISC:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTINGS_CATEGORY_SFX:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142613Z" creationid="mohammad" creationdate="20200925T142613Z">
+        <seg>SETTINGS_CATEGORY_SFX:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTINGS_CATEGORY_TOOLTIPS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142524Z" creationid="mohammad" creationdate="20200925T142524Z">
+        <seg>SETTINGS_CATEGORY_TOOLTIPS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SETTING_Ambience:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T142158Z" creationid="mohammad" creationdate="20200925T142158Z">
@@ -8945,10 +8985,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SETTING_TOOLTIP_MODE_LOCK_ON_ACTION:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142433Z" creationid="mohammad" creationdate="20200925T142433Z">
+        <seg>SETTING_TOOLTIP_MODE_LOCK_ON_ACTION:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_TOOLTIP_MODE_LOCK_ON_ACTION_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142512Z" creationid="mohammad" creationdate="20200925T142512Z">
+        <seg>SETTING_TOOLTIP_MODE_LOCK_ON_ACTION_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_TOOLTIP_MODE_LOCK_ON_TIMER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142514Z" creationid="mohammad" creationdate="20200925T142514Z">
+        <seg>SETTING_TOOLTIP_MODE_LOCK_ON_TIMER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_TOOLTIP_MODE_LOCK_ON_TIMER_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142515Z" creationid="mohammad" creationdate="20200925T142515Z">
+        <seg>SETTING_TOOLTIP_MODE_LOCK_ON_TIMER_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SETTING_TOOLTIP_MODE_MOUSE_TENDENCY:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T142215Z" creationid="mohammad" creationdate="20200925T142215Z">
         <seg>SETTING_TOOLTIP_MODE_MOUSE_TENDENCY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_TOOLTIP_MODE_MOUSE_TENDENCY_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142432Z" creationid="mohammad" creationdate="20200925T142432Z">
+        <seg>SETTING_TOOLTIP_MODE_MOUSE_TENDENCY_TOOLTIP:0</seg>
       </tuv>
     </tu>
     <tu>
