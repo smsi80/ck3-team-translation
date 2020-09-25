@@ -1222,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#high No End Date#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T110700Z" creationid="mahan" creationdate="20200925T110700Z">
+        <seg>"#high بدون تاریخ پایان#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#high No Player Families#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T105233Z" creationid="mahan" creationdate="20200925T105233Z">
@@ -2352,8 +2360,8 @@
       <tuv lang="en">
         <seg>"Casus Bellis are free to use, without any associated costs."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mahan" changedate="20200925T110509Z" creationid="mahan" creationdate="20200925T110509Z">
-        <seg>"Casus Bellis are free to use, without."</seg>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T110616Z" creationid="mahan" creationdate="20200925T110509Z">
+        <seg>"اعلام دلیل جنگ رایگان است، بدون هیچ بهای اضافی."</seg>
       </tuv>
     </tu>
     <tu>
@@ -2788,6 +2796,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T111627Z" creationid="mahan" creationdate="20200924T111627Z">
         <seg>"فعال سازی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"End Date"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T110626Z" creationid="mahan" creationdate="20200925T110626Z">
+        <seg>"تاریخ پایان"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3324,6 +3340,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T124640Z" creationid="mahan" creationdate="20200924T124640Z">
         <seg>"برابری جنسیتی بر پایه تعالیم دینی و قوانین دولت میباشد ."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Generate Families"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T110749Z" creationid="mahan" creationdate="20200925T110749Z">
+        <seg>"ایجاد کردن خانواده"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4076,6 +4100,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222735Z" creationid="BIG GAMER" creationdate="20200924T222735Z">
         <seg>عظیم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Most landed historical characters with no recorded family will have a spouse and up to three children generated for them. This reduces the risk of an early game over."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T110922Z" creationid="mahan" creationdate="20200925T110922Z">
+        <seg>"تمامی افراد بازی یک خواهر یا برادر و بیشتر از 3 فرزند خواهند داشت. با این روش میتوان از پایان زود هنگام بازی جلوگیری کرد."</seg>
       </tuv>
     </tu>
     <tu>
@@ -5055,6 +5087,22 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054608Z" creationid="Novin Pendar" creationdate="20200925T054608Z">
         <seg>"باغ های میوه درحین کوچکی ، برداشت های پرباری را تولید میکنند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The game will end in 1453."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T110646Z" creationid="mahan" creationdate="20200925T110646Z">
+        <seg>"این بازی در سال 1453 تمام میشود."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The game will not end at any specific given date."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T110728Z" creationid="mahan" creationdate="20200925T110728Z">
+        <seg>"برای این بازی تاریخ پایانی اعلام نشده است."</seg>
       </tuv>
     </tu>
     <tu>
