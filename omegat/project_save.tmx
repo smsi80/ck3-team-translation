@@ -1672,6 +1672,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Obtain #EMP every#! perk in a [lifestyle|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T050905Z" creationid="BIG GAMER" creationdate="20200925T050905Z">
+        <seg>همه برتری ها را در یک سبک  زندگی به دست اورید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"One can never have too many friends, near or far."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183636Z" creationid="mohammad" creationdate="20200921T183636Z">
