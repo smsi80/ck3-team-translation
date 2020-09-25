@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#F Augustine, Roman missionary and later archbishop, built the Canterbury Cathedral after choosing the town as his center for the episcopal see in Kent. This new cathedral revived the importance of the city, granting it authority over the English church.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T125925Z" creationid="Novin Pendar" creationdate="20200925T125925Z">
+        <seg>"#F اگستین، مبلغ رمی و اسقف اعظم، کلیسای کنتربوری را پس از انتخاب این شهر به عنوان مرکز مکتب اسقفی خود در ایالت کنت ساخت. این کلیسا اهمیتی دوباره به شهر بخشید و ریاست بر کلیسای انگلیسی را به آن داد.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#F I am ready to call every clan leader from across my vast realm to a gathering. They will proclaim me the Khan of Khans, [ROOT.Char.GetLadyLord|U] of all that is under the Sky.\nFrom there, we conquer.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T130209Z" creationid="mohammad" creationdate="20200924T130209Z">
