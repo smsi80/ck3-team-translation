@@ -918,6 +918,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Coops house easy-to-keep fowl, prized for both their eggs and meat."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T053153Z" creationid="Novin Pendar" creationdate="20200925T053153Z">
+        <seg>"مرغ داری محل زندگی پرنده ها و مرغ هاییست که گوشت و تخم ارزشمندی دارند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Coops"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T053113Z" creationid="Novin Pendar" creationdate="20200925T053113Z">
+        <seg>"مرغ داری"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Culture" #reactive advice now
  lesson_basics_religion:1</seg>
       </tuv>
@@ -1836,6 +1852,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184344Z" creationid="mohammad" creationdate="20200921T184119Z">
         <seg>"نظامی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Meadows are used both for grazing, and to produce hay for tougher times."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T053009Z" creationid="Novin Pendar" creationdate="20200925T053009Z">
+        <seg>"چمنزار ها هم برای چرا و هم برای تولید یونجه در زمان های سخت تر استفاده میشوند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Meadows"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T052907Z" creationid="Novin Pendar" creationdate="20200925T052907Z">
+        <seg>"چمنزار"</seg>
       </tuv>
     </tu>
     <tu>
