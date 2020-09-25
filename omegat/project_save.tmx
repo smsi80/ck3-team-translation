@@ -1734,6 +1734,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Ally Left War: [LEFT_CHARACTER.GetShortUINameNoTooltip]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073914Z" creationid="mohammad" creationdate="20200925T073914Z">
+        <seg>"متحد جنگ را رها کرد: [LEFT_CHARACTER.GetShortUINameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Ambience"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T213815Z" creationid="mohammad" creationdate="20200924T213815Z">
@@ -3392,6 +3400,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"New War Target: [LEFT_CHARACTER.GetShortUINameNoTooltip]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073815Z" creationid="mohammad" creationdate="20200925T073815Z">
+        <seg>"هدف جنگ جدید: [LEFT_CHARACTER.GetShortUINameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"New War: [WAR.GetActiveCB.GetAttacker.GetUINameNoTooltip]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073842Z" creationid="mohammad" creationdate="20200925T073842Z">
+        <seg>"جنگ جدید: [WAR.GetActiveCB.GetAttacker.GetUINameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Next"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T102557Z" creationid="mohammad" creationdate="20200924T102557Z">
@@ -4603,6 +4627,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"You are the new target of the [WAR.GetName|V]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073856Z" creationid="mohammad" creationdate="20200925T073856Z">
+        <seg>"شما هدف جدید [WAR.GetName|V]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"You can hover over icons and highlighted text in Tooltips for even more information!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T122455Z" creationid="mohammad" creationdate="20200924T122137Z">
@@ -4679,6 +4711,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071311Z" creationid="mohammad" creationdate="20200925T071311Z">
         <seg>"شما الان در اختیار دارید [PROVINCE.GetName]\nو شما گرفتید [gold_i]$VALUE|V0$ from occupying [PROVINCE.GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"You replaced [RIGHT_CHARACTER.GetUINameNoTooltip] in the [WAR.GetName|V]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073804Z" creationid="mohammad" creationdate="20200925T073804Z">
+        <seg>شما جایگزین [RIGHT_CHARACTER.GetUINameNoTooltip] در [WAR.GetName|V]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4875,6 +4915,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] and $VALUE|V$ other [rulers|E] left the [WAR.GetName|V]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073954Z" creationid="mohammad" creationdate="20200925T073954Z">
+        <seg>"‏‎[LEFT_CHARACTER.GetUINameNoTooltip] و $VALUE|V$ other [rulers|E]‎‏ رها کرد [WAR.GetName|V]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] and [RIGHT_CHARACTER.GetUINameNoTooltip] are no longer part of your [scheme|E] to [SCHEME.GetFullActionName]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T072243Z" creationid="mohammad" creationdate="20200925T072243Z">
@@ -4923,6 +4971,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] is now the target of the [WAR.GetName|V]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073829Z" creationid="mohammad" creationdate="20200925T073829Z">
+        <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] حالا هدف [WAR.GetName|V]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] joined [WAR.GetName|V]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T073232Z" creationid="mohammad" creationdate="20200925T073232Z">
@@ -4943,6 +4999,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T073131Z" creationid="mohammad" creationdate="20200925T073131Z">
         <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] به جنگ پیوست [WAR.GetName|V]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] left the [WAR.GetName|V]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073928Z" creationid="mohammad" creationdate="20200925T073928Z">
+        <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] رها کرد [WAR.GetName|V]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8637,6 +8701,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_war_ally_removed:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073859Z" creationid="mohammad" creationdate="20200925T073859Z">
+        <seg>msg_war_ally_removed:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_war_ally_removed_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073917Z" creationid="mohammad" creationdate="20200925T073917Z">
+        <seg>msg_war_ally_removed_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_war_ally_removed_multiple:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073929Z" creationid="mohammad" creationdate="20200925T073929Z">
+        <seg>msg_war_ally_removed_multiple:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_war_ally_removed_multiple_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073933Z" creationid="mohammad" creationdate="20200925T073933Z">
+        <seg>msg_war_ally_removed_multiple_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_war_ally_replaced:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T073357Z" creationid="mohammad" creationdate="20200925T073357Z">
@@ -8685,6 +8781,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_war_enemy_replaced:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073733Z" creationid="mohammad" creationdate="20200925T073733Z">
+        <seg>msg_war_enemy_replaced:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_war_enemy_replaced_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073734Z" creationid="mohammad" creationdate="20200925T073734Z">
+        <seg>msg_war_enemy_replaced_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_war_enemy_transferred:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073805Z" creationid="mohammad" creationdate="20200925T073805Z">
+        <seg>msg_war_enemy_transferred:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_war_enemy_transferred_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073816Z" creationid="mohammad" creationdate="20200925T073816Z">
+        <seg>msg_war_enemy_transferred_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_war_player_joined:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T073318Z" creationid="mohammad" creationdate="20200925T073318Z">
@@ -8697,6 +8825,38 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T073334Z" creationid="mohammad" creationdate="20200925T073334Z">
         <seg>msg_war_player_joined_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_war_player_replaced:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073735Z" creationid="mohammad" creationdate="20200925T073735Z">
+        <seg>msg_war_player_replaced:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_war_player_replaced_desc:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073738Z" creationid="mohammad" creationdate="20200925T073738Z">
+        <seg>msg_war_player_replaced_desc:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_war_player_transferred:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073830Z" creationid="mohammad" creationdate="20200925T073830Z">
+        <seg>msg_war_player_transferred:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_war_player_transferred_desc:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073844Z" creationid="mohammad" creationdate="20200925T073844Z">
+        <seg>msg_war_player_transferred_desc:2</seg>
       </tuv>
     </tu>
     <tu>
