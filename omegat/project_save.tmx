@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>"#D OnSend:#! \n$ON_SEND$\n#D OnAccept:#! \n$ON_ACCEPT$\n#D OnDecline:#! \n$ON_DECLINE$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T223400Z" creationid="mohammad" creationdate="20200925T223400Z">
+        <seg>"#D درصورت ارسال:#! \n$ON_SEND$\n#D Oدر صورت موافقت:#! \n$ON_ACCEPT$\n#D در صورت مخالفت:#! \n$ON_DECLINE$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#F A grand hall where heroic warriors can meet and organize.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T130653Z" creationid="Novin Pendar" creationdate="20200924T130653Z">
