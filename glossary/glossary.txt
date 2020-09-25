@@ -13,3 +13,4 @@ Seducer	اغواگر
 lifestyle	سبک زندگی
 Scheme	نقشه
 Motte	قلعه چوبی
+province	ایالت	؟
