@@ -1262,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#high Limited (AI Only)#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T120751Z" creationid="mahan" creationdate="20200925T120751Z">
+        <seg>"#high محدود (هوش مصنوعی)#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#high Limited#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T120339Z" creationid="mahan" creationdate="20200925T120339Z">
@@ -1350,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#high Significant (AI Only)#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T120815Z" creationid="mahan" creationdate="20200925T120815Z">
+        <seg>"#high شدید (هوش مصنوعی)#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#high Significant#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T120632Z" creationid="mahan" creationdate="20200925T120632Z">
@@ -1378,6 +1394,22 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T122601Z" creationid="mahan" creationdate="20200924T122601Z">
         <seg>"#high کند#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#high Total (AI Only)#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T120837Z" creationid="mahan" creationdate="20200925T120837Z">
+        <seg>"#high کامل (هوش مصنوعی)#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#high Total#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T120707Z" creationid="mahan" creationdate="20200925T120707Z">
+        <seg>"#high کامل#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2590,6 +2622,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Character Nudity"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T120916Z" creationid="mahan" creationdate="20200925T120916Z">
+        <seg>"برهنگی اشخاص"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Characters and Counties are assigned random Faiths. All Faiths in the game are available."</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T101808Z" creationid="mahan" creationdate="20200924T133307Z">
@@ -2602,6 +2642,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T101740Z" creationid="mahan" creationdate="20200924T133212Z">
         <seg>"اشخاص و شهرستان ها ادیان تاریخی اجداد خود را دارند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Characters can appear naked in certain situations or events."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T120951Z" creationid="mahan" creationdate="20200925T120951Z">
+        <seg>"اشخاص در موارد خاص میتوانند به صورت برهنه در صفحه نمایش داده شوند."</seg>
       </tuv>
     </tu>
     <tu>
