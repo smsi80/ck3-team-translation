@@ -1520,6 +1520,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Gardens &amp; Vegetable Plantations"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063640Z" creationid="Novin Pendar" creationdate="20200925T063640Z">
+        <seg>"پلانتشین سبزیجات و گیاهان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Give a Dog a Bone"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221549Z" creationid="BIG GAMER" creationdate="20200924T221549Z">
@@ -1996,6 +2004,22 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063308Z" creationid="Novin Pendar" creationdate="20200925T063308Z">
         <seg>"خانه های بزرگ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Mansions house land-owning families, their staff, and the peasants who work their fields."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063609Z" creationid="Novin Pendar" creationdate="20200925T063609Z">
+        <seg>"عمارت ها محل اسکان خاندان های زمین دار، خدمه انها و روستایی هاییست که در زمین آنها کار میکنند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Mansions"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063527Z" creationid="Novin Pendar" creationdate="20200925T063527Z">
+        <seg>"عمارت ها"</seg>
       </tuv>
     </tu>
     <tu>
