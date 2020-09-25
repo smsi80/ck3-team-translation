@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5304,6 +5304,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Pausing ($lesson_basics$)"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T164411Z" creationid="Alireza" creationdate="20200925T164411Z">
+        <seg>"Pausing ($lesson_basics$)"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Petra"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T083119Z" creationid="Novin Pendar" creationdate="20200925T083119Z">
@@ -6735,6 +6743,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T214031Z" creationid="BIG GAMER" creationdate="20200924T214031Z">
         <seg>تا مرگ جدایمان سازد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Use the W, A, S, and D keys to move the camera across the map. You can also move the cursor to the edge of the screen to pan. Pressing the 'Home' key takes you to your [realm_capital|E].\n\nTo zoom in and out on the map, use the Scroll Wheel.\n\n#TUT Different information is displayed at the different zoom levels; [detail_zoom|E], [political_zoom|E], and [paper_zoom|E].\n\nZoomed in, you have the ability to select and manage your [holdings|E]. Zooming out gives you an overview of all [realms|E].#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T161953Z" creationid="Alireza" creationdate="20200925T161953Z">
+        <seg>"برای حرکت دادن دوربین روی نقشه از کلیدهای W ، A ، S و D استفاده کنید. همچنین می توانید مکان نما را به سمت لبه صفحه حرکت دهید تا صفحه حرکت کند. با فشار دادن کلید "Home" شما به  [realm_capital|E] هدایت می شوید.\n\nبرای بزرگنمایی و کوچک کردن نقشه، از چرخ اسکرول موس خود استفاده کنید‏.\n\n#TUT اطلاعات مختلف در سطوح مختلف بزرگنمایی نمایش داده می شوند; [detail_zoom|E], [political_zoom|E], و [paper_zoom|E].\n\nبا کوچک نمایی شما تونایی انتخاب و مدیریت [holdings|E] خواهید داشت. بزرگنمایی یک نمای کلی از [realms|E] به شما می دهد.#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10820,6 +10836,14 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>lesson_basics_camera_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T160300Z" creationid="Alireza" creationdate="20200925T160300Z">
+        <seg>lesson_basics_camera_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>lesson_basics_character:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T104215Z" creationid="mohammad" creationdate="20200924T104215Z">
@@ -10872,6 +10896,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T104253Z" creationid="mohammad" creationdate="20200924T104253Z">
         <seg>lesson_basics_marriage:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_paused_intro:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T164211Z" creationid="Alireza" creationdate="20200925T164211Z">
+        <seg>lesson_basics_paused_intro:0</seg>
       </tuv>
     </tu>
     <tu>
