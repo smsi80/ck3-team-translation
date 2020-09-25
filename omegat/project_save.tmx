@@ -4082,6 +4082,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"French"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205137Z" creationid="mohammad" creationdate="20200925T205137Z">
+        <seg>"فرانسوی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"From Rags to Riches"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221506Z" creationid="BIG GAMER" creationdate="20200924T221506Z">
@@ -4206,6 +4214,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T110749Z" creationid="mahan" creationdate="20200925T110749Z">
         <seg>"ایجاد کردن خانواده"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"German"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205132Z" creationid="mohammad" creationdate="20200925T205132Z">
+        <seg>"آلمانی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8841,10 +8857,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FRENCH:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205134Z" creationid="mohammad" creationdate="20200925T205134Z">
+        <seg>FRENCH:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FRENCH_SUPPORTED:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T204525Z" creationid="mohammad" creationdate="20200925T204525Z">
         <seg>FRENCH_SUPPORTED:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GERMAN:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205048Z" creationid="mohammad" creationdate="20200925T205048Z">
+        <seg>GERMAN:0</seg>
       </tuv>
     </tu>
     <tu>
