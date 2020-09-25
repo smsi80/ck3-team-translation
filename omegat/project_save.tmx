@@ -2496,6 +2496,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"De Jure Requirement"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T102609Z" creationid="mahan" creationdate="20200925T102609Z">
+        <seg>"شرایط مالکیت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Death Did Us Part"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223013Z" creationid="BIG GAMER" creationdate="20200924T223013Z">
@@ -5127,6 +5135,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071103Z" creationid="mohammad" creationdate="20200925T071103Z">
         <seg>"عنائین از دست رفته"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Titles with De Jure land will eventually be destroyed if a character holds no De Jure land of the title within their realm."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T103112Z" creationid="mahan" creationdate="20200925T103112Z">
+        <seg>"افرادی که ملک شخصی غیرقانونی و بیرون از حاکمیت خود داشته باشند پس از مرگ ملک خود را از دست میدهند."</seg>
       </tuv>
     </tu>
     <tu>
