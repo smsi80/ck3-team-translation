@@ -3032,8 +3032,8 @@
       <tuv lang="en">
         <seg>"Crusader Kings spans over hundreds of years and many generations. Right now, time is standing still because the game is #EMP paused#!.\n\n#TUT For this part of the tutorial, we'll keep the game paused, while we walk you through some game concepts.#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="Alireza" changedate="20200925T165503Z" creationid="Alireza" creationdate="20200925T165503Z">
-        <seg>"کروسیدر کینگز بیش از صدها سال و چندین نسل طول می کشد. در حال حاض، زمان ایستاده است زیرا بازی متوقف شده است \n\n#TUT For this part of the tutorial, we'll keep the game paused, while we walk you through some game concepts.#!"</seg>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T165615Z" creationid="Alireza" creationdate="20200925T165503Z">
+        <seg>"کروسیدر کینگز بیش از صدها سال و چندین نسل طول می کشد. در حال حاض، زمان ایستاده است زیرا بازی متوقف شده است.#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10976,6 +10976,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T104300Z" creationid="mohammad" creationdate="20200924T104300Z">
         <seg>lesson_basics_titles:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_tooltips_in_tooltips:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T165734Z" creationid="Alireza" creationdate="20200925T165734Z">
+        <seg>lesson_basics_tooltips_in_tooltips:0</seg>
       </tuv>
     </tu>
     <tu>
