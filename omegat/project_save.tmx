@@ -2614,6 +2614,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Betrothal fulfilled"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T155747Z" creationid="mohammad" creationdate="20200925T155747Z">
+        <seg>"خواستگاری انجام شد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Between the forest and the fields, bees housed in apiaries produce much sought-after honey."</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054028Z" creationid="Novin Pendar" creationdate="20200925T054028Z">
@@ -4748,6 +4756,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T131107Z" creationid="mahan" creationdate="20200925T131107Z">
         <seg>"بازارها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Marriage by strong hook"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T155938Z" creationid="mohammad" creationdate="20200925T155938Z">
+        <seg>"hcn,h[ lp;l"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7451,6 +7467,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[LEFT_CHARACTER.GetShortUINamePossessive] has gotten [divorced|E] from [RIGHT_CHARACTER.GetShortUIName] – [RIGHT_CHARACTER.GetSheHe] is no longer [LEFT_CHARACTER.GetHerHis] [spouse|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T155736Z" creationid="mohammad" creationdate="20200925T155736Z">
+        <seg>"[LEFT_CHARACTER.GetShortUINamePossessive] گرفتند [divorced|E] از[RIGHT_CHARACTER.GetShortUIName] – [RIGHT_CHARACTER.GetSheHe] is no دیگر [LEFT_CHARACTER.GetHerHis] [spouse|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[LEFT_CHARACTER.GetShortUINamePossessive] new [faith|E] dictates that [LEFT_CHARACTER.GetSheHe] may no longer be betrothed to [RIGHT_CHARACTER.GetShortUIName]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T154246Z" creationid="mohammad" creationdate="20200925T154246Z">
@@ -7463,6 +7487,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T155603Z" creationid="mohammad" creationdate="20200925T155603Z">
         <seg>"[LEFT_CHARACTER.GetShortUINamePossessive] جدید [faith|E]'s اعتقادات شما به این معنی هستند که [RIGHT_CHARACTER.GetShortUIName] دیگر نیستr [LEFT_CHARACTER.GetHerHis] [spouse|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[LEFT_CHARACTER.GetShortUIName|U] and [RIGHT_CHARACTER.GetShortUIName] are now married"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T155803Z" creationid="mohammad" creationdate="20200925T155803Z">
+        <seg>"[LEFT_CHARACTER.GetShortUIName|U] and [RIGHT_CHARACTER.GetShortUIName] اکنون ازدواج کردند"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7703,6 +7735,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T154502Z" creationid="mohammad" creationdate="20200925T154502Z">
         <seg>"[player_heir|E] $msg_break_betrothal$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[player_heir|E] $msg_divorce$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T155605Z" creationid="mohammad" creationdate="20200925T155605Z">
+        <seg>"[player_heir|E] $msg_divorce$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11346,6 +11386,22 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_betrothal_fulfilled:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T155736Z" creationid="mohammad" creationdate="20200925T155736Z">
+        <seg>msg_betrothal_fulfilled:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_betrothal_fulfilled_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T155749Z" creationid="mohammad" creationdate="20200925T155749Z">
+        <seg>msg_betrothal_fulfilled_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_betrothal_invalidated:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T154040Z" creationid="mohammad" creationdate="20200925T154040Z">
@@ -11494,6 +11550,22 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T154829Z" creationid="mohammad" creationdate="20200925T154829Z">
         <seg>msg_divorce_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_divorce_player_heir:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T155604Z" creationid="mohammad" creationdate="20200925T155604Z">
+        <seg>msg_divorce_player_heir:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_divorce_player_heir_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T155605Z" creationid="mohammad" creationdate="20200925T155605Z">
+        <seg>msg_divorce_player_heir_desc:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -11838,6 +11910,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065901Z" creationid="mohammad" creationdate="20200925T065901Z">
         <seg>msg_marriage_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_marriage_forced:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T155803Z" creationid="mohammad" creationdate="20200925T155803Z">
+        <seg>msg_marriage_forced:0</seg>
       </tuv>
     </tu>
     <tu>
