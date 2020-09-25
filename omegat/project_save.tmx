@@ -2808,6 +2808,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Inheritance"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T070330Z" creationid="mohammad" creationdate="20200925T070330Z">
+        <seg>"وراثت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Intimidation Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T222612Z" creationid="mohammad" creationdate="20200921T222612Z">
@@ -4243,6 +4251,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"With the death of [LEFT_CHARACTER.GetUINameNoTooltip], you have no [heir|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T070321Z" creationid="mohammad" creationdate="20200925T070321Z">
+        <seg>"با مرگ [LEFT_CHARACTER.GetUINameNoTooltip], شما دیگر وارثی ندارید [heir|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"With the death of [RIGHT_CHARACTER.GetUINameNoTooltip], your [GetPlayer.Custom2('RelationToMeShort', LEFT_CHARACTER.Self )] [LEFT_CHARACTER.GetUINameNoTooltip] is your new [heir|E]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T070203Z" creationid="mohammad" creationdate="20200925T070203Z">
@@ -4319,6 +4335,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T122455Z" creationid="mohammad" creationdate="20200924T122137Z">
         <seg>"برای اطلاعات بیشتر نشانگر موس را بر روی ایکون ها و متن های برجسته حرکت دهید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"You inherited the [LEFT_TITLE.GetName] and $VALUE$ other titles from [CHARACTER.GetUINameNoTooltip] ($LAW$ )"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071018Z" creationid="mohammad" creationdate="20200925T071018Z">
+        <seg>"شما به ارث بردید [LEFT_TITLE.GetName] و $VALUE$ مقام های دیگر [CHARACTER.GetUINameNoTooltip] ($LAW$ )"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"You inherited the [LEFT_TITLE.GetName] from [CHARACTER.GetUINameNoTooltip] ($LAW$)"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T070354Z" creationid="mohammad" creationdate="20200925T070354Z">
+        <seg>"شما به ارث بردید [LEFT_TITLE.GetName] از [CHARACTER.GetUINameNoTooltip] ($LAW$)"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7693,6 +7725,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_inherited_single_title:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T070322Z" creationid="mohammad" creationdate="20200925T070322Z">
+        <seg>msg_inherited_single_title:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_inherited_single_title_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T070331Z" creationid="mohammad" creationdate="20200925T070331Z">
+        <seg>msg_inherited_single_title_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_inherited_titles:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T070356Z" creationid="mohammad" creationdate="20200925T070356Z">
+        <seg>msg_inherited_titles:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_inherited_titles_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T070359Z" creationid="mohammad" creationdate="20200925T070359Z">
+        <seg>msg_inherited_titles_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_marriage:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065626Z" creationid="mohammad" creationdate="20200925T065626Z">
@@ -7769,6 +7833,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T070213Z" creationid="mohammad" creationdate="20200925T070213Z">
         <seg>msg_no_new_heir_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_no_new_heir_old_heir_dead:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T070240Z" creationid="mohammad" creationdate="20200925T070240Z">
+        <seg>msg_no_new_heir_old_heir_dead:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_no_new_heir_old_heir_dead_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T070247Z" creationid="mohammad" creationdate="20200925T070247Z">
+        <seg>msg_no_new_heir_old_heir_dead_desc:1</seg>
       </tuv>
     </tu>
     <tu>
