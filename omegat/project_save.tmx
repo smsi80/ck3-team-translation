@@ -4947,6 +4947,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] replaced [RIGHT_CHARACTER.GetUINameNoTooltip] in the [WAR.GetName|V]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073732Z" creationid="mohammad" creationdate="20200925T073732Z">
+        <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] جایگزین [RIGHT_CHARACTER.GetUINameNoTooltip] در [WAR.GetName|V]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[MessageFeedHandler.GetNumberOfQueuedMessages] more messages"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065615Z" creationid="mohammad" creationdate="20200925T065615Z">
@@ -8625,6 +8633,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T073208Z" creationid="mohammad" creationdate="20200925T073208Z">
         <seg>msg_war_ally_joined_multiple_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_war_ally_replaced:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073357Z" creationid="mohammad" creationdate="20200925T073357Z">
+        <seg>msg_war_ally_replaced:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_war_ally_replaced_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073402Z" creationid="mohammad" creationdate="20200925T073402Z">
+        <seg>msg_war_ally_replaced_desc:1</seg>
       </tuv>
     </tu>
     <tu>
