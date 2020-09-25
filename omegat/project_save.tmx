@@ -1582,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"A Faction targeting you has Disbanded!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080022Z" creationid="mohammad" creationdate="20200925T080022Z">
+        <seg>"جناحی که شما را هدف قرار میداد منحل شده است!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"A House of My Own"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T214417Z" creationid="BIG GAMER" creationdate="20200924T214417Z">
@@ -3512,10 +3520,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"New Law"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080110Z" creationid="mohammad" creationdate="20200925T080110Z">
+        <seg>"قانون جدید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"New Nickname"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T074745Z" creationid="mohammad" creationdate="20200925T074735Z">
         <seg>"نام مستعار جدید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"New Title Law"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080202Z" creationid="mohammad" creationdate="20200925T080202Z">
+        <seg>"قانون عنوان جدید"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4187,6 +4211,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"The [LEFT_TITLE.GetNameNoTooltip] has given rise to the [FACTION.GetName], targeting [RIGHT_CHARACTER.GetShortUINameNoTooltip]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080003Z" creationid="mohammad" creationdate="20200925T080003Z">
+        <seg>"The [LEFT_TITLE.GetNameNoTooltip] پدید اورده است [FACTION.GetName], هدف قرار میدهد [RIGHT_CHARACTER.GetShortUINameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"The [alliance|E] with [LEFT_CHARACTER.GetUINameNoTooltip] has been broken"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T072641Z" creationid="mohammad" creationdate="20200925T072641Z">
@@ -4207,6 +4239,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023522Z" creationid="mohammad" creationdate="20200922T023522Z">
         <seg>"پیوند های وفاداری ما را محدود نمی کنند، بلکه راه را نشانمان می دهند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The following [faction|E] that targeted you has disbanded: [FACTION.GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080052Z" creationid="mohammad" creationdate="20200925T080052Z">
+        <seg>"جناحی که [faction|E] که شما را هدف قرار میداد منحل شد: [FACTION.GetName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4979,6 +5019,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Your Liege has passed the law [LAW.GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080137Z" creationid="mohammad" creationdate="20200925T080137Z">
+        <seg>"ارباب شما قانون را تصویب کرد [LAW.GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Your [GetPlayer.Custom2('RelationToMeShort', LEFT_CHARACTER.Self )] [LEFT_CHARACTER.GetShortUINameNoTooltip] created the [FACTION.GetName] against [RIGHT_CHARACTER.GetShortUINameNoTooltip]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T075854Z" creationid="mohammad" creationdate="20200925T075854Z">
@@ -5031,6 +5079,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T075635Z" creationid="mohammad" creationdate="20200925T075635Z">
         <seg>"[FACTION.GetName] مقابل [CHARACTER.GetUINameNoTooltip] رهبر معتبری ندارد, به همین خاطر جناح منحل شد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[FACTION.GetName] has been disbanded"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080101Z" creationid="mohammad" creationdate="20200925T080101Z">
+        <seg>"[FACTION.GetName] منحل شده است"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8709,6 +8765,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_county_faction_against_liege_or_me_created_desc:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T075855Z" creationid="mohammad" creationdate="20200925T075855Z">
+        <seg>msg_county_faction_against_liege_or_me_created_desc:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_disbanded_faction_target_died:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T075032Z" creationid="mohammad" creationdate="20200925T075032Z">
@@ -8761,6 +8825,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T075750Z" creationid="mohammad" creationdate="20200925T075750Z">
         <seg>msg_faction_against_liege_or_me_created_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_faction_against_me_disbanded:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080004Z" creationid="mohammad" creationdate="20200925T080004Z">
+        <seg>msg_faction_against_me_disbanded:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_faction_against_me_disbanded_desc:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080023Z" creationid="mohammad" creationdate="20200925T080023Z">
+        <seg>msg_faction_against_me_disbanded_desc:2</seg>
       </tuv>
     </tu>
     <tu>
@@ -8857,6 +8937,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T074102Z" creationid="mohammad" creationdate="20200925T074102Z">
         <seg>msg_invalidation_of_council_task_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_liege_passed_law:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080101Z" creationid="mohammad" creationdate="20200925T080101Z">
+        <seg>msg_liege_passed_law:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_liege_passed_law_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080110Z" creationid="mohammad" creationdate="20200925T080110Z">
+        <seg>msg_liege_passed_law_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_liege_passed_title_law:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080138Z" creationid="mohammad" creationdate="20200925T080138Z">
+        <seg>msg_liege_passed_title_law:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -8969,6 +9073,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T072251Z" creationid="mohammad" creationdate="20200925T072251Z">
         <seg>msg_multiple_agents_removed_my_scheme_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_my_faction_disbanded:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080052Z" creationid="mohammad" creationdate="20200925T080052Z">
+        <seg>msg_my_faction_disbanded:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_my_faction_disbanded_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080053Z" creationid="mohammad" creationdate="20200925T080053Z">
+        <seg>msg_my_faction_disbanded_desc:0</seg>
       </tuv>
     </tu>
     <tu>
