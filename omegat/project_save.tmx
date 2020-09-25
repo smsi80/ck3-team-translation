@@ -3160,6 +3160,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Cloud Save"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205849Z" creationid="mohammad" creationdate="20200925T205830Z">
+        <seg>"دخیره انلاین"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Cloud saves are not available"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205718Z" creationid="mohammad" creationdate="20200925T205655Z">
@@ -4778,6 +4786,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Ironman Save"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T210142Z" creationid="mohammad" creationdate="20200925T210142Z">
+        <seg>"Ironman Save"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Ironman can only be played in Single Player"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T113658Z" creationid="mahan" creationdate="20200924T113658Z">
@@ -6039,8 +6055,8 @@
       <tuv lang="en">
         <seg>"Save to cloud"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T205734Z" creationid="mohammad" creationdate="20200925T205705Z">
-        <seg>"ذخیره انلاین"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205844Z" creationid="mohammad" creationdate="20200925T205705Z">
+        <seg>"ذخیره به صورت انلاین"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9989,6 +10005,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205306Z" creationid="mohammad" creationdate="20200925T205306Z">
         <seg>LOAD_GAME:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOAD_IRONMAN_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205850Z" creationid="mohammad" creationdate="20200925T205850Z">
+        <seg>LOAD_IRONMAN_TOOLTIP:0</seg>
       </tuv>
     </tu>
     <tu>
