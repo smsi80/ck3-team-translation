@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3026,6 +3026,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T125732Z" creationid="mahan" creationdate="20200925T125433Z">
         <seg>" داداگاه های سلطنتی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Crusader Kings spans over hundreds of years and many generations. Right now, time is standing still because the game is #EMP paused#!.\n\n#TUT For this part of the tutorial, we'll keep the game paused, while we walk you through some game concepts.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T165503Z" creationid="Alireza" creationdate="20200925T165503Z">
+        <seg>"کروسیدر کینگز بیش از صدها سال و چندین نسل طول می کشد. در حال حاض، زمان ایستاده است زیرا بازی متوقف شده است \n\n#TUT For this part of the tutorial, we'll keep the game paused, while we walk you through some game concepts.#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10928,6 +10936,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T164211Z" creationid="Alireza" creationdate="20200925T164211Z">
         <seg>lesson_basics_paused_intro:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_paused_intro_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200925T164841Z" creationid="Alireza" creationdate="20200925T164841Z">
+        <seg>lesson_basics_paused_intro_desc:0</seg>
       </tuv>
     </tu>
     <tu>
