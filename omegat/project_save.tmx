@@ -5267,6 +5267,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"This character consumes human flesh."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113005Z" creationid="mohammad" creationdate="20200925T113005Z">
+        <seg>"این شخصیت گوشت انسان مصرف میکند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"This character engages in sexual intercourse with other men."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T112832Z" creationid="mohammad" creationdate="20200925T112604Z">
@@ -5279,6 +5287,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T112906Z" creationid="mohammad" creationdate="20200925T112906Z">
         <seg>"این شخصیت اقدام به قتل کرده است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"This character is someone's illicit lover."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113200Z" creationid="mohammad" creationdate="20200925T113200Z">
+        <seg>"این شخصیت در عشق نامشروع کسی است."</seg>
       </tuv>
     </tu>
     <tu>
@@ -10897,6 +10913,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T230249Z" creationid="mohammad" creationdate="20200924T230249Z">
         <seg>secret_lover_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>secret_lover_tooltip_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113006Z" creationid="mohammad" creationdate="20200925T113006Z">
+        <seg>secret_lover_tooltip_desc:0</seg>
       </tuv>
     </tu>
     <tu>
