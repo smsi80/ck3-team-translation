@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#F A place of higher learning for those with influence, and gold, enough to gain admission.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T052039Z" creationid="Novin Pendar" creationdate="20200925T052039Z">
+        <seg>"#F مکانی برای آموختن دانش عالیه برای کسانی که نفوذ و طلای کافی ای برای .#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#F A place of worship ruled by the clergy, surrounded by a town of faithful peasants.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T114611Z" creationid="Novin Pendar" creationdate="20200924T114611Z">
@@ -56,8 +64,8 @@
       <tuv lang="en">
         <seg>"#F Representatives of the Three Estates meet regularly at this building to deliberate on the affairs of the realm and advice the current ruler.#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T134358Z" creationid="Novin Pendar" creationdate="20200924T131629Z">
-        <seg>"#F نماینگان سه ایالت به طور منظم در این مکان دیدار میکنند و به کنکاش وقایع و قضایای سرزمین و مشاورده دادن به حاکم میپردازند. #!"</seg>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T051634Z" creationid="Novin Pendar" creationdate="20200924T131629Z">
+        <seg>"#F نماینگان سه ایالت به طور منظم در این مکان دیدار میکنند و به کنکاش وقایع و قضایای سرزمین و مشاوره به حاکم میپردازند. #!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2599,6 +2607,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T172318Z" creationid="mohammad" creationdate="20200924T172155Z">
         <seg>"خودآموز"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"University"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T051721Z" creationid="Novin Pendar" creationdate="20200925T051721Z">
+        <seg>"دانشگاه"</seg>
       </tuv>
     </tu>
     <tu>
