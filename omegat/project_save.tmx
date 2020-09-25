@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2678,6 +2678,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Cadet Branch"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T160329Z" creationid="mohammad" creationdate="20200925T160329Z">
+        <seg>"Cadet Branch"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Camera ($lesson_basics$)"</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T160256Z" creationid="Alireza" creationdate="20200925T160256Z">
@@ -2714,6 +2722,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T051120Z" creationid="BIG GAMER" creationdate="20200925T051120Z">
         <seg>قلعه</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Casus Belli Changed"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T160248Z" creationid="mohammad" creationdate="20200925T160248Z">
+        <seg>"دلیل جنگ تغییر کرد"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7739,6 +7755,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[WAR.GetName] is using a new [casus_belli|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T160318Z" creationid="mohammad" creationdate="20200925T160318Z">
+        <seg>"[WAR.GetName] در حال استفاده از دلیل جنگ جدیدی است [casus_belli|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[alliance|E] formed with [LEFT_CHARACTER.GetUINameNoTooltip] because [LEFT_CHARACTER.GetSheHe] is now a [ruler|E]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T072931Z" creationid="mohammad" creationdate="20200925T072931Z">
@@ -11540,6 +11564,14 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_cadet_branch_created:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T160318Z" creationid="mohammad" creationdate="20200925T160318Z">
+        <seg>msg_cadet_branch_created:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_consort_invalidated:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T160029Z" creationid="mohammad" creationdate="20200925T160029Z">
@@ -12384,6 +12416,22 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T073402Z" creationid="mohammad" creationdate="20200925T073402Z">
         <seg>msg_war_ally_replaced_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_war_casus_belli_changed:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T160231Z" creationid="mohammad" creationdate="20200925T160231Z">
+        <seg>msg_war_casus_belli_changed:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_war_casus_belli_changed_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T160249Z" creationid="mohammad" creationdate="20200925T160249Z">
+        <seg>msg_war_casus_belli_changed_desc:0</seg>
       </tuv>
     </tu>
     <tu>
