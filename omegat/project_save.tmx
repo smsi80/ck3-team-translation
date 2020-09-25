@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4642,6 +4642,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"I am a claimant: $VALUE|=+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T210939Z" creationid="BIG GAMER" creationdate="20200925T210939Z">
+        <seg>من مدعی هستم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"I am ambitious: $VALUE|=+0$"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T210722Z" creationid="BIG GAMER" creationdate="20200925T210722Z">
@@ -4650,10 +4658,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"I am not in any condition to rule: $VALUE|=+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T210903Z" creationid="BIG GAMER" creationdate="20200925T210903Z">
+        <seg>من در شرایطی نیستم که حکومت کنم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"I am the rightful heir: $VALUE|=+0$"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T210608Z" creationid="BIG GAMER" creationdate="20200925T210608Z">
         <seg>من وارث قانونی هستم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"I belong to the ruling [dynasty|E]: $VALUE|=+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T210822Z" creationid="BIG GAMER" creationdate="20200925T210822Z">
+        <seg>من از خاندان حاکم هستم </seg>
       </tuv>
     </tu>
     <tu>
@@ -8513,6 +8537,46 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T072609Z" creationid="mohammad" creationdate="20200925T072609Z">
         <seg>"[alliance|E] شکل گرفت با [LEFT_CHARACTER.GetUINameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[candidate.GetSheHe|U] is a man: $VALUE|=+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T211249Z" creationid="BIG GAMER" creationdate="20200925T211249Z">
+        <seg>مرد است</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[candidate.GetSheHe|U] is a woman: $VALUE|=+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T211232Z" creationid="BIG GAMER" creationdate="20200925T211232Z">
+        <seg>یک زن است</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[candidate.GetSheHe|U] is just a baby: $VALUE|=+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T211355Z" creationid="BIG GAMER" creationdate="20200925T211355Z">
+        <seg>فقط یک کودک است</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[candidate.GetSheHe|U] is not my child: $VALUE|=+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T211003Z" creationid="BIG GAMER" creationdate="20200925T211003Z">
+        <seg>فرزند من نیست </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[candidate.GetSheHe|U] is unlikely to produce children"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T211205Z" creationid="BIG GAMER" creationdate="20200925T211205Z">
+        <seg>بعید نیست که بچه دار شوند</seg>
       </tuv>
     </tu>
     <tu>
