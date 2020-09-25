@@ -3617,6 +3617,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Regimental Grounds"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T073523Z" creationid="Novin Pendar" creationdate="20200925T073523Z">
+        <seg>"زمین های نظامی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Religion" #reactive advice now
  lesson_basics_war:2</seg>
       </tuv>
@@ -3751,6 +3759,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215725Z" creationid="BIG GAMER" creationdate="20200924T215725Z">
         <seg>هفت شهر مقدس</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Several different manors, all run as one — by letting the most productive families take the reins from the less productive ones, we guarantee excellent results."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T073342Z" creationid="Novin Pendar" creationdate="20200925T073342Z">
+        <seg>"چندین ساختمان بزرگ متفاوت که توسط یکی مدیریت میشوند — با گرفتن افسار از خاندان های کم کار و دادن آن به خاندان های سختکوش، نتایج عالی را تضمین میکینم!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4351,6 +4367,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T104259Z" creationid="mohammad" creationdate="20200924T104259Z">
         <seg>"VIII — ازدواج"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Vast estates of a scale rarely seen, these grand complexes can maintain a household of thousands."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T073455Z" creationid="Novin Pendar" creationdate="20200925T073455Z">
+        <seg>"املاک وسیع با مساحتی چنان بزرگ که کمیابند. این مجتمع عظیم میتواند هزاران خانوار را در خود جای دهد."</seg>
       </tuv>
     </tu>
     <tu>
