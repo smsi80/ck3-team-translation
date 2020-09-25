@@ -1214,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#high Never#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T112132Z" creationid="mahan" creationdate="20200925T112132Z">
+        <seg>"#high غیرفعال#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#high No Costs#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T110453Z" creationid="mahan" creationdate="20200925T110453Z">
@@ -1266,6 +1274,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T103127Z" creationid="mahan" creationdate="20200925T103127Z">
         <seg>"#high روشن (محدود)#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#high Random#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T112223Z" creationid="mahan" creationdate="20200925T112153Z">
+        <seg>"#high غیرمشخص#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2872,6 +2888,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Exclave Independence"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T113234Z" creationid="mahan" creationdate="20200925T113234Z">
+        <seg>""</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Expanded Docks"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T123727Z" creationid="Novin Pendar" creationdate="20200924T123727Z">
@@ -4112,6 +4136,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Mongol Invasion"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T112106Z" creationid="mahan" creationdate="20200925T112106Z">
+        <seg>"حجوم مغول ها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Monumental"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222735Z" creationid="BIG GAMER" creationdate="20200924T222735Z">
@@ -5007,6 +5039,30 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T114332Z" creationid="Novin Pendar" creationdate="20200924T114332Z">
         <seg>"دژ اصل دفاع است؛ توانا در دفع حمله دشمن و اسکان یک لشکر بزرگ."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The Mongols will invade around the year 1200."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T112125Z" creationid="mahan" creationdate="20200925T112125Z">
+        <seg>"حجوم مغول ها در سال 1200 آغاز میشود."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The Mongols will invade at a random date."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T112241Z" creationid="mahan" creationdate="20200925T112202Z">
+        <seg>"حجوم مغول ها در تاریخ غیر مشخصی آغاز خواهد شد."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The Mongols will not invade."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T112147Z" creationid="mahan" creationdate="20200925T112147Z">
+        <seg>"حجوم مغول ها آغاز نخواهد شد."</seg>
       </tuv>
     </tu>
     <tu>
