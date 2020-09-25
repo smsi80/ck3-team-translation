@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#F I am ready to call every clan leader from across my vast realm to a gathering. They will proclaim me the Khan of Khans, [ROOT.Char.GetLadyLord|U] of all that is under the Sky.\nFrom there, we conquer.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T130209Z" creationid="mohammad" creationdate="20200924T130209Z">
+        <seg>"#F I am ready to call every clan leader from across my vast realm to a gathering. They will proclaim me the Khan of Khans, [ROOT.Char.GetLadyLord|U] of all that is under the Sky.\nFrom there, we conquer.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#F Not satisfied with a small and modest temple, local artisans and architects have worked together to create a true work of art. This grand temple seemingly calls down the power of heaven itself into any worshiper who enters its glorious halls.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T124614Z" creationid="Novin Pendar" creationdate="20200924T120505Z">
@@ -102,10 +110,978 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#I Click to hide.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T192548Z" creationid="mohammad" creationdate="20200924T192548Z">
+        <seg>"#I برای پنهان کردن کلیک کنید.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#I Click to show.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T192602Z" creationid="mohammad" creationdate="20200924T192602Z">
+        <seg>"#I برای نشان دادن کلیک کنید.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#I Right-click to dismiss.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T193812Z" creationid="mohammad" creationdate="20200924T193812Z">
+        <seg>"#I راست کلیک برای.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T $SETTING_TOOLTIP_DELAY$#!\nSets the delay before tooltips appear."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T183544Z" creationid="mohammad" creationdate="20200924T183544Z">
         <seg>"#T $SETTING_TOOLTIP_DELAY$#!\nSets the delay before tooltips appear."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_advantage$#!\n\n$game_concept_battle_advantage_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121305Z" creationid="mohammad" creationdate="20200924T121305Z">
+        <seg>"#T $game_concept_advantage$#!\n\n$game_concept_battle_advantage_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_aftermath$#!\n\n$game_concept_aftermath_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121311Z" creationid="mohammad" creationdate="20200924T121311Z">
+        <seg>"#T $game_concept_aftermath$#!\n\n$game_concept_aftermath_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_agents$#!\n\n$game_concept_agents_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121223Z" creationid="mohammad" creationdate="20200924T121223Z">
+        <seg>"#T $game_concept_agents$#!\n\n$game_concept_agents_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_alliances$#!\n\n$game_concept_alliance_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121301Z" creationid="mohammad" creationdate="20200924T121301Z">
+        <seg>"#T $game_concept_alliances$#!\n\n$game_concept_alliance_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_army_commanders$#!\n\n$game_concept_army_commander_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121305Z" creationid="mohammad" creationdate="20200924T121305Z">
+        <seg>"#T $game_concept_army_commanders$#!\n\n$game_concept_army_commander_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_attrition$#!\n\n$game_concept_attrition_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121320Z" creationid="mohammad" creationdate="20200924T121320Z">
+        <seg>"#T $game_concept_attrition$#!\n\n$game_concept_attrition_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_bastards$#!\n\n$game_concept_bastard_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121300Z" creationid="mohammad" creationdate="20200924T121300Z">
+        <seg>"#T $game_concept_bastards$#!\n\n$game_concept_bastard_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_battles$#!\n\n$game_concept_battle_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121311Z" creationid="mohammad" creationdate="20200924T121311Z">
+        <seg>"#T $game_concept_battles$#!\n\n$game_concept_battle_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_betrothal$#!\n\n$game_concept_betrothal_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121259Z" creationid="mohammad" creationdate="20200924T121259Z">
+        <seg>"#T $game_concept_betrothal$#!\n\n$game_concept_betrothal_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_buildings$#!\n\n$game_concept_building_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121311Z" creationid="mohammad" creationdate="20200924T121311Z">
+        <seg>"#T $game_concept_buildings$#!\n\n$game_concept_building_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_cadet_branches$#!\n\n$game_concept_cadet_branching_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121326Z" creationid="mohammad" creationdate="20200924T121326Z">
+        <seg>"#T $game_concept_cadet_branches$#!\n\n$game_concept_cadet_branching_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_casus_belli$#!\n\n$game_concept_casus_belli_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121302Z" creationid="mohammad" creationdate="20200924T121302Z">
+        <seg>"#T $game_concept_casus_belli$#!\n\n$game_concept_casus_belli_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_chancellor$#!\n\n$game_concept_chancellor_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121207Z" creationid="mohammad" creationdate="20200924T121207Z">
+        <seg>"#T $game_concept_chancellor$#!\n\n$game_concept_chancellor_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_civil_war$#!\n\n$game_concept_civil_war_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121302Z" creationid="mohammad" creationdate="20200924T121302Z">
+        <seg>"#T $game_concept_civil_war$#!\n\n$game_concept_civil_war_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_claims$#!\n\n$game_concept_claim_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121317Z" creationid="mohammad" creationdate="20200924T121317Z">
+        <seg>"#T $game_concept_claims$#!\n\n$game_concept_claim_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_combat_width$#!\n\n$game_concept_combat_width_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121312Z" creationid="mohammad" creationdate="20200924T121312Z">
+        <seg>"#T $game_concept_combat_width$#!\n\n$game_concept_combat_width_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_concubines$#!\n\n$game_concept_concubinage_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121259Z" creationid="mohammad" creationdate="20200924T121259Z">
+        <seg>"#T $game_concept_concubines$#!\n\n$game_concept_concubinage_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_congenital_traits$#!\n\n$game_concept_congenital_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121325Z" creationid="mohammad" creationdate="20200924T121325Z">
+        <seg>"#T $game_concept_congenital_traits$#!\n\n$game_concept_congenital_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_council$#!\n\n$game_concept_council_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121201Z" creationid="mohammad" creationdate="20200924T121201Z">
+        <seg>"#T $game_concept_council$#!\n\n$game_concept_council_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_county_control$#!\n\n$game_concept_control_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121321Z" creationid="mohammad" creationdate="20200924T121321Z">
+        <seg>"#T $game_concept_county_control$#!\n\n$game_concept_control_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_county_development$#!\n\n$game_concept_county_development_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121320Z" creationid="mohammad" creationdate="20200924T121320Z">
+        <seg>"#T $game_concept_county_development$#!\n\n$game_concept_county_development_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_county_opinion$#!\n\n$game_concept_county_opinion_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121324Z" creationid="mohammad" creationdate="20200924T121324Z">
+        <seg>"#T $game_concept_county_opinion$#!\n\n$game_concept_county_opinion_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_court$#!\n\n$game_concept_court_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121317Z" creationid="mohammad" creationdate="20200924T121317Z">
+        <seg>"#T $game_concept_court$#!\n\n$game_concept_court_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_court_chaplain$#!\n\n$game_concept_court_chaplain_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121217Z" creationid="mohammad" creationdate="20200924T121217Z">
+        <seg>"#T $game_concept_court_chaplain$#!\n\n$game_concept_court_chaplain_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_court_physician$#!\n\n$game_concept_court_physician_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121329Z" creationid="mohammad" creationdate="20200924T121329Z">
+        <seg>"#T $game_concept_court_physician$#!\n\n$game_concept_court_physician_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_crimes$#!\n\n$game_concept_crime_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121318Z" creationid="mohammad" creationdate="20200924T121318Z">
+        <seg>"#T $game_concept_crimes$#!\n\n$game_concept_crime_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_crown_authority$#!\n\n$game_concept_crown_authority_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121204Z" creationid="mohammad" creationdate="20200924T121204Z">
+        <seg>"#T $game_concept_crown_authority$#!\n\n$game_concept_crown_authority_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_cultural_head$#!\n\n$game_concept_culture_head_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121323Z" creationid="mohammad" creationdate="20200924T121323Z">
+        <seg>"#T $game_concept_cultural_head$#!\n\n$game_concept_culture_head_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_culture$#!\n\n$game_concept_culture_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121226Z" creationid="mohammad" creationdate="20200924T121226Z">
+        <seg>"#T $game_concept_culture$#!\n\n$game_concept_culture_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_culture_group$#!\n\n$game_concept_culture_group_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121323Z" creationid="mohammad" creationdate="20200924T121323Z">
+        <seg>"#T $game_concept_culture_group$#!\n\n$game_concept_culture_group_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_de_jure$#!\n\n$game_concept_de_jure_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121203Z" creationid="mohammad" creationdate="20200924T121203Z">
+        <seg>"#T $game_concept_de_jure$#!\n\n$game_concept_de_jure_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_de_jure_drift$#!\n\n$game_concept_de_jure_drift_desc_part_1$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121200Z" creationid="mohammad" creationdate="20200924T121200Z">
+        <seg>"#T $game_concept_de_jure_drift$#!\n\n$game_concept_de_jure_drift_desc_part_1$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_debt$#!\n\n$game_concept_debt_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121328Z" creationid="mohammad" creationdate="20200924T121328Z">
+        <seg>"#T $game_concept_debt$#!\n\n$game_concept_debt_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_diplomacy_skill$ @skill_diplomacy_icon!#!\n\n$game_concept_diplomacy_skill_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121306Z" creationid="mohammad" creationdate="20200924T121306Z">
+        <seg>"#T $game_concept_diplomacy_skill$ @skill_diplomacy_icon!#!\n\n$game_concept_diplomacy_skill_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_diplomatic_range$#!\n\n$game_concept_diplomatic_range_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121327Z" creationid="mohammad" creationdate="20200924T121327Z">
+        <seg>"#T $game_concept_diplomatic_range$#!\n\n$game_concept_diplomatic_range_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_domain$#!\n\n$game_concept_domain_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121228Z" creationid="mohammad" creationdate="20200924T121228Z">
+        <seg>"#T $game_concept_domain$#!\n\n$game_concept_domain_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_domain_limit$#!\n\n$game_concept_domain_limit_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121206Z" creationid="mohammad" creationdate="20200924T121206Z">
+        <seg>"#T $game_concept_domain_limit$#!\n\n$game_concept_domain_limit_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_dread$#!\n\n$game_concept_dread_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121309Z" creationid="mohammad" creationdate="20200924T121309Z">
+        <seg>"#T $game_concept_dread$#!\n\n$game_concept_dread_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_dynasty$#!\n\n$game_concept_dynasty_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121257Z" creationid="mohammad" creationdate="20200924T121257Z">
+        <seg>"#T $game_concept_dynasty$#!\n\n$game_concept_dynasty_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_dynasty_perk$#!\n\n$game_concept_dynasty_perk_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121309Z" creationid="mohammad" creationdate="20200924T121309Z">
+        <seg>"#T $game_concept_dynasty_perk$#!\n\n$game_concept_dynasty_perk_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_education_focus$#!\n\n$game_concept_education_focus_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121305Z" creationid="mohammad" creationdate="20200924T121305Z">
+        <seg>"#T $game_concept_education_focus$#!\n\n$game_concept_education_focus_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_end_date$#!\n\n$game_concept_end_date_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121328Z" creationid="mohammad" creationdate="20200924T121328Z">
+        <seg>"#T $game_concept_end_date$#!\n\n$game_concept_end_date_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_factions$#!\n\n$game_concept_faction_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121222Z" creationid="mohammad" creationdate="20200924T121222Z">
+        <seg>"#T $game_concept_factions$#!\n\n$game_concept_faction_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_faith$#!\n\n$game_concept_faith_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121227Z" creationid="mohammad" creationdate="20200924T121227Z">
+        <seg>"#T $game_concept_faith$#!\n\n$game_concept_faith_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_fervor$#!\n\n$game_concept_fervor_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121228Z" creationid="mohammad" creationdate="20200924T121228Z">
+        <seg>"#T $game_concept_fervor$#!\n\n$game_concept_fervor_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_feudal_contracts$#!\n\n$game_concept_feudal_contract_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121204Z" creationid="mohammad" creationdate="20200924T121204Z">
+        <seg>"#T $game_concept_feudal_contracts$#!\n\n$game_concept_feudal_contract_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_fleets$#!\n\n$game_concept_fleet_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121321Z" creationid="mohammad" creationdate="20200924T121321Z">
+        <seg>"#T $game_concept_fleets$#!\n\n$game_concept_fleet_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_fortified_holding$ @fort_icon!#!\n\n$game_concept_fortified_holding_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121303Z" creationid="mohammad" creationdate="20200924T121303Z">
+        <seg>"#T $game_concept_fortified_holding$ @fort_icon!#!\n\n$game_concept_fortified_holding_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_gold$ @gold_icon!#!\n\n$game_concept_gold_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121239Z" creationid="mohammad" creationdate="20200924T121239Z">
+        <seg>"#T $game_concept_gold$ @gold_icon!#!\n\n$game_concept_gold_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_government$#!\n\n$game_concept_government_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121310Z" creationid="mohammad" creationdate="20200924T121310Z">
+        <seg>"#T $game_concept_government$#!\n\n$game_concept_government_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_great_holy_wars$#!\n\n$game_concept_great_holy_war_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121324Z" creationid="mohammad" creationdate="20200924T121324Z">
+        <seg>"#T $game_concept_great_holy_wars$#!\n\n$game_concept_great_holy_war_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_guests$#!\n\n$game_concept_guest_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121318Z" creationid="mohammad" creationdate="20200924T121318Z">
+        <seg>"#T $game_concept_guests$#!\n\n$game_concept_guest_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_head_of_faith$#!\n\n$game_concept_head_of_faith_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121312Z" creationid="mohammad" creationdate="20200924T121312Z">
+        <seg>"#T $game_concept_head_of_faith$#!\n\n$game_concept_head_of_faith_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_heir$#!\n\n$game_concept_heir_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121207Z" creationid="mohammad" creationdate="20200924T121207Z">
+        <seg>"#T $game_concept_heir$#!\n\n$game_concept_heir_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_holdings$#!\n\n$game_concept_holding_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121249Z" creationid="mohammad" creationdate="20200924T121249Z">
+        <seg>"#T $game_concept_holdings$#!\n\n$game_concept_holding_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_holy_orders$#!\n\n$game_concept_holy_order_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121304Z" creationid="mohammad" creationdate="20200924T121304Z">
+        <seg>"#T $game_concept_holy_orders$#!\n\n$game_concept_holy_order_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_holy_sites$#!\n\n$game_concept_holy_site_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121323Z" creationid="mohammad" creationdate="20200924T121323Z">
+        <seg>"#T $game_concept_holy_sites$#!\n\n$game_concept_holy_site_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_hooks$#!\n\n$game_concept_hook_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121258Z" creationid="mohammad" creationdate="20200924T121258Z">
+        <seg>"#T $game_concept_hooks$#!\n\n$game_concept_hook_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_house$#!\n\n$game_concept_house_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121257Z" creationid="mohammad" creationdate="20200924T121257Z">
+        <seg>"#T $game_concept_house$#!\n\n$game_concept_house_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_house_head$#!\n\n$game_concept_house_head_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121258Z" creationid="mohammad" creationdate="20200924T121258Z">
+        <seg>"#T $game_concept_house_head$#!\n\n$game_concept_house_head_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_illness$#!\n\n$game_concept_illness_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121311Z" creationid="mohammad" creationdate="20200924T121311Z">
+        <seg>"#T $game_concept_illness$#!\n\n$game_concept_illness_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_inbreeding$#!\n\n$game_concept_inbreeding_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121325Z" creationid="mohammad" creationdate="20200924T121325Z">
+        <seg>"#T $game_concept_inbreeding$#!\n\n$game_concept_inbreeding_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_innovations$#!\n\n$game_concept_innovation_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121325Z" creationid="mohammad" creationdate="20200924T121325Z">
+        <seg>"#T $game_concept_innovations$#!\n\n$game_concept_innovation_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_intrigue_skill$ @skill_intrigue_icon!#!\n\n$game_concept_intrigue_skill_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121307Z" creationid="mohammad" creationdate="20200924T121307Z">
+        <seg>"#T $game_concept_intrigue_skill$ @skill_intrigue_icon!#!\n\n$game_concept_intrigue_skill_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_knights$ @knight_icon!#!\n\n$game_concept_knight_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121327Z" creationid="mohammad" creationdate="20200924T121327Z">
+        <seg>"#T $game_concept_knights$ @knight_icon!#!\n\n$game_concept_knight_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_learning_skill$ @skill_learning_icon!#!\n\n$game_concept_learning_skill_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121308Z" creationid="mohammad" creationdate="20200924T121308Z">
+        <seg>"#T $game_concept_learning_skill$ @skill_learning_icon!#!\n\n$game_concept_learning_skill_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_levies$#!\n\n$game_concept_levies_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121203Z" creationid="mohammad" creationdate="20200924T121203Z">
+        <seg>"#T $game_concept_levies$#!\n\n$game_concept_levies_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_liege$#!\n\n$game_concept_liege_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121228Z" creationid="mohammad" creationdate="20200924T121228Z">
+        <seg>"#T $game_concept_liege$#!\n\n$game_concept_liege_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_marriage$#!\n\n$game_concept_marriage_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121300Z" creationid="mohammad" creationdate="20200924T121300Z">
+        <seg>"#T $game_concept_marriage$#!\n\n$game_concept_marriage_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_marshal$#!\n\n$game_concept_marshal_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121215Z" creationid="mohammad" creationdate="20200924T121215Z">
+        <seg>"#T $game_concept_marshal$#!\n\n$game_concept_marshal_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_martial_skill$ @skill_martial_icon!#!\n\n$game_concept_martial_skill_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121307Z" creationid="mohammad" creationdate="20200924T121307Z">
+        <seg>"#T $game_concept_martial_skill$ @skill_martial_icon!#!\n\n$game_concept_martial_skill_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_men_at_arms$#!\n\n$game_concept_men_at_arms_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121319Z" creationid="mohammad" creationdate="20200924T121319Z">
+        <seg>"#T $game_concept_men_at_arms$#!\n\n$game_concept_men_at_arms_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_mental_breaks$#!\n\n$game_concept_mental_break_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121329Z" creationid="mohammad" creationdate="20200924T121329Z">
+        <seg>"#T $game_concept_mental_breaks$#!\n\n$game_concept_mental_break_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_mercenaries$#!\n\n$game_concept_mercenary_company_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121304Z" creationid="mohammad" creationdate="20200924T121304Z">
+        <seg>"#T $game_concept_mercenaries$#!\n\n$game_concept_mercenary_company_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_murder_schemes$#!\n\n$game_concept_murder_scheme_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121224Z" creationid="mohammad" creationdate="20200924T121224Z">
+        <seg>"#T $game_concept_murder_schemes$#!\n\n$game_concept_murder_scheme_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_nominations$#!\n\n$game_concept_nominate_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121333Z" creationid="mohammad" creationdate="20200924T121333Z">
+        <seg>"#T $game_concept_nominations$#!\n\n$game_concept_nominate_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_offensive_war_opinion$#!\n\n$game_concept_offensive_war_opinion_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121333Z" creationid="mohammad" creationdate="20200924T121333Z">
+        <seg>"#T $game_concept_offensive_war_opinion$#!\n\n$game_concept_offensive_war_opinion_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_opinion$#!\n\n$game_concept_opinion_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121222Z" creationid="mohammad" creationdate="20200924T121222Z">
+        <seg>"#T $game_concept_opinion$#!\n\n$game_concept_opinion_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_piety$ [GetLocalPlayerPietyTextIcon]#!\n\n$game_concept_piety_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121250Z" creationid="mohammad" creationdate="20200924T121250Z">
+        <seg>"#T $game_concept_piety$ [GetLocalPlayerPietyTextIcon]#!\n\n$game_concept_piety_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_piety_level$#!\n\n$game_concept_piety_level_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121256Z" creationid="mohammad" creationdate="20200924T121256Z">
+        <seg>"#T $game_concept_piety_level$#!\n\n$game_concept_piety_level_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_powerful_vassals$#!\n\n$game_concept_powerful_vassal_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121204Z" creationid="mohammad" creationdate="20200924T121204Z">
+        <seg>"#T $game_concept_powerful_vassals$#!\n\n$game_concept_powerful_vassal_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_prestige$ @prestige_icon!#!\n\n$game_concept_prestige_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121256Z" creationid="mohammad" creationdate="20200924T121256Z">
+        <seg>"#T $game_concept_prestige$ @prestige_icon!#!\n\n$game_concept_prestige_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_prestige_level$#!\n\n$game_concept_prestige_level_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121257Z" creationid="mohammad" creationdate="20200924T121257Z">
+        <seg>"#T $game_concept_prestige_level$#!\n\n$game_concept_prestige_level_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_prison$#!\n\n$game_concept_prison_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121319Z" creationid="mohammad" creationdate="20200924T121319Z">
+        <seg>"#T $game_concept_prison$#!\n\n$game_concept_prison_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_prowess_skill$ @skill_prowess_icon!#!\n\n$game_concept_prowess_skill_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121308Z" creationid="mohammad" creationdate="20200924T121308Z">
+        <seg>"#T $game_concept_prowess_skill$ @skill_prowess_icon!#!\n\n$game_concept_prowess_skill_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_realm_priest$#!\n\n$game_concept_realm_priest_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121221Z" creationid="mohammad" creationdate="20200924T121221Z">
+        <seg>"#T $game_concept_realm_priest$#!\n\n$game_concept_realm_priest_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_realms$#!\n\n$game_concept_realm_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121238Z" creationid="mohammad" creationdate="20200924T121238Z">
+        <seg>"#T $game_concept_realms$#!\n\n$game_concept_realm_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_religion$#!\n\n$game_concept_religion_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121227Z" creationid="mohammad" creationdate="20200924T121227Z">
+        <seg>"#T $game_concept_religion$#!\n\n$game_concept_religion_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_rightful_liege$#!\n\n$game_concept_rightful_liege_desc_part1$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121157Z" creationid="mohammad" creationdate="20200924T121157Z">
+        <seg>"#T $game_concept_rightful_liege$#!\n\n$game_concept_rightful_liege_desc_part1$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_ruler$#!\n\n$game_concept_ruler_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121202Z" creationid="mohammad" creationdate="20200924T121202Z">
+        <seg>"#T $game_concept_ruler$#!\n\n$game_concept_ruler_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_schemes$#!\n\n$game_concept_scheme_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121223Z" creationid="mohammad" creationdate="20200924T121223Z">
+        <seg>"#T $game_concept_schemes$#!\n\n$game_concept_scheme_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_secrets$#!\n\n$game_concept_secret_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121225Z" creationid="mohammad" creationdate="20200924T121225Z">
+        <seg>"#T $game_concept_secrets$#!\n\n$game_concept_secret_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_seduce_schemes$#!\n\n$game_concept_seduce_scheme_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121224Z" creationid="mohammad" creationdate="20200924T121224Z">
+        <seg>"#T $game_concept_seduce_schemes$#!\n\n$game_concept_seduce_scheme_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_short_reign$#!\n\n$game_concept_short_reign_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121327Z" creationid="mohammad" creationdate="20200924T121327Z">
+        <seg>"#T $game_concept_short_reign$#!\n\n$game_concept_short_reign_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_siege_weapons$#!\n\n$game_concept_siege_weapon_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121326Z" creationid="mohammad" creationdate="20200924T121326Z">
+        <seg>"#T $game_concept_siege_weapons$#!\n\n$game_concept_siege_weapon_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_sieges$#!\n\n$game_concept_siege_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121303Z" creationid="mohammad" creationdate="20200924T121303Z">
+        <seg>"#T $game_concept_sieges$#!\n\n$game_concept_siege_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_sins$#!\n\n$game_concept_sin_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121322Z" creationid="mohammad" creationdate="20200924T121322Z">
+        <seg>"#T $game_concept_sins$#!\n\n$game_concept_sin_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_soldiers$ @soldier_icon!#!\n\n$game_concept_soldiers_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121259Z" creationid="mohammad" creationdate="20200924T121259Z">
+        <seg>"#T $game_concept_soldiers$ @soldier_icon!#!\n\n$game_concept_soldiers_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_spouse$#!\n\n$game_concept_spouse_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121243Z" creationid="mohammad" creationdate="20200924T121243Z">
+        <seg>"#T $game_concept_spouse$#!\n\n$game_concept_spouse_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_spymaster$#!\n\n$game_concept_spymaster_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121216Z" creationid="mohammad" creationdate="20200924T121216Z">
+        <seg>"#T $game_concept_spymaster$#!\n\n$game_concept_spymaster_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_steward$#!\n\n$game_concept_steward_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121208Z" creationid="mohammad" creationdate="20200924T121208Z">
+        <seg>"#T $game_concept_steward$#!\n\n$game_concept_steward_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_stewardship_skill$ @skill_stewardship_icon!#!\n\n$game_concept_stewardship_skill_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121307Z" creationid="mohammad" creationdate="20200924T121307Z">
+        <seg>"#T $game_concept_stewardship_skill$ @skill_stewardship_icon!#!\n\n$game_concept_stewardship_skill_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_stress$ @stress_icon!#!\n\n$game_concept_stress_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121301Z" creationid="mohammad" creationdate="20200924T121301Z">
+        <seg>"#T $game_concept_stress$ @stress_icon!#!\n\n$game_concept_stress_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_succession$#!\n\n$game_concept_succession_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121207Z" creationid="mohammad" creationdate="20200924T121207Z">
+        <seg>"#T $game_concept_succession$#!\n\n$game_concept_succession_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_succession_laws$#!\n\n$game_concept_succession_law_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121221Z" creationid="mohammad" creationdate="20200924T121221Z">
+        <seg>"#T $game_concept_succession_laws$#!\n\n$game_concept_succession_law_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_taxes$#!\n\n$game_concept_taxes_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121309Z" creationid="mohammad" creationdate="20200924T121309Z">
+        <seg>"#T $game_concept_taxes$#!\n\n$game_concept_taxes_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_title_allegiance$#!\n\n$game_concept_title_allegiance_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121329Z" creationid="mohammad" creationdate="20200924T121329Z">
+        <seg>"#T $game_concept_title_allegiance$#!\n\n$game_concept_title_allegiance_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_titles$#!\n\n$game_concept_title_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121202Z" creationid="mohammad" creationdate="20200924T121202Z">
+        <seg>"#T $game_concept_titles$#!\n\n$game_concept_title_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_traits$#!\n\n$game_concept_trait_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121241Z" creationid="mohammad" creationdate="20200924T121241Z">
+        <seg>"#T $game_concept_traits$#!\n\n$game_concept_trait_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_truce$#!\n\n$game_concept_truce_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121310Z" creationid="mohammad" creationdate="20200924T121310Z">
+        <seg>"#T $game_concept_truce$#!\n\n$game_concept_truce_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_tyranny$#!\n\n$game_concept_tyranny_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121319Z" creationid="mohammad" creationdate="20200924T121319Z">
+        <seg>"#T $game_concept_tyranny$#!\n\n$game_concept_tyranny_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_usurpation$#!\n\n$game_concept_usurp_title_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121321Z" creationid="mohammad" creationdate="20200924T121321Z">
+        <seg>"#T $game_concept_usurpation$#!\n\n$game_concept_usurp_title_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_vassal$#!\n\n$game_concept_vassal_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121202Z" creationid="mohammad" creationdate="20200924T121202Z">
+        <seg>"#T $game_concept_vassal$#!\n\n$game_concept_vassal_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_virtues$#!\n\n$game_concept_virtue_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121322Z" creationid="mohammad" creationdate="20200924T121322Z">
+        <seg>"#T $game_concept_virtues$#!\n\n$game_concept_virtue_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_war$#!\n\n$game_concept_war_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121301Z" creationid="mohammad" creationdate="20200924T121301Z">
+        <seg>"#T $game_concept_war$#!\n\n$game_concept_war_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_war_leaders$#!\n\n$game_concept_war_leaders_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121330Z" creationid="mohammad" creationdate="20200924T121330Z">
+        <seg>"#T $game_concept_war_leaders$#!\n\n$game_concept_war_leaders_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_wards$#!\n\n$game_concept_ward_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121306Z" creationid="mohammad" creationdate="20200924T121306Z">
+        <seg>"#T $game_concept_wards$#!\n\n$game_concept_ward_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $game_concept_white_peace$#!\n\n$game_concept_white_peace_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121302Z" creationid="mohammad" creationdate="20200924T121302Z">
+        <seg>"#T $game_concept_white_peace$#!\n\n$game_concept_white_peace_desc$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -186,6 +1162,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023638Z" creationid="mohammad" creationdate="20200922T023638Z">
         <seg>"تمرکز $stewardship_wealth_focus_short$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"'Powerful Vassals' expect a seat on your Council."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T131358Z" creationid="mohammad" creationdate="20200924T130120Z">
+        <seg>"'واسال های قدرتمند خواستار منصب در شورای حکومت شما هستند"</seg>
       </tuv>
     </tu>
     <tu>
@@ -838,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Become Greatest of Khans"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T130205Z" creationid="mohammad" creationdate="20200924T130205Z">
+        <seg>"Become Greatest of Khans"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Beekeepers"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T062547Z" creationid="Novin Pendar" creationdate="20200925T062535Z">
@@ -950,6 +1942,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Children are born with Prestige equivalent to a fraction of their parents' Dynasties' Renown."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T125000Z" creationid="mohammad" creationdate="20200924T125000Z">
+        <seg>"کودکانی که با پرستیژ یکسان متولد میشوند.باعث کسر شهرت از سلسله والدین خود میشوند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Chivalry"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T185033Z" creationid="mohammad" creationdate="20200921T185033Z">
@@ -1052,6 +2052,14 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200924T105608Z" creationid="mohammad" creationdate="20200924T105608Z">
         <seg>"Culture" #reactive advice now
  lesson_basics_religion:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Dark Insights"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T134744Z" creationid="mohammad" creationdate="20200924T134744Z">
+        <seg>"Dark Insights"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1496,6 +2504,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Form the Mongol Empire and become the Genghis Khan–the ruler of the world"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T134746Z" creationid="mohammad" creationdate="20200924T134746Z">
+        <seg>"Form the Mongol Empire and become the Genghis Khan–the ruler of the world"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Fortress"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T114056Z" creationid="Novin Pendar" creationdate="20200924T114056Z">
@@ -1740,6 +2756,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T104307Z" creationid="mohammad" creationdate="20200924T104307Z">
         <seg>"IX — عناوین"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Illegitimate bastards cannot pass your Dynasty on."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T122909Z" creationid="mohammad" creationdate="20200924T122909Z">
+        <seg>"حرامزادگان غیر مشروع نمیتوانند به سلطنت شما پایان دهند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"In a matrilineal marriage, children are born to their mother's Dynasty."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T140927Z" creationid="mohammad" creationdate="20200924T123733Z">
+        <seg>"در یک ازدواج زن سالارانه بچه ها به خاندان مادر خود منتسب هستند."</seg>
       </tuv>
     </tu>
     <tu>
@@ -2399,6 +3431,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T225203Z" creationid="mohammad" creationdate="20200924T225203Z">
         <seg>"مومن "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Right-Click on Character Portraits to interact with them!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121709Z" creationid="mohammad" creationdate="20200924T121709Z">
+        <seg>"برای برقراری ارتباط با شخصیت ها روی تصویر شخصیت کلیک راست کنید"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3227,6 +4267,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"You can hover over icons and highlighted text in Tooltips for even more information!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T122455Z" creationid="mohammad" creationdate="20200924T122137Z">
+        <seg>"برای اطلاعات بیشتر نشانگر موس را بر روی ایکون ها و متن های برجسته حرکت دهید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"You need a reason to declare war. Choose your Casus Belli wisely."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T124228Z" creationid="mohammad" creationdate="20200924T123330Z">
+        <seg>"شما برای اعلان جنگ به دلیل نیاز دارید.پس دلیل خود را هوشمندانه انتخاب کنید."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Your 'Domain' is the land you personally own. There is a limit to how much you can hold, so you need to rely on Vassals to expand further."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T140908Z" creationid="mohammad" creationdate="20200924T125150Z">
+        <seg>"ملک شما زمینی است که شما خودتان بر ان حکم میرانید.محدودیتی برای میزان نگهداری توسط شما وجود دارد.برای گسترش بیشتر باید به خراجگزار های های خود تکیه کنید."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Your 'Realm' consists of both your own land and that of your Vassals."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T131422Z" creationid="mohammad" creationdate="20200924T125821Z">
+        <seg>"قلمرو شما متشکل از زمین های خود و واسال هایتان است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[GetFocus('diplomacy_family_focus').GetName]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183718Z" creationid="mohammad" creationdate="20200921T183718Z">
@@ -3343,6 +4415,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023737Z" creationid="mohammad" creationdate="20200922T023737Z">
         <seg>"[GetFocus('stewardship_wealth_focus').GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[SelectLocalization(FeedMessageItem.IsExpanded,'MESSAGE_CLICK_TO_HIDE','MESSAGE_CLICK_TO_HIDE')]\n$MESSAGE_CLICK_TO_DISMISS$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T192525Z" creationid="mohammad" creationdate="20200924T192525Z">
+        <seg>"[SelectLocalization(FeedMessageItem.IsExpanded,'MESSAGE_CLICK_TO_HIDE','MESSAGE_CLICK_TO_HIDE')]\n$MESSAGE_CLICK_TO_DISMISS$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3523,6 +4603,78 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>#LOADING_TIP_0:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121335Z" creationid="mohammad" creationdate="20200924T121335Z">
+        <seg>#LOADING_TIP_0:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#LOADING_TIP_1:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121714Z" creationid="mohammad" creationdate="20200924T121714Z">
+        <seg>#LOADING_TIP_1:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#LOADING_TIP_2:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T122151Z" creationid="mohammad" creationdate="20200924T122151Z">
+        <seg>#LOADING_TIP_2:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#LOADING_TIP_3:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T122914Z" creationid="mohammad" creationdate="20200924T122914Z">
+        <seg>#LOADING_TIP_3:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#LOADING_TIP_4:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T123445Z" creationid="mohammad" creationdate="20200924T123445Z">
+        <seg>#LOADING_TIP_4:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#LOADING_TIP_5:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T123734Z" creationid="mohammad" creationdate="20200924T123734Z">
+        <seg>#LOADING_TIP_5:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#LOADING_TIP_6:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T125001Z" creationid="mohammad" creationdate="20200924T125001Z">
+        <seg>#LOADING_TIP_6:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#LOADING_TIP_7:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T125621Z" creationid="mohammad" creationdate="20200924T125621Z">
+        <seg>#LOADING_TIP_7:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#LOADING_TIP_8:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T125924Z" creationid="mohammad" creationdate="20200924T125924Z">
+        <seg>#LOADING_TIP_8:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>#Learning
  learning_lifestyle_name:0</seg>
       </tuv>
@@ -3661,6 +4813,966 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T074918Z" creationid="mohammad" creationdate="20200924T074918Z">
         <seg>LIFESTYLE_FOCUS_VIEW_TITLE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_100:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121323Z" creationid="mohammad" creationdate="20200924T121323Z">
+        <seg>LOADING_TIP_100:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_101:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121324Z" creationid="mohammad" creationdate="20200924T121324Z">
+        <seg>LOADING_TIP_101:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_102:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121324Z" creationid="mohammad" creationdate="20200924T121324Z">
+        <seg>LOADING_TIP_102:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_103:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121324Z" creationid="mohammad" creationdate="20200924T121324Z">
+        <seg>LOADING_TIP_103:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_104:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121325Z" creationid="mohammad" creationdate="20200924T121325Z">
+        <seg>LOADING_TIP_104:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_105:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121325Z" creationid="mohammad" creationdate="20200924T121325Z">
+        <seg>LOADING_TIP_105:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_106:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121326Z" creationid="mohammad" creationdate="20200924T121326Z">
+        <seg>LOADING_TIP_106:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_107:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121326Z" creationid="mohammad" creationdate="20200924T121326Z">
+        <seg>LOADING_TIP_107:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_108:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121326Z" creationid="mohammad" creationdate="20200924T121326Z">
+        <seg>LOADING_TIP_108:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_109:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121327Z" creationid="mohammad" creationdate="20200924T121327Z">
+        <seg>LOADING_TIP_109:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_10:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121204Z" creationid="mohammad" creationdate="20200924T121204Z">
+        <seg>LOADING_TIP_10:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_110:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121327Z" creationid="mohammad" creationdate="20200924T121327Z">
+        <seg>LOADING_TIP_110:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_111:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121328Z" creationid="mohammad" creationdate="20200924T121328Z">
+        <seg>LOADING_TIP_111:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_112:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121328Z" creationid="mohammad" creationdate="20200924T121328Z">
+        <seg>LOADING_TIP_112:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_113:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121328Z" creationid="mohammad" creationdate="20200924T121328Z">
+        <seg>LOADING_TIP_113:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_114:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121329Z" creationid="mohammad" creationdate="20200924T121329Z">
+        <seg>LOADING_TIP_114:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_115:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121329Z" creationid="mohammad" creationdate="20200924T121329Z">
+        <seg>LOADING_TIP_115:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_116:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121330Z" creationid="mohammad" creationdate="20200924T121330Z">
+        <seg>LOADING_TIP_116:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_117:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121332Z" creationid="mohammad" creationdate="20200924T121332Z">
+        <seg>LOADING_TIP_117:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_118:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121333Z" creationid="mohammad" creationdate="20200924T121333Z">
+        <seg>LOADING_TIP_118:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_11:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121204Z" creationid="mohammad" creationdate="20200924T121204Z">
+        <seg>LOADING_TIP_11:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_12:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121206Z" creationid="mohammad" creationdate="20200924T121206Z">
+        <seg>LOADING_TIP_12:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_13:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121207Z" creationid="mohammad" creationdate="20200924T121207Z">
+        <seg>LOADING_TIP_13:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_14:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121207Z" creationid="mohammad" creationdate="20200924T121207Z">
+        <seg>LOADING_TIP_14:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_15:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121207Z" creationid="mohammad" creationdate="20200924T121207Z">
+        <seg>LOADING_TIP_15:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_16:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121215Z" creationid="mohammad" creationdate="20200924T121215Z">
+        <seg>LOADING_TIP_16:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_17:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121216Z" creationid="mohammad" creationdate="20200924T121216Z">
+        <seg>LOADING_TIP_17:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_18:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121216Z" creationid="mohammad" creationdate="20200924T121216Z">
+        <seg>LOADING_TIP_18:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_19:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121219Z" creationid="mohammad" creationdate="20200924T121219Z">
+        <seg>LOADING_TIP_19:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_1:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121159Z" creationid="mohammad" creationdate="20200924T121159Z">
+        <seg>LOADING_TIP_1:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_20:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121221Z" creationid="mohammad" creationdate="20200924T121221Z">
+        <seg>LOADING_TIP_20:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_21:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121222Z" creationid="mohammad" creationdate="20200924T121222Z">
+        <seg>LOADING_TIP_21:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_22:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121222Z" creationid="mohammad" creationdate="20200924T121222Z">
+        <seg>LOADING_TIP_22:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_23:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121223Z" creationid="mohammad" creationdate="20200924T121223Z">
+        <seg>LOADING_TIP_23:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_24:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121223Z" creationid="mohammad" creationdate="20200924T121223Z">
+        <seg>LOADING_TIP_24:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_25:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121224Z" creationid="mohammad" creationdate="20200924T121224Z">
+        <seg>LOADING_TIP_25:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_26:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121224Z" creationid="mohammad" creationdate="20200924T121224Z">
+        <seg>LOADING_TIP_26:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_27:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121224Z" creationid="mohammad" creationdate="20200924T121224Z">
+        <seg>LOADING_TIP_27:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_28:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121225Z" creationid="mohammad" creationdate="20200924T121225Z">
+        <seg>LOADING_TIP_28:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_29:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121226Z" creationid="mohammad" creationdate="20200924T121226Z">
+        <seg>LOADING_TIP_29:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_2:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121200Z" creationid="mohammad" creationdate="20200924T121200Z">
+        <seg>LOADING_TIP_2:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_30:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121227Z" creationid="mohammad" creationdate="20200924T121227Z">
+        <seg>LOADING_TIP_30:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_31:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121227Z" creationid="mohammad" creationdate="20200924T121227Z">
+        <seg>LOADING_TIP_31:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_32:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121228Z" creationid="mohammad" creationdate="20200924T121228Z">
+        <seg>LOADING_TIP_32:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_33:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121228Z" creationid="mohammad" creationdate="20200924T121228Z">
+        <seg>LOADING_TIP_33:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_34:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121229Z" creationid="mohammad" creationdate="20200924T121229Z">
+        <seg>LOADING_TIP_34:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_35:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121239Z" creationid="mohammad" creationdate="20200924T121239Z">
+        <seg>LOADING_TIP_35:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_36:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121240Z" creationid="mohammad" creationdate="20200924T121240Z">
+        <seg>LOADING_TIP_36:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_37:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121241Z" creationid="mohammad" creationdate="20200924T121241Z">
+        <seg>LOADING_TIP_37:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_38:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121243Z" creationid="mohammad" creationdate="20200924T121243Z">
+        <seg>LOADING_TIP_38:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_39:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121250Z" creationid="mohammad" creationdate="20200924T121250Z">
+        <seg>LOADING_TIP_39:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_3:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121201Z" creationid="mohammad" creationdate="20200924T121201Z">
+        <seg>LOADING_TIP_3:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_40:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121252Z" creationid="mohammad" creationdate="20200924T121252Z">
+        <seg>LOADING_TIP_40:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_41:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121256Z" creationid="mohammad" creationdate="20200924T121256Z">
+        <seg>LOADING_TIP_41:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_42:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121256Z" creationid="mohammad" creationdate="20200924T121256Z">
+        <seg>LOADING_TIP_42:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_43:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121257Z" creationid="mohammad" creationdate="20200924T121257Z">
+        <seg>LOADING_TIP_43:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_44:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121257Z" creationid="mohammad" creationdate="20200924T121257Z">
+        <seg>LOADING_TIP_44:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_45:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121257Z" creationid="mohammad" creationdate="20200924T121257Z">
+        <seg>LOADING_TIP_45:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_46:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121258Z" creationid="mohammad" creationdate="20200924T121258Z">
+        <seg>LOADING_TIP_46:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_47:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121258Z" creationid="mohammad" creationdate="20200924T121258Z">
+        <seg>LOADING_TIP_47:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_48:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121259Z" creationid="mohammad" creationdate="20200924T121259Z">
+        <seg>LOADING_TIP_48:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_49:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121259Z" creationid="mohammad" creationdate="20200924T121259Z">
+        <seg>LOADING_TIP_49:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_4:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121202Z" creationid="mohammad" creationdate="20200924T121202Z">
+        <seg>LOADING_TIP_4:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_50:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121259Z" creationid="mohammad" creationdate="20200924T121259Z">
+        <seg>LOADING_TIP_50:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_51:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121300Z" creationid="mohammad" creationdate="20200924T121300Z">
+        <seg>LOADING_TIP_51:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_52:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121300Z" creationid="mohammad" creationdate="20200924T121300Z">
+        <seg>LOADING_TIP_52:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_53:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121301Z" creationid="mohammad" creationdate="20200924T121301Z">
+        <seg>LOADING_TIP_53:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_54:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121301Z" creationid="mohammad" creationdate="20200924T121301Z">
+        <seg>LOADING_TIP_54:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_55:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121301Z" creationid="mohammad" creationdate="20200924T121301Z">
+        <seg>LOADING_TIP_55:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_56:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121302Z" creationid="mohammad" creationdate="20200924T121302Z">
+        <seg>LOADING_TIP_56:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_57:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121302Z" creationid="mohammad" creationdate="20200924T121302Z">
+        <seg>LOADING_TIP_57:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_58:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121303Z" creationid="mohammad" creationdate="20200924T121303Z">
+        <seg>LOADING_TIP_58:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_59:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121303Z" creationid="mohammad" creationdate="20200924T121303Z">
+        <seg>LOADING_TIP_59:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_5:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121202Z" creationid="mohammad" creationdate="20200924T121202Z">
+        <seg>LOADING_TIP_5:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_60:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121304Z" creationid="mohammad" creationdate="20200924T121304Z">
+        <seg>LOADING_TIP_60:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_61:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121304Z" creationid="mohammad" creationdate="20200924T121304Z">
+        <seg>LOADING_TIP_61:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_62:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121304Z" creationid="mohammad" creationdate="20200924T121304Z">
+        <seg>LOADING_TIP_62:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_63:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121305Z" creationid="mohammad" creationdate="20200924T121305Z">
+        <seg>LOADING_TIP_63:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_64:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121305Z" creationid="mohammad" creationdate="20200924T121305Z">
+        <seg>LOADING_TIP_64:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_65:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121306Z" creationid="mohammad" creationdate="20200924T121306Z">
+        <seg>LOADING_TIP_65:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_66:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121306Z" creationid="mohammad" creationdate="20200924T121306Z">
+        <seg>LOADING_TIP_66:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_67:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121306Z" creationid="mohammad" creationdate="20200924T121306Z">
+        <seg>LOADING_TIP_67:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_68:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121307Z" creationid="mohammad" creationdate="20200924T121307Z">
+        <seg>LOADING_TIP_68:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_69:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121307Z" creationid="mohammad" creationdate="20200924T121307Z">
+        <seg>LOADING_TIP_69:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_6:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121202Z" creationid="mohammad" creationdate="20200924T121202Z">
+        <seg>LOADING_TIP_6:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_71:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121308Z" creationid="mohammad" creationdate="20200924T121308Z">
+        <seg>LOADING_TIP_71:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_72:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121308Z" creationid="mohammad" creationdate="20200924T121308Z">
+        <seg>LOADING_TIP_72:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_73:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121308Z" creationid="mohammad" creationdate="20200924T121308Z">
+        <seg>LOADING_TIP_73:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_74:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121309Z" creationid="mohammad" creationdate="20200924T121309Z">
+        <seg>LOADING_TIP_74:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_75:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121309Z" creationid="mohammad" creationdate="20200924T121309Z">
+        <seg>LOADING_TIP_75:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_76:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121310Z" creationid="mohammad" creationdate="20200924T121310Z">
+        <seg>LOADING_TIP_76:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_77:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121310Z" creationid="mohammad" creationdate="20200924T121310Z">
+        <seg>LOADING_TIP_77:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_78:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121311Z" creationid="mohammad" creationdate="20200924T121311Z">
+        <seg>LOADING_TIP_78:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_79:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121311Z" creationid="mohammad" creationdate="20200924T121311Z">
+        <seg>LOADING_TIP_79:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_7:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121203Z" creationid="mohammad" creationdate="20200924T121203Z">
+        <seg>LOADING_TIP_7:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_80:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121311Z" creationid="mohammad" creationdate="20200924T121311Z">
+        <seg>LOADING_TIP_80:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_81:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121311Z" creationid="mohammad" creationdate="20200924T121311Z">
+        <seg>LOADING_TIP_81:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_82:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121311Z" creationid="mohammad" creationdate="20200924T121311Z">
+        <seg>LOADING_TIP_82:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_83:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121312Z" creationid="mohammad" creationdate="20200924T121312Z">
+        <seg>LOADING_TIP_83:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_84:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121312Z" creationid="mohammad" creationdate="20200924T121312Z">
+        <seg>LOADING_TIP_84:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_85:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121317Z" creationid="mohammad" creationdate="20200924T121317Z">
+        <seg>LOADING_TIP_85:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_86:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121318Z" creationid="mohammad" creationdate="20200924T121318Z">
+        <seg>LOADING_TIP_86:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_87:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121318Z" creationid="mohammad" creationdate="20200924T121318Z">
+        <seg>LOADING_TIP_87:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_88:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121318Z" creationid="mohammad" creationdate="20200924T121318Z">
+        <seg>LOADING_TIP_88:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_89:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121319Z" creationid="mohammad" creationdate="20200924T121319Z">
+        <seg>LOADING_TIP_89:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_8:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121203Z" creationid="mohammad" creationdate="20200924T121203Z">
+        <seg>LOADING_TIP_8:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_90:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121319Z" creationid="mohammad" creationdate="20200924T121319Z">
+        <seg>LOADING_TIP_90:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_91:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121320Z" creationid="mohammad" creationdate="20200924T121320Z">
+        <seg>LOADING_TIP_91:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_92:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121320Z" creationid="mohammad" creationdate="20200924T121320Z">
+        <seg>LOADING_TIP_92:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_93:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121320Z" creationid="mohammad" creationdate="20200924T121320Z">
+        <seg>LOADING_TIP_93:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_94:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121321Z" creationid="mohammad" creationdate="20200924T121321Z">
+        <seg>LOADING_TIP_94:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_95:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121321Z" creationid="mohammad" creationdate="20200924T121321Z">
+        <seg>LOADING_TIP_95:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_96:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121322Z" creationid="mohammad" creationdate="20200924T121322Z">
+        <seg>LOADING_TIP_96:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_97:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121322Z" creationid="mohammad" creationdate="20200924T121322Z">
+        <seg>LOADING_TIP_97:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_98:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121322Z" creationid="mohammad" creationdate="20200924T121322Z">
+        <seg>LOADING_TIP_98:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_99:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121323Z" creationid="mohammad" creationdate="20200924T121323Z">
+        <seg>LOADING_TIP_99:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_TIP_9:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T121204Z" creationid="mohammad" creationdate="20200924T121204Z">
+        <seg>LOADING_TIP_9:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MESSAGE_CLICK_TO_DISMISS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T192605Z" creationid="mohammad" creationdate="20200924T192605Z">
+        <seg>MESSAGE_CLICK_TO_DISMISS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MESSAGE_CLICK_TO_HIDE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T192530Z" creationid="mohammad" creationdate="20200924T192530Z">
+        <seg>MESSAGE_CLICK_TO_HIDE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MESSAGE_CLICK_TO_SHOW:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T192549Z" creationid="mohammad" creationdate="20200924T192549Z">
+        <seg>MESSAGE_CLICK_TO_SHOW:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -3805,6 +5917,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184940Z" creationid="mohammad" creationdate="20200921T184940Z">
         <seg>authority_name:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>become_greatest_of_khans_decision_confirm:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T134756Z" creationid="mohammad" creationdate="20200924T134756Z">
+        <seg>become_greatest_of_khans_decision_confirm:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>become_greatest_of_khans_decision_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T130206Z" creationid="mohammad" creationdate="20200924T130206Z">
+        <seg>become_greatest_of_khans_decision_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>become_greatest_of_khans_decision_tooltip:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T130215Z" creationid="mohammad" creationdate="20200924T130215Z">
+        <seg>become_greatest_of_khans_decision_tooltip:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -4615,6 +6751,16 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200924T180350Z" creationid="mohammad" creationdate="20200924T180350Z">
         <seg>l_english:
  belittled_my_enemy:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
+ building_type_castle_01:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200924T132148Z" creationid="mohammad" creationdate="20200924T132148Z">
+        <seg>l_english:
+ building_type_castle_01:0</seg>
       </tuv>
     </tu>
     <tu>
