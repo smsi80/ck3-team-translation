@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"A large, neatly spaced out area full of well-pruned trees, all bearing fruit or nuts."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T062525Z" creationid="Novin Pendar" creationdate="20200925T062525Z">
+        <seg>"فضایی بزرگ و تمیز، پر از درختان هرس شده حامل میوه و دانه."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"A revolutionary new means of docking ships has arrived in the form of the drydock. The ship is sailed into a narrow passage, where the water is pumped out. The ship is then suspended on blocks of stone, and can then be repaired and maintained with ease."</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T130520Z" creationid="Novin Pendar" creationdate="20200924T130520Z">
@@ -798,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Beekeepers"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T062547Z" creationid="Novin Pendar" creationdate="20200925T062535Z">
+        <seg>"زنبور داری"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Berry Groves"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054644Z" creationid="Novin Pendar" creationdate="20200925T054644Z">
@@ -826,6 +842,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T122023Z" creationid="Novin Pendar" creationdate="20200924T122023Z">
         <seg>"کلان شهر شلوغ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"By interspersing apiaries among the trees there is not only a yield of honey, but the entire orchard seems to become more fertile."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T062740Z" creationid="Novin Pendar" creationdate="20200925T062551Z">
+        <seg>"با پخش شدن کندو های عسل بین درختان، حالا نه تنها فقط محصولی از عسل تولید میشود، بلکه کل باغ پربار تر شده."</seg>
       </tuv>
     </tu>
     <tu>
@@ -1444,6 +1468,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054518Z" creationid="Novin Pendar" creationdate="20200925T054518Z">
         <seg>"باغ میوه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Fruit Tree Plantations"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T062436Z" creationid="Novin Pendar" creationdate="20200925T062436Z">
+        <seg>"پلانتشین درخت میوه"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3637,6 +3669,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184940Z" creationid="mohammad" creationdate="20200921T184940Z">
         <seg>authority_name:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>building_orchards_05:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T062552Z" creationid="Novin Pendar" creationdate="20200925T062552Z">
+        <seg>سbuilding_orchards_05:1</seg>
       </tuv>
     </tu>
     <tu>
