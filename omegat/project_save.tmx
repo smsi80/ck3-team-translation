@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -58,6 +58,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T125925Z" creationid="Novin Pendar" creationdate="20200925T125925Z">
         <seg>"#F اگستین، مبلغ رمی و اسقف اعظم، کلیسای کنتربوری را پس از انتخاب این شهر به عنوان مرکز مکتب اسقفی خود در ایالت کنت ساخت. این کلیسا اهمیتی دوباره به شهر بخشید و ریاست بر کلیسای انگلیسی را به آن داد.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#F Cracking open the casks and inviting guests of honor is not only a duty, but an opportunity to reaffirm bonds of loyalty, and often a great pleasure!#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T202350Z" creationid="BIG GAMER" creationdate="20200925T202350Z">
+        <seg>باز کردن بشکه شراب و دعوت مهمانان گران قدر نه تنها یک وظیفه است بلکه یک فرصت است برای تجدید عهد وفاداری،و معمولا یک لذت بزرگ است</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +226,30 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T113434Z" creationid="mahan" creationdate="20200924T113434Z">
         <seg>"#N ناموجود#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#N You will not lose [stress|E] since you are [GetTrait('lazy').GetName( GetPlayer )]#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T201453Z" creationid="BIG GAMER" creationdate="20200925T201453Z">
+        <seg>شما نمیتوانید اظطرابطان را کاهش دهید از انجا که شما صفت تمبل دارید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#N You will not lose [stress|E] since you are [GetTrait('shy').GetName( GetPlayer )]#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T202811Z" creationid="BIG GAMER" creationdate="20200925T202811Z">
+        <seg>از انجایی که شمه خجالتی هستید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#P    Reduce your [stress|E]#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T201145Z" creationid="BIG GAMER" creationdate="20200925T201145Z">
+        <seg>کاهش اظطراب"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2208,6 +2240,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"A [feast|E] will be held"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T201714Z" creationid="BIG GAMER" creationdate="20200925T201714Z">
+        <seg>یک ضیافت برگزار خواهد شد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"A [hunt|E] will be held"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T200049Z" creationid="BIG GAMER" creationdate="20200925T200049Z">
@@ -2220,6 +2260,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030421Z" creationid="mohammad" creationdate="20200922T030421Z">
         <seg>"کودکان کوچکتر از $AGE$ نمی توانند یک [education_focus|E] داشته باشند.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"A court physician is essential to care for the sick and wounded at my court. I will ask my servants to bring forth a number of suitable candidates."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T203737Z" creationid="BIG GAMER" creationdate="20200925T203737Z">
+        <seg>طبیب سلطنطی برای مراقبت بیماران و زغمی ها ضروری است،من از خادمانم خواهم خواست نامزد های منسب را پیشنهاد دهند</seg>
       </tuv>
     </tu>
     <tu>
@@ -2244,6 +2292,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T130520Z" creationid="Novin Pendar" creationdate="20200924T130520Z">
         <seg>"روشی انقلابی و تازه در پهلو دادن کشتی ها در شکل بندر خشک. کشتی داخل گذرگاهی تنگ قرار گرفته و آب آن تخلیه میشود. کشتی سپس به طور معلق بر روی بلوک های سنگی قرار گرفته، حال میتوان آن را تعمیر کرد یا به راحتی نگه داری کرد." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"A successful Hunt will:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T200913Z" creationid="BIG GAMER" creationdate="20200925T200913Z">
+        <seg>یک  شکار موفق</seg>
       </tuv>
     </tu>
     <tu>
@@ -4426,6 +4482,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Host Feast"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T201632Z" creationid="BIG GAMER" creationdate="20200925T201632Z">
+        <seg>ضیافت بر گزار کنید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Hostile Schemes can be used against players and their families."</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T105036Z" creationid="mahan" creationdate="20200925T105036Z">
@@ -5046,6 +5110,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184344Z" creationid="mohammad" creationdate="20200921T184119Z">
         <seg>"نظامی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"May increase your liege's [opinion|E] of you"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T203009Z" creationid="BIG GAMER" creationdate="20200925T203009Z">
+        <seg>احتمال دارد نظر سرورتان را افزایش دهد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"May increase your vassals' [opinion|E] of you"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T202715Z" creationid="BIG GAMER" creationdate="20200925T202715Z">
+        <seg>ممکن است نظر رعایایتان در مورد شما افزایش دهد</seg>
       </tuv>
     </tu>
     <tu>
@@ -5909,6 +5989,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Search for Physician"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T203113Z" creationid="BIG GAMER" creationdate="20200925T203113Z">
+        <seg>دنبال طبیب بگرد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Seducer"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T222601Z" creationid="mohammad" creationdate="20200921T222601Z">
@@ -5929,6 +6017,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223233Z" creationid="BIG GAMER" creationdate="20200924T223233Z">
         <seg>جذاب</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Send the invitations"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T203040Z" creationid="BIG GAMER" creationdate="20200925T203040Z">
+        <seg>دعوت ها را بفرستید</seg>
       </tuv>
     </tu>
     <tu>
@@ -6113,6 +6209,14 @@
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T172513Z" creationid="Alireza" creationdate="20200925T172513Z">
         <seg>"گاهی اوقات شما متن های آبی می بینید [highlighted_text|E] مثل این. این بدان معنی است که شما می توانید نشانگر موس را برای اطلاعات بیشتر روی کلمات قرار دهید.\n\n#TUT برخی از این کلمات می توانند شما را به کلمات برجسته دیگری که اطلاعات بیشتری را به شما نشان می دهند راهنمایی کنند. [duchy|E] می تواند به [county|E] منجر شود، که در نهایت به [barony|E] تبدیل می شود.#!\n"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Sound the horn!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T201556Z" creationid="BIG GAMER" creationdate="20200925T201556Z">
+        <seg>شیپور را به صدا در بیاورید</seg>
       </tuv>
     </tu>
     <tu>
@@ -7509,6 +7613,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"You may get opportunities to increase your [prestige|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T201042Z" creationid="BIG GAMER" creationdate="20200925T201042Z">
+        <seg>شما فرصت های بسیاری دریافت میکنید که وجه خود افزایش دهید</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"You need a reason to declare war. Choose your Casus Belli wisely."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T124228Z" creationid="mohammad" creationdate="20200924T123330Z">
@@ -7645,6 +7757,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Your [stress|E] may reduce"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T202907Z" creationid="BIG GAMER" creationdate="20200925T202907Z">
+        <seg>ممکن است کاهش یابد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Your new [faith|E] dictates that you may no longer be betrothed to [LEFT_CHARACTER.GetShortUIName]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T154159Z" creationid="mohammad" creationdate="20200925T154159Z">
@@ -7673,6 +7793,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T070132Z" creationid="mohammad" creationdate="20200925T070132Z">
         <seg>"بچه تازه به دنیا امده شما [GetPlayer.Custom2('RelationToMeShort', LEFT_CHARACTER.Self )] جدید شماست [heir|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Your servants will suggest a number of suitable candidates for the position of [court_physician|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T203302Z" creationid="BIG GAMER" creationdate="20200925T203302Z">
+        <seg>خادمانتان تعدادی از کاندیدای مناسب را پیشنهاد میدند</seg>
       </tuv>
     </tu>
     <tu>
