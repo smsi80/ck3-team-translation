@@ -2344,6 +2344,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Enemies Left War"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074008Z" creationid="mohammad" creationdate="20200925T074008Z">
+        <seg>"دشمنان جنگ را رها کردند"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Enemy Allies Join War"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T073251Z" creationid="mohammad" creationdate="20200925T073251Z">
@@ -3947,6 +3955,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Task Aborted"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074101Z" creationid="mohammad" creationdate="20200925T074101Z">
+        <seg>"کار متوقف شد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Task Finished"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T072518Z" creationid="mohammad" creationdate="20200925T072518Z">
@@ -4611,6 +4627,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"You Left War"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074032Z" creationid="mohammad" creationdate="20200925T074032Z">
+        <seg>"شما جنگ را ترک کردید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"You are a medieval ruler! Land is yours for the taking, through clever marriages and diplomacy, or by way of the sword...\n\n#TUT There is no one way to 'win' in Crusader Kings, only different ways to enjoy the story that unfolds.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200924T131601Z" creationid="Alireza" creationdate="20200924T131601Z">
@@ -4663,6 +4687,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T070354Z" creationid="mohammad" creationdate="20200925T070354Z">
         <seg>"شما به ارث بردید [LEFT_TITLE.GetName] از [CHARACTER.GetUINameNoTooltip] ($LAW$)"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"You left [WAR.GetName|V]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074043Z" creationid="mohammad" creationdate="20200925T074043Z">
+        <seg>"شما ترک کردید [WAR.GetName|V]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4935,6 +4967,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T072052Z" creationid="mohammad" creationdate="20200925T072052Z">
         <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] و [RIGHT_CHARACTER.GetUINameNoTooltip] ملحق شد به [scheme|E] به [SCHEME.GetFullActionName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] can no longer continue with [ACTIVE_COUNCIL_TASK.GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074122Z" creationid="mohammad" creationdate="20200925T074122Z">
+        <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] دیگر نمیتواند ادامه دهد با [ACTIVE_COUNCIL_TASK.GetName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8445,6 +8485,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_invalidation_of_council_task:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074045Z" creationid="mohammad" creationdate="20200925T074045Z">
+        <seg>msg_invalidation_of_council_task:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_invalidation_of_council_task_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074102Z" creationid="mohammad" creationdate="20200925T074102Z">
+        <seg>msg_invalidation_of_council_task_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_lost_single_title:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071020Z" creationid="mohammad" creationdate="20200925T071020Z">
@@ -8669,6 +8725,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_troops_disbanding_civil_war:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074124Z" creationid="mohammad" creationdate="20200925T074124Z">
+        <seg>msg_troops_disbanding_civil_war:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_war_ally_joined:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T073057Z" creationid="mohammad" creationdate="20200925T073057Z">
@@ -8781,6 +8845,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_war_enemy_removed:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T073954Z" creationid="mohammad" creationdate="20200925T073954Z">
+        <seg>msg_war_enemy_removed:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_war_enemy_removed_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074009Z" creationid="mohammad" creationdate="20200925T074009Z">
+        <seg>msg_war_enemy_removed_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_war_enemy_removed_multiple:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074011Z" creationid="mohammad" creationdate="20200925T074011Z">
+        <seg>msg_war_enemy_removed_multiple:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_war_enemy_removed_multiple_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074012Z" creationid="mohammad" creationdate="20200925T074012Z">
+        <seg>msg_war_enemy_removed_multiple_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_war_enemy_replaced:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T073733Z" creationid="mohammad" creationdate="20200925T073733Z">
@@ -8825,6 +8921,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T073334Z" creationid="mohammad" creationdate="20200925T073334Z">
         <seg>msg_war_player_joined_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_war_player_removed:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074015Z" creationid="mohammad" creationdate="20200925T074015Z">
+        <seg>msg_war_player_removed:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_war_player_removed_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074033Z" creationid="mohammad" creationdate="20200925T074033Z">
+        <seg>msg_war_player_removed_desc:1</seg>
       </tuv>
     </tu>
     <tu>
@@ -9372,5 +9484,16 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">messages_l_english.yml</prop>
+      <prop type="prev">msg_troops_disbanding_civil_war:0</prop>
+      <prop type="next">msg_troops_disbanding_civil_war_desc:0</prop>
+      <tuv lang="en">
+        <seg>"Desertion"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074331Z" creationid="mohammad" creationdate="20200925T074331Z">
+        <seg>"ترک خدمت"</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
