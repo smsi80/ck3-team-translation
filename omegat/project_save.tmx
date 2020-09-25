@@ -3979,6 +3979,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Title Lost"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071033Z" creationid="mohammad" creationdate="20200925T071033Z">
+        <seg>"عنوان از دست رفت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Titles Lost"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071103Z" creationid="mohammad" creationdate="20200925T071103Z">
+        <seg>"عنائین از دست رفته"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"To rule is to make all the aspects of a realm move in unison and work together."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184932Z" creationid="mohammad" creationdate="20200921T184932Z">
@@ -4031,6 +4047,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T172318Z" creationid="mohammad" creationdate="20200924T172155Z">
         <seg>"خودآموز"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Under Siege"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071144Z" creationid="mohammad" creationdate="20200925T071144Z">
+        <seg>"تحت محاصره"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4355,6 +4379,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"You lost the [LEFT_TITLE.GetName] and $VALUE$ other titles to [CHARACTER.GetUINameNoTooltip]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071135Z" creationid="mohammad" creationdate="20200925T071135Z">
+        <seg>"شما از دست دادید [LEFT_TITLE.GetName] و $VALUE$ و مقام های دیگر [CHARACTER.GetUINameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"You lost the [LEFT_TITLE.GetName] to [CHARACTER.GetUINameNoTooltip]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071049Z" creationid="mohammad" creationdate="20200925T071049Z">
+        <seg>"شما از دست دادید [LEFT_TITLE.GetName] به [CHARACTER.GetUINameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"You need a reason to declare war. Choose your Casus Belli wisely."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T124228Z" creationid="mohammad" creationdate="20200924T123330Z">
@@ -4543,6 +4583,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065615Z" creationid="mohammad" creationdate="20200925T065615Z">
         <seg>"[MessageFeedHandler.GetNumberOfQueuedMessages] پیام های بیشتر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[PROVINCE.GetName] is under [siege|E]!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071159Z" creationid="mohammad" creationdate="20200925T071159Z">
+        <seg>"[PROVINCE.GetName] تحت  [siege|E]!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7757,6 +7805,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_lost_single_title:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071020Z" creationid="mohammad" creationdate="20200925T071020Z">
+        <seg>msg_lost_single_title:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_lost_single_title_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071033Z" creationid="mohammad" creationdate="20200925T071033Z">
+        <seg>msg_lost_single_title_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_lost_titles:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071051Z" creationid="mohammad" creationdate="20200925T071051Z">
+        <seg>msg_lost_titles:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_lost_titles_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071106Z" creationid="mohammad" creationdate="20200925T071106Z">
+        <seg>msg_lost_titles_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_marriage:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065626Z" creationid="mohammad" creationdate="20200925T065626Z">
@@ -7849,6 +7929,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T070247Z" creationid="mohammad" creationdate="20200925T070247Z">
         <seg>msg_no_new_heir_old_heir_dead_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_siege_started:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071136Z" creationid="mohammad" creationdate="20200925T071136Z">
+        <seg>msg_siege_started:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_siege_started_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071144Z" creationid="mohammad" creationdate="20200925T071144Z">
+        <seg>msg_siege_started_desc:0</seg>
       </tuv>
     </tu>
     <tu>
