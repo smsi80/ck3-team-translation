@@ -3520,6 +3520,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"New Faction Leader"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080556Z" creationid="mohammad" creationdate="20200925T080556Z">
+        <seg>"رهبر جناح جدید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"New Heir"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065956Z" creationid="mohammad" creationdate="20200925T065956Z">
@@ -5247,6 +5255,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023737Z" creationid="mohammad" creationdate="20200922T023737Z">
         <seg>"[GetFocus('stewardship_wealth_focus').GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[LAW.GetName] is no longer valid, and was replaced by [TARGET_LAW.GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080537Z" creationid="mohammad" creationdate="20200925T080537Z">
+        <seg>"[LAW.GetName] دیگر معتبر نیست, و توسط جایگزین شد [TARGET_LAW.GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[LEFT_CHARACTER.GetShortUINameNoTooltip] has replaced you as the leader of [FACTION.GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080608Z" creationid="mohammad" creationdate="20200925T080608Z">
+        <seg>"[LEFT_CHARACTER.GetShortUINameNoTooltip] has replaced you as the leader of [FACTION.GetName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8877,6 +8901,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_faction_local_not_leader_anymore:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080537Z" creationid="mohammad" creationdate="20200925T080537Z">
+        <seg>msg_faction_local_not_leader_anymore:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_faction_local_not_leader_anymore_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080558Z" creationid="mohammad" creationdate="20200925T080558Z">
+        <seg>msg_faction_local_not_leader_anymore_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_gain_nickname:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T074725Z" creationid="mohammad" creationdate="20200925T074725Z">
@@ -8977,6 +9017,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T080458Z" creationid="mohammad" creationdate="20200925T080458Z">
         <seg>msg_law_invalidated:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_law_invalidated_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T080511Z" creationid="mohammad" creationdate="20200925T080511Z">
+        <seg>msg_law_invalidated_desc:0</seg>
       </tuv>
     </tu>
     <tu>
