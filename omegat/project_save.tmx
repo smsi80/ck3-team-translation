@@ -1816,6 +1816,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$NAME$ rejected your $INTERACTION|D$."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T221227Z" creationid="mohammad" creationdate="20200925T221227Z">
+        <seg>"$NAME$ مخالفت کرد با $INTERACTION|D$."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$NAME$: [DATE.GetString|V]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T212636Z" creationid="mohammad" creationdate="20200925T212636Z">
