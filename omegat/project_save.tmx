@@ -3272,6 +3272,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Lost Nickname"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074826Z" creationid="mohammad" creationdate="20200925T074826Z">
+        <seg>"نام مستعار از دست رفته"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Lover"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T220306Z" creationid="mohammad" creationdate="20200924T220306Z">
@@ -3468,6 +3476,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065956Z" creationid="mohammad" creationdate="20200925T065956Z">
         <seg>"جانشین جدید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"New Nickname"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074745Z" creationid="mohammad" creationdate="20200925T074735Z">
+        <seg>"نام مستعار جدید"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3676,6 +3692,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054351Z" creationid="Novin Pendar" creationdate="20200925T054351Z">
         <seg>"پرورشگاه های مکانی ایده آل برای نگه داری گله های بزرگ گاو و گوساله است که دارای چراگاه و فضا برای گردش است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Rank Gained"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074914Z" creationid="mohammad" creationdate="20200925T074914Z">
+        <seg>"رتبه کسب شد"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4339,6 +4363,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Trait Gained"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074639Z" creationid="mohammad" creationdate="20200925T074639Z">
+        <seg>"صفت به دست امد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Trait Lost"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074706Z" creationid="mohammad" creationdate="20200925T074706Z">
+        <seg>"صفت از دست رفته"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Trapped in the Web"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T220845Z" creationid="BIG GAMER" creationdate="20200924T220845Z">
@@ -4723,6 +4763,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"You are no longer known as [CHARACTER.GetNickname|V]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074857Z" creationid="mohammad" creationdate="20200925T074847Z">
+        <seg>"شما دیگر به این عنوان خوانده نمیشوید" [CHARACTER.GetNickname|V]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"You are now a mighty [CHARACTER.GetTitleTierName|V]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074929Z" creationid="mohammad" creationdate="20200925T074929Z">
+        <seg>"شما یک قدرتمند هستید [CHARACTER.GetTitleTierName|V]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"You are now known as [CHARACTER.GetNickname|V]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074758Z" creationid="mohammad" creationdate="20200925T074758Z">
+        <seg>"شما به عنوان خوانده میشوید [CHARACTER.GetNickname|V]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"You are the new target of the [WAR.GetName|V]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T073856Z" creationid="mohammad" creationdate="20200925T073856Z">
@@ -4735,6 +4799,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T122455Z" creationid="mohammad" creationdate="20200924T122137Z">
         <seg>"برای اطلاعات بیشتر نشانگر موس را بر روی ایکون ها و متن های برجسته حرکت دهید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"You gained the trait [TRAIT.GetName( CHARACTER.Self )|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074656Z" creationid="mohammad" creationdate="20200925T074656Z">
+        <seg>"شما این صفت را بدست اوردید [TRAIT.GetName( CHARACTER.Self )|L]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4783,6 +4855,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071049Z" creationid="mohammad" creationdate="20200925T071049Z">
         <seg>"شما از دست دادید [LEFT_TITLE.GetName] به [CHARACTER.GetUINameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"You lost the trait [TRAIT.GetName( CHARACTER.Self )|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074724Z" creationid="mohammad" creationdate="20200925T074724Z">
+        <seg>"شما این صفت را از دست دادید [TRAIT.GetName( CHARACTER.Self )|L]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8565,6 +8645,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_gain_nickname:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074725Z" creationid="mohammad" creationdate="20200925T074725Z">
+        <seg>msg_gain_nickname:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_gain_nickname_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074739Z" creationid="mohammad" creationdate="20200925T074739Z">
+        <seg>msg_gain_nickname_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_gain_trait:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074628Z" creationid="mohammad" creationdate="20200925T074628Z">
+        <seg>msg_gain_trait:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_gain_trait_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074639Z" creationid="mohammad" creationdate="20200925T074639Z">
+        <seg>msg_gain_trait_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_i_am_not_powerful_vassal:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T073025Z" creationid="mohammad" creationdate="20200925T073025Z">
@@ -8625,6 +8737,38 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T074102Z" creationid="mohammad" creationdate="20200925T074102Z">
         <seg>msg_invalidation_of_council_task_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_lose_trait:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074657Z" creationid="mohammad" creationdate="20200925T074657Z">
+        <seg>msg_lose_trait:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_lose_trait_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074706Z" creationid="mohammad" creationdate="20200925T074706Z">
+        <seg>msg_lose_trait_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_lost_nickname:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074759Z" creationid="mohammad" creationdate="20200925T074759Z">
+        <seg>msg_lost_nickname:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_lost_nickname_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074827Z" creationid="mohammad" creationdate="20200925T074827Z">
+        <seg>msg_lost_nickname_desc:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -8849,6 +8993,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071216Z" creationid="mohammad" creationdate="20200925T071216Z">
         <seg>msg_siege_won_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_title_rank_up:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074851Z" creationid="mohammad" creationdate="20200925T074851Z">
+        <seg>msg_title_rank_up:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_title_rank_up_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T074915Z" creationid="mohammad" creationdate="20200925T074915Z">
+        <seg>msg_title_rank_up_desc:0</seg>
       </tuv>
     </tu>
     <tu>
