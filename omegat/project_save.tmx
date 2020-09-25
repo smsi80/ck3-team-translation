@@ -3000,6 +3000,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Dome of the Rock"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T121142Z" creationid="Novin Pendar" creationdate="20200925T121142Z">
+        <seg>"گنبد سنگی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Dreadful Ruler"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T214452Z" creationid="BIG GAMER" creationdate="20200924T214452Z">
@@ -3764,6 +3772,30 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T115459Z" creationid="Novin Pendar" creationdate="20200925T115459Z">
         <seg>"مسجد جامع سامرا"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Hagia Sophia Cathedral"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T120515Z" creationid="Novin Pendar" creationdate="20200925T120515Z">
+        <seg>"کلیسای ایا صوفیه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Hagia Sophia Mosque"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T120522Z" creationid="Novin Pendar" creationdate="20200925T120522Z">
+        <seg>"مسجد ایا صوفیه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Hagia Sophia"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T120507Z" creationid="Novin Pendar" creationdate="20200925T120507Z">
+        <seg>"ایا صوفیه"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5367,6 +5399,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T114752Z" creationid="Novin Pendar" creationdate="20200924T114752Z">
         <seg>"صحن معبد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Temple in Jerusalem"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T121016Z" creationid="Novin Pendar" creationdate="20200925T121016Z">
+        <seg>"معبد اورشلیم"</seg>
       </tuv>
     </tu>
     <tu>
