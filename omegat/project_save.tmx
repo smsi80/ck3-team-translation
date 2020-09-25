@@ -2094,6 +2094,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Al-Azhar University"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T115809Z" creationid="Novin Pendar" creationdate="20200925T115809Z">
+        <seg>"دانشگاه الازهر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"All Faiths have full acceptance towards other Faiths. There are no Opinion penalties for having a different Faith."</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T133653Z" creationid="mahan" creationdate="20200924T133653Z">
