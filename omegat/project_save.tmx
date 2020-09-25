@@ -1206,6 +1206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#high Restricted#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T102019Z" creationid="mahan" creationdate="20200925T102019Z">
+        <seg>"#high محدود#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#high Significantly Faster#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T121800Z" creationid="mahan" creationdate="20200924T121800Z">
@@ -1704,8 +1712,8 @@
       <tuv lang="en">
         <seg>"A Faith's attitude towards other Faiths is dictated by their doctrines."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mahan" changedate="20200924T133604Z" creationid="mahan" creationdate="20200924T133604Z">
-        <seg>"بستگی به قوانین آن دین دارد."</seg>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T101829Z" creationid="mahan" creationdate="20200924T133604Z">
+        <seg>"بستگی به قوانین آن کشور دارد."</seg>
       </tuv>
     </tu>
     <tu>
@@ -2554,8 +2562,8 @@
       <tuv lang="en">
         <seg>"Diplomatic Range"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mahan" changedate="20200925T101648Z" creationid="mahan" creationdate="20200924T140142Z">
-        <seg>" "</seg>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T101927Z" creationid="mahan" creationdate="20200924T140142Z">
+        <seg>"مرز دیپلماتیک "</seg>
       </tuv>
     </tu>
     <tu>
@@ -4397,8 +4405,8 @@
       <tuv lang="en">
         <seg>"Rulers are randomly placed on the map. The Realms are largely the same, but Titles are held by different rulers."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mahan" changedate="20200924T135757Z" creationid="mahan" creationdate="20200924T135757Z">
-        <seg>"حاکم ها به صورت تصادفی بر روی مپ قرار میگیرند. مناطق و بخش ها تغیری نمیکنند ، ولی مقام ها و حاکم ها به صورت تصادفی انتخاب میشوند."</seg>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T101858Z" creationid="mahan" creationdate="20200924T135757Z">
+        <seg>"حاکم ها به صورت تصادفی بر روی نقشه قرار میگیرند. مناطق و بخش ها تغییری نمیکنند ، ولی مقام ها و حاکم ها به صورت تصادفی انتخاب میشوند."</seg>
       </tuv>
     </tu>
     <tu>
@@ -4831,6 +4839,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023522Z" creationid="mohammad" creationdate="20200922T023522Z">
         <seg>"پیوند های وفاداری ما را محدود نمی کنند، بلکه راه را نشانمان می دهند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The diplomatic range is further restricted, making non-local interactions significantly more rare."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T102124Z" creationid="mahan" creationdate="20200925T102124Z">
+        <seg>"مرز دیپلماتیک محدود شده است، ارتباط با خارج از محدوده معمول نمیباشد."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The diplomatic range is unchanged."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T101950Z" creationid="mahan" creationdate="20200925T101950Z">
+        <seg>"مرز دیپلماتیک تغییری نکرده است."</seg>
       </tuv>
     </tu>
     <tu>
