@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4610,10 +4610,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"I am ambitious: $VALUE|=+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T210722Z" creationid="BIG GAMER" creationdate="20200925T210722Z">
+        <seg>من جاه طلبم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"I am the rightful heir: $VALUE|=+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T210608Z" creationid="BIG GAMER" creationdate="20200925T210608Z">
+        <seg>من وارث قانونی هستم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"I can no longer claim to be the ruler of [title_to_destroy.GetNameNoTierNoTooltip], because I hold none of its De Jure land."</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T104854Z" creationid="mahan" creationdate="20200925T104854Z">
         <seg>"من دیگر نمیتوانم حاکم [title_to_destroy.GetNameNoTierNoTooltip]، باشم چون هیچ حق مالکیتی برا آن ندارم."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"I do not like power: $VALUE|=+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T210659Z" creationid="BIG GAMER" creationdate="20200925T210659Z">
+        <seg>من قدرت را دوست ندارم </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"I have been chosen: $VALUE|=+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T210749Z" creationid="BIG GAMER" creationdate="20200925T210749Z">
+        <seg>من انتخاب شده ام</seg>
       </tuv>
     </tu>
     <tu>
