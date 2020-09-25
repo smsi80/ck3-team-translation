@@ -3160,6 +3160,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Cloud saves are not available"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205718Z" creationid="mohammad" creationdate="20200925T205655Z">
+        <seg>"ذخیره انلاین در دسترس نیست"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Coastal Borders"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T142954Z" creationid="mohammad" creationdate="20200925T142954Z">
@@ -6029,6 +6037,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Save to cloud"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205734Z" creationid="mohammad" creationdate="20200925T205705Z">
+        <seg>"ذخیره انلاین"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Save"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205435Z" creationid="mohammad" creationdate="20200925T205435Z">
@@ -6761,6 +6777,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T065306Z" creationid="Novin Pendar" creationdate="20200925T065306Z">
         <seg>"زمین های وسیع صد هکتاری ده ها روستایی استخدام میکنند و حجم زیادی ثروت برای خاندان هایی که مالک انها هستند به همراه دارند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The savegame $NAME|V$ will be deleted. Are you sure?"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205641Z" creationid="mohammad" creationdate="20200925T205641Z">
+        <seg>"بازی ذخیره $NAME|V$ حذف خواهد شد. مطمئن هستید؟"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8881,6 +8905,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CLOUDSAVE_UNVAVAILABLE_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205644Z" creationid="mohammad" creationdate="20200925T205644Z">
+        <seg>CLOUDSAVE_UNVAVAILABLE_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CONTENT:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205258Z" creationid="mohammad" creationdate="20200925T205258Z">
@@ -8893,6 +8925,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205437Z" creationid="mohammad" creationdate="20200925T205437Z">
         <seg>DELETE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DELETE_CONFIRMATION_DESC:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205511Z" creationid="mohammad" creationdate="20200925T205511Z">
+        <seg>DELETE_CONFIRMATION_DESC:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -9937,6 +9977,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LOAD_CLOUDSAVE_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205800Z" creationid="mohammad" creationdate="20200925T205800Z">
+        <seg>LOAD_CLOUDSAVE_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LOAD_GAME:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205306Z" creationid="mohammad" creationdate="20200925T205306Z">
@@ -10045,6 +10093,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205427Z" creationid="mohammad" creationdate="20200925T205427Z">
         <seg>SAVE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SAVE_ENABLE_CLOUDSAVE_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T205659Z" creationid="mohammad" creationdate="20200925T205659Z">
+        <seg>SAVE_ENABLE_CLOUDSAVE_TOOLTIP:0</seg>
       </tuv>
     </tu>
     <tu>
