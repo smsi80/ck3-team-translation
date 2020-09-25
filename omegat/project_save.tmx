@@ -1254,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#high On (AI Only)#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T111929Z" creationid="mahan" creationdate="20200925T111929Z">
+        <seg>"#high فعال (هوش مصنوعی)#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#high On (Limited)#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T103127Z" creationid="mahan" creationdate="20200925T103127Z">
@@ -3844,6 +3852,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222223Z" creationid="BIG GAMER" creationdate="20200924T222223Z">
         <seg>ملک روس</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Landed historical characters with no recorded family will NOT have a family generated for them. This increases the risk of an early game over."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T111022Z" creationid="mahan" creationdate="20200925T111022Z">
+        <seg>"افراد داخل بازی خانواده ای نخواهند داشت. این روش باعث پایان زودهنگام بازی میشود."</seg>
       </tuv>
     </tu>
     <tu>
