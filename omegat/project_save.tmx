@@ -3516,6 +3516,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Contentment: $VALUE|=+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T224536Z" creationid="mohammad" creationdate="20200925T224536Z">
+        <seg>"رضایت: $VALUE|=+0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Continue"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T102602Z" creationid="mohammad" creationdate="20200924T102602Z">
@@ -5302,6 +5310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Irrationality: $VALUE|=+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T224639Z" creationid="mohammad" creationdate="20200925T224639Z">
+        <seg>"Irrationality: $VALUE|=+0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Is Incestuous"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T195356Z" creationid="mohammad" creationdate="20200924T230627Z">
@@ -6426,6 +6442,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T074950Z" creationid="mohammad" creationdate="20200925T074950Z">
         <seg>"رتبه از دست رفته"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Rationality: $VALUE|=+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T224642Z" creationid="mohammad" creationdate="20200925T224627Z">
+        <seg>"منطقی: $VALUE|=+0$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9781,6 +9805,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>AI_VALUE_MODIFIER_CONTENTMENT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T224504Z" creationid="mohammad" creationdate="20200925T224504Z">
+        <seg>AI_VALUE_MODIFIER_CONTENTMENT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>AI_VALUE_MODIFIER_DISHONOR:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T223752Z" creationid="mohammad" creationdate="20200925T223752Z">
@@ -9813,6 +9845,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>AI_VALUE_MODIFIER_IRRATIONALITY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T224628Z" creationid="mohammad" creationdate="20200925T224628Z">
+        <seg>AI_VALUE_MODIFIER_IRRATIONALITY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>AI_VALUE_MODIFIER_MAX_VALUE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T223732Z" creationid="mohammad" creationdate="20200925T223732Z">
@@ -9825,6 +9865,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T223710Z" creationid="mohammad" creationdate="20200925T223710Z">
         <seg>AI_VALUE_MODIFIER_MIN_VALUE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AI_VALUE_MODIFIER_RATIONALITY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T224536Z" creationid="mohammad" creationdate="20200925T224536Z">
+        <seg>AI_VALUE_MODIFIER_RATIONALITY:0</seg>
       </tuv>
     </tu>
     <tu>
