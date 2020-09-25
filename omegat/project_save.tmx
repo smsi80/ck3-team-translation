@@ -1254,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T Sound Effects Volume\n#!Sets the volume of ALL sound effects."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T170612Z" creationid="mohammad" creationdate="20200925T170612Z">
+        <seg>"#T Sound Effects Volume\n#!صدای تمام  جلوه های صوتی را تنظیم میکند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#TUT_KW Current Lifestyle Focus#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T085938Z" creationid="mohammad" creationdate="20200924T085938Z">
