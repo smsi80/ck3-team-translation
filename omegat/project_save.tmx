@@ -3164,6 +3164,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Boldness: $VALUE|=+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T225534Z" creationid="mohammad" creationdate="20200925T225534Z">
+        <seg>"جسارت: $VALUE|=+0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Borders ($lesson_basics_map$)"</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T175134Z" creationid="Alireza" creationdate="20200925T175134Z">
@@ -3564,6 +3572,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Cowardice: $VALUE|=+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T225613Z" creationid="mohammad" creationdate="20200925T225613Z">
+        <seg>"نامردی: $VALUE|=+0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Crownswood Courts"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T125732Z" creationid="mahan" creationdate="20200925T125433Z">
@@ -3602,6 +3618,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T105445Z" creationid="mahan" creationdate="20200925T105445Z">
         <seg>"شخصی سازی پادشاهی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Cynicism: $VALUE|=+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T225631Z" creationid="mohammad" creationdate="20200925T225631Z">
+        <seg>"بد بینی: $VALUE|=+0$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8753,6 +8777,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Zeal: $VALUE|=+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T225623Z" creationid="mohammad" creationdate="20200925T225623Z">
+        <seg>"غیرت: $VALUE|=+0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[BUILDING.GetName] constructed in [PROVINCE.GetName]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065945Z" creationid="mohammad" creationdate="20200925T065945Z">
@@ -9813,6 +9845,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>AI_VALUE_MODIFIER_BOLDNESS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T225509Z" creationid="mohammad" creationdate="20200925T225509Z">
+        <seg>AI_VALUE_MODIFIER_BOLDNESS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>AI_VALUE_MODIFIER_COMPOUND:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T223700Z" creationid="mohammad" creationdate="20200925T223700Z">
@@ -9825,6 +9865,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T224504Z" creationid="mohammad" creationdate="20200925T224504Z">
         <seg>AI_VALUE_MODIFIER_CONTENTMENT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AI_VALUE_MODIFIER_COWARDICE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T225543Z" creationid="mohammad" creationdate="20200925T225543Z">
+        <seg>AI_VALUE_MODIFIER_COWARDICE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AI_VALUE_MODIFIER_CYNICISM:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T225623Z" creationid="mohammad" creationdate="20200925T225623Z">
+        <seg>AI_VALUE_MODIFIER_CYNICISM:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -9905,6 +9961,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T224536Z" creationid="mohammad" creationdate="20200925T224536Z">
         <seg>AI_VALUE_MODIFIER_RATIONALITY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AI_VALUE_MODIFIER_VENGEFULNESS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T225633Z" creationid="mohammad" creationdate="20200925T225633Z">
+        <seg>AI_VALUE_MODIFIER_VENGEFULNESS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AI_VALUE_MODIFIER_ZEAL:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T225615Z" creationid="mohammad" creationdate="20200925T225615Z">
+        <seg>AI_VALUE_MODIFIER_ZEAL:0</seg>
       </tuv>
     </tu>
     <tu>
