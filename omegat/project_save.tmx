@@ -2856,6 +2856,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Call Hunt"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T200004Z" creationid="BIG GAMER" creationdate="20200925T200004Z">
+        <seg>شکار را احظار کن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Camera ($lesson_basics$)"</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T160256Z" creationid="Alireza" creationdate="20200925T160256Z">
