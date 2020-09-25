@@ -2102,6 +2102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Consolidated Landholdings"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T073137Z" creationid="Novin Pendar" creationdate="20200925T073137Z">
+        <seg>"املاک تلفیقی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Continue"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T102602Z" creationid="mohammad" creationdate="20200924T102602Z">
@@ -2616,6 +2624,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Freeholds are massive, with vast lands surrounding them — as they are passed on in a hereditary fashion, the families they house have ample time to optimize the yield of their lands."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T072959Z" creationid="Novin Pendar" creationdate="20200925T072959Z">
+        <seg>"املاک ارثی بسیار بزرگند. با زمین های وسیع اطرافشان — طی به ارث رسیدن مالکیت ، خاندانی که در آن اسکان میکند زمان کافی برای سامان دادن به محصول زمین های اطراف را دارد."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Freeholds"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T065325Z" creationid="Novin Pendar" creationdate="20200925T065325Z">
+        <seg>"املاک ارثی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"From Rags to Riches"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221506Z" creationid="BIG GAMER" creationdate="20200924T221506Z">
@@ -2684,6 +2708,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063108Z" creationid="Novin Pendar" creationdate="20200925T063108Z">
         <seg>"درخت های پیوندی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Grand Estates"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T073203Z" creationid="Novin Pendar" creationdate="20200925T073203Z">
+        <seg>"املاک بزرگ"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4003,6 +4035,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"The massive hundred-acre fields employ scores of peasants, and brings vast wealth upon the family who owns the land."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T065306Z" creationid="Novin Pendar" creationdate="20200925T065306Z">
+        <seg>"زمین های وسیع صد هکتاری ده ها روستایی استخدام میکنند و حجم زیادی ثروت برای خاندان هایی که مالک انها هستند به همراه دارند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"The study of administration, management and the flow of gold."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T031856Z" creationid="mohammad" creationdate="20200922T031646Z">
@@ -4375,6 +4415,22 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221725Z" creationid="BIG GAMER" creationdate="20200924T221652Z">
         <seg>حیله گر به مانند روباه</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Windmills take most of the labor out of grinding flour, massively increasing efficiency."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T073102Z" creationid="Novin Pendar" creationdate="20200925T073102Z">
+        <seg>"آسیاب ها اکثر زحمت ساییدن گندم را میبرد و بازدهی را به شدت زیاد میکند.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Windmills"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T073004Z" creationid="Novin Pendar" creationdate="20200925T073004Z">
+        <seg>"اسیاب ها"</seg>
       </tuv>
     </tu>
     <tu>
