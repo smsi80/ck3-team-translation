@@ -198,6 +198,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#I Click to change speed to $CURRENT_SPEED_TEXT_1$#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211931Z" creationid="mohammad" creationdate="20200925T211931Z">
+        <seg>"#I برای تغییر سرعت کلیک کنید $CURRENT_SPEED_TEXT_1$#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#I Click to change speed to $CURRENT_SPEED_TEXT_2$#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211954Z" creationid="mohammad" creationdate="20200925T211954Z">
+        <seg>"#برای تغییر سرعت کلیک کنید $CURRENT_SPEED_TEXT_2$#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#I Click to change speed to $CURRENT_SPEED_TEXT_3$#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T212006Z" creationid="mohammad" creationdate="20200925T212006Z">
+        <seg>"#I برای تغییر سرعت کلیک کنید‏ $CURRENT_SPEED_TEXT_3$#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#I Click to hide.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T192548Z" creationid="mohammad" creationdate="20200924T192548Z">
@@ -6509,6 +6533,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Speed decreased: [GetLaggingPlayerName] is lagging behind\n"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211847Z" creationid="mohammad" creationdate="20200925T211847Z">
+        <seg>"سرعت کاهش یافت: [GetLaggingPlayerName] عقب مانده است\n"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Spouse Invalid"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T154613Z" creationid="mohammad" creationdate="20200925T154613Z">
@@ -8149,6 +8181,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[GetCurrentDate.GetStringLong]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211743Z" creationid="mohammad" creationdate="20200925T211743Z">
+        <seg>"[GetCurrentDate.GetStringLong]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[GetCurrentDateStringWithSyncInfo]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211755Z" creationid="mohammad" creationdate="20200925T211755Z">
+        <seg>"[GetCurrentDateStringWithSyncInfo]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[GetFocus('diplomacy_family_focus').GetName]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183718Z" creationid="mohammad" creationdate="20200921T183718Z">
@@ -9149,6 +9197,54 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T211714Z" creationid="mohammad" creationdate="20200925T211714Z">
         <seg>CURRENT_DATE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CURRENT_DATE_TOOLTIP:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211752Z" creationid="mohammad" creationdate="20200925T211752Z">
+        <seg>CURRENT_DATE_TOOLTIP:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CURRENT_SPEED_CLICK_TT_1:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211850Z" creationid="mohammad" creationdate="20200925T211850Z">
+        <seg>CURRENT_SPEED_CLICK_TT_1:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CURRENT_SPEED_CLICK_TT_2:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211936Z" creationid="mohammad" creationdate="20200925T211936Z">
+        <seg>CURRENT_SPEED_CLICK_TT_2:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CURRENT_SPEED_CLICK_TT_3:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211958Z" creationid="mohammad" creationdate="20200925T211958Z">
+        <seg>CURRENT_SPEED_CLICK_TT_3:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CURRENT_SPEED_CLICK_TT_4:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T212050Z" creationid="mohammad" creationdate="20200925T212050Z">
+        <seg>CURRENT_SPEED_CLICK_TT_4:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CURRENT_SPEED_LAGGING_PLAYER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211802Z" creationid="mohammad" creationdate="20200925T211802Z">
+        <seg>CURRENT_SPEED_LAGGING_PLAYER:0</seg>
       </tuv>
     </tu>
     <tu>
