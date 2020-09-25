@@ -5379,6 +5379,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"This character believes in a false god, or none at all."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113612Z" creationid="mohammad" creationdate="20200925T113612Z">
+        <seg>"این شخصیت به یک خدای دروغین باور دارد؛یا اصلا هیچ خدایی."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"This character consumes human flesh."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T113005Z" creationid="mohammad" creationdate="20200925T113005Z">
@@ -5399,6 +5407,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T112906Z" creationid="mohammad" creationdate="20200925T112906Z">
         <seg>"این شخصیت اقدام به قتل کرده است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"This character is a murderer."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113315Z" creationid="mohammad" creationdate="20200925T113315Z">
+        <seg>"این شخصیت یک قاتل است."</seg>
       </tuv>
     </tu>
     <tu>
@@ -11081,6 +11097,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>secret_murder_tooltip_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113201Z" creationid="mohammad" creationdate="20200925T113201Z">
+        <seg>secret_murder_tooltip_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>secret_non_believer:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T222231Z" creationid="mohammad" creationdate="20200924T222231Z">
@@ -11093,6 +11117,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T230353Z" creationid="mohammad" creationdate="20200924T230353Z">
         <seg>secret_non_believer_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>secret_non_believer_tooltip_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T113317Z" creationid="mohammad" creationdate="20200925T113317Z">
+        <seg>secret_non_believer_tooltip_desc:0</seg>
       </tuv>
     </tu>
     <tu>
