@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#F The Prophetic Mosque, or the Al-Masjid an-Nabawi, is an open-air style mosque established by the prophet Muhammad himself. It was one of the first mosques that he constructed, and the site was close to where he had his residence.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T115726Z" creationid="Novin Pendar" creationdate="20200925T115726Z">
+        <seg>"#F مسجد النبی مسجد سر بازیست که توسط خود شخص پیامبر تاسیس شده، این مسجد از اولین مساجدی است که خود پیامبر بنیان گذاشته، این مسجد در نزدیکی محل سکونت پیامبر نیز قرار دارد.#!" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#F The Tower of London is a castle that serves as both a vital fortification and a prison. The central tower is called the 'White Tower' and houses the ruling class. The position of the Tower of London means that it's vital to the defense of the entire County.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T113706Z" creationid="Novin Pendar" creationdate="20200925T113706Z">
@@ -3640,6 +3648,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Great Mosque of Samarra"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T115459Z" creationid="Novin Pendar" creationdate="20200925T115459Z">
+        <seg>"مسجد جامع سامرا"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Hall of Heroes I"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T130854Z" creationid="Novin Pendar" creationdate="20200924T130854Z">
@@ -5319,6 +5335,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T112147Z" creationid="mahan" creationdate="20200925T112147Z">
         <seg>"حجوم مغول ها آغاز نخواهد شد."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The Prophetic Mosque"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T115508Z" creationid="Novin Pendar" creationdate="20200925T115508Z">
+        <seg>"مسجد النبی"</seg>
       </tuv>
     </tu>
     <tu>
