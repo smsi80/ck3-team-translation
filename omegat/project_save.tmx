@@ -3878,6 +3878,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Empty"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T223416Z" creationid="mohammad" creationdate="20200925T223416Z">
+        <seg>"خالی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Enable"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T111627Z" creationid="mahan" creationdate="20200924T111627Z">
@@ -5986,6 +5994,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T124245Z" creationid="Novin Pendar" creationdate="20200924T124245Z">
         <seg>"دیگر کشتی تجار سر مکانی برای بارگیری یا باراندازی بار ارزشمندشان رقابت نخواهند داشت — مکان فراوان داخل بندر مکانی فرا تر از کافی برای همه ایجاد میکند تا به کارشان برسند!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"No"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T223431Z" creationid="mohammad" creationdate="20200925T223431Z">
+        <seg>"نه"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11421,10 +11437,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>NO:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T223423Z" creationid="mohammad" creationdate="20200925T223423Z">
+        <seg>NO:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OPEN_SOURCE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T211158Z" creationid="mohammad" creationdate="20200925T211158Z">
         <seg>OPEN_SOURCE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OPINION_MTTH:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T223446Z" creationid="mohammad" creationdate="20200925T223446Z">
+        <seg>OPINION_MTTH:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -11489,6 +11521,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T173018Z" creationid="mohammad" creationdate="20200925T173018Z">
         <seg>RESET_REACTIVE_ADVICE_TOOLTIP:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RETINUE_POSITION_EMPTY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T223408Z" creationid="mohammad" creationdate="20200925T223408Z">
+        <seg>RETINUE_POSITION_EMPTY:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -12057,6 +12097,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T142652Z" creationid="mohammad" creationdate="20200925T142652Z">
         <seg>YEARLY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YES:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T223419Z" creationid="mohammad" creationdate="20200925T223419Z">
+        <seg>YES:0</seg>
       </tuv>
     </tu>
     <tu>
