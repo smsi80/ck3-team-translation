@@ -3896,6 +3896,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Heresy outbreaks do not have regional weighting, encouraging the appearance of more diverse heresies."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T122259Z" creationid="mahan" creationdate="20200925T122259Z">
+        <seg>"شیوع بدعت در نقاط مختلف ارتداد های تاریخی نخواهند بود."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Heresy outbreaks in certain regions are more likely to be historical heresies, such as Lollardy in England."</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T121842Z" creationid="mahan" creationdate="20200925T121842Z">
@@ -3916,6 +3924,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T131702Z" creationid="mahan" creationdate="20200924T130412Z">
         <seg>"دگرجنسگرا معمول ترین است، درحالی که همجنسگرا، دوجنسگرا و بی تعامل جنسی بودن معمول نیست ."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Historical"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T122337Z" creationid="mahan" creationdate="20200925T122337Z">
+        <seg>"تاریخی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3980,6 +3996,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063940Z" creationid="Novin Pendar" creationdate="20200925T063940Z">
         <seg>"زمین های صد هکتاری"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Hungarian Migration"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T122330Z" creationid="mahan" creationdate="20200925T122330Z">
+        <seg>"مهاجرت مجارها"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4052,6 +4076,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T114026Z" creationid="Novin Pendar" creationdate="20200925T114026Z">
         <seg>"مسجد امام علی علیه سلام"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Immediate"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T122420Z" creationid="mahan" creationdate="20200925T122420Z">
+        <seg>"فوری"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4920,6 +4952,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Player-Only"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T123134Z" creationid="mahan" creationdate="20200925T123134Z">
+        <seg>"با دستور بازیکن"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Players can not start Hostile Schemes against other players or their close family members."</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T105339Z" creationid="mahan" creationdate="20200925T105339Z">
@@ -4980,6 +5020,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T133950Z" creationid="mahan" creationdate="20200924T133828Z">
         <seg>" مختلف بودن حاکم ها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Random"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T122554Z" creationid="mahan" creationdate="20200925T122554Z">
+        <seg>"غیر مشخص"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5507,6 +5555,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"The AI will attempt to start the Hungarian Migration any time between 5 years after game start and 910."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T122848Z" creationid="mahan" creationdate="20200925T122848Z">
+        <seg>"مهاجرت به محض شروع بازی و به صورت تصادفی آغاز میشود."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The AI will attempt to start the Hungarian Migration between 890 and 910."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T122400Z" creationid="mahan" creationdate="20200925T122400Z">
+        <seg>"مهاجرت مجارها از سال 890 تا 910 ادامه دارد."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"The Concentric Castle is surrounded by two or more walls, the inner one higher than the outer one."</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T114044Z" creationid="Novin Pendar" creationdate="20200924T114044Z">
@@ -5551,6 +5615,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T115023Z" creationid="Novin Pendar" creationdate="20200925T115023Z">
         <seg>"مسجد جامع قرطبه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The Hungarian Migration will already be active on game start."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T122546Z" creationid="mahan" creationdate="20200925T122546Z">
+        <seg>"مهاجرت مجار ها به محض شروع بازی آغاز خواهد شد."</seg>
       </tuv>
     </tu>
     <tu>
