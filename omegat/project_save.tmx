@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3882,6 +3882,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Finish"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211507Z" creationid="mohammad" creationdate="20200925T211507Z">
+        <seg>"پایان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Fishing Net Weavers"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T123056Z" creationid="Novin Pendar" creationdate="20200924T123056Z">
@@ -5156,8 +5164,8 @@
       <tuv lang="en">
         <seg>"Lobby"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T211424Z" creationid="mohammad" creationdate="20200925T211424Z">
-        <seg>"Lobby"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211457Z" creationid="mohammad" creationdate="20200925T211424Z">
+        <seg>"لابی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5674,6 +5682,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Not implemented..."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211713Z" creationid="mohammad" creationdate="20200925T211713Z">
+        <seg>"اجرا نشده..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Now, let's talk about the #EMP game#!! Everything takes place on the map before you. The world consists of large and small pieces of land, each belonging to someone, based on their [titles|E].\n\n#TUT Your $game_concept_titles$ are represented by icons with elaborate coats of arms.\n\nThe icon representing your [realm|E] is set by your [primary_title|E], which is the most important and prestigious $game_concept_title$ you hold.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T175056Z" creationid="Alireza" creationdate="20200925T175056Z">
@@ -5748,8 +5764,8 @@
       <tuv lang="en">
         <seg>"Open source file"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T211330Z" creationid="mohammad" creationdate="20200925T211330Z">
-        <seg>"بازکردن فایل منبع"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211446Z" creationid="mohammad" creationdate="20200925T211330Z">
+        <seg>"باز کردن پرونده"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6505,6 +6521,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T112559Z" creationid="mahan" creationdate="20200924T112559Z">
         <seg>"شروع آیرون من"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Start"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211502Z" creationid="mohammad" creationdate="20200925T211502Z">
+        <seg>"شروع"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9145,6 +9169,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DISABLED_BUTTON:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211509Z" creationid="mohammad" creationdate="20200925T211509Z">
+        <seg>DISABLED_BUTTON:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ENGLISH:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T204534Z" creationid="mohammad" creationdate="20200925T204534Z">
@@ -9165,6 +9197,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065617Z" creationid="mohammad" creationdate="20200925T065617Z">
         <seg>FEED_MESSAGE_GOTO_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FINISH:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211503Z" creationid="mohammad" creationdate="20200925T211503Z">
+        <seg>FINISH:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -10757,6 +10797,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T204512Z" creationid="mohammad" creationdate="20200925T204512Z">
         <seg>SPANISH_SUPPORTED:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>START:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211457Z" creationid="mohammad" creationdate="20200925T211457Z">
+        <seg>START:0</seg>
       </tuv>
     </tu>
     <tu>
