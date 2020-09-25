@@ -5267,6 +5267,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"This character engages in sexual intercourse with other men."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T112832Z" creationid="mohammad" creationdate="20200925T112604Z">
+        <seg>"این شخصیت با مردان دیگر در رابطه جنسی است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"This character has attempted murder."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T112906Z" creationid="mohammad" creationdate="20200925T112906Z">
+        <seg>"این شخصیت اقدام به قتل کرده است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"This city has attracted the attention of traders and craftsmen from all around, with wealthy merchants setting up shop and diligent craftsmen erecting new houses almost daily."</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T121320Z" creationid="Novin Pendar" creationdate="20200924T121320Z">
@@ -6527,6 +6543,18 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T214931Z" creationid="BIG GAMER" creationdate="20200924T214931Z">
         <seg>داره میاد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg># Active Secret tooltip text
+# See comment about secret type description below
+ secret_deviant_tooltip_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T112609Z" creationid="mohammad" creationdate="20200925T112609Z">
+        <seg># Active Secret tooltip text
+# See comment about secret type description below
+ secret_deviant_tooltip_desc:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -10721,6 +10749,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>secret_cannibal_tooltip_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T112835Z" creationid="mohammad" creationdate="20200925T112835Z">
+        <seg>secret_cannibal_tooltip_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>secret_category_adultery:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T224926Z" creationid="mohammad" creationdate="20200924T224926Z">
@@ -10777,6 +10813,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>secret_disputed_heritage_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T112606Z" creationid="mohammad" creationdate="20200925T112606Z">
+        <seg>secret_disputed_heritage_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>secret_disputed_heritage_type_desc:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T171126Z" creationid="mohammad" creationdate="20200924T171126Z">
@@ -10801,10 +10845,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>secret_homosexual_tooltip_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T112611Z" creationid="mohammad" creationdate="20200925T112611Z">
+        <seg>secret_homosexual_tooltip_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>secret_illegitimate_child:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T230746Z" creationid="mohammad" creationdate="20200924T230746Z">
         <seg>secret_illegitimate_child:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>secret_illegitimate_child_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T112538Z" creationid="mohammad" creationdate="20200925T112538Z">
+        <seg>secret_illegitimate_child_desc:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -10853,6 +10913,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T225432Z" creationid="mohammad" creationdate="20200924T225432Z">
         <seg>secret_murder_attempt_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>secret_murder_attempt_tooltip_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T112834Z" creationid="mohammad" creationdate="20200925T112834Z">
+        <seg>secret_murder_attempt_tooltip_desc:0</seg>
       </tuv>
     </tu>
     <tu>
