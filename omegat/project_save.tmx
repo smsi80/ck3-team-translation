@@ -3058,8 +3058,8 @@
       <tuv lang="en">
         <seg>"Exclave Independence"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mahan" changedate="20200925T113234Z" creationid="mahan" creationdate="20200925T113234Z">
-        <seg>""</seg>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T120218Z" creationid="mahan" creationdate="20200925T113234Z">
+        <seg>"استقلال سرزمین غیر متصل"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3884,6 +3884,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T222349Z" creationid="mohammad" creationdate="20200924T222349Z">
         <seg>زنا با محارم"Incestuous"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Independent Rulers can have exclaves (disconnected land) anywhere in the world."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T120316Z" creationid="mahan" creationdate="20200925T120316Z">
+        <seg>"حاکمان مستقل میتوانند در هرجای دنیا قلمرو غیر متصل."</seg>
       </tuv>
     </tu>
     <tu>
