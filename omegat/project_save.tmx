@@ -3620,6 +3620,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Courtier of [CHARACTER.GetShortUIName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234154Z" creationid="mohammad" creationdate="20200925T234154Z">
+        <seg>"درباری از [CHARACTER.GetShortUIName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Cowardice: $VALUE|=+0$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T225613Z" creationid="mohammad" creationdate="20200925T225613Z">
@@ -4922,6 +4930,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T224304Z" creationid="mohammad" creationdate="20200925T224304Z">
         <seg>"طمع: $VALUE|=+0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Guest of [CHARACTER.GetShortUIName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234203Z" creationid="mohammad" creationdate="20200925T234203Z">
+        <seg>"مهمانی از [CHARACTER.GetShortUIName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7897,6 +7913,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"This is you"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234213Z" creationid="mohammad" creationdate="20200925T234213Z">
+        <seg>"این تویی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"This is you, allegedly"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234307Z" creationid="mohammad" creationdate="20200925T234307Z">
+        <seg>"ظاهراً ،این شما هستید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"This small but formidable fortification is situated upon a raised earthwork."</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T111446Z" creationid="mohammad" creationdate="20200920T140656Z">
@@ -8933,6 +8965,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065945Z" creationid="mohammad" creationdate="20200925T065945Z">
         <seg>"[BUILDING.GetName] ساخته شد در [PROVINCE.GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[CHARACTER.Custom('ThisIsYou')]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234220Z" creationid="mohammad" creationdate="20200925T234220Z">
+        <seg>"[CHARACTER.Custom('ThisIsYou')]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12717,6 +12757,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>RELATION_COURTIER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234040Z" creationid="mohammad" creationdate="20200925T234040Z">
+        <seg>RELATION_COURTIER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>RELATION_FELLOW_VASSAL:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233434Z" creationid="mohammad" creationdate="20200925T233434Z">
@@ -12729,6 +12777,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233304Z" creationid="mohammad" creationdate="20200925T233304Z">
         <seg>RELATION_FOREIGN_RULER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RELATION_GUEST:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234155Z" creationid="mohammad" creationdate="20200925T234155Z">
+        <seg>RELATION_GUEST:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -13345,6 +13401,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T212917Z" creationid="mohammad" creationdate="20200925T212917Z">
         <seg>SVN_REVISION:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>THIS_IS_YOU:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234213Z" creationid="mohammad" creationdate="20200925T234213Z">
+        <seg>THIS_IS_YOU:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>THIS_IS_YOU_ALLEGEDLY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234221Z" creationid="mohammad" creationdate="20200925T234221Z">
+        <seg>THIS_IS_YOU_ALLEGEDLY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>THIS_IS_YOU_STATIC:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T234203Z" creationid="mohammad" creationdate="20200925T234203Z">
+        <seg>THIS_IS_YOU_STATIC:0</seg>
       </tuv>
     </tu>
     <tu>
