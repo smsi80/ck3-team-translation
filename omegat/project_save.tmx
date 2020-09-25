@@ -1638,6 +1638,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Agents Joined Scheme"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071538Z" creationid="mohammad" creationdate="20200925T071538Z">
+        <seg>"مامورها به دسیسه پیوستند"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Al-Andalus"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221615Z" creationid="BIG GAMER" creationdate="20200924T221615Z">
@@ -4615,6 +4623,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023737Z" creationid="mohammad" creationdate="20200922T023737Z">
         <seg>"[GetFocus('stewardship_wealth_focus').GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] and $OTHER|V$ other [agents|E] joined your [scheme|E] to [SCHEME.GetFullActionName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071649Z" creationid="mohammad" creationdate="20200925T071540Z">
+        <seg>"‏‎[LEFT_CHARACTER.GetUINameNoTooltip] و $OTHER|V$ بقیه [agents|E]‎‏ ملحق شد به [scheme|E] به [SCHEME.GetFullActionName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] and [RIGHT_CHARACTER.GetUINameNoTooltip] joined your [scheme|E] to [SCHEME.GetFullActionName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T072052Z" creationid="mohammad" creationdate="20200925T072052Z">
+        <seg>"[LEFT_CHARACTER.GetUINameNoTooltip] و [RIGHT_CHARACTER.GetUINameNoTooltip] ملحق شد به [scheme|E] به [SCHEME.GetFullActionName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7813,6 +7837,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_2_agents_joined_my_scheme:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071545Z" creationid="mohammad" creationdate="20200925T071545Z">
+        <seg>msg_2_agents_joined_my_scheme:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_2_agents_joined_my_scheme_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071652Z" creationid="mohammad" creationdate="20200925T071652Z">
+        <seg>msg_2_agents_joined_my_scheme_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_agent_joined_my_scheme:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071425Z" creationid="mohammad" creationdate="20200925T071425Z">
@@ -7921,6 +7961,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065901Z" creationid="mohammad" creationdate="20200925T065901Z">
         <seg>msg_marriage_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_multiple_agents_joined_my_scheme:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071518Z" creationid="mohammad" creationdate="20200925T071518Z">
+        <seg>msg_multiple_agents_joined_my_scheme:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_multiple_agents_joined_my_scheme_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T071538Z" creationid="mohammad" creationdate="20200925T071538Z">
+        <seg>msg_multiple_agents_joined_my_scheme_desc:0</seg>
       </tuv>
     </tu>
     <tu>
