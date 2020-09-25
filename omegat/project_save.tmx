@@ -5378,6 +5378,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Lowborn"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T214026Z" creationid="mohammad" creationdate="20200925T214026Z">
+        <seg>"کم تولد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Lqwuljxh"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T182958Z" creationid="mohammad" creationdate="20200921T182958Z">
@@ -7349,6 +7357,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"This character is Lowborn"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T215014Z" creationid="mohammad" creationdate="20200925T215014Z">
+        <seg>"This character is Lowborn"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"This character is a bastard."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T113807Z" creationid="mohammad" creationdate="20200925T113807Z">
@@ -7577,6 +7593,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T074706Z" creationid="mohammad" creationdate="20200925T074706Z">
         <seg>"صفت از دست رفته"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Traits: $TRAITS|V$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213705Z" creationid="mohammad" creationdate="20200925T213705Z">
+        <seg>"ویژگی: $TRAITS|V$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9505,6 +9529,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CHARACTER_TRAITS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213633Z" creationid="mohammad" creationdate="20200925T213633Z">
+        <seg>CHARACTER_TRAITS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CHOOSE_FOCUS:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T074943Z" creationid="mohammad" creationdate="20200924T074943Z">
@@ -10853,6 +10885,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T211336Z" creationid="mohammad" creationdate="20200925T211336Z">
         <seg>LOBBY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOWBORN:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T213706Z" creationid="mohammad" creationdate="20200925T213706Z">
+        <seg>LOWBORN:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOWBORN_DESC:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T214028Z" creationid="mohammad" creationdate="20200925T214028Z">
+        <seg>LOWBORN_DESC:0</seg>
       </tuv>
     </tu>
     <tu>
