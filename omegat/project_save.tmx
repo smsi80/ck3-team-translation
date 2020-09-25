@@ -2448,6 +2448,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Faction Abandoned"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T075419Z" creationid="mohammad" creationdate="20200925T075346Z">
+        <seg>"جناح رها شد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Faction Disbanded"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T075043Z" creationid="mohammad" creationdate="20200925T075043Z">
@@ -4835,6 +4843,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"You had to leave the [FACTION.GetName] against [CHARACTER.GetUINameNoTooltip].\n$REASONS$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T075446Z" creationid="mohammad" creationdate="20200925T075446Z">
+        <seg>"شما مجبور به ترک کردن [FACTION.GetName] مقابل [CHARACTER.GetUINameNoTooltip].\n$REASONS$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"You have Joined the [WAR.GetName|V]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T073352Z" creationid="mohammad" creationdate="20200925T073352Z">
@@ -4975,6 +4991,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065945Z" creationid="mohammad" creationdate="20200925T065945Z">
         <seg>"[BUILDING.GetName] ساخته شد در [PROVINCE.GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[FACTION.GetName] against [CHARACTER.GetUINameNoTooltip] doesn't have a valid leader, therefore the faction has been disbanded"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T075635Z" creationid="mohammad" creationdate="20200925T075635Z">
+        <seg>"[FACTION.GetName] مقابل [CHARACTER.GetUINameNoTooltip] رهبر معتبری ندارد, به همین خاطر جناح منحل شد"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8977,6 +9001,38 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T070247Z" creationid="mohammad" creationdate="20200925T070247Z">
         <seg>msg_no_new_heir_old_heir_dead_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_removed_from_faction_not_valid:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T075410Z" creationid="mohammad" creationdate="20200925T075342Z">
+        <seg>‎msg_removed_from_faction_not_valid:0:‏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_removed_from_faction_not_valid_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T075421Z" creationid="mohammad" creationdate="20200925T075421Z">
+        <seg>msg_removed_from_faction_not_valid_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_removed_from_faction_not_valid_leader:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T075447Z" creationid="mohammad" creationdate="20200925T075447Z">
+        <seg>msg_removed_from_faction_not_valid_leader:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_removed_from_faction_not_valid_leader_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T075448Z" creationid="mohammad" creationdate="20200925T075448Z">
+        <seg>msg_removed_from_faction_not_valid_leader_desc:0</seg>
       </tuv>
     </tu>
     <tu>
