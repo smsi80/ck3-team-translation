@@ -1232,8 +1232,8 @@
       <tuv lang="en">
         <seg>"#high Off#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mahan" changedate="20200925T104413Z" creationid="mahan" creationdate="20200925T104413Z">
-        <seg>"#high خاموش#!"</seg>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T105644Z" creationid="mahan" creationdate="20200925T104413Z">
+        <seg>"#high غیرفعال#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2330,6 +2330,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T051120Z" creationid="BIG GAMER" creationdate="20200925T051120Z">
         <seg>قلعه</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Casus Belli Costs"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T110023Z" creationid="mahan" creationdate="20200925T110023Z">
+        <seg>"دلیل جنگ"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4981,8 +4989,16 @@
       <tuv lang="en">
         <seg>"The creation of custom non-historical Kingdoms and Empires is allowed."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mahan" changedate="20200925T105539Z" creationid="mahan" creationdate="20200925T105539Z">
-        <seg>"ساختن."</seg>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T105820Z" creationid="mahan" creationdate="20200925T105539Z">
+        <seg>"ساختن قلمرو های غیر تاریخی و شخصی فعال است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The creation of custom non-historical Kingdoms and Empires is disallowed."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T105809Z" creationid="mahan" creationdate="20200925T105809Z">
+        <seg>"ساختن قلمرو های غیر تاریخی و شخصی غیرفعال است."</seg>
       </tuv>
     </tu>
     <tu>
