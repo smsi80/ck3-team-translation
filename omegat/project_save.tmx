@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#F The Lords and Ladies of the manor employ hundreds of peasants to till their fields and tend to their livestock. The more power they hold, the more land their subjects can work and, most importantly, the more tax they will produce!#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063506Z" creationid="Novin Pendar" creationdate="20200925T063506Z">
+        <seg>"#F ارباب ها و بانو های بزرگ صد ها روستایی را استخدام میکنند تا در زمین ها و با دام هایشان کار کنند. هرچه قدرت بیشتری داشته باشند، مردمانشان مکان بیشتری برای کار دارند. و از همه مهم تر، مالیات بیشتری ایجاد میکنند!#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#F This building is seemingly excellent for growing vegetables.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T134228Z" creationid="Novin Pendar" creationdate="20200924T134228Z">
@@ -694,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"As far as the eye can see, there is row upon row of fruit-bearing trees."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063051Z" creationid="Novin Pendar" creationdate="20200925T063051Z">
+        <seg>"تا به جایی که چشم سو میدهد، ردیفی از درختان میوه دار به چشم میخورد."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Attempted Murder"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T215507Z" creationid="mohammad" creationdate="20200924T215507Z">
@@ -850,6 +866,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T122023Z" creationid="Novin Pendar" creationdate="20200924T122023Z">
         <seg>"کلان شهر شلوغ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"By grafting certain trees together, the propagation of slow-growing fruits and nuts is much enhanced."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063239Z" creationid="Novin Pendar" creationdate="20200925T063239Z">
+        <seg>"با پیوند درخت های مشخصی با یک دیگر ، تکثیر میوه ها و دانه های کند رو به شدت تقویت یافته."</seg>
       </tuv>
     </tu>
     <tu>
@@ -1520,6 +1544,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Grafted Trees"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063108Z" creationid="Novin Pendar" creationdate="20200925T063108Z">
+        <seg>"درخت های پیوندی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Grand Orchards"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063017Z" creationid="Novin Pendar" creationdate="20200925T063017Z">
@@ -1956,6 +1988,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183856Z" creationid="mohammad" creationdate="20200921T183856Z">
         <seg>"تمرکز روی شکوهمندی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Manor Houses"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063308Z" creationid="Novin Pendar" creationdate="20200925T063308Z">
+        <seg>"خانه های بزرگ"</seg>
       </tuv>
     </tu>
     <tu>
