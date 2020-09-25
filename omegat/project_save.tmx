@@ -2948,6 +2948,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Base [gold_i|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T222536Z" creationid="mohammad" creationdate="20200925T222536Z">
+        <seg>"پایه [gold_i|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Base: $VALUE|V0$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T222124Z" creationid="mohammad" creationdate="20200925T222003Z">
@@ -9657,6 +9665,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T221858Z" creationid="mohammad" creationdate="20200925T221858Z">
         <seg>BASE_COLON:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>BASE_GOLD:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T222221Z" creationid="mohammad" creationdate="20200925T222221Z">
+        <seg>BASE_GOLD:0</seg>
       </tuv>
     </tu>
     <tu>
