@@ -5635,6 +5635,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"The University of Sankoré"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T122749Z" creationid="Novin Pendar" creationdate="20200925T122749Z">
+        <seg>"دانشگاه سنکوری</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"The [LEFT_TITLE.GetNameNoTooltip] has given rise to the [FACTION.GetName], targeting [RIGHT_CHARACTER.GetShortUINameNoTooltip]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T080003Z" creationid="mohammad" creationdate="20200925T080003Z">
