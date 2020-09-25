@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1396,6 +1396,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T075034Z" creationid="mohammad" creationdate="20200924T075034Z">
         <seg>"#TUT_KW [CHARACTER.GetShortUINameNoTooltip] can change to this education focus.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#X Invalid savegame. Might cause crashes.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T210932Z" creationid="mohammad" creationdate="20200925T210932Z">
+        <seg>"#X ذخیره بازی بی اعتبار. ممکن است باعث کرش شود.#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4170,6 +4178,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Game Options"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211134Z" creationid="mohammad" creationdate="20200925T211134Z">
+        <seg>"تنظیمات بازی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Game Rule: #N x#![SCOPE.ScriptValue('significantly_slower_game_rule_value')|N]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T123032Z" creationid="mahan" creationdate="20200924T123032Z">
@@ -5034,6 +5050,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Last played: [SaveGameItem.GetLastPlayed]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T210959Z" creationid="mohammad" creationdate="20200925T210959Z">
+        <seg>"آخرین بازی: [SaveGameItem.GetLastPlayed]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Law Replaced"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T080510Z" creationid="mohammad" creationdate="20200925T080510Z">
@@ -5398,6 +5422,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223525Z" creationid="BIG GAMER" creationdate="20200924T223525Z">
         <seg>قرقی کردن در دنیا</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Multiplayer Save ([SaveGameItem.GetNumberOfPlayers] players)"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T210748Z" creationid="mohammad" creationdate="20200925T210748Z">
+        <seg>"دخیره چند نفره ([SaveGameItem.GetNumberOfPlayers] باازیکنان)"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6225,6 +6257,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T124256Z" creationid="Novin Pendar" creationdate="20200924T124256Z">
         <seg>"کشتی سازی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Show Invalid Savegames"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211035Z" creationid="mohammad" creationdate="20200925T211035Z">
+        <seg>"نمایش ذخیره بازی های بی اعتبار"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9049,6 +9089,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GAME_OPTIONS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T211037Z" creationid="mohammad" creationdate="20200925T211037Z">
+        <seg>GAME_OPTIONS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GERMAN:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205048Z" creationid="mohammad" creationdate="20200925T205048Z">
@@ -10041,10 +10089,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LOAD_INVALID_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T210752Z" creationid="mohammad" creationdate="20200925T210752Z">
+        <seg>LOAD_INVALID_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LOAD_IRONMAN_TOOLTIP:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205850Z" creationid="mohammad" creationdate="20200925T205850Z">
         <seg>LOAD_IRONMAN_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOAD_LAST_PLAYED:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T210933Z" creationid="mohammad" creationdate="20200925T210933Z">
+        <seg>LOAD_LAST_PLAYED:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOAD_MULTIPLAYER_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T210652Z" creationid="mohammad" creationdate="20200925T210652Z">
+        <seg>LOAD_MULTIPLAYER_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOAD_SHOW_INVALID_SAVEGAMES:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T210959Z" creationid="mohammad" creationdate="20200925T210959Z">
+        <seg>LOAD_SHOW_INVALID_SAVEGAMES:0</seg>
       </tuv>
     </tu>
     <tu>
