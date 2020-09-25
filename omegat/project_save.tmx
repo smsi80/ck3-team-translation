@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -232,7 +232,7 @@
       <tuv lang="en">
         <seg>"#T $SETTING_HIDE_COAST_BORDER_ON_ZOOM$#!\nThis option will control when coastal realm borders should be shown.\nIf $BASED_ON_ZOOM_LEVEL$ then they will be hidden in the detail zoom level.\n\nPicking a $ALWAYS_SHOW$ or $ALWAYS_HIDE$ may increase performance at the cost of the coastal realm borders not hiding dynamically."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T164025Z" creationid="mohammad" creationdate="20200925T164025Z">
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T175942Z" creationid="mohammad" creationdate="20200925T164025Z">
         <seg>"#T $SETTING_HIDE_COAST_BORDER_ON_ZOOM$#!\nThis option will control when coastal realm borders should be shown.\nIf $BASED_ON_ZOOM_LEVEL$ then they will be hidden in the detail zoom level.\n\nPicking a $ALWAYS_SHOW$ or $ALWAYS_HIDE$ may increase performance at the cost of the coastal realm borders not hiding dynamically."</seg>
       </tuv>
     </tu>
@@ -278,10 +278,28 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T $SETTING_TOOLTIP_MODE_LOCK_ON_ACTION$#!\nPress #V Middle Mouse#! to lock and unlock tooltips."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T180226Z" creationid="mohammad" creationdate="20200925T180226Z">
+        <seg>"#T $SETTING_TOOLTIP_MODE_LOCK_ON_ACTION$#!\nPress #V Middle Mouse#! to lock and unlock tooltips."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T $SETTING_TOOLTIP_MODE_MOUSE_TENDENCY$#!\nTooltips automatically lock in place until the cursor moves away."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T172200Z" creationid="mohammad" creationdate="20200925T172111Z">
         <seg>"#T $SETTING_TOOLTIP_MODE_MOUSE_TENDENCY$#!\nتا وقتی که نشانگر موس حرکت نکند,تولتیپ ها به صورت خودکار درجایشان فقل میشوند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $SETTING_TOOLTIP_OPEN_TIME_WHEN_ANOTHER_LOCKED$#!\nSets the delay before tooltips are locked when another tooltip is already open."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T180224Z" creationid="mohammad" creationdate="20200925T180224Z">
+        <seg>"#T $SETTING_TOOLTIP_OPEN_TIME_WHEN_ANOTHER_LOCKED$#!\nتأخیر را قبل از قفل شدن تولتیپ هنگام باز کردن تولتیپ دیگر تنظیم می کند.
+
+"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6731,6 +6749,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Timer Lock"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T180321Z" creationid="mohammad" creationdate="20200925T180321Z">
+        <seg>"Timer Lock"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Title Law Removed"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T080239Z" creationid="mohammad" creationdate="20200925T080239Z">
@@ -9895,6 +9921,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T142213Z" creationid="mohammad" creationdate="20200925T142213Z">
         <seg>SETTING_TOOLTIP_MODE_TOOLTIP:3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_TOOLTIP_OPEN_TIME_WHEN_ANOTHER_LOCKED:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T175956Z" creationid="mohammad" creationdate="20200925T175956Z">
+        <seg>SETTING_TOOLTIP_OPEN_TIME_WHEN_ANOTHER_LOCKED:0</seg>
       </tuv>
     </tu>
     <tu>
