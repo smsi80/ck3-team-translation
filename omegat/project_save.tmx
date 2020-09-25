@@ -14,14 +14,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>"#F A keep designed to not only house a reputable noble family, but also protect the surrounding town and farmlands.#!"</seg>
-      </tuv>
-      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T111132Z" creationid="Novin Pendar" creationdate="20200924T111132Z">
-        <seg>"#F یک قلعه نه تنها برای سکونت یک خانواده اشراف زاده است، بلکه از شهر ها و زمین های زراعی اطراف هم محافظت میکنه.#!"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>"#F A place of higher learning for those with influence, and gold, enough to gain admission.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T052039Z" creationid="Novin Pendar" creationdate="20200925T052039Z">
@@ -816,8 +808,8 @@
       <tuv lang="en">
         <seg>"Castle"</seg>
       </tuv>
-      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T110430Z" creationid="Novin Pendar" creationdate="20200924T110325Z">
-        <seg>"قلعه"</seg>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T051120Z" creationid="BIG GAMER" creationdate="20200925T051120Z">
+        <seg>قلعه</seg>
       </tuv>
     </tu>
     <tu>
@@ -1864,14 +1856,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>"Motte"</seg>
-      </tuv>
-      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T110616Z" creationid="Novin Pendar" creationdate="20200924T110616Z">
-        <seg>"قلعه چوبی"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>"Moving up in the World"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223525Z" creationid="BIG GAMER" creationdate="20200924T223525Z">
@@ -2391,14 +2375,6 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T114332Z" creationid="Novin Pendar" creationdate="20200924T114332Z">
         <seg>"دژ اصل دفاع است؛ توانا در دفع حمله دشمن و اسکان یک لشکر بزرگ."</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>"The Keep #weak (or Donjon)#! is a large tower serving as a fortified residence and last line of defense."</seg>
-      </tuv>
-      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T113327Z" creationid="Novin Pendar" creationdate="20200924T113327Z">
-        <seg>"قلعه #weak (یا درون قلعه)#! برجی بزرگ است که به عنوان اقامتگاهی مستحکم و آخرین خط دفاعی در نظر گرفته میشود."</seg>
       </tuv>
     </tu>
     <tu>
