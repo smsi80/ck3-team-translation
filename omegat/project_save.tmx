@@ -2032,8 +2032,8 @@
       <tuv lang="en">
         <seg>"Asexuality is the most common Sexuality, while Heterosexuality, Homosexuality and Bisexuality are less common."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mahan" changedate="20200924T131630Z" creationid="mahan" creationdate="20200924T131045Z">
-        <seg>"بی تعامل جنسی معمول ترین است، درحالی که همجنسگرا، دوجنسگرا و دگرجنسگرا بودن معمول نیست."</seg>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T101713Z" creationid="mahan" creationdate="20200924T131045Z">
+        <seg>"بی تعاملی جنسی معمول ترین است، درحالی که همجنسگرا، دوجنسگرا و دگرجنسگرا بودن معمول نیست."</seg>
       </tuv>
     </tu>
     <tu>
@@ -2304,16 +2304,16 @@
       <tuv lang="en">
         <seg>"Characters and Counties are assigned random Faiths. All Faiths in the game are available."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mahan" changedate="20200924T133307Z" creationid="mahan" creationdate="20200924T133307Z">
-        <seg>"اشخاص و شهرستان ها ادیان مختلفی دارند. تمامی ادیان موجود در بازی فعال هستند."</seg>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T101808Z" creationid="mahan" creationdate="20200924T133307Z">
+        <seg>"اشخاص و شهرستان ها ادیان تصادفی دارند. میتواند هر یک از ادیان موجود در بازی باشد."</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"Characters and Counties have historical Faiths."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mahan" changedate="20200924T133212Z" creationid="mahan" creationdate="20200924T133212Z">
-        <seg>"اشخاص و شهرستان ها ادیان تاریخی دارند."</seg>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T101740Z" creationid="mahan" creationdate="20200924T133212Z">
+        <seg>"اشخاص و شهرستان ها ادیان تاریخی اجداد خود را دارند."</seg>
       </tuv>
     </tu>
     <tu>
@@ -4274,8 +4274,8 @@
       <tuv lang="en">
         <seg>"Randomized Faiths"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mahan" changedate="20200924T133130Z" creationid="mahan" creationdate="20200924T132939Z">
-        <seg>"مختلف بودن ادیان"</seg>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T101723Z" creationid="mahan" creationdate="20200924T132939Z">
+        <seg>"تصادفی بودن ادیان"</seg>
       </tuv>
     </tu>
     <tu>
