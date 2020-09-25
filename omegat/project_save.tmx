@@ -248,8 +248,16 @@
       <tuv lang="en">
         <seg>"#T $SETTING_SHOW_DISTURBING_PORTRAIT_MODIFIERS$#!\nSets whether graphic injuries and diseases will be visible on character portraits."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T161315Z" creationid="mohammad" creationdate="20200925T161315Z">
-        <seg>"#T $SETTING_SHOW_DISTURBING_PORTRAIT_MODIFIERS$#!\nSets whether graphic injuries and diseases will be visible on character portraits."</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T184535Z" creationid="mohammad" creationdate="20200925T161315Z">
+        <seg>"#T $SETTING_SHOW_DISTURBING_PORTRAIT_MODIFIERS$#!\nتنظیم میکند که آیا صدمات و بیماری های گرافیکی در پرتره های شخصیت قابل مشاهده باشد."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $SETTING_SHOW_SUGGESTIONS$#!\nSets if the game should suggest something to do at regular intervals. Useful for players new to Crusader Kings III."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T185115Z" creationid="mohammad" creationdate="20200925T185115Z">
+        <seg>"#T $SETTING_SHOW_SUGGESTIONS$#!\nتنظیم می کند که اگر بازی باید کاری را انجام دهد,ان را  فواصل منظم انجام دهد.برای بازیکانان تازه وارد مفید و کاربردی است."</seg>
       </tuv>
     </tu>
     <tu>
@@ -282,6 +290,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T180226Z" creationid="mohammad" creationdate="20200925T180226Z">
         <seg>"#T $SETTING_TOOLTIP_MODE_LOCK_ON_ACTION$#!\nPress #V Middle Mouse#! to lock and unlock tooltips."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $SETTING_TOOLTIP_MODE_LOCK_ON_TIMER$#!\nTooltips are locked in place if the cursor does not move for a short while. #weak (Default setting.)#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T181640Z" creationid="mohammad" creationdate="20200925T181640Z">
+        <seg>"#T $SETTING_TOOLTIP_MODE_LOCK_ON_TIMER$#!\nهنگامی که نشانگر موس بعد از مدتی کوتاه تکان نخورد,تولتیپ ها بر روی صفحه قفل میشوند. #weak (Default setting.)#!"</seg>
       </tuv>
     </tu>
     <tu>
