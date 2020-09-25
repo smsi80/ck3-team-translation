@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1278,6 +1278,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T Reset Reactive Advice#!\nPreviously seen Reactive Advice will show up once more."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T173020Z" creationid="mohammad" creationdate="20200925T173020Z">
+        <seg>"#T Reset Reactive Advice#!\nPreviously seen Reactive Advice will show up once more."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T Sound Effects Volume\n#!Sets the volume of ALL sound effects."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T170612Z" creationid="mohammad" creationdate="20200925T170612Z">
@@ -2486,6 +2494,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Are you sure you want to Reset Reactive Advice?"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T173255Z" creationid="mohammad" creationdate="20200925T173255Z">
+        <seg>"از اینکه میخواهید واکنش های نصحیت امیز را بازنشانی کنید مطمئن هستید؟"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Army Movement"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T110038Z" creationid="mohammad" creationdate="20200924T110038Z">
@@ -3332,6 +3348,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T022744Z" creationid="mohammad" creationdate="20200922T022744Z">
         <seg>"تمرکز روی وظایف"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Dynamic"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T172739Z" creationid="mohammad" creationdate="20200925T172739Z">
+        <seg>"متحرک"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5603,6 +5627,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Reset Reactive Advice"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T173009Z" creationid="mohammad" creationdate="20200925T173009Z">
+        <seg>"راه اندازی مجدد نصجیت های واکنش ها "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Right-Click on Character Portraits to interact with them!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T121709Z" creationid="mohammad" creationdate="20200924T121709Z">
@@ -6743,6 +6775,14 @@
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T170926Z" creationid="Alireza" creationdate="20200925T170926Z">
         <seg>"تولتیپ در تولتیپ ($lesson_basics$)"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Tooltips"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T172649Z" creationid="mohammad" creationdate="20200925T172649Z">
+        <seg>"تولتیپ ها"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8403,6 +8443,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>BASED_ON_ZOOM_LEVEL:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T172711Z" creationid="mohammad" creationdate="20200925T172711Z">
+        <seg>BASED_ON_ZOOM_LEVEL:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CAN_ONLY_CHANGE_FOCUS_ONCE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T085616Z" creationid="mohammad" creationdate="20200924T085616Z">
@@ -9471,6 +9519,38 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T142623Z" creationid="mohammad" creationdate="20200925T142623Z">
         <seg>NEVER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RESET_REACTIVE_ADVICE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T172807Z" creationid="mohammad" creationdate="20200925T172807Z">
+        <seg>RESET_REACTIVE_ADVICE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RESET_REACTIVE_ADVICE_CONFIRMATION_TEXT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T173022Z" creationid="mohammad" creationdate="20200925T173022Z">
+        <seg>RESET_REACTIVE_ADVICE_CONFIRMATION_TEXT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RESET_REACTIVE_ADVICE_CONFIRMATION_TITLE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T173021Z" creationid="mohammad" creationdate="20200925T173021Z">
+        <seg>RESET_REACTIVE_ADVICE_CONFIRMATION_TITLE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RESET_REACTIVE_ADVICE_TOOLTIP:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T173018Z" creationid="mohammad" creationdate="20200925T173018Z">
+        <seg>RESET_REACTIVE_ADVICE_TOOLTIP:1</seg>
       </tuv>
     </tu>
     <tu>
