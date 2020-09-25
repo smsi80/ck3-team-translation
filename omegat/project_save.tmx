@@ -6,6 +6,78 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>"#F A grand hall where heroic warriors can meet and organize.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T130653Z" creationid="Novin Pendar" creationdate="20200924T130653Z">
+        <seg>"#F تالاری عظیم که در آن جنگجویان قهرمان میتوانند ملاقات کنند و سازمان ببینند.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#F A keep designed to not only house a reputable noble family, but also protect the surrounding town and farmlands.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T111132Z" creationid="Novin Pendar" creationdate="20200924T111132Z">
+        <seg>"#F یک قلعه نه تنها برای سکونت یک خانواده اشراف زاده است، بلکه از شهر ها و زمین های زراعی اطراف هم محافظت میکنه.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#F A place of worship ruled by the clergy, surrounded by a town of faithful peasants.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T114611Z" creationid="Novin Pendar" creationdate="20200924T114611Z">
+        <seg>"#F مکانی برای پرستش تحت ریاست روحانیون، محصور شده توسط شهری از روستایی های با ایمان.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#F A populous city which houses a large number of burghers, merchants, and hard-working townsfolk.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T120907Z" creationid="Novin Pendar" creationdate="20200924T120907Z">
+        <seg>"#F شهری پر جمعیت که عده زیادی دزد، تاجر و شهرنشین پرتلاش را اسکان میدهد.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#F A temple sits at the center of the village, carefully constructed by local craftsmen to show their dedication to the faith.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T115002Z" creationid="Novin Pendar" creationdate="20200924T115002Z">
+        <seg>"#F معبد در مرکز روستاه واقع شده، ساخته شده به دقت توسط پیشه وران محلی برای نشان تخصیص نسبت به ایمان.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#F Not satisfied with a small and modest temple, local artisans and architects have worked together to create a true work of art. This grand temple seemingly calls down the power of heaven itself into any worshiper who enters its glorious halls.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T124614Z" creationid="Novin Pendar" creationdate="20200924T120505Z">
+        <seg>"#F راضی نبودن به یک معبد کوچک و ساده ، صنعتگران و معماران را برای خلق هنری واقعی کنار هم آورده. این معبد بزرگ گویای قدرت خود بهشت را بر هر پرستشگری تابانده که به اتاق های شکوهمند آن وارد میشود.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#F Representatives of the Three Estates meet regularly at this building to deliberate on the affairs of the realm and advice the current ruler.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T134358Z" creationid="Novin Pendar" creationdate="20200924T131629Z">
+        <seg>"#F نماینگان سه ایالت به طور منظم در این مکان دیدار میکنند و به کنکاش وقایع و قضایای سرزمین و مشاورده دادن به حاکم میپردازند. #!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#F This building is seemingly excellent for growing vegetables.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T134228Z" creationid="Novin Pendar" creationdate="20200924T134228Z">
+        <seg>"#F این بنا برای رشد سبزیجات عالی به نظر میاد.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#F While the temple can take in a lot of worshipers, that is not its only purpose — it also has to house the clergy, support a large library and protect relics. With the addition of the house of worship there's always plenty of room for the faithful to pray.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T115824Z" creationid="Novin Pendar" creationdate="20200924T115824Z">
+        <seg>"#F درحین اینکه معبد میتواند تعداد زیادی عبادتگر را در خود جای دهد، تنها کاربرد آن نیست — معبد علاوه بر آن امکان سکونت روحانیون، وجود کتابخانه ای بزرگ و مراقبت از اثار مقدس را در بر میگیرد. به علاوه اینکه در خانه پرستش همیشه فضایی برای عبادت مومنان وجود دارد.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T $SETTING_TOOLTIP_DELAY$#!\nSets the delay before tooltips appear."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T183544Z" creationid="mohammad" creationdate="20200924T183544Z">
@@ -462,6 +534,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"A humble harbor sits at the shore, allowing ships to load and off-load their cargo without much effort."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T122949Z" creationid="Novin Pendar" creationdate="20200924T122949Z">
+        <seg>"بندرگاهی کوچک در کنار ساحل که به کشتی ها اجازه بارگزاری یا باراندازی را بدون زحمت بسیار میدهد."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"A revolutionary new means of docking ships has arrived in the form of the drydock. The ship is sailed into a narrow passage, where the water is pumped out. The ship is then suspended on blocks of stone, and can then be repaired and maintained with ease."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T130520Z" creationid="Novin Pendar" creationdate="20200924T130520Z">
+        <seg>"روشی انقلابی و تازه در پهلو دادن کشتی ها در شکل بندر خشک. کشتی داخل گذرگاهی تنگ قرار گرفته و آب آن تخلیه میشود. کشتی سپس به طور معلق بر روی بلوک های سنگی قرار گرفته، حال میتوان آن را تعمیر کرد یا به راحتی نگه داری کرد." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"A workshop where fishing nets are woven has been set up here. Day in and day out nets are made and repaired tirelessly."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T123216Z" creationid="Novin Pendar" creationdate="20200924T123216Z">
+        <seg>"کارگاهی که تور های ماهیگیری بافته شده و در آن قرار میگیرند، روزانه تور ها اینجا ساخته میشوند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Above God"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222248Z" creationid="BIG GAMER" creationdate="20200924T222248Z">
@@ -686,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Bustling Metropolis"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T122023Z" creationid="Novin Pendar" creationdate="20200924T122023Z">
+        <seg>"کلان شهر شلوغ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Cannibal"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T220203Z" creationid="mohammad" creationdate="20200924T220203Z">
@@ -698,6 +802,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223454Z" creationid="BIG GAMER" creationdate="20200924T223454Z">
         <seg>تمرکز قدرت کارولینگیان</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Castle"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T110430Z" creationid="Novin Pendar" creationdate="20200924T110325Z">
+        <seg>"قلعه"</seg>
       </tuv>
     </tu>
     <tu>
@@ -762,6 +874,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T031405Z" creationid="mohammad" creationdate="20200922T031405Z">
         <seg>"انتخاب این [education_focus|E] همچنین تاثیرات زیر را خواهد داشت:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"City Center"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T121506Z" creationid="Novin Pendar" creationdate="20200924T121506Z">
+        <seg>"مرکز شهر</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"City"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T120945Z" creationid="Novin Pendar" creationdate="20200924T120605Z">
+        <seg>"شهر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Concentric Castle"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T114127Z" creationid="Novin Pendar" creationdate="20200924T112936Z">
+        <seg>" قلعه متحد المرکز"</seg>
       </tuv>
     </tu>
     <tu>
@@ -880,6 +1016,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Drydocks"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T125641Z" creationid="Novin Pendar" creationdate="20200924T125641Z">
+        <seg>"بنادر تعمیری"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Duty Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T022744Z" creationid="mohammad" creationdate="20200922T022744Z">
@@ -952,6 +1096,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Expanded Docks"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T123727Z" creationid="Novin Pendar" creationdate="20200924T123727Z">
+        <seg>"بنادر توسعه یافته"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Faith and knowledge. Understanding the divine means understanding the world."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T024642Z" creationid="mohammad" creationdate="20200922T024642Z">
@@ -980,6 +1132,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222612Z" creationid="BIG GAMER" creationdate="20200924T222612Z">
         <seg>کپی خوب</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Fishing Net Weavers"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T123056Z" creationid="Novin Pendar" creationdate="20200924T123056Z">
+        <seg>"تور ماهیگیری بافی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1184,6 +1344,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Fortress"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T114056Z" creationid="Novin Pendar" creationdate="20200924T114056Z">
+        <seg>"دژ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Frankokratia"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215920Z" creationid="BIG GAMER" creationdate="20200924T215920Z">
@@ -1216,6 +1384,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Glass Monument"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T131702Z" creationid="Novin Pendar" creationdate="20200924T131702Z">
+        <seg>"بنای شیشه ای"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Going Places"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222201Z" creationid="BIG GAMER" creationdate="20200924T222201Z">
@@ -1224,10 +1400,82 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Grand Port"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T124628Z" creationid="Novin Pendar" creationdate="20200924T124628Z">
+        <seg>"بندر عظیم"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Grand Temple"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T115848Z" creationid="Novin Pendar" creationdate="20200924T115848Z">
+        <seg>"معبد بزرگ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Hall of Heroes I"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T130854Z" creationid="Novin Pendar" creationdate="20200924T130854Z">
+        <seg>"تالار قهرمانان سطح یک"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Hall of Heroes II"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T130911Z" creationid="Novin Pendar" creationdate="20200924T130911Z">
+        <seg>"تالار قهرمانان سطح دو"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Hall of Heroes III"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T130922Z" creationid="Novin Pendar" creationdate="20200924T130922Z">
+        <seg>"تالار قهرمانان سطح سه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Hall of Heroes IV"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T130934Z" creationid="Novin Pendar" creationdate="20200924T130934Z">
+        <seg>"تالار قهرمانان سطح چهار"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Hall of Heroes V"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T131005Z" creationid="Novin Pendar" creationdate="20200924T131005Z">
+        <seg>"تالار قهرمانان سطح پنج"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Hall of Heroes"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T130528Z" creationid="Novin Pendar" creationdate="20200924T130528Z">
+        <seg>"تالار قهرمانان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Hard"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T213842Z" creationid="BIG GAMER" creationdate="20200924T213842Z">
         <seg>سخت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"House of Worship"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T115336Z" creationid="Novin Pendar" creationdate="20200924T115336Z">
+        <seg>"خانه پرستش"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1368,6 +1616,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Keep"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T110339Z" creationid="Novin Pendar" creationdate="20200924T110339Z">
+        <seg>"قلعه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Keeping it in the Family"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T220200Z" creationid="BIG GAMER" creationdate="20200924T220200Z">
@@ -1452,6 +1708,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222223Z" creationid="BIG GAMER" creationdate="20200924T222223Z">
         <seg>ملک روس</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Large City"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T120937Z" creationid="Novin Pendar" creationdate="20200924T120937Z">
+        <seg>"شهر بزرگ"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1568,6 +1832,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Merchant galleys load and off-load their cargo at this port."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T122816Z" creationid="Novin Pendar" creationdate="20200924T122816Z">
+        <seg>"کشتی تجار در این بندر بار های خود را خالی یا بارگزاری میکنند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Monumental"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222735Z" creationid="BIG GAMER" creationdate="20200924T222735Z">
@@ -1580,6 +1852,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223727Z" creationid="BIG GAMER" creationdate="20200924T223727Z">
         <seg>مادر همه ماها</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Motte"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T110616Z" creationid="Novin Pendar" creationdate="20200924T110616Z">
+        <seg>"قلعه چوبی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1628,6 +1908,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T102557Z" creationid="mohammad" creationdate="20200924T102557Z">
         <seg>"بعدی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"No longer content with just occupying its original area, the city now subsumes nearby farmland into its prosperous center. The city is vast and full of wealth and opportunity."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T121844Z" creationid="Novin Pendar" creationdate="20200924T121844Z">
+        <seg>"ناراضی با اشغال محل اصلی، شهر حالا زمین های زراعی اطراف هم در مرکز پررونق خودش دربر میگیره. شهر وسیع و پر از ثروت و موقعیت است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"No longer will merchant ships have to compete for a spot to load and unload their precious cargo — the abundant space on the dock gives more than enough room for everyone to do business!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T124245Z" creationid="Novin Pendar" creationdate="20200924T124245Z">
+        <seg>"دیگر کشتی تجار سر مکانی برای بارگیری یا باراندازی بار ارزشمندشان رقابت نخواهند داشت — مکان فراوان داخل بندر مکانی فرا تر از کافی برای همه ایجاد میکند تا به کارشان برسند!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1700,6 +1996,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222435Z" creationid="BIG GAMER" creationdate="20200924T222435Z">
         <seg>نماد خوبی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Parliament"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T131015Z" creationid="Novin Pendar" creationdate="20200924T131015Z">
+        <seg>"مجلس</seg>
       </tuv>
     </tu>
     <tu>
@@ -1875,10 +2179,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Several ships lay ready in the yards, waiting for a crew to man them in times of need for the crown."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T125148Z" creationid="Novin Pendar" creationdate="20200924T125148Z">
+        <seg>"تعدادی کشتی در محوطه بندر پهلو گرفته و آماده اند؛ در انتطار خدمه ای برای اداره کردنشان در هنگام نیاز پادشاه ."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Shipwrights"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T123527Z" creationid="Novin Pendar" creationdate="20200924T123527Z">
+        <seg>"کشتی سازی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Shipyards"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T124256Z" creationid="Novin Pendar" creationdate="20200924T124256Z">
+        <seg>"کشتی سازی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Show Me Again"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T103402Z" creationid="mohammad" creationdate="20200924T103402Z">
         <seg>"دوباره نشان بده"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Shrine"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T114625Z" creationid="Novin Pendar" creationdate="20200924T114625Z">
+        <seg>"زیارتگاه"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1895,6 +2231,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T110114Z" creationid="mohammad" creationdate="20200924T110114Z">
         <seg>"محاصره"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Skillful shipwrights gather at this port to construct and repair ships for the highest bidder."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T123704Z" creationid="Novin Pendar" creationdate="20200924T123704Z">
+        <seg>"کشتی سازان چیره دست در این بندر برای ساخت و تعمیرکشتی برای ثروتمند ترین پیشنهاد دهنده جمع میشوند."</seg>
       </tuv>
     </tu>
     <tu>
@@ -1919,6 +2263,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T212956Z" creationid="mohammad" creationdate="20200921T212956Z">
         <seg>"تمرکز روی فریبکاری"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Small Harbor"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T122837Z" creationid="Novin Pendar" creationdate="20200924T122837Z">
+        <seg>" بندرگاه کوچک"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1979,10 +2331,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Temple Grounds"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T114752Z" creationid="Novin Pendar" creationdate="20200924T114752Z">
+        <seg>"صحن معبد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Temple"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T114444Z" creationid="Novin Pendar" creationdate="20200924T114444Z">
+        <seg>"معبد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Temptation Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T213403Z" creationid="mohammad" creationdate="20200921T213403Z">
         <seg>"تمرکز روی اغواگری"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The Concentric Castle is surrounded by two or more walls, the inner one higher than the outer one."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T114044Z" creationid="Novin Pendar" creationdate="20200924T114044Z">
+        <seg>"دژ متحد المرکز قلعه ای احصار شده توسط دو یا چند دیوار است که دیوار های داخلی بلندتر از دیوار های خارجی هستند."</seg>
       </tuv>
     </tu>
     <tu>
@@ -1999,6 +2375,22 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223319Z" creationid="BIG GAMER" creationdate="20200924T223319Z">
         <seg>لباس های جدید امپراطور</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The Fortress is the epitome of defense, able to both repel enemy assaults and house a large military."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T114332Z" creationid="Novin Pendar" creationdate="20200924T114332Z">
+        <seg>"دژ اصل دفاع است؛ توانا در دفع حمله دشمن و اسکان یک لشکر بزرگ."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The Keep #weak (or Donjon)#! is a large tower serving as a fortified residence and last line of defense."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T113327Z" creationid="Novin Pendar" creationdate="20200924T113327Z">
+        <seg>"قلعه #weak (یا درون قلعه)#! برجی بزرگ است که به عنوان اقامتگاهی مستحکم و آخرین خط دفاعی در نظر گرفته میشود."</seg>
       </tuv>
     </tu>
     <tu>
@@ -2039,6 +2431,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023522Z" creationid="mohammad" creationdate="20200922T023522Z">
         <seg>"پیوند های وفاداری ما را محدود نمی کنند، بلکه راه را نشانمان می دهند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The harbor has become a hub for trade and travel in the area. Ships from all around the coast come here to trade."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T123501Z" creationid="Novin Pendar" creationdate="20200924T123501Z">
+        <seg>"بندر به مرکزی برای تجارت و سفر دریایی در منطقه تبدیل شده. کشتی ها از همه طرف در اینجا برای تبادل و تجارت پهلو میگیرند."</seg>
       </tuv>
     </tu>
     <tu>
@@ -2107,10 +2507,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"This city has attracted the attention of traders and craftsmen from all around, with wealthy merchants setting up shop and diligent craftsmen erecting new houses almost daily."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T121320Z" creationid="Novin Pendar" creationdate="20200924T121320Z">
+        <seg>"این شهر توجه تجار و پیشه وران را از هر طرف به خود جذب کرده، با تاجران ثروتمند که دکه های خود را بر پا میکنند و پیشه وران سخت کوش که تقریبا روزانه خانه های جدید برپا میکنند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"This city is known far and wide for the bountiful opportunities that lie within — it is said that even the lowliest peasant can find fortune here. Houses line the streets for as far as the eye can see, with carts and animals busy transporting goods wherever you look."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T122639Z" creationid="Novin Pendar" creationdate="20200924T122639Z">
+        <seg>"این شهر به موقعیت های پر سخاوت و بسیار که درونش قرار دارد معروف است — گفته شده که حتی ضعیف ترین روستایی هم میتواند اینجا مالی بی اندوزد. خانه ها تا جایی که چشم سو میدهد در خطوط کنار خیابان قرار گرفته اند، با گاری ها و حیوانات مشغول حمل کالا ها هر طرفی که می نگری ."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"This grand port offers plenty of room for merchants and fishermen to dock and handle their cargo. Travelers from far and wide come here, seeking safety in the haven that is the port."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T125633Z" creationid="Novin Pendar" creationdate="20200924T125633Z">
+        <seg>"این بندر عظیم مکان بسیاری را در اختیار تجار و ماهی گیران برای پهلو گرفتن و دریافت محصولاتشان میدهد. مسافرین از دور دست ها به این مکان می آیند ، به دنبال ارامش و امنیت در پناهگاهی که در بندر واقع شده."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"This small but formidable fortification is situated upon a raised earthwork."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200920T140656Z" creationid="mohammad" creationdate="20200920T140656Z">
-        <seg>"ترجمه جمله ...."</seg>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T111446Z" creationid="mohammad" creationdate="20200920T140656Z">
+        <seg>"این استحکامات کوچک ولی مقاوم بر روی پشته خاکی  بنا شده"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2143,6 +2567,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T223454Z" creationid="mohammad" creationdate="20200921T223454Z">
         <seg>"شکنجه گر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Tradeport"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T122728Z" creationid="Novin Pendar" creationdate="20200924T122728Z">
+        <seg>"بندر تجاری</seg>
       </tuv>
     </tu>
     <tu>
@@ -2239,6 +2671,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T185113Z" creationid="mohammad" creationdate="20200921T185113Z">
         <seg>"پیروزی نه از طریق خون یا طلا، بلکه با افتخار حاصل می شود."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Village Center"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T120919Z" creationid="Novin Pendar" creationdate="20200924T120919Z">
+        <seg>"مرکز روستا"</seg>
       </tuv>
     </tu>
     <tu>
