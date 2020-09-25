@@ -5771,6 +5771,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Spouse Invalid"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T154613Z" creationid="mohammad" creationdate="20200925T154613Z">
+        <seg>"نامزد نا معتبر است"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Start Ironman"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T112559Z" creationid="mahan" creationdate="20200924T112559Z">
@@ -7211,10 +7219,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Your [betrothal|E] to [LEFT_CHARACTER.GetShortUIName] has been broken."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T154501Z" creationid="mohammad" creationdate="20200925T154501Z">
+        <seg>"شما [betrothal|E] به [LEFT_CHARACTER.GetShortUIName] شکسته شده است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Your new [faith|E] dictates that you may no longer be betrothed to [LEFT_CHARACTER.GetShortUIName]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T154159Z" creationid="mohammad" creationdate="20200925T154159Z">
         <seg>"جدید شما [faith|E] حکم میکند تا شما دیگر نامزد نباشید با [LEFT_CHARACTER.GetShortUIName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Your new [faith|E]'s beliefs mean that [LEFT_CHARACTER.GetShortUIName] is no longer your [spouse|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T154818Z" creationid="mohammad" creationdate="20200925T154818Z">
+        <seg>"جدید شما [faith|E]'s اعتقادات جدید شما [LEFT_CHARACTER.GetShortUIName] این امکان وجود ندارد که‎[spouse|E]‎‏"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7399,6 +7423,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T153732Z" creationid="mohammad" creationdate="20200925T080608Z">
         <seg>"[LEFT_CHARACTER.GetShortUINameNoTooltip] شما را به عنوان رهبر جایگزین کرد. [FACTION.GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[LEFT_CHARACTER.GetShortUINamePossessive] [betrothal|E] to [RIGHT_CHARACTER.GetShortUIName] has been broken."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T154545Z" creationid="mohammad" creationdate="20200925T154545Z">
+        <seg>"[LEFT_CHARACTER.GetShortUINamePossessive] [betrothal|E] به [RIGHT_CHARACTER.GetShortUIName] شکسته شد."</seg>
       </tuv>
     </tu>
     <tu>
@@ -7639,6 +7671,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T154203Z" creationid="mohammad" creationdate="20200925T154203Z">
         <seg>"[player_heir|E] $msg_betrothal_invalidated$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[player_heir|E] $msg_break_betrothal$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T154502Z" creationid="mohammad" creationdate="20200925T154502Z">
+        <seg>"[player_heir|E] $msg_break_betrothal$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11314,6 +11354,30 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_break_betrothal_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T154428Z" creationid="mohammad" creationdate="20200925T154428Z">
+        <seg>msg_break_betrothal_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_break_betrothal_player_heir:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T154502Z" creationid="mohammad" creationdate="20200925T154502Z">
+        <seg>msg_break_betrothal_player_heir:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_break_betrothal_player_heir_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T154503Z" creationid="mohammad" creationdate="20200925T154503Z">
+        <seg>msg_break_betrothal_player_heir_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_broken_alliance:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T072610Z" creationid="mohammad" creationdate="20200925T072610Z">
@@ -11966,6 +12030,22 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071216Z" creationid="mohammad" creationdate="20200925T071216Z">
         <seg>msg_siege_won_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_spouse_invalidated:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T154552Z" creationid="mohammad" creationdate="20200925T154552Z">
+        <seg>msg_spouse_invalidated:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_spouse_invalidated_desc:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T154614Z" creationid="mohammad" creationdate="20200925T154614Z">
+        <seg>msg_spouse_invalidated_desc:2</seg>
       </tuv>
     </tu>
     <tu>
