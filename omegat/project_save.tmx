@@ -8501,6 +8501,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[CHARACTER.GetUIName] is waiting for answer regarding $INTERACTION|D$ between [TARGET_CHARACTER.GetUIName] and [TARGET_CHARACTER_2.GetUIName]."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T220035Z" creationid="mohammad" creationdate="20200925T220035Z">
+        <seg>"[CHARACTER.GetUIName] is waiting for answer regarding $INTERACTION|D$ between [TARGET_CHARACTER.GetUIName] and [TARGET_CHARACTER_2.GetUIName]."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[CHARACTER.GetUIName] is waiting for answer regarding $INTERACTION|D$."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T215942Z" creationid="mohammad" creationdate="20200925T215942Z">
@@ -9661,6 +9669,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T215921Z" creationid="mohammad" creationdate="20200925T215921Z">
         <seg>CHARACTER_INTERACTION_REPLY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_INTERACTION_REPLY_MARRIAGE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T220001Z" creationid="mohammad" creationdate="20200925T220001Z">
+        <seg>CHARACTER_INTERACTION_REPLY_MARRIAGE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_INTERACTION_REPLY_TITLE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T220231Z" creationid="mohammad" creationdate="20200925T220231Z">
+        <seg>CHARACTER_INTERACTION_REPLY_TITLE:0</seg>
       </tuv>
     </tu>
     <tu>
