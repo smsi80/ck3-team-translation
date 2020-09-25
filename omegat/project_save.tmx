@@ -8289,6 +8289,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"ﻪﻠﺑ"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T202052Z" creationid="mohammad" creationdate="20200925T202052Z">
+        <seg>"ﻪﻠﺑ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>#  @test_flower! [pic|E]"</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T172901Z" creationid="Alireza" creationdate="20200925T172901Z">
