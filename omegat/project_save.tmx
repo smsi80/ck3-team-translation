@@ -1464,6 +1464,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#X $NAME$ blocked your $INTERACTION|D$.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T221310Z" creationid="mohammad" creationdate="20200925T221310Z">
+        <seg>"#X $NAME$ مسدود کرد $INTERACTION|D$.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#X Invalid savegame. Might cause crashes.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T210932Z" creationid="mohammad" creationdate="20200925T210932Z">
@@ -1810,8 +1818,8 @@
       <tuv lang="en">
         <seg>"$NAME$ accepted your $INTERACTION|D$."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T220610Z" creationid="mohammad" creationdate="20200925T220610Z">
-        <seg>"$NAME$ پذیرفت $INTERACTION|D$."</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T221235Z" creationid="mohammad" creationdate="20200925T220610Z">
+        <seg>"$NAME$ موافقت کرد با $INTERACTION|D$."</seg>
       </tuv>
     </tu>
     <tu>
@@ -2336,10 +2344,28 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"@warning_icon!#X $CHARACTER_INTERACTION_ALREADY_CONSIDERING$#! "
+ CHARACTER_INTERACTION_ALREADY_CONSIDERING:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T221433Z" creationid="mohammad" creationdate="20200925T221433Z">
+        <seg>"@warning_icon!#X $CHARACTER_INTERACTION_ALREADY_CONSIDERING$#! "
+ CHARACTER_INTERACTION_ALREADY_CONSIDERING:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"@warning_icon!#X [CHARACTER.GetShortUINameNoTooltip] already has this focus!#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T074949Z" creationid="mohammad" creationdate="20200924T074949Z">
         <seg>"@warning_icon!#X [CHARACTER.GetShortUINameNoTooltip] already has this focus!#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@warning_icon!#X [CHARACTER.GetShortUIName] would not accept this#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T221412Z" creationid="mohammad" creationdate="20200925T221412Z">
+        <seg>"@warning_icon!#X [CHARACTER.GetShortUIName] این را قبول نمی کند #!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8525,6 +8551,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[CHARACTER.GetUIName] is already considering a proposal from [TARGET_CHARACTER.GetUIName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T221454Z" creationid="mohammad" creationdate="20200925T221435Z">
+        <seg>"[CHARACTER.GetUIName] در حال بررسی پیشنهاد از [TARGET_CHARACTER.GetUIName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[CHARACTER.GetUIName] is waiting for answer regarding $INTERACTION|D$ between [TARGET_CHARACTER.GetUIName] and [TARGET_CHARACTER_2.GetUIName]."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T221033Z" creationid="mohammad" creationdate="20200925T220035Z">
@@ -9689,10 +9723,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CHARACTER_INTERACTION_ALREADY_CONSIDERING_WARNING:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T221413Z" creationid="mohammad" creationdate="20200925T221413Z">
+        <seg>CHARACTER_INTERACTION_ALREADY_CONSIDERING_WARNING:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_INTERACTION_CANT_SEND_RECIPIENT_REJECTS:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T221311Z" creationid="mohammad" creationdate="20200925T221311Z">
+        <seg>CHARACTER_INTERACTION_CANT_SEND_RECIPIENT_REJECTS:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_INTERACTION_NO_TARGET_SELECTED:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T221440Z" creationid="mohammad" creationdate="20200925T221440Z">
+        <seg>CHARACTER_INTERACTION_NO_TARGET_SELECTED:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CHARACTER_INTERACTION_REPLY:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T215921Z" creationid="mohammad" creationdate="20200925T215921Z">
         <seg>CHARACTER_INTERACTION_REPLY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_INTERACTION_REPLY_BLOCKED:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T221228Z" creationid="mohammad" creationdate="20200925T221228Z">
+        <seg>CHARACTER_INTERACTION_REPLY_BLOCKED:2</seg>
       </tuv>
     </tu>
     <tu>
