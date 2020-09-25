@@ -2318,6 +2318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Always Hide"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142918Z" creationid="mohammad" creationdate="20200925T142906Z">
+        <seg>"همیشه مخفی کن"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Ambience"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T213815Z" creationid="mohammad" creationdate="20200924T213815Z">
@@ -3248,6 +3256,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Every 5 years"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142717Z" creationid="mohammad" creationdate="20200925T142717Z">
+        <seg>"هر پنچ سال"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Every 6 months"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142740Z" creationid="mohammad" creationdate="20200925T142651Z">
+        <seg>"هر شیش ماه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Every month"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142640Z" creationid="mohammad" creationdate="20200925T142640Z">
+        <seg>"هر ماه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Every year"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142703Z" creationid="mohammad" creationdate="20200925T142703Z">
+        <seg>"هر ماه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Excellent"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T103129Z" creationid="mohammad" creationdate="20200924T103129Z">
@@ -3788,6 +3828,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T124640Z" creationid="mahan" creationdate="20200924T124640Z">
         <seg>"برابری جنسیتی بر پایه تعالیم دینی و قوانین دولت میباشد ."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"General"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142622Z" creationid="mohammad" creationdate="20200925T142622Z">
+        <seg>"General"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4864,6 +4912,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Never"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142631Z" creationid="mohammad" creationdate="20200925T142631Z">
+        <seg>"هرگز"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"New Faction Leader"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T080556Z" creationid="mohammad" creationdate="20200925T080556Z">
@@ -5535,6 +5591,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T103402Z" creationid="mohammad" creationdate="20200924T103402Z">
         <seg>"دوباره نشان بده"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Show Reactive Advice"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142807Z" creationid="mohammad" creationdate="20200925T142807Z">
+        <seg>"Show Reactive Advice"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Show Suggestions"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142905Z" creationid="mohammad" creationdate="20200925T142905Z">
+        <seg>"Show Suggestions"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7825,6 +7897,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ALWAYS_HIDE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142908Z" creationid="mohammad" creationdate="20200925T142908Z">
+        <seg>ALWAYS_HIDE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CAN_ONLY_CHANGE_FOCUS_ONCE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T085616Z" creationid="mohammad" creationdate="20200924T085616Z">
@@ -7873,10 +7953,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FIVE_YEAR:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142704Z" creationid="mohammad" creationdate="20200925T142704Z">
+        <seg>FIVE_YEAR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FOCUS_MAX_CHANGES:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030421Z" creationid="mohammad" creationdate="20200922T030421Z">
         <seg>FOCUS_MAX_CHANGES:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HALFYEAR:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142641Z" creationid="mohammad" creationdate="20200925T142641Z">
+        <seg>HALFYEAR:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -8865,6 +8961,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MONTHLY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142631Z" creationid="mohammad" creationdate="20200925T142631Z">
+        <seg>MONTHLY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>NEVER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142623Z" creationid="mohammad" creationdate="20200925T142623Z">
+        <seg>NEVER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SETTINGS_CATEGORY_INTERFACE_MISC:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T142517Z" creationid="mohammad" creationdate="20200925T142517Z">
@@ -8929,10 +9041,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SETTING_REACTIVE_TUTORIAL:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142741Z" creationid="mohammad" creationdate="20200925T142741Z">
+        <seg>SETTING_REACTIVE_TUTORIAL:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_REACTIVE_TUTORIAL_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142829Z" creationid="mohammad" creationdate="20200925T142829Z">
+        <seg>SETTING_REACTIVE_TUTORIAL_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SETTING_REALM_BORDERS_AGAINST_WATER:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T182920Z" creationid="mohammad" creationdate="20200924T182920Z">
         <seg>SETTING_REALM_BORDERS_AGAINST_WATER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SETTING_SHOW_SUGGESTIONS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142830Z" creationid="mohammad" creationdate="20200925T142830Z">
+        <seg>SETTING_SHOW_SUGGESTIONS:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -9085,6 +9221,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T103415Z" creationid="mohammad" creationdate="20200924T103415Z">
         <seg>TUTORIAL_STEP_INSTRUCTIONS:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YEARLY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T142652Z" creationid="mohammad" creationdate="20200925T142652Z">
+        <seg>YEARLY:0</seg>
       </tuv>
     </tu>
     <tu>
