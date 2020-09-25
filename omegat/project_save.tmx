@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#F While Pagan has thousands of pagodas, temples, and shrines littered throughout the city and the surrounding plains, the Ananda Temple stands as a crowning achievement among them. The perfectly dimensioned structure contains many unique plaques and stone images. It is a place of worship and a center of learning to educate the people in religious ethos."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T124948Z" creationid="mahan" creationdate="20200925T124948Z">
+        <seg>"#F درحالی که بت پرستان هزاران برج،معبد و زیارت گاه در شهر و دشت های اطراف دارند، معبد آناندا بزرگترین دستاورد آنهاست. این بنای زیبا دارای طرح های خاص سنگی میباشد. این معبد یک مکان مناسب برای پرستش و آموزش دین به مردم است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#F While the temple can take in a lot of worshipers, that is not its only purpose — it also has to house the clergy, support a large library and protect relics. With the addition of the house of worship there's always plenty of room for the faithful to pray.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T115824Z" creationid="Novin Pendar" creationdate="20200924T115824Z">
@@ -2318,10 +2326,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Ananda Temple"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T124959Z" creationid="mahan" creationdate="20200925T124959Z">
+        <seg>"معبد آناندا"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Apiaries"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T053924Z" creationid="Novin Pendar" creationdate="20200925T053924Z">
         <seg>"کندو زنبور"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Archery Ranges"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T130800Z" creationid="mahan" creationdate="20200925T130800Z">
+        <seg>"مناطق تمرین تیراندازی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2442,6 +2466,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223054Z" creationid="BIG GAMER" creationdate="20200924T223054Z">
         <seg>خون کثیف</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Bailiff's Office"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T130355Z" creationid="mahan" creationdate="20200925T130355Z">
+        <seg>"دفتر دادسرا"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2702,6 +2734,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Chateau"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T130830Z" creationid="mahan" creationdate="20200925T130259Z">
+        <seg>"عمارت شخصی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Child's Heritage"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T230744Z" creationid="mohammad" creationdate="20200924T230744Z">
@@ -2842,6 +2882,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054100Z" creationid="Novin Pendar" creationdate="20200925T054100Z">
         <seg>"استبل"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Crownswood Courts"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T125732Z" creationid="mahan" creationdate="20200925T125433Z">
+        <seg>" داداگاه های سلطنتی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3752,6 +3800,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Gold Mine"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T131145Z" creationid="mahan" creationdate="20200925T131145Z">
+        <seg>"معدن طلا"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Grafted Trees"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063108Z" creationid="Novin Pendar" creationdate="20200925T063108Z">
@@ -3772,6 +3828,22 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T073203Z" creationid="Novin Pendar" creationdate="20200925T073203Z">
         <seg>"املاک بزرگ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Grand Halls"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T131136Z" creationid="mahan" creationdate="20200925T131136Z">
+        <seg>"تالار های باشکوه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Grand Military Academies"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T130933Z" creationid="mahan" creationdate="20200925T130933Z">
+        <seg>"آکادمی ارتشی وسیع"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4384,6 +4456,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Large Gold Mine"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T131233Z" creationid="mahan" creationdate="20200925T131233Z">
+        <seg>"معدن طلای بزرگ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Last Count, First King"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215057Z" creationid="BIG GAMER" creationdate="20200924T215057Z">
@@ -4528,6 +4608,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Markets"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T131107Z" creationid="mahan" creationdate="20200925T131107Z">
+        <seg>"بازارها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Marriage: Your [GetPlayer.Custom2('RelationToMeShort', LEFT_CHARACTER.Self )] #high [LEFT_CHARACTER.GetFirstNameNoTooltip]#! and #high [RIGHT_CHARACTER.GetFirstNameNoTooltip]#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065848Z" creationid="mohammad" creationdate="20200925T065848Z">
@@ -4588,6 +4676,22 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T122816Z" creationid="Novin Pendar" creationdate="20200924T122816Z">
         <seg>"کشتی تجار در این بندر بار های خود را خالی یا بارگزاری میکنند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Military Academies"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T131042Z" creationid="mahan" creationdate="20200925T131042Z">
+        <seg>"آکادمی ارتشی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Military Schools"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T131037Z" creationid="mahan" creationdate="20200925T131037Z">
+        <seg>"مدارس نظامی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4876,6 +4980,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T133140Z" creationid="mahan" creationdate="20200924T133140Z">
         <seg>"غیرفعال"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Officer's Academies"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T131024Z" creationid="mahan" creationdate="20200925T131024Z">
+        <seg>"آکادمی افسران"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5179,6 +5291,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Royal Armories"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T130918Z" creationid="mahan" creationdate="20200925T130918Z">
+        <seg>"اسلحه خانه سلطنتی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Royal Dignity"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222104Z" creationid="BIG GAMER" creationdate="20200924T222104Z">
@@ -5187,10 +5307,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Royal Forests"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T125822Z" creationid="mahan" creationdate="20200925T125822Z">
+        <seg>"جنگل های سلطنتی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Royal Palace of $building_type_alhambra_01$"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T113317Z" creationid="Novin Pendar" creationdate="20200925T113317Z">
         <seg>"تالار سلطنتیf $building_type_alhambra_01$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Royal Reserves"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T130018Z" creationid="mahan" creationdate="20200925T130018Z">
+        <seg>"ارتش سلطنتی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5515,6 +5651,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Summer Palace"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T130037Z" creationid="mahan" creationdate="20200925T130037Z">
+        <seg>"کاخ تابستانی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Task Aborted"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T074101Z" creationid="mohammad" creationdate="20200925T074101Z">
@@ -5527,6 +5671,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T072518Z" creationid="mohammad" creationdate="20200925T072518Z">
         <seg>"کار به پایان رسید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Tax Offices"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T130622Z" creationid="mahan" creationdate="20200925T130622Z">
+        <seg>"دفتر مالیات"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6339,6 +6491,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Vast Crown Forests"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T125808Z" creationid="mahan" creationdate="20200925T125808Z">
+        <seg>"جنگل های وسیع سلطنتی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Vast estates of a scale rarely seen, these grand complexes can maintain a household of thousands."</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T073455Z" creationid="Novin Pendar" creationdate="20200925T073455Z">
@@ -6495,6 +6655,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T110216Z" creationid="mohammad" creationdate="20200924T110216Z">
         <seg>"پیروزی در جنگ ها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Winter Palace"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T130026Z" creationid="mahan" creationdate="20200925T130026Z">
+        <seg>"کاخ زمستانی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8813,6 +8981,15 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T130215Z" creationid="mohammad" creationdate="20200924T130215Z">
         <seg>become_greatest_of_khans_decision_tooltip:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>building_royal_forest_03:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T125414Z" creationid="mahan" creationdate="20200925T125414Z">
+        <seg>
+building_royal_forest_03:0</seg>
       </tuv>
     </tu>
     <tu>
