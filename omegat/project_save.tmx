@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Cattle Ranches"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054259Z" creationid="Novin Pendar" creationdate="20200925T054259Z">
+        <seg>"پرورش گوساله"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Celebrity"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215942Z" creationid="BIG GAMER" creationdate="20200924T215942Z">
@@ -2064,6 +2072,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Orchards"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054358Z" creationid="Novin Pendar" creationdate="20200925T054358Z">
+        <seg>"باغ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Overseer"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T185007Z" creationid="mohammad" creationdate="20200921T185007Z">
@@ -2132,6 +2148,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T110029Z" creationid="mohammad" creationdate="20200924T105845Z">
         <seg>"جمع کردن ارتش"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Ranches are ideal for housing large herds of cattle, providing ample grazing and space to move."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054351Z" creationid="Novin Pendar" creationdate="20200925T054351Z">
+        <seg>"پرورشگاه های مکانی ایده آل برای نگه داری گله های بزرگ گاو و گوساله است که دارای چراگاه و فضا برای گردش است."</seg>
       </tuv>
     </tu>
     <tu>
@@ -2543,6 +2567,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030231Z" creationid="mohammad" creationdate="20200922T030231Z">
         <seg>"دانش کسانی که قبلا آمده اند، دانش کسانی که هنوز زنده اند و دانش حقایق همیشگی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The large and spacious corrals make keeping horses and similar beasts of burden simple."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054220Z" creationid="Novin Pendar" creationdate="20200925T054220Z">
+        <seg>"استبل های بزرگ و جادار نگه داری از اسب ها و موجودات از این قبیل رو راحت میکنند."</seg>
       </tuv>
     </tu>
     <tu>
