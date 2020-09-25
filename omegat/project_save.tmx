@@ -2506,8 +2506,8 @@
       <tuv lang="en">
         <seg>"De Jure Requirement"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mahan" changedate="20200925T102609Z" creationid="mahan" creationdate="20200925T102609Z">
-        <seg>"شرایط مالکیت"</seg>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T104107Z" creationid="mahan" creationdate="20200925T102609Z">
+        <seg>"حق مالکیت"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5149,16 +5149,16 @@
       <tuv lang="en">
         <seg>"Titles with De Jure land will eventually be destroyed if a character holds no De Jure land of the title within their realm. The Player's Primary title will never be destroyed."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mahan" changedate="20200925T103647Z" creationid="mahan" creationdate="20200925T103525Z">
-        <seg>"افرادی که ملک شخصی غیرقانونی و بیرون از حاکمیت خود داشته باشند پس از مرگ ملک و مقام خود را از دست میدهند. مقام اصلی شخص از بین نمیرود."</seg>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T104250Z" creationid="mahan" creationdate="20200925T103525Z">
+        <seg>"اگر دارنده ی سمت هایی که دارای ملک هایی با حق زمین هستند هیچ ملکی با حق مالکیت آن سمت را دارا نباشد،آن سمت در نهایت نابود خواهد شد."</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"Titles with De Jure land will eventually be destroyed if a character holds no De Jure land of the title within their realm."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mahan" changedate="20200925T103547Z" creationid="mahan" creationdate="20200925T103112Z">
-        <seg>"افرادی که ملک شخصی غیرقانونی و بیرون از حاکمیت خود داشته باشند پس از مرگ ملک و مقام خود را از دست میدهند."</seg>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T104334Z" creationid="mahan" creationdate="20200925T103112Z">
+        <seg>"عناوینی با محدوده زمین قانونی مشخص، خود به خود نابود خواهند شد اگر شخصیت دارای عنوان، هیچ یک از زمین‌های قانونی متعلق به ان عنوان را در اختیار نداشته باشد."</seg>
       </tuv>
     </tu>
     <tu>
