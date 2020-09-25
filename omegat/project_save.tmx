@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Attached to the manors are large gardens and fields of ripe vegetables, making them essentially self-sustainable."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063732Z" creationid="Novin Pendar" creationdate="20200925T063732Z">
+        <seg>"چسبیده به خانه ها بزرگ ، باغچه ها و زمین های سبزیجاتی وجود دارد که آنها را خودکفا میکند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Attempted Murder"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T215507Z" creationid="mohammad" creationdate="20200924T215507Z">
@@ -1256,6 +1264,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Farm Estates"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063846Z" creationid="Novin Pendar" creationdate="20200925T063745Z">
+        <seg>"املاک زراعی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Farm estates hold jurisdiction over the fields, forests, and outbuildings that surround them."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063930Z" creationid="Novin Pendar" creationdate="20200925T063930Z">
+        <seg>"املاک زراعی صلاحیت قانونی و تسلط بر زمین ها جنگل ها و سازه های اطرافشان دارند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Fine Print"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222612Z" creationid="BIG GAMER" creationdate="20200924T222612Z">
@@ -1660,6 +1684,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T115336Z" creationid="Novin Pendar" creationdate="20200924T115336Z">
         <seg>"خانه پرستش"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Hundred-acre Fields"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063940Z" creationid="Novin Pendar" creationdate="20200925T063940Z">
+        <seg>"زمین های صد هکتاری"</seg>
       </tuv>
     </tu>
     <tu>
