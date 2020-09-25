@@ -1214,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#high On (Limited)#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T103127Z" creationid="mahan" creationdate="20200925T103127Z">
+        <seg>"#high روشن (محدود)#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#high Restricted#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T102019Z" creationid="mahan" creationdate="20200925T102019Z">
@@ -5135,6 +5143,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071103Z" creationid="mohammad" creationdate="20200925T071103Z">
         <seg>"عنائین از دست رفته"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Titles with De Jure land will eventually be destroyed if a character holds no De Jure land of the title within their realm. The Player's Primary title will never be destroyed."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200925T103525Z" creationid="mahan" creationdate="20200925T103525Z">
+        <seg>"افرادی که ملک شخصی غیرقانونی و بیرون از حاکمیت خود داشته باشند پس از مرگ ملک و نام خود را از دست میدهند. مقام اصلی شخص از بین نمیرود."</seg>
       </tuv>
     </tu>
     <tu>
