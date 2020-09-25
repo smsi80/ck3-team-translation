@@ -7357,8 +7357,8 @@
       <tuv lang="en">
         <seg>"[LEFT_CHARACTER.GetShortUINameNoTooltip] has replaced you as the leader of [FACTION.GetName]"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T080608Z" creationid="mohammad" creationdate="20200925T080608Z">
-        <seg>"[LEFT_CHARACTER.GetShortUINameNoTooltip] has replaced you as the leader of [FACTION.GetName]"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T153732Z" creationid="mohammad" creationdate="20200925T080608Z">
+        <seg>"[LEFT_CHARACTER.GetShortUINameNoTooltip] شما را به عنوان رهبر جایگزین کرد. [FACTION.GetName]"</seg>
       </tuv>
     </tu>
     <tu>
