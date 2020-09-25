@@ -3128,6 +3128,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Divorce"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T154828Z" creationid="mohammad" creationdate="20200925T154828Z">
+        <seg>"طلاق"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Do Explain"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T103112Z" creationid="mohammad" creationdate="20200924T103112Z">
@@ -7043,6 +7051,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"You have gotten [divorced|E] from [LEFT_CHARACTER.GetShortUIName] – [LEFT_CHARACTER.GetSheHe] is no longer your [spouse|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T154925Z" creationid="mohammad" creationdate="20200925T154925Z">
+        <seg>"شما گرفتید [divorced|E] از [LEFT_CHARACTER.GetShortUIName] – [LEFT_CHARACTER.GetSheHe] دیگر نامزد شما نیست [spouse|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"You inherited the [LEFT_TITLE.GetName] and $VALUE$ other titles from [CHARACTER.GetUINameNoTooltip] ($LAW$ )"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071018Z" creationid="mohammad" creationdate="20200925T071018Z">
@@ -7443,6 +7459,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[LEFT_CHARACTER.GetShortUINamePossessive] new [faith|E]'s beliefs mean that [RIGHT_CHARACTER.GetShortUIName] is no longer [LEFT_CHARACTER.GetHerHis] [spouse|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T155603Z" creationid="mohammad" creationdate="20200925T155603Z">
+        <seg>"[LEFT_CHARACTER.GetShortUINamePossessive] جدید [faith|E]'s اعتقادات شما به این معنی هستند که [RIGHT_CHARACTER.GetShortUIName] دیگر نیستr [LEFT_CHARACTER.GetHerHis] [spouse|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[LEFT_CHARACTER.GetShortUIName|U] has declared war on [RIGHT_CHARACTER.GetShortUIName]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T074605Z" creationid="mohammad" creationdate="20200925T074605Z">
@@ -7679,6 +7703,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T154502Z" creationid="mohammad" creationdate="20200925T154502Z">
         <seg>"[player_heir|E] $msg_break_betrothal$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[player_heir|E] $msg_spouse_invalidated$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T154927Z" creationid="mohammad" creationdate="20200925T154927Z">
+        <seg>"[player_heir|E] $msg_spouse_invalidated$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11450,6 +11482,22 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>msg_divorce:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T154819Z" creationid="mohammad" creationdate="20200925T154819Z">
+        <seg>msg_divorce:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_divorce_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T154829Z" creationid="mohammad" creationdate="20200925T154829Z">
+        <seg>msg_divorce_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>msg_expired_alliance:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T072642Z" creationid="mohammad" creationdate="20200925T072642Z">
@@ -12046,6 +12094,22 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T154614Z" creationid="mohammad" creationdate="20200925T154614Z">
         <seg>msg_spouse_invalidated_desc:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_spouse_invalidated_player_heir:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T154926Z" creationid="mohammad" creationdate="20200925T154926Z">
+        <seg>msg_spouse_invalidated_player_heir:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>msg_spouse_invalidated_player_heir_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200925T154927Z" creationid="mohammad" creationdate="20200925T154927Z">
+        <seg>msg_spouse_invalidated_player_heir_desc:0</seg>
       </tuv>
     </tu>
     <tu>
