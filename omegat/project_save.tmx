@@ -6272,10 +6272,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Levies"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T090948Z" creationid="mohammad" creationdate="20200926T090948Z">
+        <seg>"سرباز"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Liege Goes to War!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T074554Z" creationid="mohammad" creationdate="20200925T074554Z">
         <seg>"ارباب به جنگ میرود!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Liege"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T090748Z" creationid="mohammad" creationdate="20200926T090748Z">
+        <seg>"ارباب"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7771,6 +7787,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Scheme"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T090645Z" creationid="mohammad" creationdate="20200926T090645Z">
+        <seg>"نقشه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Schemer"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T213323Z" creationid="mohammad" creationdate="20200921T213323Z">
@@ -8231,6 +8255,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000859Z" creationid="mohammad" creationdate="20200926T000859Z">
         <seg>"درآمد مشمول مالیات"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Taxes"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T090812Z" creationid="mohammad" creationdate="20200926T090812Z">
+        <seg>"مالیات"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9255,6 +9287,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233433Z" creationid="mohammad" creationdate="20200925T233433Z">
         <seg>"واسال درون [realm|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Vassal"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T090725Z" creationid="mohammad" creationdate="20200926T090725Z">
+        <seg>"بنده"</seg>
       </tuv>
     </tu>
     <tu>
@@ -16748,6 +16788,54 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T032453Z" creationid="mohammad" creationdate="20200922T032453Z">
         <seg>game_concept_education_focus_short:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>game_concept_levies:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T090814Z" creationid="mohammad" creationdate="20200926T090814Z">
+        <seg>game_concept_levies:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>game_concept_liege:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T090727Z" creationid="mohammad" creationdate="20200926T090727Z">
+        <seg>game_concept_liege:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>game_concept_scheme:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T090642Z" creationid="mohammad" creationdate="20200926T090642Z">
+        <seg>game_concept_scheme:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>game_concept_scheming:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T090710Z" creationid="mohammad" creationdate="20200926T090710Z">
+        <seg>game_concept_scheming:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>game_concept_taxes:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T090750Z" creationid="mohammad" creationdate="20200926T090750Z">
+        <seg>game_concept_taxes:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>game_concept_vassal:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T090711Z" creationid="mohammad" creationdate="20200926T090711Z">
+        <seg>game_concept_vassal:0</seg>
       </tuv>
     </tu>
     <tu>
