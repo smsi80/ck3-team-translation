@@ -17125,8 +17125,9 @@ building_royal_forest_03:0</seg>
         <seg>l_english:
  SM_LANGUAGE:0</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T203600Z" creationid="mohammad" creationdate="20200925T203600Z">
-        <seg></seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T015623Z" creationid="mohammad" creationdate="20200926T015623Z">
+        <seg>l_english:
+ SM_LANGUAGE:0</seg>
       </tuv>
     </tu>
     <tu>
