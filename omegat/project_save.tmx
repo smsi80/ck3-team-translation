@@ -4254,6 +4254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Crown Authority"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T181109Z" creationid="BIG GAMER" creationdate="20200926T181109Z">
+        <seg>اختیارات سلطنتی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Crownswood Courts"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T125732Z" creationid="mahan" creationdate="20200925T125433Z">
@@ -5164,6 +5172,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233449Z" creationid="mohammad" creationdate="20200925T233449Z">
         <seg>"همکار [vassal|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Feudal Contract"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T181009Z" creationid="BIG GAMER" creationdate="20200926T181009Z">
+        <seg>ققرار داد فئودالی</seg>
       </tuv>
     </tu>
     <tu>
@@ -10479,6 +10495,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T223658Z" creationid="mohammad" creationdate="20200925T223658Z">
         <seg>"ارزش: $VALUE|+0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Vassal Obligations"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T180907Z" creationid="BIG GAMER" creationdate="20200926T180907Z">
+        <seg>تعهدات فرمان بران</seg>
       </tuv>
     </tu>
     <tu>
