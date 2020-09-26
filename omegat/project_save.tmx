@@ -12091,6 +12091,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[traits|E] can also impact how other [characters|E] react to #EMP you#!.\n\nSome people are impressed by the @brave_icon! [GetTrait('brave').GetName( GetNullCharacter )] Trait, while a @lustful_icon! [GetTrait('lustful').GetName( GetNullCharacter )] Character is more likely to feature in salacious gossip...\n\n#TUT Traits influence other Characters' morality and greed, which can affect both their friendly and hostile actions.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T161412Z" creationid="mohammad" creationdate="20200926T161412Z">
+        <seg>"[traits|E] can also impact how other [characters|E] react to #EMP you#!.\n\nSome people are impressed by the @brave_icon! [GetTrait('brave').GetName( GetNullCharacter )] Trait, while a @lustful_icon! [GetTrait('lustful').GetName( GetNullCharacter )] Character is more likely to feature in salacious gossip...\n\n#TUT Traits influence other Characters' morality and greed, which can affect both their friendly and hostile actions.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[vassals|E]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234643Z" creationid="mohammad" creationdate="20200925T234643Z">
