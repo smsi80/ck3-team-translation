@@ -4082,8 +4082,8 @@
       <tuv lang="en">
         <seg>"Dark Insights"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T134744Z" creationid="mohammad" creationdate="20200924T134744Z">
-        <seg>"Dark Insights"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T104644Z" creationid="mohammad" creationdate="20200924T134744Z">
+        <seg>"بینش تاریک"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4288,6 +4288,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Divine Retribution"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T104719Z" creationid="mohammad" creationdate="20200926T104719Z">
+        <seg>"قصاص الهی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Divorce"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T154828Z" creationid="mohammad" creationdate="20200925T154828Z">
@@ -4340,6 +4348,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T214452Z" creationid="BIG GAMER" creationdate="20200924T214452Z">
         <seg>حاکم مهیب</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Dreadful"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T104729Z" creationid="mohammad" creationdate="20200926T104729Z">
+        <seg>"وحشتناک"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9055,6 +9071,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T223450Z" creationid="mohammad" creationdate="20200921T223450Z">
         <seg>"تهدید ها، چه آشکار و چه نهان راه رسیدن به قدرت واقعی هستند.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Thriving in Chaos"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T104813Z" creationid="mohammad" creationdate="20200926T104813Z">
+        <seg>"شکوفا در هرج و مرج"</seg>
       </tuv>
     </tu>
     <tu>
