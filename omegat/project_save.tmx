@@ -10011,6 +10011,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"To help you further your goals you will need [gold|E]. Among other things, $game_concept_gold$ pays for [buildings|E], [armies|E], and bribes. $game_concept_gold$ is collected passively from both your [holdings|E] and your [vassals|E] as [tax|E]. Larger $game_concept_vassals$ and more important $game_concept_holdings$ tend to give more $game_concept_tax$.\n\nHowever, money is not all — certain things can only be achieved by spending the right amount of [prestige|E] or, for religious matters, [piety|E].\n\n#TUT You can see the current state of your Gold, Prestige, and Piety in the bar to the top right.#!\n"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T164945Z" creationid="mohammad" creationdate="20200926T163804Z">
+        <seg>"برای کمک به شما در دستیابی به اهداف خود به [طلا | E] نیاز خواهید داشت. از جمله ، $ game_concept_gold $ برای [ساختمانها | E] ، [ارتشها | E] و رشوه پرداخت می کنید. $ game_concept_gold $ خودکار از هر دو [ Holdings | E] و [vassals | E] شما به عنوان [مالیات | E] دریافت می شود. بزرگتر $ game_concept_vassals $ و مهمتر $ game_concept_holdings $ تمایل دارند که بیشتر از $ game_concept_tax $ بدهند. \\ n \\ n با این حال ، پول همه چیزنیست - بعضی امور فقط می توانند با صرف مقدار مناسب [اعتبار | E] یا برای امور دینی [تقوای | E] انجام شوند. \\ n \\ n # TUTشما می توانید وضعیت طلای ، اعتبار و تقوای فعلی خود را در نوار منتهی به بالا سمت راست مشاهده کنید. #! \\ n "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"To rule is to make all the aspects of a realm move in unison and work together."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184932Z" creationid="mohammad" creationdate="20200921T184932Z">
@@ -18916,6 +18924,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T104226Z" creationid="mohammad" creationdate="20200924T104226Z">
         <seg>lesson_basics_resources:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_resources_2:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T163807Z" creationid="mohammad" creationdate="20200926T163807Z">
+        <seg>lesson_basics_resources_2:0</seg>
       </tuv>
     </tu>
     <tu>
