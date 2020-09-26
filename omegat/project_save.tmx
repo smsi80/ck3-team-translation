@@ -3886,6 +3886,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Confirm"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013521Z" creationid="mohammad" creationdate="20200926T013521Z">
+        <seg>"تایید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Consolidated Landholdings"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T073137Z" creationid="Novin Pendar" creationdate="20200925T073137Z">
@@ -5052,6 +5060,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205137Z" creationid="mohammad" creationdate="20200925T205137Z">
         <seg>"فرانسوی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Friends"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013526Z" creationid="mohammad" creationdate="20200926T013526Z">
+        <seg>"دوستان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Friendship are forever."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013732Z" creationid="mohammad" creationdate="20200926T013732Z">
+        <seg>"دوستی تا ابد."</seg>
       </tuv>
     </tu>
     <tu>
@@ -12551,6 +12575,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CONFIRM:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013517Z" creationid="mohammad" creationdate="20200926T013517Z">
+        <seg>CONFIRM:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CONTENT:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205258Z" creationid="mohammad" creationdate="20200925T205258Z">
@@ -16620,6 +16652,30 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T224925Z" creationid="mohammad" creationdate="20200924T224925Z">
         <seg>fornicator_intolerant:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>friend_plural:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013527Z" creationid="mohammad" creationdate="20200926T013527Z">
+        <seg>friend_plural:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>friends:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013521Z" creationid="mohammad" creationdate="20200926T013521Z">
+        <seg>friends:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>friends_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013532Z" creationid="mohammad" creationdate="20200926T013532Z">
+        <seg>friends_desc:0</seg>
       </tuv>
     </tu>
     <tu>
