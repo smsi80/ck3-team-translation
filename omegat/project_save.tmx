@@ -2058,8 +2058,8 @@
       <tuv lang="en">
         <seg>"$NUM|O$ Raiders of [PROVINCE.GetNameNoTooltip]"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T215240Z" creationid="mohammad" creationdate="20200925T215240Z">
-        <seg>"$NUM|O$ مهاجمان [PROVINCE.GetNameNoTooltip]"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T021527Z" creationid="mohammad" creationdate="20200925T215240Z">
+        <seg>"$NUM|O$ محاجمان [PROVINCE.GetNameNoTooltip]"</seg>
       </tuv>
     </tu>
     <tu>
