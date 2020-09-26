@@ -5136,6 +5136,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Generating world from history: $PROGRESS|0%$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012457Z" creationid="mohammad" creationdate="20200926T012420Z">
+        <seg>"در حال ساختن جهان بازی از تاریخ: $PROGRESS|0%$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Generous: $VALUE|=+0$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T224503Z" creationid="mohammad" creationdate="20200925T224503Z">
@@ -5784,6 +5792,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Initializing Game..."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012615Z" creationid="mohammad" creationdate="20200926T012615Z">
+        <seg>"در حال راه اندازی بازی ..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Intimidation Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T222612Z" creationid="mohammad" creationdate="20200921T222612Z">
@@ -6140,6 +6156,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205331Z" creationid="mohammad" creationdate="20200925T205331Z">
         <seg>"بارگزاری بازی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Loading: $PROGRESS|0%$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012451Z" creationid="mohammad" creationdate="20200926T012451Z">
+        <seg>"در حال بارگذاری: $PROGRESS|0%$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9087,6 +9111,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T114721Z" creationid="Novin Pendar" creationdate="20200925T114721Z">
         <seg>"ویسبی رینگمور"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Waiting for a reply from the Server"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012336Z" creationid="mohammad" creationdate="20200926T012336Z">
+        <seg>"در انتظار پاسخ از سرور"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12863,6 +12895,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GENERATING_BOOKMARK_PROGRESS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012337Z" creationid="mohammad" creationdate="20200926T012337Z">
+        <seg>GENERATING_BOOKMARK_PROGRESS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GERMAN:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205048Z" creationid="mohammad" creationdate="20200925T205048Z">
@@ -13147,6 +13187,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T074918Z" creationid="mohammad" creationdate="20200924T074918Z">
         <seg>LIFESTYLE_FOCUS_VIEW_TITLE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADING_SAVEGAME_PROGRESS:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012421Z" creationid="mohammad" creationdate="20200926T012421Z">
+        <seg>LOADING_SAVEGAME_PROGRESS:1</seg>
       </tuv>
     </tu>
     <tu>
@@ -14083,6 +14131,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T121204Z" creationid="mohammad" creationdate="20200924T121204Z">
         <seg>LOADING_TIP_9:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOADSCREEN_INITIALIZING_GAME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012459Z" creationid="mohammad" creationdate="20200926T012459Z">
+        <seg>LOADSCREEN_INITIALIZING_GAME:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -15619,6 +15675,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233218Z" creationid="mohammad" creationdate="20200925T233218Z">
         <seg>VASSAL_TO:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>WAITING_SERVER_REPLY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012326Z" creationid="mohammad" creationdate="20200926T012326Z">
+        <seg>WAITING_SERVER_REPLY:0</seg>
       </tuv>
     </tu>
     <tu>
