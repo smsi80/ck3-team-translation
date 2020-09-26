@@ -2546,10 +2546,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"@warning_icon! #X Missing DLC#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T005404Z" creationid="mohammad" creationdate="20200926T005404Z">
+        <seg>"@warning_icon! #X بسته الحاقی گم شده#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"@warning_icon! #X Missing DLCs:#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T005212Z" creationid="mohammad" creationdate="20200926T001424Z">
         <seg>"@warning_icon! #X بسته های الحاقی گمشده:#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@warning_icon! #X Missing Mods#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T005336Z" creationid="mohammad" creationdate="20200926T005336Z">
+        <seg>"@warning_icon! #X مود های گمشده#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4428,6 +4444,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T075043Z" creationid="mohammad" creationdate="20200925T075043Z">
         <seg>"جناح منحل شد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Failed to Load Savegame"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T005454Z" creationid="mohammad" creationdate="20200926T005454Z">
+        <seg>"بارگذاری ذخیره انجام نشد"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8111,6 +8135,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205641Z" creationid="mohammad" creationdate="20200925T205641Z">
         <seg>"بازی ذخیره $NAME|V$ حذف خواهد شد. مطمئن هستید؟"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The savegame could not be loaded, this could be due to:\n#indent_newline:2 $EFFECT_LIST_BULLET$Savegame was made with an incompatible version of the game\n$EFFECT_LIST_BULLET$Savegame uses a different set of DLCs\n$EFFECT_LIST_BULLET$Save file is corrupted#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T005902Z" creationid="mohammad" creationdate="20200926T005902Z">
+        <seg>"ذخیره بازی قابل بارگذاری نیست ،ممکن است به خواطر:\n#indent_newline:2 $EFFECT_LIST_BULLET$ذخیره بازی با این ورژن از بازسی سازگاری ندارد\n$EFFECT_LIST_BULLET$ذخیره بازی از یک بسته الحاقی دیگر استفاده میکند.\n$EFFECT_LIST_BULLET$دخیره بازی خراب شده است#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -13703,6 +13735,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LOAD_GAME_FAILED_DESC:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T005456Z" creationid="mohammad" creationdate="20200926T005456Z">
+        <seg>LOAD_GAME_FAILED_DESC:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOAD_GAME_FAILED_TITLE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T005409Z" creationid="mohammad" creationdate="20200926T005409Z">
+        <seg>LOAD_GAME_FAILED_TITLE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LOAD_INVALID_TOOLTIP:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T210752Z" creationid="mohammad" creationdate="20200925T210752Z">
@@ -13847,6 +13895,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MISSING_DLC:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T005352Z" creationid="mohammad" creationdate="20200926T005352Z">
+        <seg>MISSING_DLC:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MISSING_DLCS_HEADER:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T001202Z" creationid="mohammad" creationdate="20200926T001202Z">
@@ -13859,6 +13915,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T001431Z" creationid="mohammad" creationdate="20200926T001431Z">
         <seg>MISSING_DLC_ENTRY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MISSING_MODS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T005309Z" creationid="mohammad" creationdate="20200926T005309Z">
+        <seg>MISSING_MODS:0</seg>
       </tuv>
     </tu>
     <tu>
