@@ -2782,6 +2782,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"A Life of Glory"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T122653Z" creationid="mohammad" creationdate="20200926T122653Z">
+        <seg>"یک زندگی با شکوه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"A Name Known Throughout the World"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215411Z" creationid="BIG GAMER" creationdate="20200924T215411Z">
@@ -3530,6 +3538,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T121623Z" creationid="mohammad" creationdate="20200926T121623Z">
         <seg>"دوست شدن"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Bellum Justum"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T122727Z" creationid="mohammad" creationdate="20200926T122727Z">
+        <seg>"Bellum Justum"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4356,6 +4372,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T102919Z" creationid="mohammad" creationdate="20200926T102919Z">
         <seg>"حفاری برای خاک"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Dignitas"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T122725Z" creationid="mohammad" creationdate="20200926T122725Z">
+        <seg>"والامقام"</seg>
       </tuv>
     </tu>
     <tu>
@@ -17113,6 +17137,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T224831Z" creationid="mohammad" creationdate="20200924T224831Z">
         <seg>adulterer_intolerant:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>august_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T122737Z" creationid="mohammad" creationdate="20200926T122737Z">
+        <seg>august_perk_name:0</seg>
       </tuv>
     </tu>
     <tu>
