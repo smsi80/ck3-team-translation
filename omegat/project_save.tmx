@@ -5600,6 +5600,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Home Advantage"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T102200Z" creationid="mohammad" creationdate="20200926T102200Z">
+        <seg>"برتری خانه "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Homesteads house peasant farmers, who grow grain and keep animals for their own use."</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T052853Z" creationid="Novin Pendar" creationdate="20200925T052853Z">
@@ -6730,8 +6738,8 @@
       <tuv lang="en">
         <seg>"Mortal Adoration"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200926T100018Z" creationid="mohammad" creationdate="20200926T100018Z">
-        <seg>"Mortal Adoration"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T102113Z" creationid="mohammad" creationdate="20200926T100018Z">
+        <seg>"علاقه مرگبار"</seg>
       </tuv>
     </tu>
     <tu>
