@@ -4474,8 +4474,8 @@
       <tuv lang="en">
         <seg>"Enticing Opportunity"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200926T095126Z" creationid="mohammad" creationdate="20200926T095126Z">
-        <seg>"Enticing Opportunity"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T102052Z" creationid="mohammad" creationdate="20200926T095126Z">
+        <seg>"فرصت اغواگری"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6724,6 +6724,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222735Z" creationid="BIG GAMER" creationdate="20200924T222735Z">
         <seg>عظیم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Mortal Adoration"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T100018Z" creationid="mohammad" creationdate="20200926T100018Z">
+        <seg>"Mortal Adoration"</seg>
       </tuv>
     </tu>
     <tu>
@@ -16700,6 +16708,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T031916Z" creationid="mohammad" creationdate="20200922T031916Z">
         <seg>education_stewardship_tt.disaffinity:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>enticing_opportunity_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T100025Z" creationid="mohammad" creationdate="20200926T100025Z">
+        <seg>enticing_opportunity_perk_name:0</seg>
       </tuv>
     </tu>
     <tu>
