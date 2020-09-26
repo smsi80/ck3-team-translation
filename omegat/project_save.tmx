@@ -4344,6 +4344,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"De Jure"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T180603Z" creationid="BIG GAMER" creationdate="20200926T180603Z">
+        <seg>محق</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Dead since [DATE.GetStringShort|V]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T215405Z" creationid="mohammad" creationdate="20200925T215405Z">
@@ -8164,6 +8172,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000436Z" creationid="mohammad" creationdate="20200926T000316Z">
         <seg>"اعتبار: [prestige_i] $VALUE|0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Primary Title"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T180733Z" creationid="BIG GAMER" creationdate="20200926T180733Z">
+        <seg>عنوان اعلا</seg>
       </tuv>
     </tu>
     <tu>
