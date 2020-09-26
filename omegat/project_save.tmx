@@ -6120,6 +6120,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Holder"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T180312Z" creationid="BIG GAMER" creationdate="20200926T180312Z">
+        <seg>دارنده</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Holders"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T180329Z" creationid="BIG GAMER" creationdate="20200926T180329Z">
+        <seg>دارندگان</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Holy Orders"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234948Z" creationid="mohammad" creationdate="20200925T234948Z">
