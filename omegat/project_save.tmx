@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2730,6 +2730,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T221412Z" creationid="mohammad" creationdate="20200925T221412Z">
         <seg>"@warning_icon!#X [CHARACTER.GetShortUIName] این را قبول نمی کند #!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"A $game_concept_vassal$ is a [ruler|E] who has sworn fealty to another ruler — their [liege|E].\n\nThe $game_concept_vassal$ provides their liege with [levies|E] and [taxes|E] — their [obligations|E] — in exchange for protection.\n\nIf a $game_concept_vassal$'s [opinion|E] of their liege is low, they may join [factions|E], or [scheme|E] to replace their liege with someone else."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T090627Z" creationid="mohammad" creationdate="20200926T085134Z">
+        <seg>یک $game_concept_vassal$ [ruler|E] ای است که به [liege|E]خود سوگند وفاداری خورده است.  $game_concept_vassal$ ها در ازای حمایت ارباب از خود موظف است [levies|E] و [taxes|E] برای او تهیه کند. ([obligations|E]) اگر یک $game_concept_vassal$ نسبت به ارباب خود [opinion|E] بدی داشته باشد ممکن است در [factions|E] شرکت کند یا برای عوض کردن ارباب خود با فرد دیگر [scheme|E] بکشد.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9823,6 +9831,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T115858Z" creationid="mahan" creationdate="20200924T115858Z">
         <seg>"شما به صورت معمولی بازی میکنید، بدون هیچگونه منابع اضافی."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Your $game_concept_direct_vassals$ are the [vassals|E] that serve under you personally. Vassals-of-vassals are #emphasis not#! included."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T085202Z" creationid="mohammad" creationdate="20200926T085202Z">
+        <seg>"Your $game_concept_direct_vassals$ are the [vassals|E] that serve under you personally. Vassals-of-vassals are #emphasis not#! included."</seg>
       </tuv>
     </tu>
     <tu>
