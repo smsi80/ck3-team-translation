@@ -9707,6 +9707,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"There are many things you could do now that you have dipped your feet in the essentials — Crusader Kings is about setting your own goals.\n\nIf you want a suggestion, we recommend you try to become the King or Queen of $k_ireland$! [war|E] is not the only way either..."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T154949Z" creationid="mohammad" creationdate="20200926T154949Z">
+        <seg>"There are many things you could do noکنون که به ضروریت های کار آشنا شده اید می توانید کارهای  بسیاری  انجام دهید.کروسیدر کینگز درباره اهداف خود را تعیین کنید.اگر  پیشنهادی می خواهید، ما یه شما پیشنهاد می دهیم که شاه یا ملکه  $k_ireland$! [war|E] بشوید.همچنین جنگ تنها راه نیست...."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Thicker than Water"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T122242Z" creationid="mohammad" creationdate="20200926T122242Z">
