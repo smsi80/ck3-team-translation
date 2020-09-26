@@ -5064,6 +5064,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Flatterer"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T121645Z" creationid="mohammad" creationdate="20200926T121645Z">
+        <seg>"چاپلوس"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Flexible Truces"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T121515Z" creationid="mohammad" creationdate="20200926T121515Z">
@@ -5736,6 +5744,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Groomed to Rule"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T121731Z" creationid="mohammad" creationdate="20200926T121731Z">
+        <seg>"آراسته به قانون"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Guest of [CHARACTER.GetShortUIName]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234203Z" creationid="mohammad" creationdate="20200925T234203Z">
@@ -5836,6 +5852,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T110724Z" creationid="mohammad" creationdate="20200926T110724Z">
         <seg>"سلامت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Heart of the Family"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T121740Z" creationid="mohammad" creationdate="20200926T121740Z">
+        <seg>"قلب خانواده"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9383,6 +9407,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T024610Z" creationid="mohammad" creationdate="20200922T024610Z">
         <seg>"تمرکز روی معنویات"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Thicker than Water"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T122242Z" creationid="mohammad" creationdate="20200926T122242Z">
+        <seg>"نسب خونی"</seg>
       </tuv>
     </tu>
     <tu>
