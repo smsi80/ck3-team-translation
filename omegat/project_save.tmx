@@ -11083,6 +11083,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Your [prestige|E] tells us how respected you are. It can be earned over time (by holding lots of [titles|E], for example), or actively (such as by [marrying|E] into prestigious [dynasties|E] or fighting as an [ally|E] in [wars|E]).\n\nWhenever you earn $game_concept_prestige$, you build towards your next [prestige_level|E]. Higher $game_concept_prestige_levels$ make other [characters|E] think better of you, and bring powerful ways to wage $game_concept_war$.\n\n#TUT Some actions #EMP cost#! $game_concept_prestige$, like declaring a $game_concept_war$. These allow you to leverage your celebrity for your own benefit, and $game_concept_characters$ won't think less of you for using them.\n\nSpending $game_concept_prestige$ does not affect your $game_concept_prestige_level$ progress, just your current $game_concept_prestige$."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T165102Z" creationid="mohammad" creationdate="20200926T165102Z">
+        <seg>"Your [prestige|E] tells us how respected you are. It can be earned over time (by holding lots of [titles|E], for example), or actively (such as by [marrying|E] into prestigious [dynasties|E] or fighting as an [ally|E] in [wars|E]).\n\nWhenever you earn $game_concept_prestige$, you build towards your next [prestige_level|E]. Higher $game_concept_prestige_levels$ make other [characters|E] think better of you, and bring powerful ways to wage $game_concept_war$.\n\n#TUT Some actions #EMP cost#! $game_concept_prestige$, like declaring a $game_concept_war$. These allow you to leverage your celebrity for your own benefit, and $game_concept_characters$ won't think less of you for using them.\n\nSpending $game_concept_prestige$ does not affect your $game_concept_prestige_level$ progress, just your current $game_concept_prestige$."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Your [stress|E] may reduce"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T202907Z" creationid="BIG GAMER" creationdate="20200925T202907Z">
