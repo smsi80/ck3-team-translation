@@ -2790,6 +2790,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"A Man's Home"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T125939Z" creationid="mohammad" creationdate="20200926T125939Z">
+        <seg>"A Man's Home"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"A Name Known Throughout the World"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215411Z" creationid="BIG GAMER" creationdate="20200924T215411Z">
@@ -4712,6 +4720,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Enduring Hardships"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T125906Z" creationid="mohammad" creationdate="20200926T125906Z">
+        <seg>"سختی های مدام"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Enemies Left War"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T074008Z" creationid="mohammad" creationdate="20200925T074008Z">
@@ -5900,6 +5916,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T130528Z" creationid="Novin Pendar" creationdate="20200924T130528Z">
         <seg>"تالار قهرمانان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Hard Rule"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T125746Z" creationid="mohammad" creationdate="20200926T125746Z">
+        <seg>"قانون سخت"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7992,6 +8016,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Prepared Conscription"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T125841Z" creationid="mohammad" creationdate="20200926T125841Z">
+        <seg>"آماده به خدمت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Prepared for Anything"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T104100Z" creationid="mohammad" creationdate="20200926T104100Z">
@@ -9055,6 +9087,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T214611Z" creationid="BIG GAMER" creationdate="20200924T214611Z">
         <seg>وضعیت اضطراب اور</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Strict Organization"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T125800Z" creationid="mohammad" creationdate="20200926T125800Z">
+        <seg>"سازمان دقیق"</seg>
       </tuv>
     </tu>
     <tu>
