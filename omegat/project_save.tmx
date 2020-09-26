@@ -3286,6 +3286,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"At Any Cost"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T121124Z" creationid="mohammad" creationdate="20200926T121124Z">
+        <seg>"به هر قیمتی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Attached to the manors are large gardens and fields of ripe vegetables, making them essentially self-sustainable."</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063732Z" creationid="Novin Pendar" creationdate="20200925T063732Z">
@@ -4488,6 +4496,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Ducal Conquest"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T121218Z" creationid="mohammad" creationdate="20200926T121218Z">
+        <seg>"دوک فاتح"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Due to being in Ironman your game will be saved"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011837Z" creationid="mohammad" creationdate="20200926T011837Z">
@@ -5200,6 +5216,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Forced Vassalage"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T121321Z" creationid="mohammad" creationdate="20200926T121321Z">
+        <seg>"قدرت بندگی "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Foreign Affairs Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183424Z" creationid="mohammad" creationdate="20200921T183424Z">
@@ -5516,6 +5540,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000049Z" creationid="mohammad" creationdate="20200926T000049Z">
         <seg>"Gold: [gold_i] $VALUE|0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Golden Aplomb"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T121055Z" creationid="mohammad" creationdate="20200926T121055Z">
+        <seg>"وقار زرین"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9491,6 +9523,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Thoughtful"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T121151Z" creationid="mohammad" creationdate="20200926T121151Z">
+        <seg>"اندیشمند"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Threats, both overt and subtle, guide the path to true power."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T223450Z" creationid="mohammad" creationdate="20200921T223450Z">
@@ -10021,8 +10061,8 @@
       <tuv lang="en">
         <seg>"War Profiteer"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200926T120915Z" creationid="mohammad" creationdate="20200926T120915Z">
-        <seg>"War Profiteer"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T121115Z" creationid="mohammad" creationdate="20200926T120915Z">
+        <seg>"غارتگر جنگ"</seg>
       </tuv>
     </tu>
     <tu>
