@@ -7050,8 +7050,8 @@
       <tuv lang="en">
         <seg>"Only the Host can change speed"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T212126Z" creationid="mohammad" creationdate="20200925T212126Z">
-        <seg>"فقط میزبان می تواند سرعت را تغییر دهد"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T021635Z" creationid="mohammad" creationdate="20200925T212126Z">
+        <seg>"فقط میزبان میتواند سرعت را تغییر دهد"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7893,8 +7893,8 @@
       <tuv lang="en">
         <seg>"Show Invalid Savegames"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T211035Z" creationid="mohammad" creationdate="20200925T211035Z">
-        <seg>"نمایش ذخیره بازی های بی اعتبار"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T021628Z" creationid="mohammad" creationdate="20200925T211035Z">
+        <seg>"نمایش ذخیره بازیهای بی اعتبار"</seg>
       </tuv>
     </tu>
     <tu>
