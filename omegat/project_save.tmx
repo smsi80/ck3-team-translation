@@ -4472,6 +4472,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Enticing Opportunity"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T095126Z" creationid="mohammad" creationdate="20200926T095126Z">
+        <seg>"Enticing Opportunity"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Equal"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T130441Z" creationid="mahan" creationdate="20200924T130441Z">
@@ -8243,6 +8251,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Subtle Desire"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T095732Z" creationid="mohammad" creationdate="20200926T095116Z">
+        <seg>"خواسته ظریف "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Summer Palace"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T130037Z" creationid="mahan" creationdate="20200925T130037Z">
@@ -9229,8 +9245,8 @@
       <tuv lang="en">
         <seg>"Unshackled Lust"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200926T095113Z" creationid="mohammad" creationdate="20200926T095113Z">
-        <seg>"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T095251Z" creationid="mohammad" creationdate="20200926T095113Z">
+        <seg>"شهوت بی حد و اندازه"</seg>
       </tuv>
     </tu>
     <tu>
@@ -20258,6 +20274,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T103339Z" creationid="mohammad" creationdate="20200924T103339Z">
         <seg>tutorial_lesson_button_repeat_step:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>unshackled_lust_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T095119Z" creationid="mohammad" creationdate="20200926T095119Z">
+        <seg>unshackled_lust_perk_name:0</seg>
       </tuv>
     </tu>
     <tu>
