@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6018,8 +6018,8 @@
       <tuv lang="en">
         <seg>"If you click your character portrait (highlighted in the Character view), the borders of your [realm_capital|E] ($cn_luimneach$) will light up — outside of that will be the borders of your entire [realm|E]. Munster is your [primary_title|E], which is why your $game_concept_realm$ is named after it.\n\nYou also hold the Earldom of Thomond, as a separate $game_concept_title$.\n\n#TUT If you zoom out, it will read</seg>
       </tuv>
-      <tuv lang="fa" changeid="Alireza" changedate="20200925T175523Z" creationid="Alireza" creationdate="20200925T175523Z">
-        <seg>"If you click your character portrait (highlighted in the Character view), the borders of your [realm_capital|E] ($cn_luimneach$) will light up — outside of that will be the borders of your entire [realm|E]. Munster is your [primary_title|E], which is why your $game_concept_realm$ is named after it.\n\nYou also hold the Earldom of Thomond, as a separate $game_concept_title$.\n\n#TUT If you zoom out, it will read</seg>
+      <tuv lang="fa" changeid="Alireza" changedate="20200926T111642Z" creationid="Alireza" creationdate="20200925T175523Z">
+        <seg>"اگر روی پرتره شخصیت خود کلیک کنید (در نمای شخصیت برجسته شده است)، مرزهای [realm_capital|E] ($cn_luimneach$) شما روشن خواهد شد — خارج از آن مرزهای کل [realm|E] شما خواهد بود. Munster [primary_title|E] شما خواهد بود، به همین دلیل $game_concept_realm$ شما بعد از آن نامگذاری شده است.\n\n شما همچنین Earldom of Thomond را به عنوان یک $game_concept_title$ مجزا نگه داشته اید.\n\n#TUT اگر بزرگنمایی کنید قابل خواندن خواهد بود</seg>
       </tuv>
     </tu>
     <tu>
@@ -6988,6 +6988,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T104933Z" creationid="mahan" creationdate="20200925T104933Z">
         <seg>"بخش چند نفره: نقشه قتل"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Munster" on this part of the map, because you are the top Ruler of the area.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200926T111619Z" creationid="Alireza" creationdate="20200926T111619Z">
+        <seg>"Munster" on this part of the map, because you are the top Ruler of the area.#!"</seg>
       </tuv>
     </tu>
     <tu>
