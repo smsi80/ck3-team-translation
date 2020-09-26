@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3254,6 +3254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"As a [ruler|E], you can only hold so much land on your own — you will often have other $game_concept_rulers$ helping with the administration of the [realm|E] by holding land ([titles|E]) within your borders, making them your [vassals|E].\n\n#TUT To find your own land, your [domain|E], press the 'Home' key, and zoom in. Once closer up, you can see blue labels on the [baronies|E] that belong to you (in this case it will only be $cn_luimneach$).\n\nThe Earldom of $c_ormond$ is held by your Vassal."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200926T113733Z" creationid="Alireza" creationdate="20200926T113733Z">
+        <seg>"به عنوان یک [ruler|E]، شما تنها می توانید این همه زمین را به تنهایی در اختیار داشته باشید — شما اغلب کمک دیگر $game_concept_rulers$ را برای اداره ی [realm|E] به وسیله نگهداری ([titles|E]) های آن سرزمین در درون مرزها خود خواهید داشت، آنها را به واسال خود تبدیل کنید.\n\n#TUT برای پیدا کردن زمین خود، [domain|E] خود، بر روی دکمه 'Home' کلیک و سپس زووم کنید. وقتی نزدیک تر شدید، شما می توانید برچسب های آبی روی [baronies|E] را ببینید که متعلق به شما هستند (در این حالت فقط $cn_luimneach$ خواهد بود).\n\nThe Earldom of $c_ormond$ توسط واسال شما نگهداری می شود."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"As far as the eye can see, there is row upon row of fruit-bearing trees."</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063051Z" creationid="Novin Pendar" creationdate="20200925T063051Z">
@@ -3758,6 +3766,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Characters ($lesson_basics_character$)"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200926T113808Z" creationid="Alireza" creationdate="20200926T113808Z">
+        <seg>"شخصیت ها ($lesson_basics_character$)"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Characters and Counties are assigned random Faiths. All Faiths in the game are available."</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T101808Z" creationid="mahan" creationdate="20200924T133307Z">
@@ -3890,6 +3906,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T105737Z" creationid="mohammad" creationdate="20200926T105737Z">
         <seg>"توجیهات روحانیت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Click on your Character"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200926T114458Z" creationid="Alireza" creationdate="20200926T114458Z">
+        <seg>"روی شخصیت خود کلیک کنید"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8427,6 +8451,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Skills ($lesson_basics_character$)"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200926T114506Z" creationid="Alireza" creationdate="20200926T114506Z">
+        <seg>"مهارت ها ($lesson_basics_character$)"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Skip Lesson"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T101319Z" creationid="mohammad" creationdate="20200924T101319Z">
@@ -10167,6 +10199,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T153810Z" creationid="mohammad" creationdate="20200925T153810Z">
         <seg>"شما اکنون رهبر [FACTION.GetName] مقابل [CHARACTER.GetShortUINameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"You are playing as one out of many [characters|E] in this world, represented by Character avatars. Your Character is the [ruler|E] of a [realm|E]!\n\n#TUT You will need to make sure that your [dynasty|E] survives and thrives throughout the ages. Your [titles|E] give you power and control over territory and other Characters (who might hold Titles and land of their own).#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200926T114427Z" creationid="Alireza" creationdate="20200926T114427Z">
+        <seg>"شما به عنوان یکی از هزاران [characters|E] موجود در جهان بازی می کنید، که توسط آواتار های شخصیت نشان داده می شود. شخصیت شما [ruler|E] از [realm|E] است!\n\n#TUT شما باید اطمینان حاصل کنید که [dynasty|E] شما برای قرن ها زنده مانده و رشد می کند. [titles|E] به شما قدرت و قابلیت کنترل بر روی سرزمین و دیگر شخصیت ها (که ممکن است عناوین و سرزمین خود را داشته باشند) را می دهد.#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11989,6 +12029,16 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030302Z" creationid="mohammad" creationdate="20200922T030302Z">
         <seg>### EDUCATION
  FOCUS_NO_AGE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>### What makes a ruler
+ lesson_basics_characters:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200926T113753Z" creationid="Alireza" creationdate="20200926T113753Z">
+        <seg>### What makes a ruler
+ lesson_basics_characters:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -18098,6 +18148,22 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>lesson_basics_characters_click_on_character:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200926T114430Z" creationid="Alireza" creationdate="20200926T114430Z">
+        <seg>lesson_basics_characters_click_on_character:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_characters_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200926T113809Z" creationid="Alireza" creationdate="20200926T113809Z">
+        <seg>lesson_basics_characters_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>lesson_basics_culture:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T105605Z" creationid="mohammad" creationdate="20200924T105605Z">
@@ -18142,6 +18208,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200926T112210Z" creationid="Alireza" creationdate="20200926T112210Z">
         <seg>lesson_basics_map_modes:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_map_modes_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200926T112322Z" creationid="Alireza" creationdate="20200926T112322Z">
+        <seg>lesson_basics_map_modes_desc:1</seg>
       </tuv>
     </tu>
     <tu>
@@ -18198,6 +18272,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T105053Z" creationid="mohammad" creationdate="20200924T105053Z">
         <seg>lesson_basics_schemes:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_skills:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200926T114458Z" creationid="Alireza" creationdate="20200926T114458Z">
+        <seg>lesson_basics_skills:0</seg>
       </tuv>
     </tu>
     <tu>
