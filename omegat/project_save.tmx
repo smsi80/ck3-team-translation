@@ -2538,6 +2538,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"@warning_icon! #X Missing DLCs:#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T001424Z" creationid="mohammad" creationdate="20200926T001424Z">
+        <seg>"@warning_icon! #X Missing DLCs:#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"@warning_icon!#X $CHARACTER_INTERACTION_ALREADY_CONSIDERING$#! "
  CHARACTER_INTERACTION_ALREADY_CONSIDERING:1</seg>
       </tuv>
@@ -3098,6 +3106,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184701Z" creationid="mohammad" creationdate="20200921T184651Z">
         <seg>"اقتدار"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Auto Save"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T001138Z" creationid="mohammad" creationdate="20200926T001138Z">
+        <seg>"ذخیره خودکار"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3722,6 +3738,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T102602Z" creationid="mohammad" creationdate="20200924T102602Z">
         <seg>"ادامه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Contributed Levies"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T001125Z" creationid="mohammad" creationdate="20200926T001125Z">
+        <seg>"مشارکت نیروها"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7235,6 +7259,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Saving..."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T001200Z" creationid="mohammad" creationdate="20200926T001200Z">
+        <seg>"در حال ذخیره..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Scheme $NAME$ [$ID$]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T213401Z" creationid="mohammad" creationdate="20200925T213401Z">
@@ -10171,6 +10203,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[opinion|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T001127Z" creationid="mohammad" creationdate="20200926T001127Z">
+        <seg>"[opinion|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[piety_i] $VALUE|0$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000218Z" creationid="mohammad" creationdate="20200926T000218Z">
@@ -10287,6 +10327,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000320Z" creationid="mohammad" creationdate="20200926T000320Z">
         <seg>"[prestige|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[soldier_i]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T001126Z" creationid="mohammad" creationdate="20200926T001126Z">
+        <seg>"[soldier_i]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11299,6 +11347,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T215221Z" creationid="mohammad" creationdate="20200925T215221Z">
         <seg>ARMY_NAME_RAIDER:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AUTOSAVE_IN_PROGRESS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T001127Z" creationid="mohammad" creationdate="20200926T001127Z">
+        <seg>AUTOSAVE_IN_PROGRESS:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -12655,6 +12711,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LEVIES_ICON:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T001125Z" creationid="mohammad" creationdate="20200926T001125Z">
+        <seg>LEVIES_ICON:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LIEGE:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233241Z" creationid="mohammad" creationdate="20200925T233241Z">
@@ -13767,6 +13831,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MISSING_DLCS_HEADER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T001202Z" creationid="mohammad" creationdate="20200926T001202Z">
+        <seg>MISSING_DLCS_HEADER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MONTHLY:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T142631Z" creationid="mohammad" creationdate="20200925T142631Z">
@@ -13851,6 +13923,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T211158Z" creationid="mohammad" creationdate="20200925T211158Z">
         <seg>OPEN_SOURCE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OPINION_HEADER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T001126Z" creationid="mohammad" creationdate="20200926T001126Z">
+        <seg>OPINION_HEADER:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -14227,6 +14307,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205332Z" creationid="mohammad" creationdate="20200925T205332Z">
         <seg>SAVE_GAME:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SAVE_IN_PROGRESS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T001138Z" creationid="mohammad" creationdate="20200926T001138Z">
+        <seg>SAVE_IN_PROGRESS:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -14835,6 +14923,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234308Z" creationid="mohammad" creationdate="20200925T234308Z">
         <seg>THIS_IS_YOU_UNFORTUNATELY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TOTAL_LEVIES:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T001056Z" creationid="mohammad" creationdate="20200926T001056Z">
+        <seg>TOTAL_LEVIES:0</seg>
       </tuv>
     </tu>
     <tu>
