@@ -2766,6 +2766,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"A Job Done Right"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T104403Z" creationid="mohammad" creationdate="20200926T104403Z">
+        <seg>"کار درست"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"A Legacy to Last the Ages"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T214332Z" creationid="BIG GAMER" creationdate="20200924T214332Z">
@@ -9247,6 +9255,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205258Z" creationid="mohammad" creationdate="20200924T172155Z">
         <seg>"آموزش"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Twice Schemed"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T104550Z" creationid="mohammad" creationdate="20200926T104550Z">
+        <seg>دسیسه گر"Twice Schemed"</seg>
       </tuv>
     </tu>
     <tu>
