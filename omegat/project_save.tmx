@@ -6994,8 +6994,8 @@
       <tuv lang="en">
         <seg>"Munster" on this part of the map, because you are the top Ruler of the area.#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="Alireza" changedate="20200926T111854Z" creationid="Alireza" creationdate="20200926T111619Z">
-        <seg>"Munster" در این قسمت از نقشه،</seg>
+      <tuv lang="fa" changeid="Alireza" changedate="20200926T112208Z" creationid="Alireza" creationdate="20200926T111619Z">
+        <seg>"Munster" را نشان می دهد، زیرا شما حاکم برتر منطقه هستید.#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8023,6 +8023,14 @@
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T172955Z" creationid="Alireza" creationdate="20200925T172955Z">
         <seg>"فرمانروایان سرزمین ($lesson_basics_map$)"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Ruling Over Others ($lesson_basics_map$)"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200926T112320Z" creationid="Alireza" creationdate="20200926T112320Z">
+        <seg>"حاکمیت بر دیگران ($lesson_basics_map$)"</seg>
       </tuv>
     </tu>
     <tu>
@@ -18102,6 +18110,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T104210Z" creationid="mohammad" creationdate="20200924T104210Z">
         <seg>lesson_basics_map:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_map_modes:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200926T112210Z" creationid="Alireza" creationdate="20200926T112210Z">
+        <seg>lesson_basics_map_modes:0</seg>
       </tuv>
     </tu>
     <tu>
