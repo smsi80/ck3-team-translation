@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T $GOTO_PROVINCE$#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011028Z" creationid="mohammad" creationdate="20200926T011028Z">
+        <seg>"#T $GOTO_PROVINCE$#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T $SETTING_HIDE_COAST_BORDER_ON_ZOOM$#!\nThis option will control when coastal realm borders should be shown.\nIf $BASED_ON_ZOOM_LEVEL$ then they will be hidden in the detail zoom level.\n\nPicking a $ALWAYS_SHOW$ or $ALWAYS_HIDE$ may increase performance at the cost of the coastal realm borders not hiding dynamically."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T175942Z" creationid="mohammad" creationdate="20200925T164025Z">
@@ -1924,6 +1932,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T222938Z" creationid="mohammad" creationdate="20200925T222938Z">
         <seg>"$KEY$: $VALUE|V0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$KEY|N$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011015Z" creationid="mohammad" creationdate="20200926T011015Z">
+        <seg>"$KEY|N$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$KEY|P$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011013Z" creationid="mohammad" creationdate="20200926T011013Z">
+        <seg>"$KEY|P$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$KEY|Z$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011017Z" creationid="mohammad" creationdate="20200926T011017Z">
+        <seg>"$KEY|Z$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4200,6 +4232,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Dynasty"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011106Z" creationid="mohammad" creationdate="20200926T011106Z">
+        <seg>"خاندان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Easy"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T213442Z" creationid="BIG GAMER" creationdate="20200924T213442Z">
@@ -5064,6 +5104,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Go to location"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011025Z" creationid="mohammad" creationdate="20200926T011025Z">
+        <seg>"رفتن به مکان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Going Places"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222201Z" creationid="BIG GAMER" creationdate="20200924T222201Z">
@@ -5428,6 +5476,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T115336Z" creationid="Novin Pendar" creationdate="20200924T115336Z">
         <seg>"خانه پرستش"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"House"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011143Z" creationid="mohammad" creationdate="20200926T011143Z">
+        <seg>"سرا"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6212,6 +6268,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T213717Z" creationid="BIG GAMER" creationdate="20200924T213717Z">
         <seg>متوسط</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Members in the '$DYNASTY$' dynasty: \n$LIST$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011010Z" creationid="mohammad" creationdate="20200926T011010Z">
+        <seg>"عضوی درون '$DYNASTY$' خاندان: \n$LIST$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9523,6 +9587,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[$TIER_KEY$|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T010845Z" creationid="mohammad" creationdate="20200926T010845Z">
+        <seg>"[$TIER_KEY$|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[BUILDING.GetName] constructed in [PROVINCE.GetName]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065945Z" creationid="mohammad" creationdate="20200925T065945Z">
@@ -11431,6 +11503,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>BAD_COLOR:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011014Z" creationid="mohammad" creationdate="20200926T011014Z">
+        <seg>BAD_COLOR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>BASE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T222940Z" creationid="mohammad" creationdate="20200925T222940Z">
@@ -12359,6 +12439,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DYNASTY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011031Z" creationid="mohammad" creationdate="20200926T011031Z">
+        <seg>DYNASTY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DYNASTY_HOUSE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011108Z" creationid="mohammad" creationdate="20200926T011108Z">
+        <seg>DYNASTY_HOUSE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DYNASTY_MEMBERS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T010847Z" creationid="mohammad" creationdate="20200926T010847Z">
+        <seg>DYNASTY_MEMBERS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DYNASTY_PRESTIGE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000454Z" creationid="mohammad" creationdate="20200926T000454Z">
@@ -12699,6 +12803,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000122Z" creationid="mohammad" creationdate="20200926T000122Z">
         <seg>GOLD_WITH_BALANCE_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GOOD_COLOR:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011012Z" creationid="mohammad" creationdate="20200926T011012Z">
+        <seg>GOOD_COLOR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GOTO_PROVINCE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011019Z" creationid="mohammad" creationdate="20200926T011019Z">
+        <seg>GOTO_PROVINCE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GOTO_PROVINCE_TT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011027Z" creationid="mohammad" creationdate="20200926T011027Z">
+        <seg>GOTO_PROVINCE_TT:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -13991,6 +14119,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>NEUTRAL_COLOR:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011016Z" creationid="mohammad" creationdate="20200926T011016Z">
+        <seg>NEUTRAL_COLOR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>NEVER:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T142623Z" creationid="mohammad" creationdate="20200925T142623Z">
@@ -15067,6 +15203,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234308Z" creationid="mohammad" creationdate="20200925T234308Z">
         <seg>THIS_IS_YOU_UNFORTUNATELY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TIER_TYPE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T010845Z" creationid="mohammad" creationdate="20200926T010845Z">
+        <seg>TIER_TYPE:0</seg>
       </tuv>
     </tu>
     <tu>
