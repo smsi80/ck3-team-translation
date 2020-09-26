@@ -1960,6 +1960,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$NAME$ - $TITLE$ - $PING$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012703Z" creationid="mohammad" creationdate="20200926T012703Z">
+        <seg>"$NAME$ - $TITLE$ - $PING$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$NAME$ accepted your $INTERACTION|D$."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T221235Z" creationid="mohammad" creationdate="20200925T220610Z">
@@ -1968,10 +1976,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$NAME$ left the game."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012936Z" creationid="mohammad" creationdate="20200926T012901Z">
+        <seg>"$NAME$ بازی را ترک کرد."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$NAME$ rejected your $INTERACTION|D$."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T221227Z" creationid="mohammad" creationdate="20200925T221227Z">
         <seg>"$NAME$ مخالفت کرد با $INTERACTION|D$."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$NAME$ was kicked from the game."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012906Z" creationid="mohammad" creationdate="20200926T012755Z">
+        <seg>"$NAME$ از بازی پرت شد."</seg>
       </tuv>
     </tu>
     <tu>
@@ -5088,6 +5112,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Game of $NAME$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012638Z" creationid="mohammad" creationdate="20200926T012638Z">
+        <seg>"بازی $NAME$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Gardens &amp; Vegetable Plantations"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063640Z" creationid="Novin Pendar" creationdate="20200925T063640Z">
@@ -6488,6 +6520,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Modified: $DATE$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012814Z" creationid="mohammad" creationdate="20200926T012814Z">
+        <seg>"اصلاح شده: $DATE$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Mongol Invasion"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T112106Z" creationid="mahan" creationdate="20200925T112106Z">
@@ -6620,6 +6660,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T022715Z" creationid="mohammad" creationdate="20200922T022715Z">
         <seg>قدرت من درمردم و سرزمین من است.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Name not found."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012708Z" creationid="mohammad" creationdate="20200926T012708Z">
+        <seg>"نام یافت نشد."</seg>
       </tuv>
     </tu>
     <tu>
@@ -7056,6 +7104,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Player left"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012852Z" creationid="mohammad" creationdate="20200926T012852Z">
+        <seg>"بازیکن بازی را ترک کرد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Player-Only"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T123134Z" creationid="mahan" creationdate="20200925T123134Z">
@@ -7076,6 +7132,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T105143Z" creationid="mahan" creationdate="20200925T105143Z">
         <seg>"بازیکنان نمیتوانند برای بازیکنان دیگر نقشه های پلید بچینند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Players on server: NAME — TITLE — PING"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012700Z" creationid="mohammad" creationdate="20200926T012700Z">
+        <seg>"بازیکن درون سرور: NAME — TITLE — PING"</seg>
       </tuv>
     </tu>
     <tu>
@@ -13143,6 +13207,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>KICK_NAME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012709Z" creationid="mohammad" creationdate="20200926T012709Z">
+        <seg>KICK_NAME:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>KNIGHT:2</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233242Z" creationid="mohammad" creationdate="20200925T233242Z">
@@ -14367,10 +14439,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MODIFIED:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012755Z" creationid="mohammad" creationdate="20200926T012755Z">
+        <seg>MODIFIED:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MONTHLY:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T142631Z" creationid="mohammad" creationdate="20200925T142631Z">
         <seg>MONTHLY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>NAME_NOT_FOUND:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012705Z" creationid="mohammad" creationdate="20200926T012705Z">
+        <seg>NAME_NOT_FOUND:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -14583,10 +14671,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PLAYERS_ON_SERVER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012639Z" creationid="mohammad" creationdate="20200926T012639Z">
+        <seg>PLAYERS_ON_SERVER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PLAYER_DATE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T212630Z" creationid="mohammad" creationdate="20200925T212630Z">
         <seg>PLAYER_DATE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PLAYER_LEFT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012814Z" creationid="mohammad" creationdate="20200926T012814Z">
+        <seg>PLAYER_LEFT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PLAYER_NAME_LEFT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012853Z" creationid="mohammad" creationdate="20200926T012853Z">
+        <seg>PLAYER_NAME_LEFT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PLAYER_ON_SERVER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012701Z" creationid="mohammad" creationdate="20200926T012701Z">
+        <seg>PLAYER_ON_SERVER:0</seg>
       </tuv>
     </tu>
     <tu>
