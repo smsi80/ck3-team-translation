@@ -9211,6 +9211,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Valid player needed if only one argument is used."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T014009Z" creationid="mohammad" creationdate="20200926T014009Z">
+        <seg>"Valid player needed if only one argument is used."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Value $VALUE$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T213317Z" creationid="mohammad" creationdate="20200925T213317Z">
@@ -14987,6 +14995,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T012853Z" creationid="mohammad" creationdate="20200926T012853Z">
         <seg>PLAYER_NAME_LEFT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PLAYER_NEEDED_IF_ONLY_ONE_ARG:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013734Z" creationid="mohammad" creationdate="20200926T013734Z">
+        <seg>PLAYER_NEEDED_IF_ONLY_ONE_ARG:0</seg>
       </tuv>
     </tu>
     <tu>
