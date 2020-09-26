@@ -2878,6 +2878,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Accomplished Forger"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T121612Z" creationid="mohammad" creationdate="20200926T121612Z">
+        <seg>"جاعل ماهر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Achievements"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T111912Z" creationid="mahan" creationdate="20200924T111912Z">
@@ -2906,6 +2914,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T213147Z" creationid="mohammad" creationdate="20200925T213147Z">
         <seg>"فعالیت $NAME$ [$ID$]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Adaptive Traditions"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T121421Z" creationid="mohammad" creationdate="20200926T121421Z">
+        <seg>"سنت ها  منعطف "</seg>
       </tuv>
     </tu>
     <tu>
@@ -3510,6 +3526,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Befriend"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T121623Z" creationid="mohammad" creationdate="20200926T121623Z">
+        <seg>"دوست شدن"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Berry Groves"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054644Z" creationid="Novin Pendar" creationdate="20200925T054644Z">
@@ -3990,6 +4014,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Confidants"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T121636Z" creationid="mohammad" creationdate="20200926T121636Z">
+        <seg>"معتمدین"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Confirm"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T013521Z" creationid="mohammad" creationdate="20200926T013521Z">
@@ -4252,6 +4284,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T111230Z" creationid="mohammad" creationdate="20200926T111230Z">
         <seg>"اقدامات دفاعی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Defensive Negotiations"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T121524Z" creationid="mohammad" creationdate="20200926T121524Z">
+        <seg>"مذاکرات دفاعی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4572,6 +4612,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T032413Z" creationid="mohammad" creationdate="20200922T032413Z">
         <seg>"تحصیلات"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Embassies"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T121540Z" creationid="mohammad" creationdate="20200926T121540Z">
+        <seg>"سفارتخانه ها"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5012,6 +5060,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T213421Z" creationid="mohammad" creationdate="20200925T213421Z">
         <seg>"Flag $NAME$ [$ID$]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Flexible Truces"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T121515Z" creationid="mohammad" creationdate="20200926T121515Z">
+        <seg>"Flexible Truces"</seg>
       </tuv>
     </tu>
     <tu>
