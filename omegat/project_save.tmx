@@ -3174,6 +3174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Apostate"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T105717Z" creationid="mohammad" creationdate="20200926T105717Z">
+        <seg>"مرتد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Archery Ranges"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T130800Z" creationid="mahan" creationdate="20200925T130800Z">
@@ -3822,6 +3830,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Church and State"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T105749Z" creationid="mohammad" creationdate="20200926T105749Z">
+        <seg>"کلیسا و دولت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Citadel of Aleppo"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T113804Z" creationid="Novin Pendar" creationdate="20200925T113754Z">
@@ -3842,6 +3858,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T120945Z" creationid="Novin Pendar" creationdate="20200924T120605Z">
         <seg>"شهر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Clerical Justifications"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T105737Z" creationid="mohammad" creationdate="20200926T105737Z">
+        <seg>"توجیهات روحانیت"</seg>
       </tuv>
     </tu>
     <tu>
@@ -17102,6 +17126,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T090711Z" creationid="mohammad" creationdate="20200926T090711Z">
         <seg>game_concept_vassal:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>home_advantage_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T105507Z" creationid="mohammad" creationdate="20200926T105507Z">
+        <seg>home_advantage_perk_name:0</seg>
       </tuv>
     </tu>
     <tu>
