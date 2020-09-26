@@ -2588,6 +2588,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"@warning_icon!#X Game Rules Block Achievements:#!\nThe game rules used in this save now block Achievements, loading it will disable Achievements in the save.\nRules Now Blocking Achievements:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T010309Z" creationid="mohammad" creationdate="20200926T010309Z">
+        <seg>"@warning_icon!#X قوانین بازی اچیومنت ها را مسدود کرده:#!\nقوانین استفاده شده در این دخیره الان اچیومنت ها را مسدود کرده است, بارگذاری کردنش اچیومنت ها را غیر فعال میکند.\nقوانین الان اچیومنت ها را مسدود میکنند:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"@warning_icon!#X No target selected#! "
  CHARACTER_OTHER_PLAYER_TOOLTIP:0</seg>
       </tuv>
@@ -12507,6 +12515,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T211037Z" creationid="mohammad" creationdate="20200925T211037Z">
         <seg>GAME_OPTIONS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GAME_RULES_BLOCKING_ACHIEVEMENTS_HEADER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T005951Z" creationid="mohammad" creationdate="20200926T005951Z">
+        <seg>GAME_RULES_BLOCKING_ACHIEVEMENTS_HEADER:0</seg>
       </tuv>
     </tu>
     <tu>
