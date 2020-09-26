@@ -8581,8 +8581,8 @@
       <tuv lang="en">
         <seg>"The savegame $NAME|V$ will be deleted. Are you sure?"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T205641Z" creationid="mohammad" creationdate="20200925T205641Z">
-        <seg>"بازی ذخیره $NAME|V$ حذف خواهد شد. مطمئن هستید؟"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T033152Z" creationid="mohammad" creationdate="20200925T205641Z">
+        <seg>"ذخیره $NAME|V$ حذف خواهد شد. مطمئن هستید؟"</seg>
       </tuv>
     </tu>
     <tu>
