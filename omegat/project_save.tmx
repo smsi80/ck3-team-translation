@@ -4512,6 +4512,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Direct Vassal"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T174909Z" creationid="BIG GAMER" creationdate="20200926T174909Z">
+        <seg>فرمان بر مستقیم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Disable"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T111658Z" creationid="mahan" creationdate="20200924T111658Z">
@@ -10415,6 +10423,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T090725Z" creationid="mohammad" creationdate="20200926T090725Z">
         <seg>"بنده"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Vassalage"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T174749Z" creationid="BIG GAMER" creationdate="20200926T174749Z">
+        <seg>تحت امر بودن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Vassals'"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T174832Z" creationid="BIG GAMER" creationdate="20200926T174832Z">
+        <seg>فرمان بران</seg>
       </tuv>
     </tu>
     <tu>
