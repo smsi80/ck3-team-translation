@@ -6416,6 +6416,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Learn on the Job"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T110924Z" creationid="mohammad" creationdate="20200926T110924Z">
+        <seg>"کار آموز"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Learning Education"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030759Z" creationid="mohammad" creationdate="20200922T030759Z">
@@ -7304,6 +7312,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Open-Minded"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T110755Z" creationid="mohammad" creationdate="20200926T110755Z">
+        <seg>"روشنفکر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Opinion of you"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T235159Z" creationid="mohammad" creationdate="20200925T235159Z">
@@ -7440,6 +7456,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Planned Cultivation"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T110846Z" creationid="mohammad" creationdate="20200926T110846Z">
+        <seg>"کشت مدون"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Played joined"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T012954Z" creationid="mohammad" creationdate="20200926T012954Z">
@@ -7556,6 +7580,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215258Z" creationid="BIG GAMER" creationdate="20200924T215258Z">
         <seg>پر برکت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Prophet"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T110808Z" creationid="mohammad" creationdate="20200926T110808Z">
+        <seg>"پیامبر"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7979,6 +8011,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Sanctioned Loopholes"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T111032Z" creationid="mohammad" creationdate="20200926T111032Z">
+        <seg>"روزنه های مجاز"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Save Game"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205406Z" creationid="mohammad" creationdate="20200925T205406Z">
@@ -8083,10 +8123,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Scholarly Circles"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T110855Z" creationid="mohammad" creationdate="20200926T110855Z">
+        <seg>"محافل علمی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Scholarship Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T025812Z" creationid="mohammad" creationdate="20200922T025812Z">
         <seg>"تمرکز روی دانش"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Scientific"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T110820Z" creationid="mohammad" creationdate="20200926T110820Z">
+        <seg>"علمی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8535,6 +8591,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T072518Z" creationid="mohammad" creationdate="20200925T072518Z">
         <seg>"کار به پایان رسید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Tax Man"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T111151Z" creationid="mohammad" creationdate="20200926T111151Z">
+        <seg>"مامور مالیات"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12037,6 +12101,16 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200922T031640Z" creationid="mohammad" creationdate="20200922T031640Z">
         <seg>#Stewardship Education Focus
  education_stewardship:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#Stewardship: Domain Tree
+ tax_man_perk_male_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T111117Z" creationid="mohammad" creationdate="20200926T111117Z">
+        <seg>#Stewardship: Domain Tree
+ tax_man_perk_male_name:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -19924,6 +19998,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T073844Z" creationid="mohammad" creationdate="20200925T073844Z">
         <seg>msg_war_player_transferred_desc:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>scholar_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T111034Z" creationid="mohammad" creationdate="20200926T111034Z">
+        <seg>scholar_perk_name:0</seg>
       </tuv>
     </tu>
     <tu>
