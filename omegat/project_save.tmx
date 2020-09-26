@@ -2734,6 +2734,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"A $game_concept_ruler$ is a character who holds at least one [title|E]."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T175258Z" creationid="BIG GAMER" creationdate="20200926T175258Z">
+        <seg>شخصی است که دارای حداقل یک عنوان است</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"A $game_concept_title$ is essentially a certificate of land ownership.\n\nThe smallest unit of land on the map is the [barony|E]. Baronies are organized into larger areas called [counties|E]. Counties [de_jure|E] belong to a [duchy|E], duchies to a [kingdom|E], and Kingdoms to an [empire|E].\n\nDuchies, Kingdoms and Empires do not always have a [holder|E], but are Titles that can be [created|E] by a ruler who controls enough of the corresponding territory."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T180233Z" creationid="BIG GAMER" creationdate="20200926T180233Z">
+        <seg>اساسا سند ماکیت زمین ،کوچک ترین واحد زمین بر نقشه بارونیست،آنها در واحدهای بزرگ تری به نام کنت نشین جای گرفته اند،کنت نشینی ها به دوک نیشی و انها به شاهی وشاهیها به امپراطوری ،عناوین همیشه به حکام تعلق ندارند بلکه به وسیله حکامی که تعداد از مناطق مذکور را دارند</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"A $game_concept_vassal$ is a [ruler|E] who has sworn fealty to another ruler — their [liege|E].\n\nThe $game_concept_vassal$ provides their liege with [levies|E] and [taxes|E] — their [obligations|E] — in exchange for protection.\n\nIf a $game_concept_vassal$'s [opinion|E] of their liege is low, they may join [factions|E], or [scheme|E] to replace their liege with someone else."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T091112Z" creationid="mohammad" creationdate="20200926T085134Z">
@@ -8547,6 +8563,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Ruler's"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T175118Z" creationid="BIG GAMER" creationdate="20200926T175118Z">
+        <seg>مال حاکم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Rulers are randomly placed on the map. The Realms are largely the same, but Titles are held by different rulers."</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T101858Z" creationid="mahan" creationdate="20200924T135757Z">
@@ -8575,6 +8599,14 @@
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T172955Z" creationid="Alireza" creationdate="20200925T172955Z">
         <seg>"فرمانروایان سرزمین ($lesson_basics_map$)"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Rulers"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T175058Z" creationid="BIG GAMER" creationdate="20200926T175058Z">
+        <seg>حکام</seg>
       </tuv>
     </tu>
     <tu>
@@ -10035,6 +10067,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Title"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T175320Z" creationid="BIG GAMER" creationdate="20200926T175320Z">
+        <seg>عنوان</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Titles Lost"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071103Z" creationid="mohammad" creationdate="20200925T071103Z">
@@ -10063,6 +10103,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T104441Z" creationid="mahan" creationdate="20200925T104441Z">
         <seg>"مقام های دارای حق مالکیت هرگز نابود نخواهند شد."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Titles"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T175351Z" creationid="BIG GAMER" creationdate="20200926T175351Z">
+        <seg>عناویین  مناصب</seg>
       </tuv>
     </tu>
     <tu>
@@ -10431,6 +10479,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T174749Z" creationid="BIG GAMER" creationdate="20200926T174749Z">
         <seg>تحت امر بودن</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Vassalize"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T175038Z" creationid="BIG GAMER" creationdate="20200926T175038Z">
+        <seg>تحت امر در اوردن</seg>
       </tuv>
     </tu>
     <tu>
