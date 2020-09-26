@@ -2814,6 +2814,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"A Woman's Home"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T130624Z" creationid="mohammad" creationdate="20200926T130624Z">
+        <seg>"خانه زن"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"A [feast|E] will be held"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T201714Z" creationid="BIG GAMER" creationdate="20200925T201714Z">
@@ -8543,6 +8551,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T111032Z" creationid="mohammad" creationdate="20200926T111032Z">
         <seg>"روزنه های مجاز"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Sappers"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T130609Z" creationid="mohammad" creationdate="20200926T130609Z">
+        <seg>"نقب زن"</seg>
       </tuv>
     </tu>
     <tu>
