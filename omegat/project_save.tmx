@@ -2556,8 +2556,8 @@
       <tuv lang="en">
         <seg>"@warning_icon! #X Missing Mods:#!\n"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200926T001524Z" creationid="mohammad" creationdate="20200926T001524Z">
-        <seg>"@warning_icon! #X Missing Mods:#!\n"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T002031Z" creationid="mohammad" creationdate="20200926T001524Z">
+        <seg>,,"@warning_icon! #X Missing Mods:#!\n"</seg>
       </tuv>
     </tu>
     <tu>
