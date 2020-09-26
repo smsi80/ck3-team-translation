@@ -7923,6 +7923,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Seductress"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T102723Z" creationid="mohammad" creationdate="20200926T102558Z">
+        <seg>"اغواگر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Send the invitations"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T203040Z" creationid="BIG GAMER" creationdate="20200925T203040Z">
@@ -9175,6 +9183,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T220845Z" creationid="BIG GAMER" creationdate="20200924T220845Z">
         <seg>گرفتار در تار عنکبوت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Truth is Relative"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T102701Z" creationid="mohammad" creationdate="20200926T102701Z">
+        <seg>"Truth is Relative"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11549,6 +11565,16 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030455Z" creationid="mohammad" creationdate="20200922T030455Z">
         <seg># Education Focuses
  education_diplomacy_modifier:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg># Intrigue: Schemer
+ truth_is_relative_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T102848Z" creationid="mohammad" creationdate="20200926T102848Z">
+        <seg># Intrigue: Schemer
+ truth_is_relative_perk_name:0</seg>
       </tuv>
     </tu>
     <tu>
