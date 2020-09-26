@@ -3078,6 +3078,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"All [characters|E] (yes, #EMP all#!) have an [opinion|E] of one another, which drives their behavior.\n\n#N Low#! $game_concept_opinion$ can cause people to rise against you or be unwilling to help you. #P High#! $game_concept_opinion$ can, on the other hand, make $game_concept_characters$ more inclined to join your [murder_scheme|E], or fall for your [seduction|E]...\n\n#TUT How you choose to interact with other $game_concept_characters$ will often affect their Opinion of you.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T162503Z" creationid="mohammad" creationdate="20200926T162503Z">
+        <seg>"همه [characters|E] (yes, #EMP all#!)یک  [opinion|E] .\n\n#N درباره ی دیگری  دارند که رفتار  آن ها شکل می دهد.#! $game_concept_opinion$  که rise against youمی تواند باعث شود مردم در مقابل شما بایستاند یا  به کمک شما بی تمایل  شوند. یا در آن روی سکه   #P High#! $game_concept_opinion$ can, on the other hand, make $game_concept_characters$ more inclined to join your [murder_scheme|E], or fall for your [seduction|E]...\n\n#TUT How you choose to interact with other $game_concept_characters$ will often affect their Opinion of you.#!"  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"All gender-related Doctrines and Laws are inverted. The rules and rights which applies to men under</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T125435Z" creationid="mahan" creationdate="20200924T125435Z">
