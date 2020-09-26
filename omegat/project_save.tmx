@@ -5504,6 +5504,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Golden Obligations"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T115705Z" creationid="mohammad" creationdate="20200926T115705Z">
+        <seg>"تعهدات طلایی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Graceful Recovery"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T103018Z" creationid="mohammad" creationdate="20200926T102300Z">
@@ -5736,6 +5744,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Heregeld"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T120812Z" creationid="mohammad" creationdate="20200926T120812Z">
+        <seg>"Heregeld"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Heresy outbreaks do not have regional weighting, encouraging the appearance of more diverse heresies."</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T122259Z" creationid="mahan" creationdate="20200925T122259Z">
@@ -5836,6 +5852,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T223750Z" creationid="mohammad" creationdate="20200925T223750Z">
         <seg>"افتخار: $VALUE|=+0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Honored to Serve"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T115649Z" creationid="mohammad" creationdate="20200926T115649Z">
+        <seg>"مفتخر به خدمت"</seg>
       </tuv>
     </tu>
     <tu>
