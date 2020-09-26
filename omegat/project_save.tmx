@@ -5328,6 +5328,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Graceful Recovery"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T102300Z" creationid="mohammad" creationdate="20200926T102300Z">
+        <seg>"بازیابی برازنده"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Grafted Trees"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063108Z" creationid="Novin Pendar" creationdate="20200925T063108Z">
@@ -8119,6 +8127,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T122837Z" creationid="Novin Pendar" creationdate="20200924T122837Z">
         <seg>" بندرگاه کوچک"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Smooth Operator"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T102549Z" creationid="mohammad" creationdate="20200926T102549Z">
+        <seg>"اپراتور روان"</seg>
       </tuv>
     </tu>
     <tu>
