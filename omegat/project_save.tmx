@@ -1808,6 +1808,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#indent_newline:2 $EFFECT_LIST_BULLET$$DLC_NAME$#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T001437Z" creationid="mohammad" creationdate="20200926T001437Z">
+        <seg>"#indent_newline:2 $EFFECT_LIST_BULLET$$DLC_NAME$#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#low To continue:#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T103640Z" creationid="mohammad" creationdate="20200924T103640Z">
@@ -2542,6 +2550,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T001424Z" creationid="mohammad" creationdate="20200926T001424Z">
         <seg>"@warning_icon! #X Missing DLCs:#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@warning_icon! #X Missing Mods:#!\n"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T001524Z" creationid="mohammad" creationdate="20200926T001524Z">
+        <seg>"@warning_icon! #X Missing Mods:#!\n"</seg>
       </tuv>
     </tu>
     <tu>
@@ -13835,6 +13851,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T001202Z" creationid="mohammad" creationdate="20200926T001202Z">
         <seg>MISSING_DLCS_HEADER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MISSING_DLC_ENTRY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T001431Z" creationid="mohammad" creationdate="20200926T001431Z">
+        <seg>MISSING_DLC_ENTRY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MISSING_MODS_HEADER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T001438Z" creationid="mohammad" creationdate="20200926T001438Z">
+        <seg>MISSING_MODS_HEADER:0</seg>
       </tuv>
     </tu>
     <tu>
