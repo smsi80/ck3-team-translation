@@ -10091,6 +10091,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Traits ($lesson_basics_character$)"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T152227Z" creationid="mohammad" creationdate="20200926T152227Z">
+        <seg>"Traits ($lesson_basics_character$)"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Traits: $TRAITS|V$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T213705Z" creationid="mohammad" creationdate="20200925T213705Z">
@@ -11743,6 +11751,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T211205Z" creationid="BIG GAMER" creationdate="20200925T211205Z">
         <seg>بعید نیست که بچه دار شوند</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[characters|E] also have [traits|E], which can affect [skills|E], as well as how they react to things. These are illustrated by icons in your Character View.\n\nSome Traits tell you about a $game_concept_character$'s personality, like [GetTrait('fickle').GetName( GetNullCharacter )], [GetTrait('calm').GetName( GetNullCharacter )], or [GetTrait('generous').GetName( GetNullCharacter )]. Other Traits are specific to how a $game_concept_character$ has lived their life, such as your [tutorial_education_trait|E], or [commander_traits|E].\n\n#TUT You are:\n$EFFECT_LIST_BULLET$@temperate_icon! [GetTrait('temperate').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$@wrathful_icon! [GetTrait('wrathful').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$@impatient_icon! [GetTrait('impatient').GetName( GetNullCharacter )]\nFrom this, you can see that your $game_concept_character$ typically lives a modest life, but expects others to do so also and is quick to anger when they don't.\n\nWhen a Character chooses to behave against their personality Traits, it can cause [stress|E].#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T152617Z" creationid="mohammad" creationdate="20200926T152617Z">
+        <seg>"[characters|E] also have [traits|E], which can affect [skills|E], as well as how they react to things. These are illustrated by icons in your Character View.\n\nSome Traits tell you about a $game_concept_character$'s personality, like [GetTrait('fickle').GetName( GetNullCharacter )], [GetTrait('calm').GetName( GetNullCharacter )], or [GetTrait('generous').GetName( GetNullCharacter )]. Other Traits are specific to how a $game_concept_character$ has lived their life, such as your [tutorial_education_trait|E], or [commander_traits|E].\n\n#TUT You are:\n$EFFECT_LIST_BULLET$@temperate_icon! [GetTrait('temperate').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$@wrathful_icon! [GetTrait('wrathful').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$@impatient_icon! [GetTrait('impatient').GetName( GetNullCharacter )]\nFrom this, you can see that your $game_concept_character$ typically lives a modest life, but expects others to do so also and is quick to anger when they don't.\n\nWhen a Character chooses to behave against their personality Traits, it can cause [stress|E].#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -18333,6 +18349,16 @@ building_royal_forest_03:0</seg>
     <tu>
       <tuv lang="en">
         <seg>l_english:
+ COMBAT_NAME:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T152136Z" creationid="mohammad" creationdate="20200926T152136Z">
+        <seg>l_english:
+ COMBAT_NAME:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
  CompositionType_song:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T092634Z" creationid="mohammad" creationdate="20200926T092634Z">
@@ -18912,6 +18938,22 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T172615Z" creationid="Alireza" creationdate="20200925T172615Z">
         <seg>lesson_basics_tooltips_in_tooltips_hover_word_deeper:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_traits_1:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T152220Z" creationid="mohammad" creationdate="20200926T152220Z">
+        <seg>lesson_basics_traits_1:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_traits_1_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T152323Z" creationid="mohammad" creationdate="20200926T152323Z">
+        <seg>lesson_basics_traits_1_desc:1</seg>
       </tuv>
     </tu>
     <tu>
