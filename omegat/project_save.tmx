@@ -2736,8 +2736,8 @@
       <tuv lang="en">
         <seg>"A $game_concept_vassal$ is a [ruler|E] who has sworn fealty to another ruler — their [liege|E].\n\nThe $game_concept_vassal$ provides their liege with [levies|E] and [taxes|E] — their [obligations|E] — in exchange for protection.\n\nIf a $game_concept_vassal$'s [opinion|E] of their liege is low, they may join [factions|E], or [scheme|E] to replace their liege with someone else."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200926T090627Z" creationid="mohammad" creationdate="20200926T085134Z">
-        <seg>یک $game_concept_vassal$ [ruler|E] ای است که به [liege|E]خود سوگند وفاداری خورده است.  $game_concept_vassal$ ها در ازای حمایت ارباب از خود موظف است [levies|E] و [taxes|E] برای او تهیه کند. ([obligations|E]) اگر یک $game_concept_vassal$ نسبت به ارباب خود [opinion|E] بدی داشته باشد ممکن است در [factions|E] شرکت کند یا برای عوض کردن ارباب خود با فرد دیگر [scheme|E] بکشد.</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T091112Z" creationid="mohammad" creationdate="20200926T085134Z">
+        <seg>یک $game_concept_vassal$ [ruler|E]ی است که به [liege|E]خود سوگند وفاداری خورده است.  $game_concept_vassal$  در ازای حمایت ارباب از خود موظف است [levies|E] و [taxes|E] برای او تهیه کند. ([obligations|E]) اگر یک $game_concept_vassal$ نسبت به ارباب خود [opinion|E] بدی داشته باشد ممکن است در [factions|E] شرکت کند یا برای عوض کردن ارباب خود با فرد دیگر [scheme|E] بکشد.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4652,6 +4652,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T075043Z" creationid="mohammad" creationdate="20200925T075043Z">
         <seg>"جناح منحل شد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Factions"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T091304Z" creationid="mohammad" creationdate="20200926T091304Z">
+        <seg>"جناح ها"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7655,6 +7663,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T130018Z" creationid="mahan" creationdate="20200925T130018Z">
         <seg>"ارتش سلطنتی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Ruler"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T091014Z" creationid="mohammad" creationdate="20200926T091014Z">
+        <seg>"حاکم"</seg>
       </tuv>
     </tu>
     <tu>
@@ -16792,6 +16808,14 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>game_concept_factions:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T091113Z" creationid="mohammad" creationdate="20200926T091113Z">
+        <seg>game_concept_factions:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>game_concept_levies:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T090814Z" creationid="mohammad" creationdate="20200926T090814Z">
@@ -16804,6 +16828,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T090727Z" creationid="mohammad" creationdate="20200926T090727Z">
         <seg>game_concept_liege:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>game_concept_ruler:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T090950Z" creationid="mohammad" creationdate="20200926T090950Z">
+        <seg>game_concept_ruler:0</seg>
       </tuv>
     </tu>
     <tu>
