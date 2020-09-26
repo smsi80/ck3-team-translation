@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3742,6 +3742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Chains of Loyalty"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T114239Z" creationid="mohammad" creationdate="20200926T114239Z">
+        <seg>"زنجیرهای وفاداری"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Change Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T074942Z" creationid="mohammad" creationdate="20200924T074942Z">
@@ -6448,6 +6456,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Large Levies"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T114938Z" creationid="mohammad" creationdate="20200926T114938Z">
+        <seg>"عوارض بزرگ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Last Count, First King"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215057Z" creationid="BIG GAMER" creationdate="20200924T215057Z">
@@ -6532,6 +6548,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T090748Z" creationid="mohammad" creationdate="20200926T090748Z">
         <seg>"ارباب"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Likable"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T114821Z" creationid="mohammad" creationdate="20200926T114821Z">
+        <seg>"دوست داشتنی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6836,6 +6860,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T122816Z" creationid="Novin Pendar" creationdate="20200924T122816Z">
         <seg>"کشتی تجار در این بندر بار های خود را خالی یا بارگزاری میکنند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Meritocracy"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T114213Z" creationid="mohammad" creationdate="20200926T114213Z">
+        <seg>"شایسته سالاری"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7620,6 +7652,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T165020Z" creationid="mohammad" creationdate="20200925T161141Z">
         <seg>"تصویر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Positions of Power"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T114844Z" creationid="mohammad" creationdate="20200926T114844Z">
+        <seg>"جایگاه"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8535,6 +8575,14 @@
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T172513Z" creationid="Alireza" creationdate="20200925T172513Z">
         <seg>"گاهی اوقات شما متن های آبی می بینید [highlighted_text|E] مثل این. این بدان معنی است که شما می توانید نشانگر موس را برای اطلاعات بیشتر روی کلمات قرار دهید.\n\n#TUT برخی از این کلمات می توانند شما را به کلمات برجسته دیگری که اطلاعات بیشتری را به شما نشان می دهند راهنمایی کنند. [duchy|E] می تواند به [county|E] منجر شود، که در نهایت به [barony|E] تبدیل می شود.#!\n"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Soon Forgiven"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T115051Z" creationid="mohammad" creationdate="20200926T115051Z">
+        <seg>"بخشش زودهنگام"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9479,6 +9527,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184932Z" creationid="mohammad" creationdate="20200921T184932Z">
         <seg>"فرمانروایی یعنی همه جنبه های یک قلمرو را متحد و هماهنگ کردن."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Toe the Line"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T115419Z" creationid="mohammad" creationdate="20200926T115419Z">
+        <seg>"فرمان برداری"</seg>
       </tuv>
     </tu>
     <tu>
