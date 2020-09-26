@@ -3998,6 +3998,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Court of Shadows"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T104024Z" creationid="mohammad" creationdate="20200926T104024Z">
+        <seg>"مجلس سایه ها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Courtier of [CHARACTER.GetShortUIName]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234154Z" creationid="mohammad" creationdate="20200925T234154Z">
@@ -7376,6 +7384,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Prepared for Anything"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T104100Z" creationid="mohammad" creationdate="20200926T104100Z">
+        <seg>"همه فن حریف"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Prestige: [prestige_i] $VALUE|0$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000436Z" creationid="mohammad" creationdate="20200926T000316Z">
@@ -8319,6 +8335,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T130037Z" creationid="mahan" creationdate="20200925T130037Z">
         <seg>"کاخ تابستانی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Swift Execution"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T104332Z" creationid="mohammad" creationdate="20200926T104332Z">
+        <seg>"اعدام سریع"</seg>
       </tuv>
     </tu>
     <tu>
