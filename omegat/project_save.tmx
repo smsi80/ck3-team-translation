@@ -4264,6 +4264,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Detailed Ledgers"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T120849Z" creationid="mohammad" creationdate="20200926T120849Z">
+        <seg>"دفتر معین"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Deviancy"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T225106Z" creationid="mohammad" creationdate="20200924T225106Z">
@@ -4916,6 +4924,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T105155Z" creationid="mohammad" creationdate="20200926T105155Z">
         <seg>"خراج وحشت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Fearful Troops"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T120930Z" creationid="mohammad" creationdate="20200926T120930Z">
+        <seg>"نیروهای ترسناک"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6316,6 +6332,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T230643Z" creationid="mohammad" creationdate="20200924T230643Z">
         <seg>"یک ساحره است"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"It is MY Domain"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T120952Z" creationid="mohammad" creationdate="20200926T120952Z">
+        <seg>"این قلمرو من است"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9991,6 +10015,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T074521Z" creationid="mohammad" creationdate="20200925T074521Z">
         <seg>"جنگ به ارباب اعلام شد!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"War Profiteer"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T120915Z" creationid="mohammad" creationdate="20200926T120915Z">
+        <seg>"War Profiteer"</seg>
       </tuv>
     </tu>
     <tu>
