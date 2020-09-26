@@ -2886,6 +2886,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Absolute Control"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T125636Z" creationid="mohammad" creationdate="20200926T125636Z">
+        <seg>"کنترل مطلق"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Accomplished Forger"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T121612Z" creationid="mohammad" creationdate="20200926T121612Z">
@@ -3894,6 +3902,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Chivalric Dominance"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T125440Z" creationid="mohammad" creationdate="20200926T125440Z">
+        <seg>"سلطه جوانمردی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Chivalry"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T185033Z" creationid="mohammad" creationdate="20200921T185033Z">
@@ -4162,6 +4178,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234154Z" creationid="mohammad" creationdate="20200925T234154Z">
         <seg>"درباری از [CHARACTER.GetShortUIName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Courtship"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T125535Z" creationid="mohammad" creationdate="20200926T125535Z">
+        <seg>"نامزدی "</seg>
       </tuv>
     </tu>
     <tu>
@@ -6888,6 +6912,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Loyalty and Respect"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T125446Z" creationid="mohammad" creationdate="20200926T125446Z">
+        <seg>"وفاداری و احترام"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Lqwuljxh"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T182958Z" creationid="mohammad" creationdate="20200921T182958Z">
@@ -8000,6 +8032,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Promising Prospects"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T125454Z" creationid="mohammad" creationdate="20200926T125454Z">
+        <seg>"چشم اندازهای امیدوار کننده"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Prophet"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T110808Z" creationid="mohammad" creationdate="20200926T110808Z">
@@ -8859,6 +8899,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Soldiers of Lesser Fortune"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T125730Z" creationid="mohammad" creationdate="20200926T125730Z">
+        <seg>"سربازجویای نام"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Sometimes you will see blue [highlighted_text|E] like this. This means you can hover your cursor over the words for more information.\n\n#TUT Some of these words can lead to other highlighted words, which can then show even further information. [duchy|E] can lead to [county|E], which can lead to [barony|E].#!\n"</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T172513Z" creationid="Alireza" creationdate="20200925T172513Z">
@@ -8919,6 +8967,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T154613Z" creationid="mohammad" creationdate="20200925T154613Z">
         <seg>"نامزد نا معتبر است"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Stalwart Leader"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T125629Z" creationid="mohammad" creationdate="20200926T125629Z">
+        <seg>"رهبر تهمتن"</seg>
       </tuv>
     </tu>
     <tu>
