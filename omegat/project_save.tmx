@@ -4472,6 +4472,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Exit Game"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011350Z" creationid="mohammad" creationdate="20200926T011350Z">
+        <seg>"خروج از بازی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Exit to Desktop"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011408Z" creationid="mohammad" creationdate="20200926T011408Z">
+        <seg>"خروج از بازی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Expanded Docks"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T123727Z" creationid="Novin Pendar" creationdate="20200924T123727Z">
@@ -6040,6 +6056,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Lineage"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011607Z" creationid="mohammad" creationdate="20200926T011607Z">
+        <seg>"دودمان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Livestock Pens"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T053803Z" creationid="Novin Pendar" creationdate="20200925T053803Z">
@@ -6276,6 +6300,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011010Z" creationid="mohammad" creationdate="20200926T011010Z">
         <seg>"عضوی درون '$DYNASTY$' خاندان: \n$LIST$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Menu"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011221Z" creationid="mohammad" creationdate="20200926T011221Z">
+        <seg>"منو"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6864,6 +6896,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Pause"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011255Z" creationid="mohammad" creationdate="20200926T011255Z">
+        <seg>"مکث"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Paused"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011344Z" creationid="mohammad" creationdate="20200926T011344Z">
+        <seg>"مکث"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Pausing ($lesson_basics$)"</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T164840Z" creationid="Alireza" creationdate="20200925T164411Z">
@@ -7215,6 +7263,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T173310Z" creationid="mohammad" creationdate="20200925T173009Z">
         <seg>"راه اندازی مجدد واکنش های نصیحت آمیز "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Resume"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011249Z" creationid="mohammad" creationdate="20200926T011249Z">
+        <seg>"از سرگیری"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12567,6 +12623,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>EXIT:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011346Z" creationid="mohammad" creationdate="20200926T011346Z">
+        <seg>EXIT:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>EXIT_TO_DESKTOP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011351Z" creationid="mohammad" creationdate="20200926T011351Z">
+        <seg>EXIT_TO_DESKTOP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>EXPENSES:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000837Z" creationid="mohammad" creationdate="20200926T000837Z">
@@ -14023,6 +14095,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MENU:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011144Z" creationid="mohammad" creationdate="20200926T011144Z">
+        <seg>MENU:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MERCENARIES:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234856Z" creationid="mohammad" creationdate="20200925T234856Z">
@@ -14219,6 +14299,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T223446Z" creationid="mohammad" creationdate="20200925T223446Z">
         <seg>OPINION_MTTH:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PAUSE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011250Z" creationid="mohammad" creationdate="20200926T011250Z">
+        <seg>PAUSE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PAUSED:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011258Z" creationid="mohammad" creationdate="20200926T011258Z">
+        <seg>PAUSED:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -14555,6 +14651,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T173018Z" creationid="mohammad" creationdate="20200925T173018Z">
         <seg>RESET_REACTIVE_ADVICE_TOOLTIP:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RESUME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011221Z" creationid="mohammad" creationdate="20200926T011221Z">
+        <seg>RESUME:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -15059,6 +15163,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T172305Z" creationid="mohammad" creationdate="20200924T172305Z">
         <seg>SETTING_TUTORIAL:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SHOW_LEGACY:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011410Z" creationid="mohammad" creationdate="20200926T011410Z">
+        <seg>SHOW_LEGACY:1</seg>
       </tuv>
     </tu>
     <tu>
