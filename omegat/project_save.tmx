@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11443,6 +11443,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[characters|E] have [skills|E], indicating their proficiency within a certain field. Some are great talkers, while others prefer to make their intent clear on the battlefield.\n\n#TUT The main Skills are:\n#![diplomacy_i|E] [diplomacy|E]\n[martial_i|E] [martial|E]\n[stewardship_i|E] [stewardship|E]\n[intrigue_i|E] [intrigue|E]\n[learning_i|E] [learning|E]\n\n#TUT Remember, since these are [highlighted_text|E], you can mouse over each for a breakdown of what they mean.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200926T122454Z" creationid="Alireza" creationdate="20200926T122454Z">
+        <seg>"[characters|E] مهارت هایی [skills|E] دارند، "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[courtier|E]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233251Z" creationid="mohammad" creationdate="20200925T233251Z">
@@ -18520,6 +18528,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200926T114458Z" creationid="Alireza" creationdate="20200926T114458Z">
         <seg>lesson_basics_skills:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_skills_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200926T114507Z" creationid="Alireza" creationdate="20200926T114507Z">
+        <seg>lesson_basics_skills_desc:1</seg>
       </tuv>
     </tu>
     <tu>
