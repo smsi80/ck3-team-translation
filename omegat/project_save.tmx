@@ -3078,6 +3078,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Any unsaved progress will be lost"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011731Z" creationid="mohammad" creationdate="20200926T011731Z">
+        <seg>"هر پیشرفت ذخیره نشده از بین خواهد رفت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Apiaries"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T053924Z" creationid="Novin Pendar" creationdate="20200925T053924Z">
@@ -4484,6 +4492,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011408Z" creationid="mohammad" creationdate="20200926T011408Z">
         <seg>"خروج از بازی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Exit to Main Menu"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011641Z" creationid="mohammad" creationdate="20200926T011627Z">
+        <seg>"بازگشت به منوی اصلی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7423,6 +7439,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T143145Z" creationid="mohammad" creationdate="20200925T143145Z">
         <seg>"ذخیره بازی ها "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Save and $EXIT_TO_DESKTOP$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011700Z" creationid="mohammad" creationdate="20200926T011700Z">
+        <seg>"ذخیره و $EXIT_TO_DESKTOP$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Save and $RESIGN$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011651Z" creationid="mohammad" creationdate="20200926T011651Z">
+        <seg>"ذخیره و $RESIGN$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -14655,6 +14687,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>RESIGN:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011611Z" creationid="mohammad" creationdate="20200926T011611Z">
+        <seg>RESIGN:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>RESUME:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011221Z" creationid="mohammad" creationdate="20200926T011221Z">
@@ -14675,6 +14715,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205427Z" creationid="mohammad" creationdate="20200925T205427Z">
         <seg>SAVE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SAVE_AND_EXIT_TO_DESKTOP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011652Z" creationid="mohammad" creationdate="20200926T011652Z">
+        <seg>SAVE_AND_EXIT_TO_DESKTOP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SAVE_AND_RESIGN:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011633Z" creationid="mohammad" creationdate="20200926T011633Z">
+        <seg>SAVE_AND_RESIGN:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -15395,6 +15451,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T103415Z" creationid="mohammad" creationdate="20200924T103415Z">
         <seg>TUTORIAL_STEP_INSTRUCTIONS:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UNSAVED_PROGRESS_WILL_BE_LOST:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011702Z" creationid="mohammad" creationdate="20200926T011702Z">
+        <seg>UNSAVED_PROGRESS_WILL_BE_LOST:0</seg>
       </tuv>
     </tu>
     <tu>
