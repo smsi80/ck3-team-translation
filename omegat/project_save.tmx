@@ -4744,6 +4744,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Faithful"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T105307Z" creationid="mohammad" creationdate="20200926T105307Z">
+        <seg>"مومن"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Family Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183717Z" creationid="mohammad" creationdate="20200921T183717Z">
@@ -5076,6 +5084,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233317Z" creationid="mohammad" creationdate="20200925T233317Z">
         <seg>"خارجی [ruler|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Forever Infamous"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T105216Z" creationid="mohammad" creationdate="20200926T105216Z">
+        <seg>"بدنامی ابدی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7440,6 +7456,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Prison-Feudal Complex"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T105250Z" creationid="mohammad" creationdate="20200926T105250Z">
+        <seg>"مجموعه زندان-فئودال"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Prolific"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215258Z" creationid="BIG GAMER" creationdate="20200924T215258Z">
@@ -7655,6 +7679,14 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200924T105609Z" creationid="mohammad" creationdate="20200924T105609Z">
         <seg>"Religion" #reactive advice now
  lesson_basics_war:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Religious Icon"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T105437Z" creationid="mohammad" creationdate="20200926T105437Z">
+        <seg>"نماد مذهبی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10207,6 +10239,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T225623Z" creationid="mohammad" creationdate="20200925T225623Z">
         <seg>"غیرت: $VALUE|=+0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Zealous Proselytizer"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T105411Z" creationid="mohammad" creationdate="20200926T105411Z">
+        <seg>"تازه دین متعصب"</seg>
       </tuv>
     </tu>
     <tu>
