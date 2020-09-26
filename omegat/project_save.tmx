@@ -3110,6 +3110,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Are you sure you want to Exit to Desktop?\n[SelectLocalization( IsIronmanEnabled, 'GAME_WILL_BE_SAVED', 'UNSAVED_PROGRESS_WILL_BE_LOST' )]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012011Z" creationid="mohammad" creationdate="20200926T012011Z">
+        <seg>"ایا شما مطمعن هستید میخواهید از بازی خارج شوید؟\n[SelectLocalization( IsIronmanEnabled, 'GAME_WILL_BE_SAVED', 'UNSAVED_PROGRESS_WILL_BE_LOST' )]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Are you sure you want to Exit to Menu?\n[SelectLocalization( IsIronmanEnabled, 'GAME_WILL_BE_SAVED', 'UNSAVED_PROGRESS_WILL_BE_LOST' )]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011943Z" creationid="mohammad" creationdate="20200926T011943Z">
+        <seg>"ایا شما مطمعن هتسید میخواهید به منوی اصلی بازگردید؟\n[SelectLocalization( IsIronmanEnabled, 'GAME_WILL_BE_SAVED', 'UNSAVED_PROGRESS_WILL_BE_LOST' )]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Are you sure you want to Reset Reactive Advice?"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T173316Z" creationid="mohammad" creationdate="20200925T173255Z">
@@ -4220,6 +4236,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T125641Z" creationid="Novin Pendar" creationdate="20200924T125641Z">
         <seg>"بنادر تعمیری"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Due to being in Ironman your game will be saved"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011837Z" creationid="mohammad" creationdate="20200926T011837Z">
+        <seg>"به دلیل حضور در ایرون من ، بازی شما ذخیره خواهد شد"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12775,6 +12799,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GAME_WILL_BE_SAVED:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011732Z" creationid="mohammad" creationdate="20200926T011732Z">
+        <seg>GAME_WILL_BE_SAVED:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GAME_YEARS_SINCE_START_DATE_STRING:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T212713Z" creationid="mohammad" creationdate="20200925T212713Z">
@@ -14519,6 +14551,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>QUIT_TO_DESKTOP_CONFIRMATION_DESC:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011944Z" creationid="mohammad" creationdate="20200926T011944Z">
+        <seg>QUIT_TO_DESKTOP_CONFIRMATION_DESC:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>RAISE_ALL:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234649Z" creationid="mohammad" creationdate="20200925T234649Z">
@@ -14691,6 +14731,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011611Z" creationid="mohammad" creationdate="20200926T011611Z">
         <seg>RESIGN:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RESIGNATION_CONFIRMATION_DESC:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T011840Z" creationid="mohammad" creationdate="20200926T011840Z">
+        <seg>RESIGNATION_CONFIRMATION_DESC:1</seg>
       </tuv>
     </tu>
     <tu>
