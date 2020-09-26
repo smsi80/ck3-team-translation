@@ -7752,6 +7752,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Open the War view (highlighted)"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T152741Z" creationid="mohammad" creationdate="20200926T152741Z">
+        <seg>"نمای جنگ را باز کنید (برجسته شده)"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Open-Minded"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T110755Z" creationid="mohammad" creationdate="20200926T110755Z">
@@ -10451,6 +10459,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"War Invalidated"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T152857Z" creationid="mohammad" creationdate="20200926T152857Z">
+        <seg>"War Invalidated"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"War Profiteer"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T121115Z" creationid="mohammad" creationdate="20200926T120915Z">
@@ -10511,6 +10527,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221215Z" creationid="BIG GAMER" creationdate="20200924T221215Z">
         <seg>چه پارتی بازی؟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"What Now?"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T152838Z" creationid="mohammad" creationdate="20200926T152838Z">
+        <seg>"حالا چی؟"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10943,6 +10967,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T115858Z" creationid="mahan" creationdate="20200924T115858Z">
         <seg>"شما به صورت معمولی بازی میکنید، بدون هیچگونه منابع اضافی."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"You're still here! Excellent! How strange that the war stopped being valid though.$lesson_war_final_notes_reuse$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T153117Z" creationid="mohammad" creationdate="20200926T152817Z">
+        <seg>"شما هنوز اینجا هستید! بسیار عالیست ! چقدر عجیب است که جنگ از اعتبار متوقف شد. $ study_war_final_notes_reuse $"</seg>
       </tuv>
     </tu>
     <tu>
@@ -19002,6 +19034,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T105737Z" creationid="mohammad" creationdate="20200924T105737Z">
         <seg>lesson_declare_war:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_guided_final_notes_mission_step_1_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T152803Z" creationid="mohammad" creationdate="20200926T152803Z">
+        <seg>lesson_guided_final_notes_mission_step_1_desc:1</seg>
       </tuv>
     </tu>
     <tu>
