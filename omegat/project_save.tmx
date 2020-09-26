@@ -8395,6 +8395,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Reset Perks"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T174228Z" creationid="BIG GAMER" creationdate="20200926T174228Z">
+        <seg>ارایش مجدد برتریها</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Reset Reactive Advice"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T173310Z" creationid="mohammad" creationdate="20200925T173009Z">
