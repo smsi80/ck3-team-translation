@@ -4112,6 +4112,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Cutting Cornerstones"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T111425Z" creationid="mohammad" creationdate="20200926T111425Z">
+        <seg>"Cutting Cornerstones"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Cynicism: $VALUE|=+0$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T225631Z" creationid="mohammad" creationdate="20200925T225631Z">
@@ -4188,6 +4196,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T105841Z" creationid="mohammad" creationdate="20200926T105841Z">
         <seg>"مدافع از ایمان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Defensive Measures"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T111230Z" creationid="mohammad" creationdate="20200926T111230Z">
+        <seg>"اقدامات دفاعی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7336,6 +7352,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Organized Muster Rolls"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T111355Z" creationid="mohammad" creationdate="20200926T111355Z">
+        <seg>"قوانین سازمان یافته"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Overseer"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T185007Z" creationid="mohammad" creationdate="20200921T185007Z">
@@ -7572,6 +7596,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T105250Z" creationid="mohammad" creationdate="20200926T105250Z">
         <seg>"مجموعه زندان-فئودال"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Professional Workforce"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T111531Z" creationid="mohammad" creationdate="20200926T111531Z">
+        <seg>"نیروی کار حرفه ای "</seg>
       </tuv>
     </tu>
     <tu>
@@ -8607,6 +8639,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T130622Z" creationid="mahan" creationdate="20200925T130622Z">
         <seg>"دفتر مالیات"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Tax Woman"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T111214Z" creationid="mohammad" creationdate="20200926T111214Z">
+        <seg>"مامور مالیات"</seg>
       </tuv>
     </tu>
     <tu>
