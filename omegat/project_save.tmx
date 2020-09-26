@@ -4760,6 +4760,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Engineered for Destruction"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T130220Z" creationid="mohammad" creationdate="20200926T130220Z">
+        <seg>"تخریب نظام مند"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"English"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T204542Z" creationid="mohammad" creationdate="20200925T204542Z">
@@ -6032,6 +6040,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Hit and Run"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T130103Z" creationid="mohammad" creationdate="20200926T130103Z">
+        <seg>"بزن درو"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Holy Orders"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234948Z" creationid="mohammad" creationdate="20200925T234948Z">
@@ -6860,6 +6876,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T053803Z" creationid="Novin Pendar" creationdate="20200925T053803Z">
         <seg>"اقلام دامی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Living Off the Land"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T130533Z" creationid="mohammad" creationdate="20200926T130533Z">
+        <seg>"Living Off the Land"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7740,6 +7764,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054358Z" creationid="Novin Pendar" creationdate="20200925T054358Z">
         <seg>"باغ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Organized March"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T130045Z" creationid="mohammad" creationdate="20200926T130045Z">
+        <seg>"رژه منظم"</seg>
       </tuv>
     </tu>
     <tu>
