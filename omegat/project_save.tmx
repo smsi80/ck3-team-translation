@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3534,6 +3534,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Benevolent Intent"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T122436Z" creationid="mohammad" creationdate="20200926T122436Z">
+        <seg>"خیر خواهانه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Berry Groves"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054644Z" creationid="Novin Pendar" creationdate="20200925T054644Z">
@@ -5048,6 +5056,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Firm Hand"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T122512Z" creationid="mohammad" creationdate="20200926T122512Z">
+        <seg>"Firm Hand"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Fishing Net Weavers"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T123056Z" creationid="Novin Pendar" creationdate="20200924T123056Z">
@@ -5364,6 +5380,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205137Z" creationid="mohammad" creationdate="20200925T205137Z">
         <seg>"فرانسوی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Friendly Counsel"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T122300Z" creationid="mohammad" creationdate="20200926T122300Z">
+        <seg>"مشاور دوستانه"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6312,6 +6336,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Inspiring Rule"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T122443Z" creationid="mohammad" creationdate="20200926T122443Z">
+        <seg>"قانون الهام بخش"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Intimidation Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T222612Z" creationid="mohammad" creationdate="20200921T222612Z">
@@ -6924,6 +6956,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184344Z" creationid="mohammad" creationdate="20200921T184119Z">
         <seg>"نظامی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Matriarch"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T122407Z" creationid="mohammad" creationdate="20200926T122407Z">
+        <seg>"مادرسالار"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7656,6 +7696,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Patriarch"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T122341Z" creationid="mohammad" creationdate="20200926T122341Z">
+        <seg>"پدر سالار"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Pause"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011255Z" creationid="mohammad" creationdate="20200926T011255Z">
@@ -7828,6 +7876,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T073034Z" creationid="mohammad" creationdate="20200925T073034Z">
         <seg>"واسال قدرتمند"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Praetorian Guard"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T122542Z" creationid="mohammad" creationdate="20200926T122542Z">
+        <seg>"گارد امپراطوری"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8743,6 +8799,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T115051Z" creationid="mohammad" creationdate="20200926T115051Z">
         <seg>"بخشش زودهنگام"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Sound Foundations"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T122331Z" creationid="mohammad" creationdate="20200926T122331Z">
+        <seg>"Sound Foundations"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9819,6 +9883,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"True Ruler"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T122555Z" creationid="mohammad" creationdate="20200926T122555Z">
+        <seg>"حاکم واقعی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Truth is Relative"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T102701Z" creationid="mohammad" creationdate="20200926T102701Z">
@@ -10279,6 +10351,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T070203Z" creationid="mohammad" creationdate="20200925T070203Z">
         <seg>"با مرگ [RIGHT_CHARACTER.GetUINameNoTooltip], شما [GetPlayer.Custom2('RelationToMeShort', LEFT_CHARACTER.Self )] [LEFT_CHARACTER.GetUINameNoTooltip] is your new [heir|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Writing History"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T122646Z" creationid="mohammad" creationdate="20200926T122646Z">
+        <seg>"تاریخ تحریری"</seg>
       </tuv>
     </tu>
     <tu>
