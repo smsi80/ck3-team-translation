@@ -4168,6 +4168,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Digging for Dirt"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T102919Z" creationid="mohammad" creationdate="20200926T102919Z">
+        <seg>"حفاری برای خاک"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Diplomacy Education"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030459Z" creationid="mohammad" creationdate="20200922T030459Z">
@@ -5330,8 +5338,8 @@
       <tuv lang="en">
         <seg>"Graceful Recovery"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200926T102300Z" creationid="mohammad" creationdate="20200926T102300Z">
-        <seg>"بازیابی برازنده"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T103018Z" creationid="mohammad" creationdate="20200926T102300Z">
+        <seg>"بازیابی زیبا رو"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6132,6 +6140,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T220200Z" creationid="BIG GAMER" creationdate="20200924T220200Z">
         <seg>حفظ ان در داخل خنواده</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Kidnapper"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T103001Z" creationid="mohammad" creationdate="20200926T103001Z">
+        <seg>"آدم ربا"</seg>
       </tuv>
     </tu>
     <tu>
