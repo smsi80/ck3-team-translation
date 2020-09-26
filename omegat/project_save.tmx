@@ -3766,6 +3766,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Close Lobby"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012216Z" creationid="mohammad" creationdate="20200926T012216Z">
+        <seg>"بستن لابی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Cloud Save"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T222101Z" creationid="mohammad" creationdate="20200925T205830Z">
@@ -5512,6 +5520,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Host"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012226Z" creationid="mohammad" creationdate="20200926T012226Z">
+        <seg>"میزبان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Hostile Schemes can be used against players and their families."</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T105036Z" creationid="mahan" creationdate="20200925T105036Z">
@@ -5900,6 +5916,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222805Z" creationid="BIG GAMER" creationdate="20200924T222805Z">
         <seg>این یک فرقه نیست</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Joining server: $PROGRESS|0%$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012325Z" creationid="mohammad" creationdate="20200926T012325Z">
+        <seg>"در حال اتصال به سورو: $PROGRESS|0%$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6852,6 +6876,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T212126Z" creationid="mohammad" creationdate="20200925T212126Z">
         <seg>"فقط میزبان می تواند سرعت را تغییر دهد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Open for Multiplayer"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012151Z" creationid="mohammad" creationdate="20200926T012151Z">
+        <seg>"باز کردن بخش چند نفره"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12247,6 +12279,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CLOSE_LOBBY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012207Z" creationid="mohammad" creationdate="20200926T012207Z">
+        <seg>CLOSE_LOBBY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CLOUDSAVE_UNVAVAILABLE_TOOLTIP:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205644Z" creationid="mohammad" creationdate="20200925T205644Z">
@@ -13015,6 +13055,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HOST:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012216Z" creationid="mohammad" creationdate="20200926T012216Z">
+        <seg>HOST:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>INCOME:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000830Z" creationid="mohammad" creationdate="20200926T000830Z">
@@ -13043,6 +13091,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T085940Z" creationid="mohammad" creationdate="20200924T085940Z">
         <seg>I_HAVE_THIS_LIFESTYLE_FOCUS_DESCRIPTION:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JOINING_SERVER_PROGRESS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012227Z" creationid="mohammad" creationdate="20200926T012227Z">
+        <seg>JOINING_SERVER_PROGRESS:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -14339,6 +14395,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000607Z" creationid="mohammad" creationdate="20200926T000607Z">
         <seg>NUMBER_OF_MEN_VALUE_WITH_LABEL:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OPEN_FOR_MULTIPLAYER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012137Z" creationid="mohammad" creationdate="20200926T012137Z">
+        <seg>OPEN_FOR_MULTIPLAYER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OPEN_LOBBY:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012153Z" creationid="mohammad" creationdate="20200926T012153Z">
+        <seg>OPEN_LOBBY:1</seg>
       </tuv>
     </tu>
     <tu>
