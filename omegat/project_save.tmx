@@ -1472,6 +1472,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T [CHARACTER.GetTitledFirstNamePossessiveOrMy|U] [gold|E]: $VALUE|V0$#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000118Z" creationid="mohammad" creationdate="20200926T000118Z">
+        <seg>"#T [CHARACTER.GetTitledFirstNamePossessiveOrMy|U] [gold|E]: $VALUE|V0$#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T [gold|E]: $VALUE|V0$#!\n$BALANCE|V=1$/month"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000215Z" creationid="mohammad" creationdate="20200926T000215Z">
+        <seg>"#T [gold|E]: $VALUE|V0$#!\n$BALANCE|V=1$/ماه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T [piety|E]: $VALUE|V0$#!\n$BALANCE|V=1$/month"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000305Z" creationid="mohammad" creationdate="20200926T000305Z">
+        <seg>"#T [piety|E]: $VALUE|V0$#!\n$BALANCE|V=1$/ماه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#TUT_KW Current Lifestyle Focus#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T085938Z" creationid="mohammad" creationdate="20200924T085938Z">
@@ -1940,6 +1964,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000104Z" creationid="mohammad" creationdate="20200926T000104Z">
         <seg>"$VALUE|0$ طلا"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$VALUE|0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000108Z" creationid="mohammad" creationdate="20200926T000108Z">
+        <seg>"$VALUE|0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$VALUE|1$K"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000110Z" creationid="mohammad" creationdate="20200926T000110Z">
+        <seg>"$VALUE|1$K"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6606,6 +6646,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Piety: [piety_i] $VALUE|0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000226Z" creationid="mohammad" creationdate="20200926T000226Z">
+        <seg>"Piety: [piety_i] $VALUE|0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Place your cursor over this [highlighted_text|E]"</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T172614Z" creationid="Alireza" creationdate="20200925T172614Z">
@@ -6674,6 +6722,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T073034Z" creationid="mohammad" creationdate="20200925T073034Z">
         <seg>"واسال قدرتمند"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Prestige: [prestige_i] $VALUE|0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000316Z" creationid="mohammad" creationdate="20200926T000316Z">
+        <seg>"Prestige: [prestige_i] $VALUE|0$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9905,6 +9961,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[gold|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000106Z" creationid="mohammad" creationdate="20200926T000106Z">
+        <seg>"[gold|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[guest|E]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233252Z" creationid="mohammad" creationdate="20200925T233252Z">
@@ -9945,6 +10009,54 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[piety_i] $VALUE|0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000218Z" creationid="mohammad" creationdate="20200926T000218Z">
+        <seg>"[piety_i] $VALUE|0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[piety_i] $VALUE|1$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000224Z" creationid="mohammad" creationdate="20200926T000224Z">
+        <seg>"[piety_i] $VALUE|1$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[piety_i] $VALUE|1$K"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000228Z" creationid="mohammad" creationdate="20200926T000228Z">
+        <seg>"[piety_i] $VALUE|1$K"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[piety_i] $VALUE|2$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000221Z" creationid="mohammad" creationdate="20200926T000221Z">
+        <seg>"[piety_i] $VALUE|2$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[piety_level|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000230Z" creationid="mohammad" creationdate="20200926T000230Z">
+        <seg>"[piety_level|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[piety|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000229Z" creationid="mohammad" creationdate="20200926T000229Z">
+        <seg>"[piety|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[player_heir|E] $msg_betrothal_invalidated$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T154203Z" creationid="mohammad" creationdate="20200925T154203Z">
@@ -9973,6 +10085,38 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T154927Z" creationid="mohammad" creationdate="20200925T154927Z">
         <seg>"[player_heir|E] $msg_spouse_invalidated$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[prestige_i] $VALUE|0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000307Z" creationid="mohammad" creationdate="20200926T000307Z">
+        <seg>"[prestige_i] $VALUE|0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[prestige_i] $VALUE|1$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000310Z" creationid="mohammad" creationdate="20200926T000310Z">
+        <seg>"[prestige_i] $VALUE|1$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[prestige_i] $VALUE|1$K"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000318Z" creationid="mohammad" creationdate="20200926T000318Z">
+        <seg>"[prestige_i] $VALUE|1$K"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[prestige|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000320Z" creationid="mohammad" creationdate="20200926T000320Z">
+        <seg>"[prestige|E]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12101,10 +12245,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GOLD_K_NO_ICON:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000109Z" creationid="mohammad" creationdate="20200926T000109Z">
+        <seg>GOLD_K_NO_ICON:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GOLD_NO_ICON:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000107Z" creationid="mohammad" creationdate="20200926T000107Z">
+        <seg>GOLD_NO_ICON:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GOLD_SIMPLE_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000111Z" creationid="mohammad" creationdate="20200926T000111Z">
+        <seg>GOLD_SIMPLE_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GOLD_TEXT:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000054Z" creationid="mohammad" creationdate="20200926T000054Z">
         <seg>GOLD_TEXT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GOLD_WITH_BALANCE_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000122Z" creationid="mohammad" creationdate="20200926T000122Z">
+        <seg>GOLD_WITH_BALANCE_TOOLTIP:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -13357,6 +13533,78 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PIETY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000217Z" creationid="mohammad" creationdate="20200926T000217Z">
+        <seg>PIETY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_CONCEPT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000229Z" creationid="mohammad" creationdate="20200926T000229Z">
+        <seg>PIETY_CONCEPT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_COST:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000219Z" creationid="mohammad" creationdate="20200926T000219Z">
+        <seg>PIETY_COST:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_COST_LONG:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000225Z" creationid="mohammad" creationdate="20200926T000225Z">
+        <seg>PIETY_COST_LONG:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_COST_MAINTENANCE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000222Z" creationid="mohammad" creationdate="20200926T000222Z">
+        <seg>PIETY_COST_MAINTENANCE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_COST_REINFORCE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000221Z" creationid="mohammad" creationdate="20200926T000221Z">
+        <seg>PIETY_COST_REINFORCE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_K:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000227Z" creationid="mohammad" creationdate="20200926T000227Z">
+        <seg>PIETY_K:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_CONCEPT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000230Z" creationid="mohammad" creationdate="20200926T000230Z">
+        <seg>PIETY_LEVEL_CONCEPT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_WITH_BALANCE_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000259Z" creationid="mohammad" creationdate="20200926T000259Z">
+        <seg>PIETY_WITH_BALANCE_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PLAYER_DATE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T212630Z" creationid="mohammad" creationdate="20200925T212630Z">
@@ -13377,6 +13625,70 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T212457Z" creationid="mohammad" creationdate="20200925T212457Z">
         <seg>PLAYER_SYNC_DATES_HEADER:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PRESTIGE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000307Z" creationid="mohammad" creationdate="20200926T000307Z">
+        <seg>PRESTIGE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PRESTIGE_CONCEPT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000319Z" creationid="mohammad" creationdate="20200926T000319Z">
+        <seg>PRESTIGE_CONCEPT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PRESTIGE_COST:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000308Z" creationid="mohammad" creationdate="20200926T000308Z">
+        <seg>PRESTIGE_COST:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PRESTIGE_COST_LONG:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000315Z" creationid="mohammad" creationdate="20200926T000315Z">
+        <seg>PRESTIGE_COST_LONG:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PRESTIGE_COST_MAINTENANCE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000312Z" creationid="mohammad" creationdate="20200926T000312Z">
+        <seg>PRESTIGE_COST_MAINTENANCE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PRESTIGE_COST_REINFORCE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000310Z" creationid="mohammad" creationdate="20200926T000310Z">
+        <seg>PRESTIGE_COST_REINFORCE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PRESTIGE_K:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000317Z" creationid="mohammad" creationdate="20200926T000317Z">
+        <seg>PRESTIGE_K:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PRESTIGE_LEVEL_CONCEPT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000413Z" creationid="mohammad" creationdate="20200926T000413Z">
+        <seg>PRESTIGE_LEVEL_CONCEPT:0</seg>
       </tuv>
     </tu>
     <tu>
