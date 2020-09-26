@@ -3726,6 +3726,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Contribution"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000915Z" creationid="mohammad" creationdate="20200926T000915Z">
+        <seg>"سهم"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Conversion speed is unchanged."</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T121637Z" creationid="mahan" creationdate="20200924T120211Z">
@@ -6232,6 +6240,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Monthly Expenses"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000841Z" creationid="mohammad" creationdate="20200926T000841Z">
+        <seg>"هزینه های ماهانه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Monthly [income]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000836Z" creationid="mohammad" creationdate="20200926T000836Z">
+        <seg>"ماهانه [income]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Monumental"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222735Z" creationid="BIG GAMER" creationdate="20200924T222735Z">
@@ -7683,6 +7707,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Taxable Income"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000859Z" creationid="mohammad" creationdate="20200926T000859Z">
+        <seg>"درآمد مشمول مالیات"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Tell Me More"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T103310Z" creationid="mohammad" creationdate="20200924T103310Z">
@@ -8443,6 +8475,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Total Levies"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T001055Z" creationid="mohammad" creationdate="20200926T001055Z">
+        <seg>"کل نیرو ها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Total Tax"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T235822Z" creationid="mohammad" creationdate="20200925T235822Z">
@@ -9103,6 +9143,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T073352Z" creationid="mohammad" creationdate="20200925T073352Z">
         <seg>شما به جنگ پیوستید [WAR.GetName|V]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"You have a hook on $WHO$."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000829Z" creationid="mohammad" creationdate="20200926T000829Z">
+        <seg>"بر روی  $WHO$. یک قلاب دارید"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10087,6 +10135,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234603Z" creationid="mohammad" creationdate="20200925T234603Z">
         <seg>"[levies|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[levies|E]:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000845Z" creationid="mohammad" creationdate="20200926T000845Z">
+        <seg>"[levies|E]:"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11911,6 +11967,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CONTRIBUTABLE_VASSAL_LEVIES:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000917Z" creationid="mohammad" creationdate="20200926T000917Z">
+        <seg>CONTRIBUTABLE_VASSAL_LEVIES:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>COST_RESULT_NOTHING:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T235957Z" creationid="mohammad" creationdate="20200925T235957Z">
@@ -12271,6 +12335,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>EXPENSES:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000837Z" creationid="mohammad" creationdate="20200926T000837Z">
+        <seg>EXPENSES:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FEED_MESSAGE_GOTO_TOOLTIP:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065617Z" creationid="mohammad" creationdate="20200925T065617Z">
@@ -12527,6 +12599,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>INCOME:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000830Z" creationid="mohammad" creationdate="20200926T000830Z">
+        <seg>INCOME:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>INTERACTION_EFFECT_DESC:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T223152Z" creationid="mohammad" creationdate="20200925T223152Z">
@@ -12563,6 +12643,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T213014Z" creationid="mohammad" creationdate="20200925T213014Z">
         <seg>LESS_THAN:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LEVIES:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000843Z" creationid="mohammad" creationdate="20200926T000843Z">
+        <seg>LEVIES:1</seg>
       </tuv>
     </tu>
     <tu>
@@ -14687,6 +14775,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TAXABLE_VASSAL_INCOME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000850Z" creationid="mohammad" creationdate="20200926T000850Z">
+        <seg>TAXABLE_VASSAL_INCOME:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>THIS_IS_YOU:2</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234213Z" creationid="mohammad" creationdate="20200925T234213Z">
@@ -14739,6 +14835,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234308Z" creationid="mohammad" creationdate="20200925T234308Z">
         <seg>THIS_IS_YOU_UNFORTUNATELY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TOTAL_TAX:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000846Z" creationid="mohammad" creationdate="20200926T000846Z">
+        <seg>TOTAL_TAX:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -14823,6 +14927,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>VASSAL_CONTRIBUTION:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000900Z" creationid="mohammad" creationdate="20200926T000900Z">
+        <seg>VASSAL_CONTRIBUTION:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>VASSAL_TO:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233218Z" creationid="mohammad" creationdate="20200925T233218Z">
@@ -14859,6 +14971,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T223419Z" creationid="mohammad" creationdate="20200925T223419Z">
         <seg>YES:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YOU_HAVE_HOOK:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T000756Z" creationid="mohammad" creationdate="20200926T000756Z">
+        <seg>YOU_HAVE_HOOK:1</seg>
       </tuv>
     </tu>
     <tu>
