@@ -2548,16 +2548,16 @@
       <tuv lang="en">
         <seg>"@warning_icon! #X Missing DLCs:#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200926T001424Z" creationid="mohammad" creationdate="20200926T001424Z">
-        <seg>"@warning_icon! #X Missing DLCs:#!"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T005212Z" creationid="mohammad" creationdate="20200926T001424Z">
+        <seg>"@warning_icon! #X بسته های الحاقی گمشده:#!"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"@warning_icon! #X Missing Mods:#!\n"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200926T002031Z" creationid="mohammad" creationdate="20200926T001524Z">
-        <seg>,,"@warning_icon! #X Missing Mods:#!\n"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T005252Z" creationid="mohammad" creationdate="20200926T001524Z">
+        <seg>,,"@warning_icon! #X مود های گمشده:#!\n"</seg>
       </tuv>
     </tu>
     <tu>
