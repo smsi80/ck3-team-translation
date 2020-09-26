@@ -4264,6 +4264,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Current: No Focus"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T174410Z" creationid="BIG GAMER" creationdate="20200926T174410Z">
+        <seg>هماکنون بدون تمرکز</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Current: [Character.GetFocus.GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T174310Z" creationid="BIG GAMER" creationdate="20200926T174310Z">
+        <seg>تمرکز کنونی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Custom Kingdoms"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T105445Z" creationid="mahan" creationdate="20200925T105445Z">
