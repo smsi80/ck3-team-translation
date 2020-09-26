@@ -5888,6 +5888,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Has already learned all possible [GetPerk('dark_insights_perk').GetName(GetPlayer)]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T125227Z" creationid="mohammad" creationdate="20200926T125227Z">
+        <seg>"Has already learned all possible [GetPerk('dark_insights_perk').GetName(GetPlayer)]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Health"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T235217Z" creationid="mohammad" creationdate="20200925T235217Z">
@@ -6560,6 +6568,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Kingsguard"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T125340Z" creationid="mohammad" creationdate="20200926T125340Z">
+        <seg>"Kingsguard"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Know Thyself"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T110551Z" creationid="mohammad" creationdate="20200926T110551Z">
@@ -7096,6 +7112,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Might gain some [GetPerk('dark_insights_perk').GetName(GetPlayer)]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T125256Z" creationid="mohammad" creationdate="20200926T125256Z">
+        <seg>"Might gain some [GetPerk('dark_insights_perk').GetName(GetPlayer)]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Military Academies"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T131042Z" creationid="mahan" creationdate="20200925T131042Z">
@@ -7356,6 +7380,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233303Z" creationid="mohammad" creationdate="20200925T233303Z">
         <seg>"همسایه [ruler|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Never Back Down"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T125428Z" creationid="mohammad" creationdate="20200926T125428Z">
+        <seg>"هرگز عقب ننشین"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7756,6 +7788,14 @@
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T164840Z" creationid="Alireza" creationdate="20200925T164411Z">
         <seg>"مکث کردن ($lesson_basics$)"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Peacemaker"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T125326Z" creationid="mohammad" creationdate="20200926T125326Z">
+        <seg>"صلح جو "</seg>
       </tuv>
     </tu>
     <tu>
