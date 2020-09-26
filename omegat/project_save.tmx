@@ -2926,6 +2926,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Absolute"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T181235Z" creationid="BIG GAMER" creationdate="20200926T181235Z">
+        <seg>مطلقه</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Accomplished Forger"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T121612Z" creationid="mohammad" creationdate="20200926T121612Z">
@@ -3410,6 +3418,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T001138Z" creationid="mohammad" creationdate="20200926T001138Z">
         <seg>"ذخیره خودکار"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Autonomous Vassals"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T181203Z" creationid="BIG GAMER" creationdate="20200926T181203Z">
+        <seg>بدگان مستقل</seg>
       </tuv>
     </tu>
     <tu>
