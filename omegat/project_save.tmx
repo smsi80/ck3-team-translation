@@ -4792,6 +4792,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Fear Tax"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T105155Z" creationid="mohammad" creationdate="20200926T105155Z">
+        <seg>"خراج وحشت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Fellow [vassal|E]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233449Z" creationid="mohammad" creationdate="20200925T233449Z">
@@ -6500,6 +6508,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183856Z" creationid="mohammad" creationdate="20200921T183856Z">
         <seg>"تمرکز روی شکوهمندی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Malice Implicit"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T105034Z" creationid="mohammad" creationdate="20200926T105034Z">
+        <seg>"کینه پنهان"</seg>
       </tuv>
     </tu>
     <tu>
