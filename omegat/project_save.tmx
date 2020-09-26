@@ -1928,10 +1928,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$KEY$: $VALUE|+0%$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013137Z" creationid="mohammad" creationdate="20200926T013137Z">
+        <seg>"$KEY$: $VALUE|+0%$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$KEY$: $VALUE|V0$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T222938Z" creationid="mohammad" creationdate="20200925T222938Z">
         <seg>"$KEY$: $VALUE|V0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$KEY$: $VALUE|V0%$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013136Z" creationid="mohammad" creationdate="20200926T013136Z">
+        <seg>"$KEY$: $VALUE|V0%$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$KEY$: $VALUE|V1$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013132Z" creationid="mohammad" creationdate="20200926T013132Z">
+        <seg>"$KEY$: $VALUE|V1$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$KEY$: $VALUE|V2$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013134Z" creationid="mohammad" creationdate="20200926T013134Z">
+        <seg>"$KEY$: $VALUE|V2$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1972,6 +2004,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T221235Z" creationid="mohammad" creationdate="20200925T220610Z">
         <seg>"$NAME$ موافقت کرد با $INTERACTION|D$."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$NAME$ joined the game."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013002Z" creationid="mohammad" creationdate="20200926T013002Z">
+        <seg>"$NAME$ به بازی پیوست."</seg>
       </tuv>
     </tu>
     <tu>
@@ -5560,6 +5600,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Host left"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013020Z" creationid="mohammad" creationdate="20200926T013020Z">
+        <seg>"میزبان بازی را ترک کرد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Host"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T012226Z" creationid="mohammad" creationdate="20200926T012226Z">
@@ -5632,6 +5680,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"I am Babby Jesus. Sometimes I'm here instead of Errorhoof. I'm also here because there are $ERRORS$ error(s) in your game. Click me and I'll show them to you."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013200Z" creationid="mohammad" creationdate="20200926T013200Z">
+        <seg>"I am Babby Jesus. Sometimes I'm here instead of Errorhoof. I'm also here because there are $ERRORS$ error(s) in your game. Click me and I'll show them to you."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"I am Errobert. Sometimes I'm here instead of Errorhoof. I'm also here because there are $ERRORS$ error(s) in your game. Click me and I'll show them to you."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013200Z" creationid="mohammad" creationdate="20200926T013200Z">
+        <seg>"I am Errobert. Sometimes I'm here instead of Errorhoof. I'm also here because there are $ERRORS$ error(s) in your game. Click me and I'll show them to you."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"I am Errorhoof. I'm here because there are $ERRORS$ error(s) in your game. Click me and I'll show them to you."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013157Z" creationid="mohammad" creationdate="20200926T013157Z">
+        <seg>"I am Errorhoof. I'm here because there are $ERRORS$ error(s) in your game. Click me and I'll show them to you."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"I am a claimant: $VALUE|=+0$"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T210939Z" creationid="BIG GAMER" creationdate="20200925T210939Z">
@@ -5652,6 +5724,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T210903Z" creationid="BIG GAMER" creationdate="20200925T210903Z">
         <seg>من در شرایطی نیستم که حکومت کنم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"I am the Bazcat. Sometimes I'm here instead of Errorhoof. Feed me. There are also $ERRORS$ error(s) in your game. Click me and I'll show them to you."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013218Z" creationid="mohammad" creationdate="20200926T013218Z">
+        <seg>"I am the Bazcat. Sometimes I'm here instead of Errorhoof. Feed me. There are also $ERRORS$ error(s) in your game. Click me and I'll show them to you."</seg>
       </tuv>
     </tu>
     <tu>
@@ -7096,6 +7176,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Played joined"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012954Z" creationid="mohammad" creationdate="20200926T012954Z">
+        <seg>"بازیکن پیوست"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Player dates:"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T212626Z" creationid="mohammad" creationdate="20200925T212626Z">
@@ -7244,6 +7332,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T235605Z" creationid="mohammad" creationdate="20200925T235541Z">
         <seg>"آماده [armies|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Rally Point in [PROVINCE.GetNameNoTooltip]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013516Z" creationid="mohammad" creationdate="20200926T013516Z">
+        <seg>"محل گردهمایی [PROVINCE.GetNameNoTooltip]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8415,6 +8511,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T123501Z" creationid="Novin Pendar" creationdate="20200924T123501Z">
         <seg>"بندر به مرکزی برای تجارت و سفر دریایی در منطقه تبدیل شده. کشتی ها از همه طرف در اینجا برای تبادل و تجارت پهلو میگیرند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The host ($NAME$) has left. The game will continue as a single player game."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013128Z" creationid="mohammad" creationdate="20200926T013128Z">
+        <seg>"میزبان ($NAME$) بازی را ترک کرد.بازی به صورت اول شخص ادامه پیدا خواهد کرد"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9927,6 +10031,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T235406Z" creationid="mohammad" creationdate="20200925T235406Z">
         <seg>"[CHARACTER.GetUIName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[CHARACTER.GetUIName]: $VALUE|V0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013138Z" creationid="mohammad" creationdate="20200926T013138Z">
+        <seg>"[CHARACTER.GetUIName]: $VALUE|V0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[CHARACTER.GetUIName]: $VALUE|V1$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013140Z" creationid="mohammad" creationdate="20200926T013140Z">
+        <seg>"[CHARACTER.GetUIName]: $VALUE|V1$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[CHARACTER.GetUIName]: $VALUE|V2$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013141Z" creationid="mohammad" creationdate="20200926T013141Z">
+        <seg>"[CHARACTER.GetUIName]: $VALUE|V2$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12335,6 +12463,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CHARACTER_VALUE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013138Z" creationid="mohammad" creationdate="20200926T013138Z">
+        <seg>CHARACTER_VALUE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_VALUE_F1:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013139Z" creationid="mohammad" creationdate="20200926T013139Z">
+        <seg>CHARACTER_VALUE_F1:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_VALUE_F2:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013140Z" creationid="mohammad" creationdate="20200926T013140Z">
+        <seg>CHARACTER_VALUE_F2:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CHARACTER_WIFE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233149Z" creationid="mohammad" creationdate="20200925T233149Z">
@@ -12783,6 +12935,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ERROR_HOOF:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013144Z" creationid="mohammad" creationdate="20200926T013144Z">
+        <seg>ERROR_HOOF:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ERROR_HOOF_1:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013157Z" creationid="mohammad" creationdate="20200926T013157Z">
+        <seg>ERROR_HOOF_1:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ERROR_HOOF_2:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013200Z" creationid="mohammad" creationdate="20200926T013200Z">
+        <seg>ERROR_HOOF_2:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ERROR_HOOF_3:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013209Z" creationid="mohammad" creationdate="20200926T013209Z">
+        <seg>ERROR_HOOF_3:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ESTIMATE_TAX_INFO:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T235407Z" creationid="mohammad" creationdate="20200925T235407Z">
@@ -13167,6 +13351,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HOST_LEFT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013003Z" creationid="mohammad" creationdate="20200926T013003Z">
+        <seg>HOST_LEFT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HOST_LEFT_DESC:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013021Z" creationid="mohammad" creationdate="20200926T013021Z">
+        <seg>HOST_LEFT_DESC:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>INCOME:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000830Z" creationid="mohammad" creationdate="20200926T000830Z">
@@ -13203,6 +13403,46 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T012227Z" creationid="mohammad" creationdate="20200926T012227Z">
         <seg>JOINING_SERVER_PROGRESS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>KEY_VALUE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013129Z" creationid="mohammad" creationdate="20200926T013129Z">
+        <seg>KEY_VALUE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>KEY_VALUE_F1:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013131Z" creationid="mohammad" creationdate="20200926T013131Z">
+        <seg>KEY_VALUE_F1:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>KEY_VALUE_F2:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013133Z" creationid="mohammad" creationdate="20200926T013133Z">
+        <seg>KEY_VALUE_F2:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>KEY_VALUE_PERCENT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013135Z" creationid="mohammad" creationdate="20200926T013135Z">
+        <seg>KEY_VALUE_PERCENT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>KEY_VALUE_PERCENT_POSITIVE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013136Z" creationid="mohammad" creationdate="20200926T013136Z">
+        <seg>KEY_VALUE_PERCENT_POSITIVE:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -14687,10 +14927,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PLAYER_JOINED:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012936Z" creationid="mohammad" creationdate="20200926T012936Z">
+        <seg>PLAYER_JOINED:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PLAYER_LEFT:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T012814Z" creationid="mohammad" creationdate="20200926T012814Z">
         <seg>PLAYER_LEFT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PLAYER_NAME_JOINED:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T012954Z" creationid="mohammad" creationdate="20200926T012954Z">
+        <seg>PLAYER_NAME_JOINED:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -14827,6 +15083,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234827Z" creationid="mohammad" creationdate="20200925T234827Z">
         <seg>RAISE_HIRED_TROOP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RALLY_POINT_NAME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T013222Z" creationid="mohammad" creationdate="20200926T013222Z">
+        <seg>RALLY_POINT_NAME:0</seg>
       </tuv>
     </tu>
     <tu>
