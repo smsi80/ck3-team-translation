@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5656,6 +5656,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Healthy"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T110724Z" creationid="mohammad" creationdate="20200926T110724Z">
+        <seg>"سلامت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Help"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T211141Z" creationid="mohammad" creationdate="20200925T211141Z">
@@ -6112,6 +6120,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Iron Constitution"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T110651Z" creationid="mohammad" creationdate="20200926T110651Z">
+        <seg>"قوانین آهنین"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Iron Pillar of Dhar"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T122116Z" creationid="Novin Pendar" creationdate="20200925T122116Z">
@@ -6260,6 +6276,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222015Z" creationid="BIG GAMER" creationdate="20200924T222015Z">
         <seg>شاه برای نصل هفتم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Know Thyself"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T110551Z" creationid="mohammad" creationdate="20200926T110551Z">
+        <seg>"خودشناسی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7376,6 +7400,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Pedagogy"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T110746Z" creationid="mohammad" creationdate="20200926T110746Z">
+        <seg>"آموزش"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Personality: $VALUE|=+0$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T223707Z" creationid="mohammad" creationdate="20200925T223707Z">
@@ -7783,6 +7815,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T173310Z" creationid="mohammad" creationdate="20200925T173009Z">
         <seg>"راه اندازی مجدد واکنش های نصیحت آمیز "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Restraint"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T110511Z" creationid="mohammad" creationdate="20200926T110511Z">
+        <seg>"خودداری"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9711,6 +9751,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T110141Z" creationid="mohammad" creationdate="20200924T110141Z">
         <seg>"Warscore"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Wash Your Hands"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T110615Z" creationid="mohammad" creationdate="20200926T110615Z">
+        <seg>"دست هایتان را بشویید"</seg>
       </tuv>
     </tu>
     <tu>
