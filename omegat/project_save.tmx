@@ -3158,6 +3158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Anatomical Studies"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T105906Z" creationid="mohammad" creationdate="20200926T105906Z">
+        <seg>"Anatomical Studies"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Any unsaved progress will be lost"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011731Z" creationid="mohammad" creationdate="20200926T011731Z">
@@ -3642,6 +3650,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T114411Z" creationid="Novin Pendar" creationdate="20200925T114411Z">
         <seg>"کلیسای جامع کنتربری"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Carefree"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T105916Z" creationid="mohammad" creationdate="20200926T105916Z">
+        <seg>"بی خیال"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4164,6 +4180,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T125657Z" creationid="mahan" creationdate="20200924T125628Z">
         <seg>و قوانین "پیش فرض" زنان حال برروی مردان اعمال میشود."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Defender of the Faith"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T105841Z" creationid="mohammad" creationdate="20200926T105841Z">
+        <seg>"مدافع از ایمان"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6696,6 +6720,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Mental Resilience"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T110446Z" creationid="mohammad" creationdate="20200926T110446Z">
+        <seg>"مقاومت ذهنی "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Menu"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011221Z" creationid="mohammad" creationdate="20200926T011221Z">
@@ -7500,6 +7532,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T213306Z" creationid="mohammad" creationdate="20200925T213306Z">
         <seg>"ایالت $NAME$ [$ID$]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Radiant"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200926T105809Z" creationid="mohammad" creationdate="20200926T105809Z">
+        <seg>"درخشان"</seg>
       </tuv>
     </tu>
     <tu>
