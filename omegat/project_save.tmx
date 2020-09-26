@@ -3974,6 +3974,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Choose [lifestyle|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T174438Z" creationid="BIG GAMER" creationdate="20200926T174438Z">
+        <seg>انتخاب</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Choosing this [education_focus|E] will also have the following effects:"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T031405Z" creationid="mohammad" creationdate="20200922T031405Z">
