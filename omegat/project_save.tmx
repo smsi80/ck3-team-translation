@@ -5072,8 +5072,8 @@
       <tuv lang="en">
         <seg>"Every year"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T142703Z" creationid="mohammad" creationdate="20200925T142703Z">
-        <seg>"هر ماه"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T122042Z" creationid="mohammad" creationdate="20200925T142703Z">
+        <seg>"هر سال</seg>
       </tuv>
     </tu>
     <tu>
@@ -7560,8 +7560,8 @@
       <tuv lang="en">
         <seg>"Misc"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T142522Z" creationid="mohammad" creationdate="20200925T142522Z">
-        <seg>"Misc"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T122215Z" creationid="mohammad" creationdate="20200925T142522Z">
+        <seg>متفرقه</seg>
       </tuv>
     </tu>
     <tu>
@@ -9211,8 +9211,8 @@
       <tuv lang="en">
         <seg>"Show graphic diseases and injuries"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T163141Z" creationid="mohammad" creationdate="20200925T161301Z">
-        <seg>"زخم ها و بیماری های گرافیکی رو نشان بده"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T122105Z" creationid="mohammad" creationdate="20200925T161301Z">
+        <seg>"زخم ها و بیماری های گرافیکی را نشان بده</seg>
       </tuv>
     </tu>
     <tu>
