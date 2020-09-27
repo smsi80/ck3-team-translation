@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2978,6 +2978,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T121421Z" creationid="mohammad" creationdate="20200926T121421Z">
         <seg>"سنت ها  منعطف "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Added relation $RELATION$ between $CHAR01$ and $CHAR02$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T012722Z" creationid="mohammad" creationdate="20200927T012722Z">
+        <seg>"اضافه شدن رابطه $RELATION$ بین $CHAR01$ و $CHAR02$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6588,6 +6596,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T212805Z" creationid="mohammad" creationdate="20200921T185220Z">
         <seg>"دسیسه چینی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Invalid character"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T012539Z" creationid="mohammad" creationdate="20200927T012539Z">
+        <seg>"شخصیت نامعتبر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Invalid relation"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T012545Z" creationid="mohammad" creationdate="20200927T012545Z">
+        <seg>"رابطه نامعتبر"</seg>
       </tuv>
     </tu>
     <tu>
@@ -14895,6 +14919,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>INVALID_CHARACTER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T012531Z" creationid="mohammad" creationdate="20200927T012531Z">
+        <seg>INVALID_CHARACTER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>INVALID_RELATION:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T012540Z" creationid="mohammad" creationdate="20200927T012540Z">
+        <seg>INVALID_RELATION:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I_HAVE_THIS_LIFESTYLE_FOCUS_DESCRIPTION:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T085940Z" creationid="mohammad" creationdate="20200924T085940Z">
@@ -16615,6 +16655,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>RELATION_ADDED:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T012546Z" creationid="mohammad" creationdate="20200927T012546Z">
+        <seg>RELATION_ADDED:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>RELATION_BELOW_VASSAL:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233337Z" creationid="mohammad" creationdate="20200925T233337Z">
@@ -16939,6 +16987,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T223626Z" creationid="mohammad" creationdate="20200925T223626Z">
         <seg>SCRIPTED_VALUE_MODIFIER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SERVER_NAME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T012526Z" creationid="mohammad" creationdate="20200927T012526Z">
+        <seg>SERVER_NAME:0</seg>
       </tuv>
     </tu>
     <tu>
