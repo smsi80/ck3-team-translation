@@ -21,3 +21,4 @@ Rank	رتبه
 Balance	تعادل
 Lowborn	بی اصل و نسب	Lowborn
 Dynasty	خاندان
+Regiments	هنگها
