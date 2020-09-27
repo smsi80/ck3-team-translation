@@ -10875,6 +10875,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"War Camps"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T140052Z" creationid="mohammad" creationdate="20200927T140052Z">
+        <seg>"اردوگاهای جنگی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"War Declared on Liege!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T074521Z" creationid="mohammad" creationdate="20200925T074521Z">
