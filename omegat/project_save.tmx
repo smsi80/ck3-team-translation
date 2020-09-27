@@ -7022,6 +7022,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Large Rammelsberg Mine"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200927T115534Z" creationid="mahan" creationdate="20200927T115534Z">
+        <seg>"معدن وسیع راملزبرگ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Last Count, First King"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215057Z" creationid="BIG GAMER" creationdate="20200924T215057Z">
@@ -7722,6 +7730,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T022715Z" creationid="mohammad" creationdate="20200922T022715Z">
         <seg>قدرت من درمردم و سرزمین من است.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Nalanda University"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200927T115448Z" creationid="mahan" creationdate="20200927T115448Z">
+        <seg>"دانشگاه نالاندا"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8506,6 +8522,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013542Z" creationid="mohammad" creationdate="20200927T013542Z">
         <seg>"محل گرد همایی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Rammelsberg Mine"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200927T115521Z" creationid="mahan" creationdate="20200927T115521Z">
+        <seg>"معدن راملزبرگ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Rammelsberg Mining Complex"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200927T120538Z" creationid="mahan" creationdate="20200927T120538Z">
+        <seg>"مجموعه معادن راملزبرگ"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9753,6 +9785,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"The Rammelsberg Mines"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200927T115509Z" creationid="mahan" creationdate="20200927T115509Z">
+        <seg>"معدن های راملزبرگ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"The Succession is Safe"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T214849Z" creationid="BIG GAMER" creationdate="20200924T214849Z">
@@ -9797,6 +9837,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T123145Z" creationid="Novin Pendar" creationdate="20200925T122749Z">
         <seg>"دانشگاه سنکوری"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The University of Siena"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200927T115419Z" creationid="mahan" creationdate="20200927T115419Z">
+        <seg>"دانشگاه ساینا"</seg>
       </tuv>
     </tu>
     <tu>
