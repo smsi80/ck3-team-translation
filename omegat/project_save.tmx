@@ -9449,6 +9449,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Simple palisades offer limited protection, while effective against skirmishes they are less reliable against larger groups of enemies."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T185648Z" creationid="mohammad" creationdate="20200927T185648Z">
+        <seg>"پرجین های ساده از محافظت محدودتری برخوردار هستند ، در حالی که در برابر درگیری موثر و مفید هستند اما در برابر گروههای بزرگ دشمن از اطمینان کمتری برخوردار است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Skillful shipwrights gather at this port to construct and repair ships for the highest bidder."</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T123704Z" creationid="Novin Pendar" creationdate="20200924T123704Z">
