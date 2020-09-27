@@ -19999,6 +19999,16 @@ building_royal_forest_03:0</seg>
     <tu>
       <tuv lang="en">
         <seg>l_english:
+ start_year_1066_09_15_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T183720Z" creationid="mohammad" creationdate="20200927T183720Z">
+        <seg>l_english:
+ start_year_1066_09_15_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
  test_text_to_use_explanation:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T032246Z" creationid="mohammad" creationdate="20200922T032246Z">
