@@ -3500,6 +3500,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"As well as [traits|E], your [character|E] can also pick a [lifestyle|E]. There are five $game_concept_lifestyles$, one for each skill.\n\n$game_concept_lifestyles$ represent what you put the most effort into day-to-day, and each one has several [focuses|E] inside relating to it.\n\nEvery $game_concept_focus$ gives you a unique bonus, and makes events associated with that $game_concept_focus$ more likely to happen."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T065051Z" creationid="mohammad" creationdate="20200927T065051Z">
+        <seg>"As well as [traits|E], your [character|E] can also pick a [lifestyle|E]. There are five $game_concept_lifestyles$, one for each skill.\n\n$game_concept_lifestyles$ represent what you put the most effort into day-to-day, and each one has several [focuses|E] inside relating to it.\n\nEvery $game_concept_focus$ gives you a unique bonus, and makes events associated with that $game_concept_focus$ more likely to happen."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Asexuality is the most common Sexuality, while Heterosexuality, Homosexuality and Bisexuality are less common."</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T101713Z" creationid="mahan" creationdate="20200924T131045Z">
