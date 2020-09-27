@@ -2244,6 +2244,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$building_type_hall_of_heroes_01_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T110212Z" creationid="mohammad" creationdate="20200927T110212Z">
+        <seg>"$building_type_hall_of_heroes_01_desc$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$diplomacy_modifier$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013900Z" creationid="mohammad" creationdate="20200927T013900Z">
@@ -4826,6 +4834,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T125641Z" creationid="Novin Pendar" creationdate="20200924T125641Z">
         <seg>"بنادر تعمیری"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Ducal Conquest"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T110120Z" creationid="mohammad" creationdate="20200927T110120Z">
+        <seg>"Ducal Conquest"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7602,6 +7618,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223727Z" creationid="BIG GAMER" creationdate="20200924T223727Z">
         <seg>مادر همه ماها</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Motte"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T110132Z" creationid="mohammad" creationdate="20200927T110132Z">
+        <seg>"Motte"</seg>
       </tuv>
     </tu>
     <tu>
@@ -18413,6 +18437,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T130215Z" creationid="mohammad" creationdate="20200924T130215Z">
         <seg>become_greatest_of_khans_decision_tooltip:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>building_hall_of_heroes_03_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T110210Z" creationid="mohammad" creationdate="20200927T110210Z">
+        <seg>building_hall_of_heroes_03_desc:0</seg>
       </tuv>
     </tu>
     <tu>
