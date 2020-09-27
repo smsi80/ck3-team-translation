@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11067,6 +11067,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"With a lot of [piety|E], you will have an easier time interacting with your [head_of_faith|E]. As you are $catholic_adherent$, this is the Pope.\n\n$game_concept_piety$ can be gained passively from the [learning|E] [skill|E] and from [virtuous|E] [traits|E], or actively from choosing to do religious things, such as going on a [pilgrimage|E].\n\nYou also have a [piety_level|E], which builds over time whenever you gain $game_concept_piety$ and can have positive effects for your Character.\n\n#TUT Similar to Prestige, some action require you to #EMP spend#! $game_concept_piety$, like declaring Holy Wars, or if you want to create a new Faith.\n\nSpending $game_concept_piety$ like this is normal, and [characters|E] won't think worse of you for it.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T061019Z" creationid="mohammad" creationdate="20200927T061019Z">
+        <seg>"با مقدار زیادی [piety | E] ، تعامل با [head_of_faith | E] خود را راحت تر خواهید کرد. همانطور که $ catholic_adherentcatholic_adherent$  هستید ، این پاپ است. \\ n \\ n $ game_concept_pati $ منفعلانه می تواند از [learning | E] [skill | E] و از [virtuous|E]  [traits|E]  ، یا فعالانه برای انتخاب کارهای مذهبی ، مانند رفتن به [pilgrimage|E]. \\ n \\ n شما همچنین دارید یک [piety_level| E] ، که با گذشت زمان ایجاد می شود هر زمان که شما $ game_concept_piety $ بدست آورید و می تواند برای شخصیت شما تأثیرات مثبتی داشته باشد. \\ n \\ n # TUT مشابه Prestige ، برخی از اقدامات شما را به #EMP هزینه #! $ game_concept_piety $ می کند ، مانند اعلام جنگ مقدس ، یا اگر می خواهید دینی جدیدی ایجاد کنید. \\ n \\ n هزینه $ game_concept_parity $ طبیعی است ، و [characters|E] به خاطر این کار شما  بدبینانه فکر نمی کنند. #! "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"With the death of [LEFT_CHARACTER.GetUINameNoTooltip], you have no [heir|E]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T070321Z" creationid="mohammad" creationdate="20200925T070321Z">
@@ -12659,6 +12667,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[piety_i|E] Piety ($lesson_basics_resources$)"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T055640Z" creationid="mohammad" creationdate="20200927T055640Z">
+        <seg>"[piety_i|E] Piety ($lesson_basics_resources$)"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[piety_level|E]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000230Z" creationid="mohammad" creationdate="20200926T000230Z">
@@ -12731,6 +12747,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[prestige_i|E] Prestige ($lesson_basics_resources$)"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T055619Z" creationid="mohammad" creationdate="20200927T055619Z">
+        <seg>"[prestige_i|E] Prestige ($lesson_basics_resources$)"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[prestige_level|E]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000443Z" creationid="mohammad" creationdate="20200926T000443Z">
@@ -12799,8 +12823,8 @@
       <tuv lang="en">
         <seg>"[traits|E] can also impact how other [characters|E] react to #EMP you#!.\n\nSome people are impressed by the @brave_icon! [GetTrait('brave').GetName( GetNullCharacter )] Trait, while a @lustful_icon! [GetTrait('lustful').GetName( GetNullCharacter )] Character is more likely to feature in salacious gossip...\n\n#TUT Traits influence other Characters' morality and greed, which can affect both their friendly and hostile actions.#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200926T161412Z" creationid="mohammad" creationdate="20200926T161412Z">
-        <seg>"[traits|E] can also impact how other [characters|E] react to #EMP you#!.\n\nSome people are impressed by the @brave_icon! [GetTrait('brave').GetName( GetNullCharacter )] Trait, while a @lustful_icon! [GetTrait('lustful').GetName( GetNullCharacter )] Character is more likely to feature in salacious gossip...\n\n#TUT Traits influence other Characters' morality and greed, which can affect both their friendly and hostile actions.#!"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T062236Z" creationid="mohammad" creationdate="20200926T161412Z">
+        <seg>"[traits|E] همچنین می تواند بر رفتار  دیگر [characters|E]  با شما تاثیر بگذارد. #EMP you#!.\n\nبعضی از مردم  تحت تاثیرthe @brave_icon! [GetTrait('brave') قرار میگیرند .GetName( GetNullCharacter )] Trait,  @lustful_icon! [GetTrait('lustful').GetName( GetNullCharacter )]  salacious gossip...\n\n#TUT Traits influence .#!"</seg>
       </tuv>
     </tu>
     <tu>
