@@ -2884,22 +2884,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>"A $game_concept_ruler$ is a character who holds at least one [title|E]."</seg>
-      </tuv>
-      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T175258Z" creationid="BIG GAMER" creationdate="20200926T175258Z">
-        <seg>شخصی است که دارای حداقل یک عنوان است</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>"A $game_concept_title$ is essentially a certificate of land ownership.\n\nThe smallest unit of land on the map is the [barony|E]. Baronies are organized into larger areas called [counties|E]. Counties [de_jure|E] belong to a [duchy|E], duchies to a [kingdom|E], and Kingdoms to an [empire|E].\n\nDuchies, Kingdoms and Empires do not always have a [holder|E], but are Titles that can be [created|E] by a ruler who controls enough of the corresponding territory."</seg>
-      </tuv>
-      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T180233Z" creationid="BIG GAMER" creationdate="20200926T180233Z">
-        <seg>اساسا سند ماکیت زمین ،کوچک ترین واحد زمین بر نقشه بارونیست،آنها در واحدهای بزرگ تری به نام کنت نشین جای گرفته اند،کنت نشینی ها به دوک نیشی و انها به شاهی وشاهیها به امپراطوری ،عناوین همیشه به حکام تعلق ندارند بلکه به وسیله حکامی که تعداد از مناطق مذکور را دارند</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>"A $game_concept_vassal$ is a [ruler|E] who has sworn fealty to another ruler — their [liege|E].\n\nThe $game_concept_vassal$ provides their liege with [levies|E] and [taxes|E] — their [obligations|E] — in exchange for protection.\n\nIf a $game_concept_vassal$'s [opinion|E] of their liege is low, they may join [factions|E], or [scheme|E] to replace their liege with someone else."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T091112Z" creationid="mohammad" creationdate="20200926T085134Z">
@@ -3072,14 +3056,6 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222248Z" creationid="BIG GAMER" creationdate="20200924T222248Z">
         <seg>خداوند بالاسری</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>"Absolute Control"</seg>
-      </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200926T125636Z" creationid="mohammad" creationdate="20200926T125636Z">
-        <seg>"کنترل مطلق"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3584,14 +3560,6 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T001138Z" creationid="mohammad" creationdate="20200926T001138Z">
         <seg>"ذخیره خودکار"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>"Autonomous Vassals"</seg>
-      </tuv>
-      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T181203Z" creationid="BIG GAMER" creationdate="20200926T181203Z">
-        <seg>بدگان مستقل</seg>
       </tuv>
     </tu>
     <tu>
@@ -4436,14 +4404,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>"Crown Authority"</seg>
-      </tuv>
-      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T181109Z" creationid="BIG GAMER" creationdate="20200926T181109Z">
-        <seg>اختیارات سلطنتی</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>"Crownswood Courts"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T125732Z" creationid="mahan" creationdate="20200925T125433Z">
@@ -4538,14 +4498,6 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T104107Z" creationid="mahan" creationdate="20200925T102609Z">
         <seg>"حق مالکیت"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>"De Jure"</seg>
-      </tuv>
-      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T180603Z" creationid="BIG GAMER" creationdate="20200926T180603Z">
-        <seg>محق</seg>
       </tuv>
     </tu>
     <tu>
@@ -4874,14 +4826,6 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T125641Z" creationid="Novin Pendar" creationdate="20200924T125641Z">
         <seg>"بنادر تعمیری"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>"Ducal Conquest"</seg>
-      </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200926T121218Z" creationid="mohammad" creationdate="20200926T121218Z">
-        <seg>"دوک فاتح"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5362,14 +5306,6 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233449Z" creationid="mohammad" creationdate="20200925T233449Z">
         <seg>"همکار [vassal|E]"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>"Feudal Contract"</seg>
-      </tuv>
-      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T181009Z" creationid="BIG GAMER" creationdate="20200926T181009Z">
-        <seg>ققرار داد فئودالی</seg>
       </tuv>
     </tu>
     <tu>
@@ -6334,22 +6270,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>"Holder"</seg>
-      </tuv>
-      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T180312Z" creationid="BIG GAMER" creationdate="20200926T180312Z">
-        <seg>دارنده</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>"Holders"</seg>
-      </tuv>
-      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T180329Z" creationid="BIG GAMER" creationdate="20200926T180329Z">
-        <seg>دارندگان</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>"Holy Orders"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234948Z" creationid="mohammad" creationdate="20200925T234948Z">
@@ -6698,14 +6618,6 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T133918Z" creationid="mahan" creationdate="20200924T112107Z">
         <seg>"برای بدست اوردن دستاورد ها، نیاز است بازی را بدون مد و یا چیزهای اضافی بر روی حالت تک نفره بر روی مد آیرون من بازی کنید ."</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>"Incestuous"</seg>
-      </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T222349Z" creationid="mohammad" creationdate="20200924T222349Z">
-        <seg>زنا با محارم"Incestuous"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7734,14 +7646,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>"Murder"</seg>
-      </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T215337Z" creationid="mohammad" creationdate="20200924T215337Z">
-        <seg>"قتل"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>"Murdered [TARGET_CHARACTER.GetShortUIName]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T194212Z" creationid="mohammad" creationdate="20200924T230352Z">
@@ -8382,14 +8286,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>"Powerful Vassal"</seg>
-      </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T073034Z" creationid="mohammad" creationdate="20200925T073034Z">
-        <seg>"واسال قدرتمند"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>"Praetorian Guard"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T122542Z" creationid="mohammad" creationdate="20200926T122542Z">
@@ -8861,14 +8757,6 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T091014Z" creationid="mohammad" creationdate="20200926T091014Z">
         <seg>"حاکم"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>"Ruler's"</seg>
-      </tuv>
-      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T175118Z" creationid="BIG GAMER" creationdate="20200926T175118Z">
-        <seg>مال حاکم</seg>
       </tuv>
     </tu>
     <tu>
@@ -10387,14 +10275,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>"Title"</seg>
-      </tuv>
-      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T175320Z" creationid="BIG GAMER" creationdate="20200926T175320Z">
-        <seg>عنوان</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>"Titles Lost"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071103Z" creationid="mohammad" creationdate="20200925T071103Z">
@@ -10423,14 +10303,6 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T104441Z" creationid="mahan" creationdate="20200925T104441Z">
         <seg>"مقام های دارای حق مالکیت هرگز نابود نخواهند شد."</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>"Titles"</seg>
-      </tuv>
-      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T175351Z" creationid="BIG GAMER" creationdate="20200926T175351Z">
-        <seg>عناویین  مناصب</seg>
       </tuv>
     </tu>
     <tu>
@@ -10767,14 +10639,6 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T223658Z" creationid="mohammad" creationdate="20200925T223658Z">
         <seg>"ارزش: $VALUE|+0$"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>"Vassal Obligations"</seg>
-      </tuv>
-      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T180907Z" creationid="BIG GAMER" creationdate="20200926T180907Z">
-        <seg>تعهدات فرمان بران</seg>
       </tuv>
     </tu>
     <tu>
@@ -19090,14 +18954,6 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>game_concept_absolute_crown_authority:0</seg>
-      </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200927T105622Z" creationid="mohammad" creationdate="20200927T105622Z">
-        <seg>game_concept_absolute_crown_authority:0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>game_concept_educate:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T032413Z" creationid="mohammad" creationdate="20200922T032413Z">
@@ -19190,22 +19046,6 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T090750Z" creationid="mohammad" creationdate="20200926T090750Z">
         <seg>game_concept_taxes:0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>game_concept_vassal:0</seg>
-      </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200926T090711Z" creationid="mohammad" creationdate="20200926T090711Z">
-        <seg>game_concept_vassal:0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>game_concept_vassals_possessive:0</seg>
-      </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200927T104954Z" creationid="mohammad" creationdate="20200927T104954Z">
-        <seg>game_concept_vassals_possessive:0</seg>
       </tuv>
     </tu>
     <tu>
