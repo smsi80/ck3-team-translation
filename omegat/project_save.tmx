@@ -5678,6 +5678,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Fortified Tribal Hold"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T143734Z" creationid="mohammad" creationdate="20200927T143602Z">
+        <seg>"نگهداری قبیله ارتقا یافته"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Fortress"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T114056Z" creationid="Novin Pendar" creationdate="20200924T114056Z">
@@ -5858,6 +5866,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T215313Z" creationid="mohammad" creationdate="20200925T215313Z">
         <seg>"جمع اورش ارتش در $LOCATION$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Gathering Halls"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T143934Z" creationid="mohammad" creationdate="20200927T143934Z">
+        <seg>"تالار های تجمع"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10017,6 +10033,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"The fortified hold takes its inspiration from feudal castles, adding many new defensive elements."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T143638Z" creationid="mohammad" creationdate="20200927T143638Z">
+        <seg>"قلعه مستحکم از قلعه های فئودالی الهام گرفته و عناصر دفاعی جدیدی را به آن اضافه شده است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"The fruit orchards, while small, produce a decent and succulent harvest."</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054608Z" creationid="Novin Pendar" creationdate="20200925T054608Z">
@@ -10653,8 +10677,8 @@
       <tuv lang="en">
         <seg>"Tribal Hold"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200927T143009Z" creationid="mohammad" creationdate="20200927T143009Z">
-        <seg>"Tribal Hold"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T143649Z" creationid="mohammad" creationdate="20200927T143009Z">
+        <seg>"نگهداری قبیله ایی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -18654,6 +18678,14 @@
       <tuv lang="fa" changeid="mahan" changedate="20200925T125414Z" creationid="mahan" creationdate="20200925T125414Z">
         <seg>
 building_royal_forest_03:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>building_type_tribe_01_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T143650Z" creationid="mohammad" creationdate="20200927T143650Z">
+        <seg>building_type_tribe_01_desc:1</seg>
       </tuv>
     </tu>
     <tu>
