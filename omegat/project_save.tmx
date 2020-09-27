@@ -1856,6 +1856,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$CHAR01$ and $CHAR02$ become $RELATION01|V$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T012953Z" creationid="mohammad" creationdate="20200927T012839Z">
+        <seg>"$CHAR01$ و $CHAR02$ تبدیل می شود $RELATION01|V$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$CHAR01$ becomes $RELATION01|V$ of $CHAR02$ and $CHAR02$ becomes the $RELATION02|V$ of $CHAR01$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T012947Z" creationid="mohammad" creationdate="20200927T012947Z">
+        <seg>"$CHAR01$ تبدیل می شود $RELATION01|V$ از $CHAR02$ و $CHAR02$ تبدیل می شود $RELATION02|V$ از $CHAR01$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$CHAR01$ will become a $RELATION01|V$ to $CHAR02$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T012827Z" creationid="mohammad" creationdate="20200927T012827Z">
+        <seg>"$CHAR01$ تبدیل خواهد شد $RELATION01|V$ به $CHAR02$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$CHAR01$ will no longer be a $RELATION|V$ to $CHAR02$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013043Z" creationid="mohammad" creationdate="20200927T013043Z">
+        <seg>"$CHAR01$ نخواهد بود $RELATION|V$ به $CHAR02$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$CURRENT_SPEED_TOOLTIP$[SelectLocalization( JominiIsHostOrLocal, 'CURRENT_SPEED_CLICK_TT_1', 'CURRENT_SPEED_ONLY_HOST' )]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T212222Z" creationid="mohammad" creationdate="20200925T212222Z">
@@ -8519,6 +8551,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T211157Z" creationid="mohammad" creationdate="20200925T211157Z">
         <seg>"بارگزاری مجدد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Removed relation $RELATION$ between $CHAR01$ and $CHAR02$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T012742Z" creationid="mohammad" creationdate="20200927T012742Z">
+        <seg>"حذف شدن رابطه $RELATION$ بین $CHAR01$ و $CHAR02$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -16759,10 +16799,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>RELATION_REMOVED:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T012724Z" creationid="mohammad" creationdate="20200927T012724Z">
+        <seg>RELATION_REMOVED:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>RELOAD:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T211143Z" creationid="mohammad" creationdate="20200925T211143Z">
         <seg>RELOAD:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>REMOVE_SCRIPTED_RELATION:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T012948Z" creationid="mohammad" creationdate="20200927T012948Z">
+        <seg>REMOVE_SCRIPTED_RELATION:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -17347,6 +17403,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T172305Z" creationid="mohammad" creationdate="20200924T172305Z">
         <seg>SETTING_TUTORIAL:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SET_SCRIPTED_RELATION:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T012743Z" creationid="mohammad" creationdate="20200927T012743Z">
+        <seg>SET_SCRIPTED_RELATION:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SET_SCRIPTED_RELATION_DIFFERENT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T012840Z" creationid="mohammad" creationdate="20200927T012840Z">
+        <seg>SET_SCRIPTED_RELATION_DIFFERENT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SET_SCRIPTED_RELATION_SAME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T012829Z" creationid="mohammad" creationdate="20200927T012829Z">
+        <seg>SET_SCRIPTED_RELATION_SAME:0</seg>
       </tuv>
     </tu>
     <tu>
