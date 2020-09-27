@@ -6430,6 +6430,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Hunter's Stables"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200927T115113Z" creationid="mahan" creationdate="20200927T115113Z">
+        <seg>"استبل شکارچیان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"I Understand"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T102740Z" creationid="mohammad" creationdate="20200924T102740Z">
@@ -7086,6 +7094,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Libraries"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200927T115042Z" creationid="mahan" creationdate="20200927T115042Z">
+        <seg>"کتابخانه ها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Liege Goes to War!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T074554Z" creationid="mohammad" creationdate="20200925T074554Z">
@@ -7466,6 +7482,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T131042Z" creationid="mahan" creationdate="20200925T131042Z">
         <seg>"آکادمی ارتشی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Military Outposts"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200927T115010Z" creationid="mahan" creationdate="20200927T115010Z">
+        <seg>"پایگاه های نظامی"</seg>
       </tuv>
     </tu>
     <tu>
