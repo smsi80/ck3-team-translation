@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#F A keep designed to not only house a reputable noble family, but also protect the surrounding town and farmlands.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200927T105549Z" creationid="mahan" creationdate="20200927T105549Z">
+        <seg>"#F قلعه ای ساخته شده برای زندگی خانواده نجیب، همچنین از مزارع و خانه های اطرافش محافظت خواهد کرد.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#F A place of higher learning for those with influence, and gold, enough to gain admission.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T052328Z" creationid="Novin Pendar" creationdate="20200925T052039Z">
