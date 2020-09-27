@@ -5278,6 +5278,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Falun Mining Settlement"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T144438Z" creationid="mohammad" creationdate="20200927T144438Z">
+        <seg>"قرارگاه معادن فالون"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Family Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183717Z" creationid="mohammad" creationdate="20200921T183717Z">
@@ -6074,6 +6082,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T115848Z" creationid="Novin Pendar" creationdate="20200924T115848Z">
         <seg>"معبد بزرگ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Grand halls host a central stage, where a chief or warlord can deliver rousing speeches."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T144245Z" creationid="mohammad" creationdate="20200927T144245Z">
+        <seg>"Grand halls host a central stage, where a chief or warlord can deliver rousing speeches."</seg>
       </tuv>
     </tu>
     <tu>
@@ -7288,8 +7304,8 @@
       <tuv lang="en">
         <seg>"Longhouses"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200927T144015Z" creationid="mohammad" creationdate="20200927T144015Z">
-        <seg>"Longhouses"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T144136Z" creationid="mohammad" creationdate="20200927T144015Z">
+        <seg>"خانه های بلند"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9821,6 +9837,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223319Z" creationid="BIG GAMER" creationdate="20200924T223319Z">
         <seg>لباس های جدید امپراطور</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The Falun Mines"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T144309Z" creationid="mohammad" creationdate="20200927T144309Z">
+        <seg>"معادن فالون"</seg>
       </tuv>
     </tu>
     <tu>
