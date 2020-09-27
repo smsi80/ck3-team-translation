@@ -10757,8 +10757,16 @@
       <tuv lang="en">
         <seg>"Trading Outposts"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200927T185916Z" creationid="mohammad" creationdate="20200927T185916Z">
-        <seg>"Trading Outposts"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T190103Z" creationid="mohammad" creationdate="20200927T185916Z">
+        <seg>"ایستگاه های بازرگانی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Trading outposts offer the opportunity for tribesmen and traders to meet and barter."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T190030Z" creationid="mohammad" creationdate="20200927T190030Z">
+        <seg>"Trading outposts offer the opportunity for tribesmen and traders to meet and barter."</seg>
       </tuv>
     </tu>
     <tu>
