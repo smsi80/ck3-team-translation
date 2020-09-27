@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3084,14 +3084,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>"Absolute"</seg>
-      </tuv>
-      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T181235Z" creationid="BIG GAMER" creationdate="20200926T181235Z">
-        <seg>مطلقه</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>"Accomplished Forger"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T121612Z" creationid="mohammad" creationdate="20200926T121612Z">
@@ -4738,14 +4730,6 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T104024Z" creationid="mahan" creationdate="20200925T102232Z">
         <seg>"دامنه ی دسترسی دیپلماتیک خاموش میباشد، میتوان با تمامی افراد موجود بر روی نقشه ارتباط برقرار کرد."</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>"Direct Vassal"</seg>
-      </tuv>
-      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T174909Z" creationid="BIG GAMER" creationdate="20200926T174909Z">
-        <seg>فرمان بر مستقیم</seg>
       </tuv>
     </tu>
     <tu>
@@ -10815,30 +10799,6 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T090725Z" creationid="mohammad" creationdate="20200926T090725Z">
         <seg>"بنده"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>"Vassalage"</seg>
-      </tuv>
-      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T174749Z" creationid="BIG GAMER" creationdate="20200926T174749Z">
-        <seg>تحت امر بودن</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>"Vassalize"</seg>
-      </tuv>
-      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T175038Z" creationid="BIG GAMER" creationdate="20200926T175038Z">
-        <seg>تحت امر در اوردن</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>"Vassals'"</seg>
-      </tuv>
-      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T174832Z" creationid="BIG GAMER" creationdate="20200926T174832Z">
-        <seg>فرمان بران</seg>
       </tuv>
     </tu>
     <tu>
@@ -19130,6 +19090,14 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>game_concept_absolute_crown_authority:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T105622Z" creationid="mohammad" creationdate="20200927T105622Z">
+        <seg>game_concept_absolute_crown_authority:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>game_concept_educate:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T032413Z" creationid="mohammad" creationdate="20200922T032413Z">
@@ -19230,6 +19198,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T090711Z" creationid="mohammad" creationdate="20200926T090711Z">
         <seg>game_concept_vassal:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>game_concept_vassals_possessive:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T104954Z" creationid="mohammad" creationdate="20200927T104954Z">
+        <seg>game_concept_vassals_possessive:0</seg>
       </tuv>
     </tu>
     <tu>
