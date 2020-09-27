@@ -3860,6 +3860,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Blacksmith's Guilds"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T190900Z" creationid="mohammad" creationdate="20200927T190900Z">
+        <seg>"Blacksmith's Guilds"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Blacksmiths"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200926T122509Z" creationid="Novin Pendar" creationdate="20200926T122509Z">
@@ -3896,6 +3904,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T122023Z" creationid="Novin Pendar" creationdate="20200924T122023Z">
         <seg>"کلان شهر شلوغ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"By collaborating with the various guilds, large amounts of gear can be made cheaply on order."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T190915Z" creationid="mohammad" creationdate="20200927T190915Z">
+        <seg>"By collaborating with the various guilds, large amounts of gear can be made cheaply on order."</seg>
       </tuv>
     </tu>
     <tu>
@@ -18821,6 +18837,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T130215Z" creationid="mohammad" creationdate="20200924T130215Z">
         <seg>become_greatest_of_khans_decision_tooltip:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>building_blacksmiths_03:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T190903Z" creationid="mohammad" creationdate="20200927T190903Z">
+        <seg>building_blacksmiths_03:0</seg>
       </tuv>
     </tu>
     <tu>
