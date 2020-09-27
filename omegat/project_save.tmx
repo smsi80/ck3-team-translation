@@ -1552,6 +1552,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#V Forever#! "
+ DURATION_DATE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013208Z" creationid="mohammad" creationdate="20200927T013208Z">
+        <seg>"#V Forever#! "
+ DURATION_DATE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#X $NAME$ blocked your $INTERACTION|D$.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T221310Z" creationid="mohammad" creationdate="20200925T221310Z">
@@ -1872,6 +1882,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$CHAR01$ is the $RELATION|V$ of $CHAR02$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013106Z" creationid="mohammad" creationdate="20200927T013106Z">
+        <seg>"$CHAR01$ هست $RELATION|V$ از $CHAR02$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$CHAR01$ will become a $RELATION01|V$ to $CHAR02$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T012827Z" creationid="mohammad" creationdate="20200927T012827Z">
@@ -1940,6 +1958,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T074613Z" creationid="mohammad" creationdate="20200925T074613Z">
         <seg>"$DESCRIPTION$\n$EFFECT$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$DURATION$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013218Z" creationid="mohammad" creationdate="20200927T013218Z">
+        <seg>"$DURATION$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2180,6 +2206,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000725Z" creationid="mohammad" creationdate="20200926T000725Z">
         <seg>"$WHO$ بر روی شما یک قلاب دارد."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$[DATE_MIN.GetStringShort|V]$ - $[DATE_MAX.GetStringShort|V]$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013217Z" creationid="mohammad" creationdate="20200927T013217Z">
+        <seg>"$[DATE_MIN.GetStringShort|V]$ - $[DATE_MAX.GetStringShort|V]$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7840,6 +7874,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Number of Regiments"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013353Z" creationid="mohammad" creationdate="20200927T013353Z">
+        <seg>"تعداد هنگها "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Number of debug saves"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T175910Z" creationid="mohammad" creationdate="20200924T170950Z">
@@ -11563,6 +11605,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[DATE.GetStringShort|V]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013213Z" creationid="mohammad" creationdate="20200927T013213Z">
+        <seg>"[DATE.GetStringShort|V]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[FACTION.GetName] against [CHARACTER.GetUINameNoTooltip] doesn't have a valid leader, therefore the faction has been disbanded"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T075635Z" creationid="mohammad" creationdate="20200925T075635Z">
@@ -12371,6 +12421,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[soldiers|E]:  "
+ NUMBER_OF_REGIMENTS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013235Z" creationid="mohammad" creationdate="20200927T013235Z">
+        <seg>"[soldiers|E]:  "
+ NUMBER_OF_REGIMENTS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[title_to_destroy.GetName] Forfeit!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T104625Z" creationid="mahan" creationdate="20200925T104625Z">
@@ -12515,6 +12575,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T215423Z" creationid="mohammad" creationdate="20200925T215423Z">
         <seg>"در سن $AGE|V$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"between $DURATION_MIN$ and $DURATION_MAX$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013227Z" creationid="mohammad" creationdate="20200927T013227Z">
+        <seg>"بین $DURATION_MIN$ و $DURATION_MAX$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -14407,6 +14475,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DURATION_DATE_RANGE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013214Z" creationid="mohammad" creationdate="20200927T013214Z">
+        <seg>DURATION_DATE_RANGE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DURATION_FOREVER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013154Z" creationid="mohammad" creationdate="20200927T013154Z">
+        <seg>DURATION_FOREVER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DURATION_NO_DATE:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013218Z" creationid="mohammad" creationdate="20200927T013218Z">
+        <seg>DURATION_NO_DATE:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DURATION_NO_DATE_RANGE:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013219Z" creationid="mohammad" creationdate="20200927T013219Z">
+        <seg>DURATION_NO_DATE_RANGE:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DYNASTY:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011031Z" creationid="mohammad" creationdate="20200926T011031Z">
@@ -14883,6 +14983,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T142641Z" creationid="mohammad" creationdate="20200925T142641Z">
         <seg>HALFYEAR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HAS_SCRIPTED_RELATION:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013045Z" creationid="mohammad" creationdate="20200927T013045Z">
+        <seg>HAS_SCRIPTED_RELATION:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -16319,6 +16427,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>NUMBER_OF_MEN:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013231Z" creationid="mohammad" creationdate="20200927T013231Z">
+        <seg>NUMBER_OF_MEN:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>NUMBER_OF_MEN_ARRIVED:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000610Z" creationid="mohammad" creationdate="20200926T000610Z">
@@ -17587,6 +17703,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T010845Z" creationid="mohammad" creationdate="20200926T010845Z">
         <seg>TIER_TYPE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TITLE_DEFINITE_FORM:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013110Z" creationid="mohammad" creationdate="20200927T013110Z">
+        <seg>TITLE_DEFINITE_FORM:0</seg>
       </tuv>
     </tu>
     <tu>
