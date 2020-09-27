@@ -9193,6 +9193,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Sawmills"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T193858Z" creationid="mohammad" creationdate="20200927T193858Z">
+        <seg>"کارگاه چوب بری"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Scheme $NAME$ [$ID$]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T213401Z" creationid="mohammad" creationdate="20200925T213401Z">
@@ -11279,6 +11287,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T152838Z" creationid="mohammad" creationdate="20200926T152838Z">
         <seg>"حالا چی؟"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"While axes and simple saws have served us so far, the sawmill is to those like god is to men. Now the forest can be consumed in almost no time, with its valuable wood fueling our cities and towns."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T194040Z" creationid="mohammad" creationdate="20200927T194040Z">
+        <seg>"While axes and simple saws have served us so far, the sawmill is to those like god is to men. Now the forest can be consumed in almost no time, with its valuable wood fueling our cities and towns."</seg>
       </tuv>
     </tu>
     <tu>
