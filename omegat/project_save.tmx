@@ -3246,8 +3246,8 @@
       <tuv lang="en">
         <seg>"All [characters|E] (yes, #EMP all#!) have an [opinion|E] of one another, which drives their behavior.\n\n#N Low#! $game_concept_opinion$ can cause people to rise against you or be unwilling to help you. #P High#! $game_concept_opinion$ can, on the other hand, make $game_concept_characters$ more inclined to join your [murder_scheme|E], or fall for your [seduction|E]...\n\n#TUT How you choose to interact with other $game_concept_characters$ will often affect their Opinion of you.#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200926T163803Z" creationid="mohammad" creationdate="20200926T162503Z">
-        <seg>"همه [کاراکترها | E] (بله ، #EMP همه #!) دارای یک نظر [نظر | E] نسبت به یکدیگر هستند ، که رفتار آنها را شکل می دهد. \\ n \\ n # N پایین #! $ game_concept_opinion $ می تواند باعث شود مردم در برابر آنها بایستند  یا مایل نیستید به شما کمک کند. از طرف دیگر ، #P High #! $ game_concept_opin $ می تواند $game_concept_characters$ را بیشتر متمایل به پیوستن به [طرح_ قتل | E] شما کند ، یا به دام [اغوا | E] شما بیفتد ... \\ n \\ n # TUT نحوه تعامل با دیگران $ game_concept_character ها $ اغلب نظر آنها درباره شما را تحت تأثیر قرار می دهد. #! "</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T135755Z" creationid="mohammad" creationdate="20200926T162503Z">
+        <seg>"همه [characters|E]  (بله ، #EMP همه #!) دارای یک نظر [opinion | E] نسبت به یکدیگر هستند ، که رفتار آنها را شکل می دهد. \\ n \\ n # N پایین #! $ game_concept_opinion $ می تواند باعث شود مردم در برابر آنها بایستند  یا مایل نیستید به شما کمک کند. از طرف دیگر ، #P High #! $ game_concept_opin $ می تواند $game_concept_characters$ را بیشتر متمایل به پیوستن به [murder_scheme|E] شما کند ، یا به دام [seduction|E] شما بیفتد ... \\ n \\ n # TUT نحوه تعامل با دیگران $ game_concept_character ها $ اغلب نظر آنها درباره شما را تحت تأثیر قرار می دهد. #! "</seg>
       </tuv>
     </tu>
     <tu>
