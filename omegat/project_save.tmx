@@ -12823,8 +12823,8 @@
       <tuv lang="en">
         <seg>"[traits|E] can also impact how other [characters|E] react to #EMP you#!.\n\nSome people are impressed by the @brave_icon! [GetTrait('brave').GetName( GetNullCharacter )] Trait, while a @lustful_icon! [GetTrait('lustful').GetName( GetNullCharacter )] Character is more likely to feature in salacious gossip...\n\n#TUT Traits influence other Characters' morality and greed, which can affect both their friendly and hostile actions.#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200927T062236Z" creationid="mohammad" creationdate="20200926T161412Z">
-        <seg>"[traits|E] همچنین می تواند بر رفتار  دیگر [characters|E]  با شما تاثیر بگذارد. #EMP you#!.\n\nبعضی از مردم  تحت تاثیرthe @brave_icon! [GetTrait('brave') قرار میگیرند .GetName( GetNullCharacter )] Trait,  @lustful_icon! [GetTrait('lustful').GetName( GetNullCharacter )]  salacious gossip...\n\n#TUT Traits influence .#!"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T064757Z" creationid="mohammad" creationdate="20200926T161412Z">
+        <seg>"[traits|E] همچنین می تواند بر رفتار  دیگر [characters|E]  با شما تاثیر بگذارد. #EMP you#!.\n\nبعضی از مردم  تحت تاثیر   ('t @brave_icon! [GetTrait('braveGetName( GetNullCharacter )] قرار میگیرند . درحالی که  Trait,  @lustful_icon! [GetTrait('lustful').GetName( GetNullCharacter)ـ  شخصیت بیشتر ترجیح می دهد در مسائل شهوانی شرکت کند.\n\n#TUT Traits influence . ویژگی ها واجدان و طمع در شخصیت ها را تحت تاثیر قرار می دهد که  می تواند رفتار دوستانه یا متخاصم آن ها باعث شود#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -20078,6 +20078,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T104253Z" creationid="mohammad" creationdate="20200924T104253Z">
         <seg>lesson_basics_marriage:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_opinion:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T062243Z" creationid="mohammad" creationdate="20200927T062243Z">
+        <seg>lesson_basics_opinion:0</seg>
       </tuv>
     </tu>
     <tu>
