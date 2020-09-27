@@ -10707,6 +10707,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Training equipment, arenas and wooden walls define the sparring grounds, warriors go here to hone their skills."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T184430Z" creationid="mohammad" creationdate="20200927T184430Z">
+        <seg>"Training equipment, arenas and wooden walls define the sparring grounds, warriors go here to hone their skills."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Trait Gained"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T074639Z" creationid="mohammad" creationdate="20200925T074639Z">
