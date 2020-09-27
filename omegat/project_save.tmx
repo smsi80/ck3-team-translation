@@ -5286,6 +5286,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Falun Mines V"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T151141Z" creationid="mohammad" creationdate="20200927T151141Z">
+        <seg>"Falun Mines V"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Falun Mining Complex"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T151057Z" creationid="mohammad" creationdate="20200927T151057Z">
+        <seg>"معادن مختلط فالون"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Falun Mining Settlement"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T144438Z" creationid="mohammad" creationdate="20200927T144438Z">
@@ -7090,6 +7106,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T120937Z" creationid="Novin Pendar" creationdate="20200924T120937Z">
         <seg>"شهر بزرگ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Large Falun Mine"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T151030Z" creationid="mohammad" creationdate="20200927T151030Z">
+        <seg>"معدن بزرگ فالون"</seg>
       </tuv>
     </tu>
     <tu>
