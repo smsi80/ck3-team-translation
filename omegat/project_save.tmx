@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#F Collecting money from the peasantry is a 'taxing' venture. By assigning offices to a cohort of tax-collecting officials, we are sure to get what's due!#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T194235Z" creationid="mohammad" creationdate="20200927T194235Z">
+        <seg>"#F Collecting money from the peasantry is a 'taxing' venture. By assigning offices to a cohort of tax-collecting officials, we are sure to get what's due!#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#F Cracking open the casks and inviting guests of honor is not only a duty, but an opportunity to reaffirm bonds of loyalty, and often a great pleasure!#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T202350Z" creationid="BIG GAMER" creationdate="20200925T202350Z">
@@ -2272,6 +2280,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013217Z" creationid="mohammad" creationdate="20200927T013217Z">
         <seg>"$[DATE_MIN.GetStringShort|V]$ - $[DATE_MAX.GetStringShort|V]$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$building_type_ananda_temple_01$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T194041Z" creationid="mohammad" creationdate="20200927T194041Z">
+        <seg>"$building_type_ananda_temple_01$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$building_type_ananda_temple_01_desc$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T194042Z" creationid="mohammad" creationdate="20200927T194042Z">
+        <seg>"$building_type_ananda_temple_01_desc$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7202,6 +7226,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T080510Z" creationid="mohammad" creationdate="20200925T080510Z">
         <seg>"قانون جایگزین شد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Law is only as good as the system that backs it up, and now this royal forest has an entire system of courts, wardens, and clerks, backed up by trained magistrates, all ready to enforce the diktats of the crown."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T194207Z" creationid="mohammad" creationdate="20200927T194207Z">
+        <seg>"Law is only as good as the system that backs it up, and now this royal forest has an entire system of courts, wardens, and clerks, backed up by trained magistrates, all ready to enforce the diktats of the crown."</seg>
       </tuv>
     </tu>
     <tu>
@@ -18857,6 +18889,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>building_ananda_temple_01:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T194041Z" creationid="mohammad" creationdate="20200927T194041Z">
+        <seg>building_ananda_temple_01:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>building_ananda_temple_01_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T194041Z" creationid="mohammad" creationdate="20200927T194041Z">
+        <seg>building_ananda_temple_01_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>building_blacksmiths_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T190903Z" creationid="mohammad" creationdate="20200927T190903Z">
@@ -19882,6 +19930,16 @@ building_royal_forest_03:0</seg>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T140100Z" creationid="mohammad" creationdate="20200924T140100Z">
         <seg>l_english:
  AI_UNIT_TOOLTIP_WAR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
+ CHANGE_GHW_TARGET_TIMEOUT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T194046Z" creationid="mohammad" creationdate="20200927T194046Z">
+        <seg>l_english:
+ CHANGE_GHW_TARGET_TIMEOUT:0</seg>
       </tuv>
     </tu>
     <tu>
