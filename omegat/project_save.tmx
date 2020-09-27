@@ -8190,6 +8190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Only the greatest fighters are allowed into a warrior lodge, and their mere presence is inspiring."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T184719Z" creationid="mohammad" creationdate="20200927T184719Z">
+        <seg>"فقط بزرگترین جنگجویان اجازه ورود به کلبه جنگجویان را دارند.همچنین حضور آنها الهام بخش است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Open for Multiplayer"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T012151Z" creationid="mohammad" creationdate="20200926T012151Z">
@@ -11127,6 +11135,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023803Z" creationid="mohammad" creationdate="20200922T023803Z">
         <seg>"جنگ، افتخار و وفاداری همه وسیله ای برای رسیدن به یک هدف هستند: طلا!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Warrior Lodges"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T184541Z" creationid="mohammad" creationdate="20200927T184541Z">
+        <seg>"کلبه جنگجویان"</seg>
       </tuv>
     </tu>
     <tu>
