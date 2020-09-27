@@ -7478,6 +7478,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Military Stables"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mahan" changedate="20200927T114839Z" creationid="mahan" creationdate="20200927T114839Z">
+        <seg>"استبل های نظامی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Military"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234447Z" creationid="mohammad" creationdate="20200925T234447Z">
