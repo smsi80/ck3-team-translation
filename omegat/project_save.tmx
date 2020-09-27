@@ -3060,6 +3060,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"A village has sprung up around the many mining pits, and the workers find massive diamonds regularly."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T142641Z" creationid="mohammad" creationdate="20200927T142641Z">
+        <seg>"روستایی در اطراف بسیاری از چاله های استخراج وجود داشته است و کارگران به طور منظم الماس های عظیم پیدا می کنند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"A workshop where fishing nets are woven has been set up here. Day in and day out nets are made and repaired tirelessly."</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T123216Z" creationid="Novin Pendar" creationdate="20200924T123216Z">
@@ -6982,6 +6990,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Kollur Mine"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T142316Z" creationid="mohammad" creationdate="20200927T142316Z">
+        <seg>"معدن کلور"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Kollur Mining Complex"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T142457Z" creationid="mohammad" creationdate="20200927T142457Z">
+        <seg>"Kollur Mining Complex"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Kollur Mining Pits"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T142208Z" creationid="mohammad" creationdate="20200927T142208Z">
@@ -7026,6 +7050,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T131233Z" creationid="mahan" creationdate="20200925T131233Z">
         <seg>"معدن طلای بزرگ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Large Kollur Mine"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T142455Z" creationid="mohammad" creationdate="20200927T142455Z">
+        <seg>"معدن کلور بزرگ"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7482,6 +7514,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T122816Z" creationid="Novin Pendar" creationdate="20200924T122816Z">
         <seg>"کشتی تجار در این بندر بار های خود را خالی یا بارگزاری میکنند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Merely a pit of clay and gravel, loincloth-clad workers toil here night and day to extract diamonds."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T142303Z" creationid="mohammad" creationdate="20200927T142303Z">
+        <seg>"گودالی از خشت و ماسه ، کارگران لباس پارچه ای پوشیده و شب و روز برای استخراج الماس زحمت می کشند."</seg>
       </tuv>
     </tu>
     <tu>
@@ -10029,6 +10069,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T065306Z" creationid="Novin Pendar" creationdate="20200925T065306Z">
         <seg>"زمین های وسیع صد هکتاری ده ها روستایی استخدام میکنند و حجم زیادی ثروت برای خاندان هایی که مالک انها هستند به همراه دارند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The mining pits have been expanded, and engineers have been brought in to truly be able to ramp up the extraction of diamonds."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T142436Z" creationid="mohammad" creationdate="20200927T142436Z">
+        <seg>"گودالهای معدن گسترش یافته اند و مهندسانی به این منظور آورده شده اند که قادر به استخراج الماس هستند."</seg>
       </tuv>
     </tu>
     <tu>
