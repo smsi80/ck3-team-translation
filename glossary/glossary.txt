@@ -23,3 +23,6 @@ Lowborn	بی اصل و نسب	Lowborn
 Dynasty	خاندان
 Regiments	هنگها
 Rally Point	محل گرد همایی
+Stress	استرس
+Dread	وحشت
+Prowess	قدرت
