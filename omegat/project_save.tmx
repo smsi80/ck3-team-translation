@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#F A simple but effective tribal hold, standing guard over a tribal village.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T143032Z" creationid="mohammad" creationdate="20200927T143032Z">
+        <seg>"#F A simple but effective tribal hold, standing guard over a tribal village.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#F A temple sits at the center of the village, carefully constructed by local craftsmen to show their dedication to the faith.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T115002Z" creationid="Novin Pendar" creationdate="20200924T115002Z">
@@ -10639,6 +10647,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T220845Z" creationid="BIG GAMER" creationdate="20200924T220845Z">
         <seg>گرفتار در تار عنکبوت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Tribal Hold"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T143009Z" creationid="mohammad" creationdate="20200927T143009Z">
+        <seg>"Tribal Hold"</seg>
       </tuv>
     </tu>
     <tu>
