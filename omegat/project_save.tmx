@@ -7000,8 +7000,8 @@
       <tuv lang="en">
         <seg>"Kollur Mining Complex"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200927T142457Z" creationid="mohammad" creationdate="20200927T142457Z">
-        <seg>"Kollur Mining Complex"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T142810Z" creationid="mohammad" creationdate="20200927T142457Z">
+        <seg>"معدن های کلور مختلط"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9989,6 +9989,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T103844Z" creationid="mahan" creationdate="20200925T101950Z">
         <seg>"دامنه ی دسترسی دیپلماتیک تغییری نکرده است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The extraction of diamonds have reached a near-industrial scale, with the amount of workers now ranging in the thousands. Endless riches seemingly flow from the mines."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T142955Z" creationid="mohammad" creationdate="20200927T142955Z">
+        <seg>"استخراج الماس در این گودال تقریبا صنعتی شده است ، حال, تعداد کارگران به هزاران نفر رسیده است. به نظر می رسد ثروته بی پایان از معادن میبارد."</seg>
       </tuv>
     </tu>
     <tu>
