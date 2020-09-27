@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#F The Kollur mines exploit the largest seam of diamonds in all of the Indian subcontinent. The work is extremely dangerous, but the riches are unimaginable."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T141831Z" creationid="mohammad" creationdate="20200927T141831Z">
+        <seg>"#F معادن کلور از بزرگترین دره های الماس در تمام شبه قاره هند است که از ان بهره برداری می کنند. کار بسیار خطرناکی است ، اما ثروت غیر قابل تصوری دارد."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#F The Lords and Ladies of the manor employ hundreds of peasants to till their fields and tend to their livestock. The more power they hold, the more land their subjects can work and, most importantly, the more tax they will produce!#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063506Z" creationid="Novin Pendar" creationdate="20200925T063506Z">
@@ -6970,6 +6978,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T193938Z" creationid="mohammad" creationdate="20200924T222119Z">
         <seg>"شناخته شده [GetTrait('witch').GetName( GetNullCharacter )]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Kollur Mining Pits"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T142208Z" creationid="mohammad" creationdate="20200927T142208Z">
+        <seg>"گودال های معدن کلور"</seg>
       </tuv>
     </tu>
     <tu>
