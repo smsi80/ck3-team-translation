@@ -1552,6 +1552,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#V $VALUE$ days#! "
+ MAINTENANCE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013502Z" creationid="mohammad" creationdate="20200927T013502Z">
+        <seg>"#V $VALUE$ روزها#! "
+ MAINTENANCE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#V Forever#! "
  DURATION_DATE:0</seg>
       </tuv>
@@ -4434,6 +4444,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Days"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013441Z" creationid="mohammad" creationdate="20200927T013441Z">
+        <seg>"روزها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"De Jure Requirement"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T104107Z" creationid="mahan" creationdate="20200925T102609Z">
@@ -6506,6 +6524,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"I, [ROOT.GetCharacter.GetUIName]:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013553Z" creationid="mohammad" creationdate="20200927T013553Z">
+        <seg>"من, [ROOT.GetCharacter.GetUIName]:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"II — Map"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T104215Z" creationid="mohammad" creationdate="20200924T104215Z">
@@ -7206,6 +7232,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205144Z" creationid="mohammad" creationdate="20200925T205144Z">
         <seg>"منوی اصلی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Maintenance"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013506Z" creationid="mohammad" creationdate="20200927T013506Z">
+        <seg>"نگهداری"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8422,6 +8456,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T013516Z" creationid="mohammad" creationdate="20200926T013516Z">
         <seg>"محل گردهمایی [PROVINCE.GetNameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Rally Point"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013542Z" creationid="mohammad" creationdate="20200927T013542Z">
+        <seg>"محل گرد همایی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10201,6 +10243,16 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T104813Z" creationid="mohammad" creationdate="20200926T104813Z">
         <seg>"شکوفا در هرج و مرج"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Time to gather:  "
+ DAYS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013434Z" creationid="mohammad" creationdate="20200927T013434Z">
+        <seg>"زمان جمع شدن: "
+ DAYS:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -12021,6 +12073,142 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[ROOT.Army.GetName]:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013619Z" creationid="mohammad" creationdate="20200927T013619Z">
+        <seg>"[ROOT.Army.GetName]:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[ROOT.CouncilTask.GetName]:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013629Z" creationid="mohammad" creationdate="20200927T013629Z">
+        <seg>"[ROOT.CouncilTask.GetName]:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[ROOT.Culture.GetName]:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013618Z" creationid="mohammad" creationdate="20200927T013618Z">
+        <seg>"[ROOT.Culture.GetName]:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[ROOT.Faction.GetName]:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013617Z" creationid="mohammad" creationdate="20200927T013617Z">
+        <seg>"[ROOT.Faction.GetName]:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[ROOT.Faith.GetName]:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013602Z" creationid="mohammad" creationdate="20200927T013602Z">
+        <seg>"[ROOT.Faith.GetName]:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[ROOT.GetActivity.GetName]:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013556Z" creationid="mohammad" creationdate="20200927T013556Z">
+        <seg>"[ROOT.GetActivity.GetName]:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[ROOT.GetCharacter.GetUIName]:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013544Z" creationid="mohammad" creationdate="20200927T013544Z">
+        <seg>"[ROOT.GetCharacter.GetUIName]:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[ROOT.GetCombat.GetName]:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013600Z" creationid="mohammad" creationdate="20200927T013600Z">
+        <seg>"[ROOT.GetCombat.GetName]:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[ROOT.GetLandedTitle.GetName]:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013554Z" creationid="mohammad" creationdate="20200927T013554Z">
+        <seg>"[ROOT.GetLandedTitle.GetName]:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[ROOT.GetProvince.GetName]:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013555Z" creationid="mohammad" creationdate="20200927T013555Z">
+        <seg>"[ROOT.GetProvince.GetName]:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[ROOT.GetScheme.GetName]:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013558Z" creationid="mohammad" creationdate="20200927T013558Z">
+        <seg>"[ROOT.GetScheme.GetName]:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[ROOT.GetSecret.GetName]:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013557Z" creationid="mohammad" creationdate="20200927T013557Z">
+        <seg>"[ROOT.GetSecret.GetName]:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[ROOT.GreatHolyWar.GetName]:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013605Z" creationid="mohammad" creationdate="20200927T013605Z">
+        <seg>"[ROOT.GreatHolyWar.GetName]:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[ROOT.HolyOrder.GetName]:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013626Z" creationid="mohammad" creationdate="20200927T013626Z">
+        <seg>"[ROOT.HolyOrder.GetName]:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[ROOT.MercenaryCompany.GetName]:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013632Z" creationid="mohammad" creationdate="20200927T013632Z">
+        <seg>"[ROOT.MercenaryCompany.GetName]:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[ROOT.Religion.GetName]:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013603Z" creationid="mohammad" creationdate="20200927T013603Z">
+        <seg>"[ROOT.Religion.GetName]:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[ROOT.War.GetName]:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013606Z" creationid="mohammad" creationdate="20200927T013606Z">
+        <seg>"[ROOT.War.GetName]:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[SelectLocalization(FeedMessageItem.IsExpanded,'MESSAGE_CLICK_TO_HIDE','MESSAGE_CLICK_TO_HIDE')]\n$MESSAGE_CLICK_TO_DISMISS$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T192525Z" creationid="mohammad" creationdate="20200924T192525Z">
@@ -12189,6 +12377,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[dynasty|E] [ROOT.Dynasty.GetName]:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013607Z" creationid="mohammad" creationdate="20200927T013607Z">
+        <seg>"[dynasty|E] [ROOT.Dynasty.GetName]:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[gold_i] $VALUE|0$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000028Z" creationid="mohammad" creationdate="20200926T000028Z">
@@ -12233,6 +12429,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233252Z" creationid="mohammad" creationdate="20200925T233252Z">
         <seg>"[guest|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[house|E] [ROOT.House.GetName]:"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013615Z" creationid="mohammad" creationdate="20200927T013615Z">
+        <seg>"[house|E] [ROOT.House.GetName]:"</seg>
       </tuv>
     </tu>
     <tu>
@@ -13503,6 +13707,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011014Z" creationid="mohammad" creationdate="20200926T011014Z">
         <seg>BAD_COLOR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>BANNER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013507Z" creationid="mohammad" creationdate="20200927T013507Z">
+        <seg>BANNER:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -17051,6 +17263,70 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SCOPE_ACTIVE_COUNTIL_TASK:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013628Z" creationid="mohammad" creationdate="20200927T013628Z">
+        <seg>SCOPE_ACTIVE_COUNTIL_TASK:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_ACTIVITY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013556Z" creationid="mohammad" creationdate="20200927T013556Z">
+        <seg>SCOPE_ACTIVITY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_ARMY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013619Z" creationid="mohammad" creationdate="20200927T013619Z">
+        <seg>SCOPE_ARMY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_CHARACTER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013543Z" creationid="mohammad" creationdate="20200927T013543Z">
+        <seg>SCOPE_CHARACTER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_CHARACTER_ME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013547Z" creationid="mohammad" creationdate="20200927T013547Z">
+        <seg>SCOPE_CHARACTER_ME:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_COMBAT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013559Z" creationid="mohammad" creationdate="20200927T013559Z">
+        <seg>SCOPE_COMBAT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_CULTURE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013618Z" creationid="mohammad" creationdate="20200927T013618Z">
+        <seg>SCOPE_CULTURE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_CULTURE_GROUP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013633Z" creationid="mohammad" creationdate="20200927T013633Z">
+        <seg>SCOPE_CULTURE_GROUP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SCOPE_DEBUG_ACTIVITY:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T213129Z" creationid="mohammad" creationdate="20200925T213129Z">
@@ -17151,6 +17427,110 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T213421Z" creationid="mohammad" creationdate="20200925T213421Z">
         <seg>SCOPE_DEBUG_WAR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_DYNASTY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013607Z" creationid="mohammad" creationdate="20200927T013607Z">
+        <seg>SCOPE_DYNASTY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_DYNASTY_HOUSE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013612Z" creationid="mohammad" creationdate="20200927T013612Z">
+        <seg>SCOPE_DYNASTY_HOUSE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_FACTION:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013616Z" creationid="mohammad" creationdate="20200927T013616Z">
+        <seg>SCOPE_FACTION:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_FAITH:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013601Z" creationid="mohammad" creationdate="20200927T013601Z">
+        <seg>SCOPE_FAITH:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_GREAT_HOLY_WAR:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013605Z" creationid="mohammad" creationdate="20200927T013605Z">
+        <seg>SCOPE_GREAT_HOLY_WAR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_HOLY_ORDER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013620Z" creationid="mohammad" creationdate="20200927T013620Z">
+        <seg>SCOPE_HOLY_ORDER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_LANDED_TITLE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013553Z" creationid="mohammad" creationdate="20200927T013553Z">
+        <seg>SCOPE_LANDED_TITLE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_MERCENARY_COMPANY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013630Z" creationid="mohammad" creationdate="20200927T013630Z">
+        <seg>SCOPE_MERCENARY_COMPANY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_PROVINCE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013555Z" creationid="mohammad" creationdate="20200927T013555Z">
+        <seg>SCOPE_PROVINCE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_RELIGION:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013603Z" creationid="mohammad" creationdate="20200927T013603Z">
+        <seg>SCOPE_RELIGION:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_SCHEME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013558Z" creationid="mohammad" creationdate="20200927T013558Z">
+        <seg>SCOPE_SCHEME:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_SECRET:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013557Z" creationid="mohammad" creationdate="20200927T013557Z">
+        <seg>SCOPE_SECRET:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCOPE_WAR:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013606Z" creationid="mohammad" creationdate="20200927T013606Z">
+        <seg>SCOPE_WAR:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -17707,6 +18087,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TIME_TO_RAISE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013357Z" creationid="mohammad" creationdate="20200927T013357Z">
+        <seg>TIME_TO_RAISE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TITLE_DEFINITE_FORM:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013110Z" creationid="mohammad" creationdate="20200927T013110Z">
@@ -17799,6 +18187,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T222938Z" creationid="mohammad" creationdate="20200925T222938Z">
         <seg>VALUE_COLON:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>VALUE_DAYS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T013445Z" creationid="mohammad" creationdate="20200927T013445Z">
+        <seg>VALUE_DAYS:0</seg>
       </tuv>
     </tu>
     <tu>
