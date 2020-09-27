@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#F A host of small market villages has sprung up around the more well-traveled parts of these lands. Here the tribesmen trade and barter with traveling merchants.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T185913Z" creationid="mohammad" creationdate="20200927T185913Z">
+        <seg>"#F A host of small market villages has sprung up around the more well-traveled parts of these lands. Here the tribesmen trade and barter with traveling merchants.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#F A keep designed to not only house a reputable noble family, but also protect the surrounding town and farmlands.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200927T105549Z" creationid="mahan" creationdate="20200927T105549Z">
@@ -8270,6 +8278,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Outer ditches combined with stone-reinforced palisade walls offer decent protection against sieges."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T185902Z" creationid="mohammad" creationdate="20200927T185902Z">
+        <seg>"خندق های بیرونی همراه با با چوب های تراشیده شده از سنگ ، محافظت مناسبی در برابر محاصره ها برخوردار است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Overseer"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T185007Z" creationid="mohammad" creationdate="20200921T185007Z">
@@ -10739,6 +10755,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Trading Outposts"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T185916Z" creationid="mohammad" creationdate="20200927T185916Z">
+        <seg>"Trading Outposts"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Training equipment, arenas and wooden walls define the sparring grounds, warriors go here to hone their skills."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T184430Z" creationid="mohammad" creationdate="20200927T184430Z">
@@ -11087,6 +11111,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T012336Z" creationid="mohammad" creationdate="20200926T012336Z">
         <seg>"در انتظار پاسخ از سرور"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Walls &amp; Ditches"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T185710Z" creationid="mohammad" creationdate="20200927T185710Z">
+        <seg>"دیوارها و خندق ها"</seg>
       </tuv>
     </tu>
     <tu>
