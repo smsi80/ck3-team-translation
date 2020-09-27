@@ -7278,6 +7278,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Longhouses are large enough to accomodate important meetings between elders. Laws and policies are determined here."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T144116Z" creationid="mohammad" creationdate="20200927T144116Z">
+        <seg>"خانه های بلند آنقدر بزرگ هستند که جلسات مهم میان بزرگان در ان برگزار میشود. همچنین قوانین و سیاست ها در اینجا تعیین می شوند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Longhouses"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T144015Z" creationid="mohammad" creationdate="20200927T144015Z">
+        <seg>"Longhouses"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Losing Wars"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T110229Z" creationid="mohammad" creationdate="20200924T110229Z">
