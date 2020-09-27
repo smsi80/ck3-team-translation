@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#F Layers of wooden palisades protect the scattered tribal settlements, shielding them from simple threats such as wild animals or simple raids.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T185117Z" creationid="mohammad" creationdate="20200927T184900Z">
+        <seg>"#F پرچین های چوبی از سکونتگاه های قبیله های پراکنده محافظت می کند ، و آنها را در برابر تهدیدات ساده مانند حیوانات وحشی یا از یورش های ساده محافظت می کند.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#F Not satisfied with a small and modest temple, local artisans and architects have worked together to create a true work of art. This grand temple seemingly calls down the power of heaven itself into any worshiper who enters its glorious halls.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T124614Z" creationid="Novin Pendar" creationdate="20200924T120505Z">
@@ -8278,6 +8286,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Palisades"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T184913Z" creationid="mohammad" creationdate="20200927T184836Z">
+        <seg>"پرچین ها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Paragon of Virtue"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222435Z" creationid="BIG GAMER" creationdate="20200924T222435Z">
@@ -9427,8 +9443,8 @@
       <tuv lang="en">
         <seg>"Simple Palisade"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200927T140419Z" creationid="mohammad" creationdate="20200927T140419Z">
-        <seg>"Simple Palisade"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T184924Z" creationid="mohammad" creationdate="20200927T140419Z">
+        <seg>"پرچین های ساده"</seg>
       </tuv>
     </tu>
     <tu>
