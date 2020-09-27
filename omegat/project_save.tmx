@@ -10421,8 +10421,8 @@
       <tuv lang="en">
         <seg>"To help you further your goals you will need [gold|E]. Among other things, $game_concept_gold$ pays for [buildings|E], [armies|E], and bribes. $game_concept_gold$ is collected passively from both your [holdings|E] and your [vassals|E] as [tax|E]. Larger $game_concept_vassals$ and more important $game_concept_holdings$ tend to give more $game_concept_tax$.\n\nHowever, money is not all — certain things can only be achieved by spending the right amount of [prestige|E] or, for religious matters, [piety|E].\n\n#TUT You can see the current state of your Gold, Prestige, and Piety in the bar to the top right.#!\n"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200926T164945Z" creationid="mohammad" creationdate="20200926T163804Z">
-        <seg>"برای کمک به شما در دستیابی به اهداف خود به [طلا | E] نیاز خواهید داشت. از جمله ، $ game_concept_gold $ برای [ساختمانها | E] ، [ارتشها | E] و رشوه پرداخت می کنید. $ game_concept_gold $ خودکار از هر دو [ Holdings | E] و [vassals | E] شما به عنوان [مالیات | E] دریافت می شود. بزرگتر $ game_concept_vassals $ و مهمتر $ game_concept_holdings $ تمایل دارند که بیشتر از $ game_concept_tax $ بدهند. \\ n \\ n با این حال ، پول همه چیزنیست - بعضی امور فقط می توانند با صرف مقدار مناسب [اعتبار | E] یا برای امور دینی [تقوای | E] انجام شوند. \\ n \\ n # TUTشما می توانید وضعیت طلای ، اعتبار و تقوای فعلی خود را در نوار منتهی به بالا سمت راست مشاهده کنید. #! \\ n "</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T135923Z" creationid="mohammad" creationdate="20200926T163804Z">
+        <seg>"برای کمک به شما در دستیابی به اهداف خود به [gold | E] نیاز خواهید داشت. از جمله ، $ game_concept_gold $ برای [buildings | E] ، [armies | E] و رشوه پرداخت می کنید. $ game_concept_gold $ خودکار از هر دو [ Holdings | E] و [vassals | E] شما به عنوان [tax | E] دریافت می شود. بزرگتر $ game_concept_vassals $ و مهمتر $ game_concept_holdings $ تمایل دارند که بیشتر از $ game_concept_tax $ بدهند. \\ n \\ n با این حال ، پول همه چیزنیست - بعضی امور فقط می توانند با صرف مقدار مناسب [اعتبار | E] یا برای امور دینی [piety|E] انجام شوند. \\ n \\ n # TUTشما می توانید وضعیت طلای ، اعتبار و تقوای فعلی خود را در نوار منتهی به بالا سمت راست مشاهده کنید. #! \\ n "</seg>
       </tuv>
     </tu>
     <tu>
@@ -12405,8 +12405,8 @@
       <tuv lang="en">
         <seg>"[characters|E] also have [traits|E], which can affect [skills|E], as well as how they react to things. These are illustrated by icons in your Character View.\n\nSome Traits tell you about a $game_concept_character$'s personality, like [GetTrait('fickle').GetName( GetNullCharacter )], [GetTrait('calm').GetName( GetNullCharacter )], or [GetTrait('generous').GetName( GetNullCharacter )]. Other Traits are specific to how a $game_concept_character$ has lived their life, such as your [tutorial_education_trait|E], or [commander_traits|E].\n\n#TUT You are:\n$EFFECT_LIST_BULLET$@temperate_icon! [GetTrait('temperate').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$@wrathful_icon! [GetTrait('wrathful').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$@impatient_icon! [GetTrait('impatient').GetName( GetNullCharacter )]\nFrom this, you can see that your $game_concept_character$ typically lives a modest life, but expects others to do so also and is quick to anger when they don't.\n\nWhen a Character chooses to behave against their personality Traits, it can cause [stress|E].#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200927T070739Z" creationid="mohammad" creationdate="20200926T152617Z">
-        <seg>[characters|E]  همچنین دارای [traits|E] هستند ، که می تواند ها [skills|E]و همچنین نحوه واکنش آنها در برابر چیزها را تحت تأثیر قرار دهد. اینها با نمادها در نمای شخصیت ش ما نشان داده می شوند. \ n \ n بعضی از ویژگی ها در مورد شخصیت $ game_concept_character $ مانند [GetTrait ('متزلزل'). GetName (GetNullCharacter)] ، [GetTrait ('آرام'). GetName (GetNullCharacter)] یا [GetTrait ("سخاوتمندانه"). GetName (GetNullCharacter) ]. سایر صفات مختص چگونگی زندگی یک شخصیت $ game_concept_character هستند ، مانند [آموزش_آموزش_تدوین | E] یا [فرماندهان_تغییرات | E]. \ n \ n # TUT شما هستید: \ n $ EFFECT_LIST_BULLET $ @ temperate_icon! [GetTrait ('معتدل'). GetName (GetNullCharacter)] \ n $ EFFECT_LIST_BULLET $ @ wrathful_icon! [GetTrait ('عصبانی)'. GetName (GetNullCharacter)] \ n $ EFFECT_LIST_BULLET $ @ impatient_icon!] GetName (GetNullCharacter)] \ n از این طریق می بینید که $ game_concept_character $ شما معمولاً زندگی متوسطی دارد ، اما انتظار دارد دیگران نیز چنین کنند و اگر این کار را نکنند زود عصبانی می شوند. \ n \ n acter رفتارهای خلاف خصوصیات شخصیتی خود را انتخاب می کند ، می تواند باعث ایجاد [استرس | E] شود.!"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T140605Z" creationid="mohammad" creationdate="20200926T152617Z">
+        <seg>[characters|E]  همچنین دارای [traits|E] هستند ، که می تواند ها [skills|E]و همچنین نحوه واکنش آنها در برابر  مسائل تحت  تأثیر قرار دهد. اینها با نمادها درم نمای شخصیت ش ما نشان داده می شوند. \ n \ n بعضی از ویژگی ها در مورد شخصیت $ game_concept_character $ مانند [GetTrait ('متزلزل'). GetName (GetNullCharacter)] ، [GetTrait ('آرام'). GetName (GetNullCharacter)] یا [GetTrait ("سخاوتمندانه"). GetName (GetNullCharacter) ]. سایر صفات مختص چگونگی زندگی یک شخصیت $ game_concept_character هستند ، مانند [tutorial_education_trait|E] یا [commander_traits|E] . \ n \ n # TUT ]شما هستید: \ n $ EFFECT_LIST_BULLET $ @ temperate_icon! [GetTrait ('معتدل'). GetName (GetNullCharacter)] \ n $ EFFECT_LIST_BULLET $ @ wrathful_icon! [GetTrait ('عصبانی)'. GetName (GetNullCharacter)] \ n $ EFFECT_LIST_BULLET $ @ impatient_icon!] GetName (GetNullCharacter)] \ n از این طریق می بینید که $ game_concept_character $ شما معمولاً زندگی متوسطی دارد ، اما انتظار دارد دیگران نیز چنین کنند و اگر این کار را نکنند زود عصبانی می شوند. \ n \ n acter رفتارهای خلاف خصوصیات شخصیتی خود را انتخاب می کند ، می تواند باعث ایجاد [stress|E]  شود.!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -20244,6 +20244,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T152323Z" creationid="mohammad" creationdate="20200926T152323Z">
         <seg>lesson_basics_traits_1_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_traits_2:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200927T140431Z" creationid="mohammad" creationdate="20200927T140431Z">
+        <seg>lesson_basics_traits_2:0</seg>
       </tuv>
     </tu>
     <tu>
