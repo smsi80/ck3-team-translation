@@ -2166,6 +2166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#tooltip:$TOOLTIP$ $TEXT$#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021713Z" creationid="mohammad" creationdate="20200928T021713Z">
+        <seg>"#تولتیپ:$TOOLTIP$ $TEXT$#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#weak No effect#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013742Z" creationid="mohammad" creationdate="20200927T013742Z">
@@ -2570,6 +2578,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T010608Z" creationid="mohammad" creationdate="20200928T010608Z">
         <seg>"$SKILL$ مهارت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$TEXT$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021716Z" creationid="mohammad" creationdate="20200928T021716Z">
+        <seg>"$TEXT$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11621,6 +11637,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"They must be part of your [realm|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021617Z" creationid="mohammad" creationdate="20200928T021617Z">
+        <seg>"انها باید بخشی از [realm|E]شما باشند"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"They must not be part of your [realm|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021651Z" creationid="mohammad" creationdate="20200928T021651Z">
+        <seg>"انها نباید بخشی از  [realm|E]شما باشند"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Thicker than Water"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T122242Z" creationid="mohammad" creationdate="20200926T122242Z">
@@ -16345,6 +16377,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CHARACTER_INTERACTION_SAME_REALM_AS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021537Z" creationid="mohammad" creationdate="20200928T021537Z">
+        <seg>CHARACTER_INTERACTION_SAME_REALM_AS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CHARACTER_ITSELF:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T231707Z" creationid="mohammad" creationdate="20200925T231707Z">
@@ -19321,6 +19361,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MAKE_TOOLTIP_COMBINE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021653Z" creationid="mohammad" creationdate="20200928T021653Z">
+        <seg>MAKE_TOOLTIP_COMBINE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MENU:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011144Z" creationid="mohammad" creationdate="20200926T011144Z">
@@ -19549,6 +19597,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T223423Z" creationid="mohammad" creationdate="20200925T223423Z">
         <seg>NO:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>NOT_CHARACTER_INTERACTION_SAME_REALM_AS:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021619Z" creationid="mohammad" creationdate="20200928T021619Z">
+        <seg>NOT_CHARACTER_INTERACTION_SAME_REALM_AS:1</seg>
       </tuv>
     </tu>
     <tu>
@@ -20133,6 +20189,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T012724Z" creationid="mohammad" creationdate="20200927T012724Z">
         <seg>RELATION_REMOVED:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RELATION_VASSAL_IN_REALM:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021749Z" creationid="mohammad" creationdate="20200928T021749Z">
+        <seg>RELATION_VASSAL_IN_REALM:1</seg>
       </tuv>
     </tu>
     <tu>
@@ -21029,6 +21093,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T172305Z" creationid="mohammad" creationdate="20200924T172305Z">
         <seg>SETTING_TUTORIAL:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SET_CHARACTER_CONTROLLER_TEXT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021716Z" creationid="mohammad" creationdate="20200928T021716Z">
+        <seg>SET_CHARACTER_CONTROLLER_TEXT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SET_CHARACTER_CONTROLLER_TITLE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021714Z" creationid="mohammad" creationdate="20200928T021714Z">
+        <seg>SET_CHARACTER_CONTROLLER_TITLE:0</seg>
       </tuv>
     </tu>
     <tu>
