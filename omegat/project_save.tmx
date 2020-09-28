@@ -12121,8 +12121,8 @@
       <tuv lang="en">
         <seg>"Tower Houses"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200928T172623Z" creationid="mohammad" creationdate="20200928T172623Z">
-        <seg>"Tower Houses"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T172944Z" creationid="mohammad" creationdate="20200928T172623Z">
+        <seg>"خانه های برجی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12779,6 +12779,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T070203Z" creationid="mohammad" creationdate="20200925T070203Z">
         <seg>"با مرگ [RIGHT_CHARACTER.GetUINameNoTooltip], شما [GetPlayer.Custom2('RelationToMeShort', LEFT_CHARACTER.Self )] [LEFT_CHARACTER.GetUINameNoTooltip] is your new [heir|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Wooden Watchtowers"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T173350Z" creationid="mohammad" creationdate="20200928T172930Z">
+        <seg>"برج های دیدبانی"</seg>
       </tuv>
     </tu>
     <tu>
