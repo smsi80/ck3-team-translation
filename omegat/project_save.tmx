@@ -1668,6 +1668,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#V 1 year#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015313Z" creationid="mohammad" creationdate="20200928T015258Z">
+        <seg>"#V 1 year#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#V Forever#! "
  DURATION_DATE:0</seg>
       </tuv>
@@ -19945,6 +19953,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T142652Z" creationid="mohammad" creationdate="20200925T142652Z">
         <seg>YEARLY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YEARS_COUNT_PLURAL:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015259Z" creationid="mohammad" creationdate="20200928T015259Z">
+        <seg>YEARS_COUNT_PLURAL:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YEARS_COUNT_SINGULAR:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015127Z" creationid="mohammad" creationdate="20200928T015127Z">
+        <seg>YEARS_COUNT_SINGULAR:0</seg>
       </tuv>
     </tu>
     <tu>
