@@ -1864,32 +1864,32 @@
       <tuv lang="en">
         <seg>"#attacker_color Attackers#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200928T015715Z" creationid="mohammad" creationdate="20200928T015715Z">
-        <seg>"#attacker_color Attackers#!"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021856Z" creationid="mohammad" creationdate="20200928T015715Z">
+        <seg>"#attacker_color مهاجمان#!"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"#attacker_color Defenders#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200928T015813Z" creationid="mohammad" creationdate="20200928T015813Z">
-        <seg>"#attacker_color Defenders#!"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021928Z" creationid="mohammad" creationdate="20200928T015813Z">
+        <seg>"#attacker_color مدافعان#!"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"#defender_color Attackers#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200928T015812Z" creationid="mohammad" creationdate="20200928T015812Z">
-        <seg>"#defender_color Attackers#!"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021923Z" creationid="mohammad" creationdate="20200928T015812Z">
+        <seg>"#defender_color مهاجمان#!"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"#defender_color Defenders#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200928T015717Z" creationid="mohammad" creationdate="20200928T015717Z">
-        <seg>"#defender_color Defenders#!"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021903Z" creationid="mohammad" creationdate="20200928T015717Z">
+        <seg>"#defender_color مدافعان#!"</seg>
       </tuv>
     </tu>
     <tu>
