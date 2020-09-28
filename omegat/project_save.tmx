@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#I Click to view the War Summary\nRight-click to dismiss#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014612Z" creationid="mohammad" creationdate="20200928T014612Z">
+        <seg>"#برای مشاهده خلاصه جنگ کلیک کنید.\nراست کلیک برای مرخص کردن#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#I Click to view\nRight-click to $ACTION$#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T013726Z" creationid="mohammad" creationdate="20200928T013726Z">
@@ -11695,6 +11703,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Will be dismissed on the [DATE.GetStringLong|V] #weak (unless currently opened)#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014440Z" creationid="mohammad" creationdate="20200928T014440Z">
+        <seg>"مرخص خواهد شد در تاریخ: [DATE.GetStringLong|V] #هقته (مگر اینکه در حال حاضر باز شده باشد)#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Wily as the Fox"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221725Z" creationid="BIG GAMER" creationdate="20200924T221652Z">
@@ -15809,6 +15825,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000549Z" creationid="mohammad" creationdate="20200926T000549Z">
         <seg>DYNASTY_PRESTIGE_LEVEL_CONCEPT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>END_OF_COMBAT_ITEM_TIMEOUT_DESC:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014442Z" creationid="mohammad" creationdate="20200928T014442Z">
+        <seg>END_OF_COMBAT_ITEM_TIMEOUT_DESC:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>END_OF_WAR_ITEM_INTERACTION_DESC:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014447Z" creationid="mohammad" creationdate="20200928T014447Z">
+        <seg>END_OF_WAR_ITEM_INTERACTION_DESC:0</seg>
       </tuv>
     </tu>
     <tu>
