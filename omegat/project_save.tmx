@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#I Click to view the results\nRight-click to dismiss#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014639Z" creationid="mohammad" creationdate="20200928T014639Z">
+        <seg>"#کلیک برای دیدن نتایج\nراست کلیک برای مرخص کردن#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#I Click to view\nRight-click to $ACTION$#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T013726Z" creationid="mohammad" creationdate="20200928T013726Z">
@@ -516,6 +524,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T165703Z" creationid="mohammad" creationdate="20200925T165703Z">
         <seg>"#T $SETTING_TOOLTIP_UNLOCK_TIME$#!\nتأخیر را قبل از باز کردن قفل راهنمای ابزار تنظیم می کند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $WINLOSE$#!\n$BATTLENAME$\n"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014652Z" creationid="mohammad" creationdate="20200928T014652Z">
+        <seg>"#T $WINLOSE$#!\n$BATTLENAME$\n"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2956,6 +2972,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"@warning_icon!#X Can not have children#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014742Z" creationid="mohammad" creationdate="20200928T014742Z">
+        <seg>"@warning_icon!#X نمیتواند بچه دار شود#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"@warning_icon!#X Game Rules Block Achievements:#!\nThe game rules used in this save now block Achievements, loading it will disable Achievements in the save.\nRules Now Blocking Achievements:"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T010309Z" creationid="mohammad" creationdate="20200926T010309Z">
@@ -2978,6 +3002,14 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013657Z" creationid="mohammad" creationdate="20200927T013657Z">
         <seg>"@warning_icon!#X نام پرونده نا معتبر است#! "
  STRESS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@warning_icon!#X May not marry#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014755Z" creationid="mohammad" creationdate="20200928T014755Z">
+        <seg>"@warning_icon!#X ممکن است ازدواج نکند#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4088,6 +4120,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Can use [hostile_schemes|E] against their own children"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014829Z" creationid="mohammad" creationdate="20200928T014829Z">
+        <seg>"میتوانید استفاده کنید از [hostile_schemes|E] بر علیه بچه های خودتان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Cancel"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T211335Z" creationid="mohammad" creationdate="20200925T211335Z">
@@ -4766,6 +4806,14 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T125657Z" creationid="mahan" creationdate="20200924T125628Z">
         <seg>و قوانین "پیش فرض" زنان حال برروی مردان اعمال میشود."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Defeat!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014645Z" creationid="mohammad" creationdate="20200928T014645Z">
+        <seg>"شکست!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11503,6 +11551,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Victory!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014642Z" creationid="mohammad" creationdate="20200928T014642Z">
+        <seg>"پیروزی!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Village Center"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T120919Z" creationid="Novin Pendar" creationdate="20200924T120919Z">
@@ -12471,6 +12527,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[DiplomaticItem.GetTooltip]\n[DiplomaticItem.GetTimeoutDesc]\n[DiplomaticItem.GetInteractionDesc]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014655Z" creationid="mohammad" creationdate="20200928T014655Z">
+        <seg>"[DiplomaticItem.GetTooltip]\n[DiplomaticItem.GetTimeoutDesc]\n[DiplomaticItem.GetInteractionDesc]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[FACTION.GetName] against [CHARACTER.GetUINameNoTooltip] doesn't have a valid leader, therefore the faction has been disbanded"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T075635Z" creationid="mohammad" creationdate="20200925T075635Z">
@@ -13059,6 +13123,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T010618Z" creationid="mohammad" creationdate="20200928T010618Z">
         <seg>"[TRAIT.GetName( CHARACTER.Self )|L] ویژگی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[TRAIT.GetName( CHARACTER.Self )|V]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014706Z" creationid="mohammad" creationdate="20200928T014706Z">
+        <seg>"[TRAIT.GetName( CHARACTER.Self )|V]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -15693,6 +15765,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DIPLOMATIC_ITEM_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014655Z" creationid="mohammad" creationdate="20200928T014655Z">
+        <seg>DIPLOMATIC_ITEM_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DISABLED_BUTTON:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T211509Z" creationid="mohammad" creationdate="20200925T211509Z">
@@ -15829,10 +15909,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>END_OF_COMBAT_ACTION_ITEM:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014647Z" creationid="mohammad" creationdate="20200928T014647Z">
+        <seg>END_OF_COMBAT_ACTION_ITEM:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>END_OF_COMBAT_DEFEAT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014643Z" creationid="mohammad" creationdate="20200928T014643Z">
+        <seg>END_OF_COMBAT_DEFEAT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>END_OF_COMBAT_ITEM_INTERACTION_DESC:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014613Z" creationid="mohammad" creationdate="20200928T014613Z">
+        <seg>END_OF_COMBAT_ITEM_INTERACTION_DESC:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>END_OF_COMBAT_ITEM_TIMEOUT_DESC:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T014442Z" creationid="mohammad" creationdate="20200928T014442Z">
         <seg>END_OF_COMBAT_ITEM_TIMEOUT_DESC:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>END_OF_COMBAT_VICTORY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014639Z" creationid="mohammad" creationdate="20200928T014639Z">
+        <seg>END_OF_COMBAT_VICTORY:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -19525,6 +19637,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TRAIT_CAN_NOT_HAVE_CHILDREN:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014709Z" creationid="mohammad" creationdate="20200928T014709Z">
+        <seg>TRAIT_CAN_NOT_HAVE_CHILDREN:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TRAIT_COMPATIBILITY_DISLIKES:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T223619Z" creationid="mohammad" creationdate="20200925T223619Z">
@@ -19537,6 +19657,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T223545Z" creationid="mohammad" creationdate="20200925T223545Z">
         <seg>TRAIT_COMPATIBILITY_LIKES:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TRAIT_FLAG_DESC_can_murder_own_children:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014755Z" creationid="mohammad" creationdate="20200928T014755Z">
+        <seg>TRAIT_FLAG_DESC_can_murder_own_children:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TRAIT_FLAG_DESC_can_not_marry:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014743Z" creationid="mohammad" creationdate="20200928T014743Z">
+        <seg>TRAIT_FLAG_DESC_can_not_marry:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TRAIT_TOOLTIP_IN_LIST:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014659Z" creationid="mohammad" creationdate="20200928T014659Z">
+        <seg>TRAIT_TOOLTIP_IN_LIST:0</seg>
       </tuv>
     </tu>
     <tu>
