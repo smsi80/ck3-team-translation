@@ -4542,6 +4542,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Cousin"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013254Z" creationid="mohammad" creationdate="20200928T013254Z">
+        <seg>"پسر عمو"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Cowardice: $VALUE|=+0$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T225613Z" creationid="mohammad" creationdate="20200925T225613Z">
@@ -8170,8 +8178,8 @@
       <tuv lang="en">
         <seg>"Nephew"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200928T013058Z" creationid="mohammad" creationdate="20200928T012926Z">
-        <seg>"برادر یا خواهر زاده"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013242Z" creationid="mohammad" creationdate="20200928T012926Z">
+        <seg>" پسر برادر یا خواهر"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8274,8 +8282,8 @@
       <tuv lang="en">
         <seg>"Niece"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200928T012931Z" creationid="mohammad" creationdate="20200928T012931Z">
-        <seg>"Niece"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013236Z" creationid="mohammad" creationdate="20200928T012931Z">
+        <seg>"دختر برادر یا خواهر"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11601,6 +11609,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T025748Z" creationid="mohammad" creationdate="20200922T025748Z">
         <seg>"تمام بدن"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Wife"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013247Z" creationid="mohammad" creationdate="20200928T013247Z">
+        <seg>"همسر"</seg>
       </tuv>
     </tu>
     <tu>
@@ -15287,6 +15303,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233246Z" creationid="mohammad" creationdate="20200925T233246Z">
         <seg>COURTIER:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>COUSIN_FEMALE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013248Z" creationid="mohammad" creationdate="20200928T013248Z">
+        <seg>COUSIN_FEMALE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>COUSIN_MALE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013259Z" creationid="mohammad" creationdate="20200928T013259Z">
+        <seg>COUSIN_MALE:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -19391,6 +19423,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T215136Z" creationid="mohammad" creationdate="20200925T215136Z">
         <seg>WEALTH_RICH:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>WIFE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013237Z" creationid="mohammad" creationdate="20200928T013237Z">
+        <seg>WIFE:0</seg>
       </tuv>
     </tu>
     <tu>
