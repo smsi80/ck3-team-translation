@@ -2168,8 +2168,8 @@
       <tuv lang="en">
         <seg>"#tooltip:$TOOLTIP$ $TEXT$#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200928T021713Z" creationid="mohammad" creationdate="20200928T021713Z">
-        <seg>"#تولتیپ:$TOOLTIP$ $TEXT$#!"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T032817Z" creationid="mohammad" creationdate="20200928T021713Z">
+        <seg>"#tooltip:$TOOLTIP$ $TEXT$#!"</seg>
       </tuv>
     </tu>
     <tu>
