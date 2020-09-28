@@ -1656,6 +1656,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T Rename#!\n[GameDialog.GetCanAcceptBlocker]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021122Z" creationid="mohammad" creationdate="20200928T021122Z">
+        <seg>"#T تغیر نام#!\n[GameDialog.GetCanAcceptBlocker]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T Reset Reactive Advice#!\nPreviously seen Reactive Advice will show up once more."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T173020Z" creationid="mohammad" creationdate="20200925T173020Z">
@@ -3364,6 +3372,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"@warning_icon!#X $NAME$ contains illegal characters#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021110Z" creationid="mohammad" creationdate="20200928T021110Z">
+        <seg>"@warning_icon!#X $NAME$ حاوی کاراکتر های غیرقانونی است#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@warning_icon!#X $NAME$ is empty#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020933Z" creationid="mohammad" creationdate="20200928T020933Z">
+        <seg>"@warning_icon!#X $NAME$ خالی است#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@warning_icon!#X $NAME$ is too long#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020911Z" creationid="mohammad" creationdate="20200928T020911Z">
+        <seg>"@warning_icon!#X $NAME$ خیلی طولانی است#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"@warning_icon!#X Can not have children#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T014742Z" creationid="mohammad" creationdate="20200928T014742Z">
@@ -3410,6 +3442,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T014755Z" creationid="mohammad" creationdate="20200928T014755Z">
         <seg>"@warning_icon!#X ممکن است ازدواج نکند#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@warning_icon!#X Name contains illegal characters#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021022Z" creationid="mohammad" creationdate="20200928T021022Z">
+        <seg>"@warning_icon!#X نام حاوی کارکتر های غیرقانونی است#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@warning_icon!#X Name is empty#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020922Z" creationid="mohammad" creationdate="20200928T020922Z">
+        <seg>"@warning_icon!#X نام خالی است#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@warning_icon!#X Name is too long#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020900Z" creationid="mohammad" creationdate="20200928T020900Z">
+        <seg>"@warning_icon!#X نام خیلی طولانی است#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4900,6 +4956,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T222101Z" creationid="mohammad" creationdate="20200925T205830Z">
         <seg>"دخیره ابری"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Cloud save storage quota exceeded. Try to free some space by removing older cloud save files."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021213Z" creationid="mohammad" creationdate="20200928T021131Z">
+        <seg>" فضای ذخیره سازی ابری پرشده  است. سعی کنید با حذف فایل های قدیمی ذخیره ابری ، فضای کمی آزاد کنید."</seg>
       </tuv>
     </tu>
     <tu>
@@ -14303,6 +14367,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[realm_size|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020848Z" creationid="mohammad" creationdate="20200928T020848Z">
+        <seg>"[realm_size|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[realm|E]: #V [TITLE.GetName]#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T015708Z" creationid="mohammad" creationdate="20200928T015708Z">
@@ -15721,6 +15793,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>BREAKDOWN_FORMAT_REALM_SIZE_PRESTIGE_COST:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020846Z" creationid="mohammad" creationdate="20200928T020846Z">
+        <seg>BREAKDOWN_FORMAT_REALM_SIZE_PRESTIGE_COST:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>BREAKDOWN_MEN_AT_ARMS:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T235823Z" creationid="mohammad" creationdate="20200925T235823Z">
@@ -16397,6 +16477,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T012207Z" creationid="mohammad" creationdate="20200926T012207Z">
         <seg>CLOSE_LOBBY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CLOUDSAVE_QUOTA_EXCEEDED_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021122Z" creationid="mohammad" creationdate="20200928T021122Z">
+        <seg>CLOUDSAVE_QUOTA_EXCEEDED_TOOLTIP:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -19945,6 +20033,62 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>RENAME_STRING_EMPTY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020911Z" creationid="mohammad" creationdate="20200928T020911Z">
+        <seg>RENAME_STRING_EMPTY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RENAME_STRING_EMPTY_NAMED:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020924Z" creationid="mohammad" creationdate="20200928T020924Z">
+        <seg>RENAME_STRING_EMPTY_NAMED:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RENAME_STRING_ILLEGAL:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020935Z" creationid="mohammad" creationdate="20200928T020935Z">
+        <seg>RENAME_STRING_ILLEGAL:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RENAME_STRING_ILLEGAL_NAMED:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021022Z" creationid="mohammad" creationdate="20200928T021022Z">
+        <seg>RENAME_STRING_ILLEGAL_NAMED:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RENAME_STRING_TOO_LONG:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020851Z" creationid="mohammad" creationdate="20200928T020851Z">
+        <seg>RENAME_STRING_TOO_LONG:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RENAME_STRING_TOO_LONG_NAMED:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020901Z" creationid="mohammad" creationdate="20200928T020901Z">
+        <seg>RENAME_STRING_TOO_LONG_NAMED:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RENAME_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021110Z" creationid="mohammad" creationdate="20200928T021110Z">
+        <seg>RENAME_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>RESET_REACTIVE_ADVICE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T172807Z" creationid="mohammad" creationdate="20200925T172807Z">
@@ -21161,6 +21305,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T015110Z" creationid="mohammad" creationdate="20200928T015110Z">
         <seg>TRAIT_FLAVOR_DESC:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TRAIT_NAME_WITH_BASE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021133Z" creationid="mohammad" creationdate="20200928T021133Z">
+        <seg>TRAIT_NAME_WITH_BASE:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -25156,6 +25308,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013856Z" creationid="mohammad" creationdate="20200927T013856Z">
         <seg>prowess_modifier:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>realm_size:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020848Z" creationid="mohammad" creationdate="20200928T020848Z">
+        <seg>realm_size:0</seg>
       </tuv>
     </tu>
     <tu>
