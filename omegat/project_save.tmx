@@ -3968,8 +3968,8 @@
       <tuv lang="en">
         <seg>"Brother-in-law"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200928T012342Z" creationid="mohammad" creationdate="20200928T012342Z">
-        <seg>"Brother-in-law"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T012640Z" creationid="mohammad" creationdate="20200928T012342Z">
+        <seg>"برادر زن"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6346,8 +6346,8 @@
       <tuv lang="en">
         <seg>"Great-grandson"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200928T012109Z" creationid="mohammad" creationdate="20200928T012109Z">
-        <seg>"نوه بزرگ پسر"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T012356Z" creationid="mohammad" creationdate="20200928T012109Z">
+        <seg>"نتیجه پسر"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9719,6 +9719,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T012130Z" creationid="mohammad" creationdate="20200928T012130Z">
         <seg>"خواهر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Sister-in-law"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T012746Z" creationid="mohammad" creationdate="20200928T012746Z">
+        <seg>"برادر زن"</seg>
       </tuv>
     </tu>
     <tu>
@@ -18927,6 +18935,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T012128Z" creationid="mohammad" creationdate="20200928T012128Z">
         <seg>SISTER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SISTER_IN_LAW:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T012641Z" creationid="mohammad" creationdate="20200928T012641Z">
+        <seg>SISTER_IN_LAW:0</seg>
       </tuv>
     </tu>
     <tu>
