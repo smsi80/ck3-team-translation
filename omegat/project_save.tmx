@@ -1668,6 +1668,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#V $VALUE$ days#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015504Z" creationid="mohammad" creationdate="20200928T015504Z">
+        <seg>"#V $VALUE$ روزها#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#V $VALUE$ months#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015443Z" creationid="mohammad" creationdate="20200928T015443Z">
+        <seg>"#V $VALUE$ ماها#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#V $VALUE$ years#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015402Z" creationid="mohammad" creationdate="20200928T015402Z">
+        <seg>"#V $VALUE$ سال ها#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#V 1 day#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015500Z" creationid="mohammad" creationdate="20200928T015500Z">
+        <seg>"#V 1 day#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#V 1 month#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015435Z" creationid="mohammad" creationdate="20200928T015435Z">
+        <seg>"#V 1 month#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#V 1 year#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T015313Z" creationid="mohammad" creationdate="20200928T015258Z">
@@ -2310,6 +2350,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$VALUE$ days"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015512Z" creationid="mohammad" creationdate="20200928T015512Z">
+        <seg>"$VALUE$ روزها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$VALUE$ months"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015458Z" creationid="mohammad" creationdate="20200928T015452Z">
+        <seg>"$VALUE$ ماها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$VALUE$ years"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015428Z" creationid="mohammad" creationdate="20200928T015428Z">
+        <seg>"$VALUE$ سالها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$VALUE|0$ Gold"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000104Z" creationid="mohammad" creationdate="20200926T000104Z">
@@ -2354,6 +2418,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000110Z" creationid="mohammad" creationdate="20200926T000110Z">
         <seg>"$VALUE|1$K"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$VALUE|V$ #weak ($LEVEL$)#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015529Z" creationid="mohammad" creationdate="20200928T015529Z">
+        <seg>"$VALUE|V$ #ضعیف ($LEVEL$)#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2622,6 +2694,30 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200928T010600Z" creationid="mohammad" creationdate="20200928T010600Z">
         <seg>", "
  EVENT_REASON_SKILL:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"1 day"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015509Z" creationid="mohammad" creationdate="20200928T015509Z">
+        <seg>"1 روز"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"1 month"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015448Z" creationid="mohammad" creationdate="20200928T015448Z">
+        <seg>"1 ماه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"1 year"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015421Z" creationid="mohammad" creationdate="20200928T015421Z">
+        <seg>"1 سال"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3780,6 +3876,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023832Z" creationid="mohammad" creationdate="20200922T023815Z">
         <seg>"طماع"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Average"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015546Z" creationid="mohammad" creationdate="20200928T015546Z">
+        <seg>"میانگین"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6310,6 +6414,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T115705Z" creationid="mohammad" creationdate="20200926T115705Z">
         <seg>"تعهدات طلایی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Good"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015554Z" creationid="mohammad" creationdate="20200928T015554Z">
+        <seg>"خوب"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10349,6 +10461,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Terrible"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015536Z" creationid="mohammad" creationdate="20200928T015536Z">
+        <seg>"وحشتناک"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"The AI will attempt to start the Hungarian Migration any time between 5 years after game start and 910."</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T122848Z" creationid="mahan" creationdate="20200925T122848Z">
@@ -14101,6 +14221,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"terrible"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015638Z" creationid="mohammad" creationdate="20200928T015638Z">
+        <seg>"وحشتناک"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"their"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T230754Z" creationid="mohammad" creationdate="20200925T230754Z">
@@ -15769,6 +15897,38 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T010938Z" creationid="mohammad" creationdate="20200928T010938Z">
         <seg>DAUGHTER_WIFE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DAYS_COUNT_PLURAL:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015501Z" creationid="mohammad" creationdate="20200928T015501Z">
+        <seg>DAYS_COUNT_PLURAL:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DAYS_COUNT_PLURAL_NO_FORMAT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015510Z" creationid="mohammad" creationdate="20200928T015510Z">
+        <seg>DAYS_COUNT_PLURAL_NO_FORMAT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DAYS_COUNT_SINGULAR:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015453Z" creationid="mohammad" creationdate="20200928T015453Z">
+        <seg>DAYS_COUNT_SINGULAR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DAYS_COUNT_SINGULAR_NO_FORMAT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015505Z" creationid="mohammad" creationdate="20200928T015505Z">
+        <seg>DAYS_COUNT_SINGULAR_NO_FORMAT:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -18069,6 +18229,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MONTHS_COUNT_PLURAL:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015436Z" creationid="mohammad" creationdate="20200928T015436Z">
+        <seg>MONTHS_COUNT_PLURAL:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MONTHS_COUNT_PLURAL_NO_FORMAT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015449Z" creationid="mohammad" creationdate="20200928T015449Z">
+        <seg>MONTHS_COUNT_PLURAL_NO_FORMAT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MONTHS_COUNT_SINGULAR:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015428Z" creationid="mohammad" creationdate="20200928T015428Z">
+        <seg>MONTHS_COUNT_SINGULAR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MONTHS_COUNT_SINGULAR_NO_FORMAT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015444Z" creationid="mohammad" creationdate="20200928T015444Z">
+        <seg>MONTHS_COUNT_SINGULAR_NO_FORMAT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MOTHER:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T010800Z" creationid="mohammad" creationdate="20200928T010800Z">
@@ -19517,6 +19709,54 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SKILL_AND_LEVEL_VALUE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015514Z" creationid="mohammad" creationdate="20200928T015514Z">
+        <seg>SKILL_AND_LEVEL_VALUE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SKILL_AVERAGE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015540Z" creationid="mohammad" creationdate="20200928T015540Z">
+        <seg>SKILL_AVERAGE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SKILL_EXCELLENT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015554Z" creationid="mohammad" creationdate="20200928T015554Z">
+        <seg>SKILL_EXCELLENT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SKILL_GOOD:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015546Z" creationid="mohammad" creationdate="20200928T015546Z">
+        <seg>SKILL_GOOD:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SKILL_POOR:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015538Z" creationid="mohammad" creationdate="20200928T015538Z">
+        <seg>SKILL_POOR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SKILL_TERRIBLE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015529Z" creationid="mohammad" creationdate="20200928T015529Z">
+        <seg>SKILL_TERRIBLE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SON:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T010933Z" creationid="mohammad" creationdate="20200928T010933Z">
@@ -19965,10 +20205,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>YEARS_COUNT_PLURAL_NO_FORMAT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015421Z" creationid="mohammad" creationdate="20200928T015421Z">
+        <seg>YEARS_COUNT_PLURAL_NO_FORMAT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>YEARS_COUNT_SINGULAR:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T015127Z" creationid="mohammad" creationdate="20200928T015127Z">
         <seg>YEARS_COUNT_SINGULAR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YEARS_COUNT_SINGULAR_NO_FORMAT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015402Z" creationid="mohammad" creationdate="20200928T015402Z">
+        <seg>YEARS_COUNT_SINGULAR_NO_FORMAT:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -24108,6 +24364,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T074616Z" creationid="mohammad" creationdate="20200925T074616Z">
         <seg>send_interface_message_tooltip:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>skill_level_terrible:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015555Z" creationid="mohammad" creationdate="20200928T015555Z">
+        <seg>skill_level_terrible:0</seg>
       </tuv>
     </tu>
     <tu>
