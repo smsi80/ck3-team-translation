@@ -1560,6 +1560,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T [CHARACTER.GetUIName] and [TARGET_CHARACTER.GetUIName] can marry#!\n#I Click to view\nRight-click to break betrothal#! "
+ END_OF_WAR_ITEM_TIMEOUT_DESC:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014339Z" creationid="mohammad" creationdate="20200928T014339Z">
+        <seg>"#T [CHARACTER.GetUIName] و [TARGET_CHARACTER.GetUIName] میتواند ازدواج کند#!\n#برای دیدن کلیک کنید\nراست کلیک برای بهم زدن خواستگاری #! "
+ END_OF_WAR_ITEM_TIMEOUT_DESC:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T [gold|E]: $VALUE|V0$#!\n$BALANCE|V=1$/month"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000215Z" creationid="mohammad" creationdate="20200926T000215Z">
@@ -11677,6 +11687,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Will automatically be $ACTION$ on [DATE.GetString|V]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013835Z" creationid="mohammad" creationdate="20200928T013835Z">
+        <seg>"به طور خودکار عمل خواهدر کرد $ACTION$ در [DATE.GetString|V]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Wily as the Fox"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221725Z" creationid="BIG GAMER" creationdate="20200924T221652Z">
@@ -13699,6 +13717,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"dismissed"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013742Z" creationid="mohammad" creationdate="20200928T013742Z">
+        <seg>"مرخص کرد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"equal to"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T213046Z" creationid="mohammad" creationdate="20200925T213046Z">
@@ -13903,6 +13929,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T013448Z" creationid="mohammad" creationdate="20200928T013448Z">
         <seg>"قبول نکردن"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"rejected"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013749Z" creationid="mohammad" creationdate="20200928T013749Z">
+        <seg>"قبول نکرد"</seg>
       </tuv>
     </tu>
     <tu>
@@ -14671,6 +14705,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T222925Z" creationid="mohammad" creationdate="20200925T222925Z">
         <seg>BASE_TIME:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>BETROTHAL_ACTION_ITEM:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013836Z" creationid="mohammad" creationdate="20200928T013836Z">
+        <seg>BETROTHAL_ACTION_ITEM:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -16439,6 +16481,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T013357Z" creationid="mohammad" creationdate="20200928T013357Z">
         <seg>INTERACTION_REPLY_ITEM:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>INTERACTION_REPLY_TIMEOUT_DESC:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013759Z" creationid="mohammad" creationdate="20200928T013759Z">
+        <seg>INTERACTION_REPLY_TIMEOUT_DESC:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>INTERACTION_REPLY_TIMEOUT_DISMISS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013727Z" creationid="mohammad" creationdate="20200928T013727Z">
+        <seg>INTERACTION_REPLY_TIMEOUT_DISMISS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>INTERACTION_REPLY_TIMEOUT_REJECT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013743Z" creationid="mohammad" creationdate="20200928T013743Z">
+        <seg>INTERACTION_REPLY_TIMEOUT_REJECT:0</seg>
       </tuv>
     </tu>
     <tu>
