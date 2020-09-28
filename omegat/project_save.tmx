@@ -4600,6 +4600,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Daughter"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010933Z" creationid="mohammad" creationdate="20200928T010933Z">
+        <seg>"دختر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Daughter-wife"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T011004Z" creationid="mohammad" creationdate="20200928T011004Z">
+        <seg>"همسر دختر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Days"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013441Z" creationid="mohammad" creationdate="20200927T013441Z">
@@ -5448,6 +5464,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Father-husband"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010836Z" creationid="mohammad" creationdate="20200928T010836Z">
+        <seg>"پدر شوهر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Fear Tax"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T105155Z" creationid="mohammad" creationdate="20200926T105155Z">
@@ -6208,6 +6232,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Granddaughter"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T011126Z" creationid="mohammad" creationdate="20200928T011037Z">
+        <seg>"نوه دختر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Grandfather"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010843Z" creationid="mohammad" creationdate="20200928T010843Z">
+        <seg>"پدر بزرگ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Grandmother"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010841Z" creationid="mohammad" creationdate="20200928T010841Z">
+        <seg>"مادر بزرگ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Grandson"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T011131Z" creationid="mohammad" creationdate="20200928T011045Z">
+        <seg>"نوه پسر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Great Holy War $NAME$ [$ID$]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T213631Z" creationid="mohammad" creationdate="20200925T213631Z">
@@ -6236,6 +6292,30 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T115459Z" creationid="Novin Pendar" creationdate="20200925T115459Z">
         <seg>"مسجد جامع سامرا"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Great-granddaughter"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T011100Z" creationid="mohammad" creationdate="20200928T011100Z">
+        <seg>"Great-granddaughter"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Great-grandfather"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010913Z" creationid="mohammad" creationdate="20200928T010913Z">
+        <seg>"پدر پدربزرگ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Great-grandmother"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010922Z" creationid="mohammad" creationdate="20200928T010905Z">
+        <seg>"مادرمادر بزرگ"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7908,6 +7988,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T010821Z" creationid="mohammad" creationdate="20200928T010821Z">
         <seg>"مادر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Mother-wife"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010831Z" creationid="mohammad" creationdate="20200928T010831Z">
+        <seg>"مادر زن"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9679,6 +9767,22 @@
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T172513Z" creationid="Alireza" creationdate="20200925T172513Z">
         <seg>"گاهی اوقات شما متن های آبی می بینید [highlighted_text|E] مثل این. این بدان معنی است که شما می توانید نشانگر موس را برای اطلاعات بیشتر روی کلمات قرار دهید.\n\n#TUT برخی از این کلمات می توانند شما را به کلمات برجسته دیگری که اطلاعات بیشتری را به شما نشان می دهند راهنمایی کنند. [duchy|E] می تواند به [county|E] منجر شود، که در نهایت به [barony|E] تبدیل می شود.#!\n"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Son"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010937Z" creationid="mohammad" creationdate="20200928T010937Z">
+        <seg>"پسر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Son-husband"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T011012Z" creationid="mohammad" creationdate="20200928T011012Z">
+        <seg>"شوهر پسر"</seg>
       </tuv>
     </tu>
     <tu>
@@ -15187,6 +15291,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DAUGHTER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010915Z" creationid="mohammad" creationdate="20200928T010915Z">
+        <seg>DAUGHTER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DAUGHTER_WIFE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010938Z" creationid="mohammad" creationdate="20200928T010938Z">
+        <seg>DAUGHTER_WIFE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DEAD:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T215314Z" creationid="mohammad" creationdate="20200925T215314Z">
@@ -15555,6 +15675,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FATHER_HUSBAND:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010833Z" creationid="mohammad" creationdate="20200928T010833Z">
+        <seg>FATHER_HUSBAND:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FEED_MESSAGE_GOTO_TOOLTIP:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065617Z" creationid="mohammad" creationdate="20200925T065617Z">
@@ -15835,10 +15963,66 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GRANDDAUGHTER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T011016Z" creationid="mohammad" creationdate="20200928T011016Z">
+        <seg>GRANDDAUGHTER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GRANDFATHER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010841Z" creationid="mohammad" creationdate="20200928T010841Z">
+        <seg>GRANDFATHER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GRANDMOTHER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010838Z" creationid="mohammad" creationdate="20200928T010838Z">
+        <seg>GRANDMOTHER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GRANDSON:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T011038Z" creationid="mohammad" creationdate="20200928T011038Z">
+        <seg>GRANDSON:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GREATER_THAN:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T212959Z" creationid="mohammad" creationdate="20200925T212959Z">
         <seg>GREATER_THAN:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GREATGRANDDAUGHTER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T011046Z" creationid="mohammad" creationdate="20200928T011046Z">
+        <seg>GREATGRANDDAUGHTER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GREATGRANDFATHER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010906Z" creationid="mohammad" creationdate="20200928T010906Z">
+        <seg>GREATGRANDFATHER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GREATGRANDMOTHER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010845Z" creationid="mohammad" creationdate="20200928T010845Z">
+        <seg>GREATGRANDMOTHER:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -17275,6 +17459,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MOTHER_WIFE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010826Z" creationid="mohammad" creationdate="20200928T010826Z">
+        <seg>MOTHER_WIFE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>NAME_NOT_FOUND:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T012705Z" creationid="mohammad" creationdate="20200926T012705Z">
@@ -18615,6 +18807,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011410Z" creationid="mohammad" creationdate="20200926T011410Z">
         <seg>SHOW_LEGACY:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SON:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010933Z" creationid="mohammad" creationdate="20200928T010933Z">
+        <seg>SON:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SON_HUSBAND:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T011004Z" creationid="mohammad" creationdate="20200928T011004Z">
+        <seg>SON_HUSBAND:0</seg>
       </tuv>
     </tu>
     <tu>
