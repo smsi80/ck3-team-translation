@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#I Click to view\nRight-click to $ACTION$#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013726Z" creationid="mohammad" creationdate="20200928T013726Z">
+        <seg>"#برای دیدن کلیک کنید برای عمل کردن راست کلیک کنید $ACTION$#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#I Right-click to dismiss.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065248Z" creationid="mohammad" creationdate="20200924T193812Z">
@@ -386,6 +394,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011028Z" creationid="mohammad" creationdate="20200926T011028Z">
         <seg>"#T $GOTO_PROVINCE$#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $INTERACTION$\n#!Sender: [CHARACTER.GetUIName]\n"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013410Z" creationid="mohammad" creationdate="20200928T013410Z">
+        <seg>"#T $INTERACTION$\n#!فرستنده: [CHARACTER.GetUIName]\n"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T $KEY$: $VALUE|V$#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013346Z" creationid="mohammad" creationdate="20200928T013346Z">
+        <seg>"#T $KEY$: $VALUE|V$#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4406,6 +4430,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Concubine"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013314Z" creationid="mohammad" creationdate="20200928T013314Z">
+        <seg>"صیغه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Confidants"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T121636Z" creationid="mohammad" creationdate="20200926T121636Z">
@@ -4544,7 +4576,7 @@
       <tuv lang="en">
         <seg>"Cousin"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200928T013254Z" creationid="mohammad" creationdate="20200928T013254Z">
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013309Z" creationid="mohammad" creationdate="20200928T013254Z">
         <seg>"پسر عمو"</seg>
       </tuv>
     </tu>
@@ -6752,6 +6784,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Husband"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013316Z" creationid="mohammad" creationdate="20200928T013316Z">
+        <seg>"شوهر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"I Understand"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T102740Z" creationid="mohammad" creationdate="20200924T102740Z">
@@ -8848,6 +8888,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Prisoner"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013319Z" creationid="mohammad" creationdate="20200928T013319Z">
+        <seg>"زندانی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Professional Workforce"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T111531Z" creationid="mohammad" creationdate="20200926T111531Z">
@@ -9511,6 +9559,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T110820Z" creationid="mohammad" creationdate="20200926T110820Z">
         <seg>"علمی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Screenshot taken!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013356Z" creationid="mohammad" creationdate="20200928T013356Z">
+        <seg>"عکس گرفته شده است!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -13635,6 +13691,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"dismiss"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013438Z" creationid="mohammad" creationdate="20200928T013438Z">
+        <seg>"مرخص کردن"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"equal to"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T213046Z" creationid="mohammad" creationdate="20200925T213046Z">
@@ -13831,6 +13895,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T230929Z" creationid="mohammad" creationdate="20200925T230802Z">
         <seg>"من"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"reject"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013448Z" creationid="mohammad" creationdate="20200928T013448Z">
+        <seg>"قبول نکردن"</seg>
       </tuv>
     </tu>
     <tu>
@@ -15163,6 +15235,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CHARACTER_VALUE_COLON:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013347Z" creationid="mohammad" creationdate="20200928T013347Z">
+        <seg>CHARACTER_VALUE_COLON:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CHARACTER_VALUE_F1:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T013139Z" creationid="mohammad" creationdate="20200926T013139Z">
@@ -15239,6 +15319,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000624Z" creationid="mohammad" creationdate="20200926T000624Z">
         <seg>COMMON_INFO_LIST_PREFIX:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CONCUBINE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013310Z" creationid="mohammad" creationdate="20200928T013310Z">
+        <seg>CONCUBINE:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -16299,6 +16387,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HUSBAND:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013314Z" creationid="mohammad" creationdate="20200928T013314Z">
+        <seg>HUSBAND:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>INCOME:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000830Z" creationid="mohammad" creationdate="20200926T000830Z">
@@ -16311,6 +16407,38 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T223152Z" creationid="mohammad" creationdate="20200925T223152Z">
         <seg>INTERACTION_EFFECT_DESC:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>INTERACTION_REPLY_INTERACTION_DESC:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013449Z" creationid="mohammad" creationdate="20200928T013449Z">
+        <seg>INTERACTION_REPLY_INTERACTION_DESC:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>INTERACTION_REPLY_INTERACTION_DISMISS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013410Z" creationid="mohammad" creationdate="20200928T013410Z">
+        <seg>INTERACTION_REPLY_INTERACTION_DISMISS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>INTERACTION_REPLY_INTERACTION_REJECT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013439Z" creationid="mohammad" creationdate="20200928T013439Z">
+        <seg>INTERACTION_REPLY_INTERACTION_REJECT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>INTERACTION_REPLY_ITEM:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013357Z" creationid="mohammad" creationdate="20200928T013357Z">
+        <seg>INTERACTION_REPLY_ITEM:1</seg>
       </tuv>
     </tu>
     <tu>
@@ -17667,6 +17795,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MY_VALUE_COLON:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013324Z" creationid="mohammad" creationdate="20200928T013324Z">
+        <seg>MY_VALUE_COLON:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>NAME_NOT_FOUND:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T012705Z" creationid="mohammad" creationdate="20200926T012705Z">
@@ -18071,6 +18207,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000446Z" creationid="mohammad" creationdate="20200926T000446Z">
         <seg>PRESTIGE_WITH_BALANCE_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PRISONER_RELATION:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013317Z" creationid="mohammad" creationdate="20200928T013317Z">
+        <seg>PRISONER_RELATION:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -18647,6 +18791,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013606Z" creationid="mohammad" creationdate="20200927T013606Z">
         <seg>SCOPE_WAR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCREENSHOT_TAKEN:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T013349Z" creationid="mohammad" creationdate="20200928T013349Z">
+        <seg>SCREENSHOT_TAKEN:0</seg>
       </tuv>
     </tu>
     <tu>
