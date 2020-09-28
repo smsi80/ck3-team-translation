@@ -4610,8 +4610,8 @@
       <tuv lang="en">
         <seg>"Daughter-wife"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200928T011004Z" creationid="mohammad" creationdate="20200928T011004Z">
-        <seg>"همسر دختر"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T012001Z" creationid="mohammad" creationdate="20200928T011004Z">
+        <seg>"دختر همسر"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9781,8 +9781,8 @@
       <tuv lang="en">
         <seg>"Son-husband"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200928T011012Z" creationid="mohammad" creationdate="20200928T011012Z">
-        <seg>"شوهر پسر"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T012006Z" creationid="mohammad" creationdate="20200928T011012Z">
+        <seg>"پسر شوهر"</seg>
       </tuv>
     </tu>
     <tu>
