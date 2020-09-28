@@ -27,4 +27,4 @@ Stress	استرس
 Dread	وحشت
 Prowess	قدرت
 Concubine	صیغه
-titles	عنوان
+titles	عناوین
