@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#I Click to select#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020405Z" creationid="mohammad" creationdate="20200928T020405Z">
+        <seg>"#برای انتخاب کلیک کنید‏#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#I Click to show.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T192602Z" creationid="mohammad" creationdate="20200924T192602Z">
@@ -354,6 +362,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T014639Z" creationid="mohammad" creationdate="20200928T014639Z">
         <seg>"#کلیک برای دیدن نتایج\nراست کلیک برای مرخص کردن#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#I Click to view#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020346Z" creationid="mohammad" creationdate="20200928T020346Z">
+        <seg>"#برای دیدن کلیک کنید#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2310,6 +2326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$KEY$: $VALUE|=-0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020505Z" creationid="mohammad" creationdate="20200928T020505Z">
+        <seg>"$KEY$: $VALUE|=-0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$KEY$: $VALUE|V0$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T222938Z" creationid="mohammad" creationdate="20200925T222938Z">
@@ -2338,6 +2362,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T013134Z" creationid="mohammad" creationdate="20200926T013134Z">
         <seg>"$KEY$: $VALUE|V2$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$KEY$: [piety_i]$VALUE|=-0%$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020506Z" creationid="mohammad" creationdate="20200928T020506Z">
+        <seg>"$KEY$: [piety_i]$VALUE|=-0%$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8962,6 +8994,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Observing [CHARACTER.GetNameNoTooltip]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020453Z" creationid="mohammad" creationdate="20200928T020453Z">
+        <seg>"مشاهده میکند به عنوان [CHARACTER.GetNameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Observing"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020459Z" creationid="mohammad" creationdate="20200928T020459Z">
+        <seg>"مشاهده"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Obtain #EMP every#! perk in a [lifestyle|E]"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T050905Z" creationid="BIG GAMER" creationdate="20200925T050905Z">
@@ -9330,10 +9378,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Playing as [CHARACTER.GetNameNoTooltip]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020441Z" creationid="mohammad" creationdate="20200928T020441Z">
+        <seg>"بازی میکند به عنوان [CHARACTER.GetNameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Please, Repeat"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T103414Z" creationid="mohammad" creationdate="20200924T103414Z">
         <seg>"لطفا، تکرار کنید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Poor [learning|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020537Z" creationid="mohammad" creationdate="20200928T020537Z">
+        <seg>"فقیر [learning|E]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -13887,6 +13951,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[learning|E] Skill"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020525Z" creationid="mohammad" creationdate="20200928T020525Z">
+        <seg>"[learning|E] مهارت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[learning|E]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013856Z" creationid="mohammad" creationdate="20200927T013856Z">
@@ -14717,6 +14789,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"×"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020238Z" creationid="mohammad" creationdate="20200928T020238Z">
+        <seg>"×"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"• "
  BULLET_WITH_TAB:0 "    • "
  MODIFIER_NEWLINE_WITH_BULLET:0</seg>
@@ -15441,6 +15521,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>BASE_VALUE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020500Z" creationid="mohammad" creationdate="20200928T020500Z">
+        <seg>BASE_VALUE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>BASE_VALUE_FORMAT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020506Z" creationid="mohammad" creationdate="20200928T020506Z">
+        <seg>BASE_VALUE_FORMAT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>BETROTHAL_ACTION_ITEM:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T013836Z" creationid="mohammad" creationdate="20200928T013836Z">
@@ -15473,6 +15569,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>BREAKDOWN_FORMAT_PIETY_PERCENTAGE_POSITIVE_IS_BAD:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020505Z" creationid="mohammad" creationdate="20200928T020505Z">
+        <seg>BREAKDOWN_FORMAT_PIETY_PERCENTAGE_POSITIVE_IS_BAD:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>BREAKDOWN_FORMAT_POSITIVE_IS_BAD:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020504Z" creationid="mohammad" creationdate="20200928T020504Z">
+        <seg>BREAKDOWN_FORMAT_POSITIVE_IS_BAD:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>BREAKDOWN_MEN_AT_ARMS:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T235823Z" creationid="mohammad" creationdate="20200925T235823Z">
@@ -15485,6 +15597,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T235844Z" creationid="mohammad" creationdate="20200925T235844Z">
         <seg>BREAKDOWN_MONTHLY_BALENCE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>BREAKDOWN_MULTIPLICATION_PREFIX:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020237Z" creationid="mohammad" creationdate="20200928T020237Z">
+        <seg>BREAKDOWN_MULTIPLICATION_PREFIX:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -16109,6 +16229,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T074943Z" creationid="mohammad" creationdate="20200924T074943Z">
         <seg>CHOOSE_FOCUS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CLICK_TO_SELECT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020347Z" creationid="mohammad" creationdate="20200928T020347Z">
+        <seg>CLICK_TO_SELECT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CLICK_TO_VIEW:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020239Z" creationid="mohammad" creationdate="20200928T020239Z">
+        <seg>CLICK_TO_VIEW:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -17621,6 +17757,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233242Z" creationid="mohammad" creationdate="20200925T233242Z">
         <seg>KNIGHT:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LAUNCHER_SAVE_DESCRIPTION:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020408Z" creationid="mohammad" creationdate="20200928T020408Z">
+        <seg>LAUNCHER_SAVE_DESCRIPTION:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LAUNCHER_SAVE_DESCRIPTION_GLOBAL_OBSERVER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020454Z" creationid="mohammad" creationdate="20200928T020454Z">
+        <seg>LAUNCHER_SAVE_DESCRIPTION_GLOBAL_OBSERVER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LAUNCHER_SAVE_DESCRIPTION_OBSERVER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020442Z" creationid="mohammad" creationdate="20200928T020442Z">
+        <seg>LAUNCHER_SAVE_DESCRIPTION_OBSERVER:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -22456,6 +22616,14 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>learning_law_cost_tooltip:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020510Z" creationid="mohammad" creationdate="20200928T020510Z">
+        <seg>learning_law_cost_tooltip:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>learning_lifestyle_desc:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023901Z" creationid="mohammad" creationdate="20200922T023901Z">
@@ -24728,6 +24896,14 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>poor_learning_law_cost_tooltip:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020525Z" creationid="mohammad" creationdate="20200928T020525Z">
+        <seg>poor_learning_law_cost_tooltip:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>prowess:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013826Z" creationid="mohammad" creationdate="20200927T013826Z">
@@ -24748,6 +24924,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013856Z" creationid="mohammad" creationdate="20200927T013856Z">
         <seg>prowess_modifier:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>rite_legalism_law_cost_tooltip:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T020537Z" creationid="mohammad" creationdate="20200928T020537Z">
+        <seg>rite_legalism_law_cost_tooltip:0</seg>
       </tuv>
     </tu>
     <tu>
