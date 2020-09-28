@@ -1672,6 +1672,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T Reset#!\nBring back #EMP $CURRENT_SITUATION_HEADER$#! items that you have dismissed.\n\n#I Click to reset list#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021536Z" creationid="mohammad" creationdate="20200928T021536Z">
+        <seg>"#T بازنشانی#!\nبه عقب برگردان #EMP $CURRENT_SITUATION_HEADER$#! مواردی را که رد کرده اید.\n\n#کلیک کنید برای بازنشانی#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T Sound Effects Volume\n#!Sets the volume of ALL sound effects."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T170612Z" creationid="mohammad" creationdate="20200925T170612Z">
@@ -2450,6 +2458,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011017Z" creationid="mohammad" creationdate="20200926T011017Z">
         <seg>"$KEY|Z$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$NAME$ #weak ($BASE$)#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021230Z" creationid="mohammad" creationdate="20200928T021230Z">
+        <seg>"$NAME$ #weak ($BASE$)#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5206,6 +5222,14 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200924T105608Z" creationid="mohammad" creationdate="20200924T105608Z">
         <seg>"Culture" #reactive advice now
  lesson_basics_religion:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Current Situation"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021404Z" creationid="mohammad" creationdate="20200928T021404Z">
+        <seg>"وضعیت فعلی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8682,6 +8706,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Mongol Horde"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021322Z" creationid="mohammad" creationdate="20200928T021322Z">
+        <seg>"قبیله مغول"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Mongol Invasion"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T112106Z" creationid="mahan" creationdate="20200925T112106Z">
@@ -9062,6 +9094,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T124245Z" creationid="Novin Pendar" creationdate="20200924T124245Z">
         <seg>"دیگر کشتی تجار سر مکانی برای بارگیری یا باراندازی بار ارزشمندشان رقابت نخواهند داشت — مکان فراوان داخل بندر مکانی فرا تر از کافی برای همه ایجاد میکند تا به کارشان برسند!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"No secret that can be used for blackmail"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021430Z" creationid="mohammad" creationdate="20200928T021430Z">
+        <seg>"هیچ راز قابل استفاده برای اخاذی نیست"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9450,6 +9490,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Peasant Uprising"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021252Z" creationid="mohammad" creationdate="20200928T021252Z">
+        <seg>"قیام رعیت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Pedagogy"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T110746Z" creationid="mohammad" creationdate="20200926T110746Z">
@@ -9590,6 +9638,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T112124Z" creationid="mohammad" creationdate="20200926T112124Z">
         <seg>"شهرت اسمی "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Populist Uprising"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021307Z" creationid="mohammad" creationdate="20200928T021307Z">
+        <seg>"قیام پوپولیستی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10009,6 +10065,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T173310Z" creationid="mohammad" creationdate="20200925T173009Z">
         <seg>"راه اندازی مجدد واکنش های نصیحت آمیز "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Reset"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021435Z" creationid="mohammad" creationdate="20200928T021435Z">
+        <seg>"تنظیم مجدد"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10917,6 +10981,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Suggestions"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021400Z" creationid="mohammad" creationdate="20200928T021400Z">
+        <seg>"پیشنهادات"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Summer Palace"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T130037Z" creationid="mahan" creationdate="20200925T130037Z">
@@ -11069,6 +11141,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"The Almohads"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021350Z" creationid="mohammad" creationdate="20200928T021350Z">
+        <seg>"المحدس ها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"The Concentric Castle is surrounded by two or more walls, the inner one higher than the outer one."</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T114044Z" creationid="Novin Pendar" creationdate="20200924T114044Z">
@@ -11113,6 +11193,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T114834Z" creationid="Novin Pendar" creationdate="20200925T114834Z">
         <seg>"مسجد جامع اصفهان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The Gathered Tribes"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021331Z" creationid="mohammad" creationdate="20200928T021331Z">
+        <seg>"قبایل جمع شده"</seg>
       </tuv>
     </tu>
     <tu>
@@ -13719,6 +13807,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[ROOT.Char.GetTitledFirstNamePossessiveNoTooltip] Host"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021356Z" creationid="mohammad" creationdate="20200928T021356Z">
+        <seg>"[ROOT.Char.GetTitledFirstNamePossessiveNoTooltip] میزبان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[ROOT.CouncilTask.GetName]:"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013629Z" creationid="mohammad" creationdate="20200927T013629Z">
@@ -16177,6 +16273,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CHARACTER_INTERACTION_BLACKMAIL_NO_SECRET:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021404Z" creationid="mohammad" creationdate="20200928T021404Z">
+        <seg>CHARACTER_INTERACTION_BLACKMAIL_NO_SECRET:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CHARACTER_INTERACTION_CANT_SEND_RECIPIENT_REJECTS:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T221311Z" creationid="mohammad" creationdate="20200925T221311Z">
@@ -16685,6 +16789,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T015827Z" creationid="mohammad" creationdate="20200928T015827Z">
         <seg>CURRENT_MAX:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CURRENT_SITUATION_HEADER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021401Z" creationid="mohammad" creationdate="20200928T021401Z">
+        <seg>CURRENT_SITUATION_HEADER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CURRENT_SITUATION_SUGGESTIONS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021357Z" creationid="mohammad" creationdate="20200928T021357Z">
+        <seg>CURRENT_SITUATION_SUGGESTIONS:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -20089,6 +20209,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>RESET_DISMISSED_BUTTON_TEXT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021430Z" creationid="mohammad" creationdate="20200928T021430Z">
+        <seg>RESET_DISMISSED_BUTTON_TEXT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RESET_DISMISSED_TOOLTIP:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021436Z" creationid="mohammad" creationdate="20200928T021436Z">
+        <seg>RESET_DISMISSED_TOOLTIP:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>RESET_REACTIVE_ADVICE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T172807Z" creationid="mohammad" creationdate="20200925T172807Z">
@@ -22158,10 +22294,26 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>event_troop_default_name:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021350Z" creationid="mohammad" creationdate="20200928T021350Z">
+        <seg>event_troop_default_name:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>family_name:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183803Z" creationid="mohammad" creationdate="20200921T183803Z">
         <seg>family_name:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>first_almohad_event_troops:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021323Z" creationid="mohammad" creationdate="20200928T021323Z">
+        <seg>first_almohad_event_troops:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -23984,6 +24136,14 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>mongol_event_troops:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021308Z" creationid="mohammad" creationdate="20200928T021308Z">
+        <seg>mongol_event_troops:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>mortal_adoration_perk_name:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T110631Z" creationid="mohammad" creationdate="20200926T110631Z">
@@ -25280,10 +25440,26 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>peasant_faction_event_troops:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021231Z" creationid="mohammad" creationdate="20200928T021231Z">
+        <seg>peasant_faction_event_troops:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>poor_learning_law_cost_tooltip:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T020525Z" creationid="mohammad" creationdate="20200928T020525Z">
         <seg>poor_learning_law_cost_tooltip:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>populist_faction_event_troops:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021252Z" creationid="mohammad" creationdate="20200928T021252Z">
+        <seg>populist_faction_event_troops:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -25356,6 +25532,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030244Z" creationid="mohammad" creationdate="20200922T030244Z">
         <seg>scholarship_name:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>second_almohad_event_troops:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T021333Z" creationid="mohammad" creationdate="20200928T021333Z">
+        <seg>second_almohad_event_troops:0</seg>
       </tuv>
     </tu>
     <tu>
