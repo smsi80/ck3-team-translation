@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11669,6 +11669,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"The tower houses are made for both protection and habitation, and occupy strategic locations."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T172928Z" creationid="mohammad" creationdate="20200928T172928Z">
+        <seg>"خانه های برجی هم برای حفاظت و هم برای سکونت ساخته شده اند و مکان های استراتژیک را در دید دارند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"The view on same-sex relations depend on each Faith's $doctrine_homosexuality_name$ Doctrine."</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T132409Z" creationid="mahan" creationdate="20200924T132248Z">
@@ -12107,6 +12115,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T235419Z" creationid="mohammad" creationdate="20200925T235419Z">
         <seg>"Total [tax|E] درآمد: [gold_i]$TOTAL|=+1$\n - [domain|E]: [gold_i]$DOMAIN|=+1$\n - [vassals|E]: [gold_i]$VASSALS|=+1$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Tower Houses"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T172623Z" creationid="mohammad" creationdate="20200928T172623Z">
+        <seg>"Tower Houses"</seg>
       </tuv>
     </tu>
     <tu>
