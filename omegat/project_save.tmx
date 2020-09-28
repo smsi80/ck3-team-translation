@@ -11005,6 +11005,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Stone Watchtowers"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T175748Z" creationid="mohammad" creationdate="20200928T175748Z">
+        <seg>"برجهای سنگی دیدبانی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Stonehenge"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T121936Z" creationid="Novin Pendar" creationdate="20200925T121936Z">
@@ -11729,6 +11737,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T154949Z" creationid="mohammad" creationdate="20200926T154949Z">
         <seg>"There are many things you could do noکنون که به ضروریت های کار آشنا شده اید می توانید کارهای  بسیاری  انجام دهید.کروسیدر کینگز درباره اهداف خود را تعیین کنید.اگر  پیشنهادی می خواهید، ما یه شما پیشنهاد می دهیم که شاه یا ملکه  $k_ireland$! [war|E] بشوید.همچنین جنگ تنها راه نیست...."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"These watchtowers offer a magnificent vantage point, not only for archers but also for lords inspecting their peasants."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T175856Z" creationid="mohammad" creationdate="20200928T175856Z">
+        <seg>"These watchtowers offer a magnificent vantage point, not only for archers but also for lords inspecting their peasants."</seg>
       </tuv>
     </tu>
     <tu>
