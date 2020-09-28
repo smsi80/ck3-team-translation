@@ -26,3 +26,4 @@ Rally Point	محل گرد همایی
 Stress	استرس
 Dread	وحشت
 Prowess	قدرت
+Concubine	صیغه
