@@ -29,3 +29,4 @@ Prowess	قدرت
 Concubine	صیغه
 titles	عناوین
 County	شهرستان
+Skill	مهارت
