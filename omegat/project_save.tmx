@@ -8370,6 +8370,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Loopholes"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T180819Z" creationid="mohammad" creationdate="20200928T180819Z">
+        <seg>"Loopholes"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Losing Wars"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T110229Z" creationid="mohammad" creationdate="20200924T110229Z">
@@ -12161,8 +12169,8 @@
       <tuv lang="en">
         <seg>"Tower Houses"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200928T172944Z" creationid="mohammad" creationdate="20200928T172623Z">
-        <seg>"خانه های برجی"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T180818Z" creationid="mohammad" creationdate="20200928T172623Z">
+        <seg>"خانه های برج مانند"</seg>
       </tuv>
     </tu>
     <tu>
@@ -22026,6 +22034,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T143650Z" creationid="mohammad" creationdate="20200927T143650Z">
         <seg>building_type_tribe_01_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>building_watchtowers_06:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T180821Z" creationid="mohammad" creationdate="20200928T180821Z">
+        <seg>building_watchtowers_06:1</seg>
       </tuv>
     </tu>
     <tu>
