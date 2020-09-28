@@ -2086,6 +2086,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$DESC|F$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015111Z" creationid="mohammad" creationdate="20200928T015111Z">
+        <seg>"$DESC|F$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$DURATION$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013218Z" creationid="mohammad" creationdate="20200927T013218Z">
@@ -3002,6 +3010,14 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013657Z" creationid="mohammad" creationdate="20200927T013657Z">
         <seg>"@warning_icon!#X نام پرونده نا معتبر است#! "
  STRESS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@warning_icon!#X May not inherit titles#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015105Z" creationid="mohammad" creationdate="20200928T015105Z">
+        <seg>"@warning_icon!#X ممکن است عناوین را به ارث نبرد#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4028,6 +4044,14 @@
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T175134Z" creationid="Alireza" creationdate="20200925T175134Z">
         <seg>"مرزها ($lesson_basics_map$)"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Born on [DATE.GetStringShort|V]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015124Z" creationid="mohammad" creationdate="20200928T015124Z">
+        <seg>"متولد: [DATE.GetStringShort|V]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7606,6 +7630,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T095038Z" creationid="mohammad" creationdate="20200926T095038Z">
         <seg>"مثل  علف هرز در باغ "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Likelihood of dying in [battle|E]: #N +100%#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014915Z" creationid="mohammad" creationdate="20200928T014915Z">
+        <seg>"احتمال مرگ در [battle|E]: #N +100%#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Likelihood of dying in [battle|E]: #P -50%#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014901Z" creationid="mohammad" creationdate="20200928T014901Z">
+        <seg>"احتمال مرگ در [battle|E]: #P -50%#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -13287,6 +13327,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[fertility|E]: $VALUE|V$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015112Z" creationid="mohammad" creationdate="20200928T015112Z">
+        <seg>"[fertility|E]: $VALUE|V$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[gold_i] $VALUE|0$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000028Z" creationid="mohammad" creationdate="20200926T000028Z">
@@ -13339,6 +13387,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T012909Z" creationid="mohammad" creationdate="20200928T012909Z">
         <seg>"[heir|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[hostile_scheme|E] [success_chance|E] vs. Rivals: #P +[EmptyScope.ScriptValue('vengeful_scheme_success_chance_modifier')|0]#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014837Z" creationid="mohammad" creationdate="20200928T014837Z">
+        <seg>"[hostile_scheme|E] [success_chance|E] vs. Rivals: #P +[EmptyScope.ScriptValue('vengeful_scheme_success_chance_modifier')|0]#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -14805,6 +14861,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>BIRTH_DATE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015115Z" creationid="mohammad" creationdate="20200928T015115Z">
+        <seg>BIRTH_DATE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>BREAKDOWN_ARMY_MAINTENANCE:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T235523Z" creationid="mohammad" creationdate="20200925T235523Z">
@@ -16137,6 +16201,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065617Z" creationid="mohammad" creationdate="20200925T065617Z">
         <seg>FEED_MESSAGE_GOTO_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FERTILITY_COLON:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015111Z" creationid="mohammad" creationdate="20200928T015111Z">
+        <seg>FERTILITY_COLON:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -19637,6 +19709,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TRAIT_BLOCK_INHERITANCE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014918Z" creationid="mohammad" creationdate="20200928T014918Z">
+        <seg>TRAIT_BLOCK_INHERITANCE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TRAIT_CAN_NOT_HAVE_CHILDREN:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T014709Z" creationid="mohammad" creationdate="20200928T014709Z">
@@ -19673,6 +19753,38 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T014743Z" creationid="mohammad" creationdate="20200928T014743Z">
         <seg>TRAIT_FLAG_DESC_can_not_marry:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TRAIT_FLAG_DESC_extra_scheme_power_vs_rivals:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014830Z" creationid="mohammad" creationdate="20200928T014830Z">
+        <seg>TRAIT_FLAG_DESC_extra_scheme_power_vs_rivals:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TRAIT_FLAG_DESC_higher_chance_of_dying_in_battle:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014902Z" creationid="mohammad" creationdate="20200928T014902Z">
+        <seg>TRAIT_FLAG_DESC_higher_chance_of_dying_in_battle:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TRAIT_FLAG_DESC_lower_chance_of_dying_in_combat:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T014840Z" creationid="mohammad" creationdate="20200928T014840Z">
+        <seg>TRAIT_FLAG_DESC_lower_chance_of_dying_in_combat:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TRAIT_FLAVOR_DESC:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T015110Z" creationid="mohammad" creationdate="20200928T015110Z">
+        <seg>TRAIT_FLAVOR_DESC:0</seg>
       </tuv>
     </tu>
     <tu>
