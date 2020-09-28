@@ -2188,10 +2188,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$REASONS$ and $LAST_REASON$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010625Z" creationid="mohammad" creationdate="20200928T010625Z">
+        <seg>"$REASONS$ و $LAST_REASON$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$SCHEME_NAME|V$ on [CHARACTER.GetUINameNoTooltip] has been abandoned"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T071423Z" creationid="mohammad" creationdate="20200925T071423Z">
         <seg>"$SCHEME_NAME|V$ بر روی [CHARACTER.GetUINameNoTooltip] رها شد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$SKILL$ Skill"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010608Z" creationid="mohammad" creationdate="20200928T010608Z">
+        <seg>"$SKILL$ مهارت"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2522,6 +2538,16 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000627Z" creationid="mohammad" creationdate="20200926T000627Z">
         <seg>"* "
  HAS_HOOK_ON_ME:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>", "
+ EVENT_REASON_SKILL:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010600Z" creationid="mohammad" creationdate="20200928T010600Z">
+        <seg>", "
+ EVENT_REASON_SKILL:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -5414,6 +5440,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Father"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010825Z" creationid="mohammad" creationdate="20200928T010825Z">
+        <seg>"پدر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Fear Tax"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T105155Z" creationid="mohammad" creationdate="20200926T105155Z">
@@ -7866,6 +7900,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T223727Z" creationid="BIG GAMER" creationdate="20200924T223727Z">
         <seg>مادر همه ماها</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Mother"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010821Z" creationid="mohammad" creationdate="20200928T010821Z">
+        <seg>"مادر"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10617,6 +10659,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"This option is available because of your $REASONS$."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010800Z" creationid="mohammad" creationdate="20200928T010800Z">
+        <seg>"این گزینه به این دلیل در دسترس است $REASONS$."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"This small but formidable fortification is situated upon a raised earthwork."</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T111446Z" creationid="mohammad" creationdate="20200920T140656Z">
@@ -12027,6 +12077,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[CHARACTER.GetUINameNoTooltip]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010558Z" creationid="mohammad" creationdate="20200928T010558Z">
+        <seg>"[CHARACTER.GetUINameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[CHARACTER.GetUIName] is already considering a proposal from [TARGET_CHARACTER.GetUIName]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T221454Z" creationid="mohammad" creationdate="20200925T221435Z">
@@ -12679,6 +12737,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T194437Z" creationid="mohammad" creationdate="20200925T112444Z">
         <seg>"[TARGET_CHARACTER.GetShortUIName|U] فرزند حرامزاده [TARGET_CHARACTER.GetMother.GetShortUIName] و [TARGET_CHARACTER.GetRealFather.GetShortUIName] است"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[TRAIT.GetName( CHARACTER.Self )|L] Trait"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010618Z" creationid="mohammad" creationdate="20200928T010618Z">
+        <seg>"[TRAIT.GetName( CHARACTER.Self )|L] ویژگی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -15409,6 +15475,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>EVENT_REASONS:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010625Z" creationid="mohammad" creationdate="20200928T010625Z">
+        <seg>EVENT_REASONS:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>EVENT_REASONS_LAST_REASON:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010619Z" creationid="mohammad" creationdate="20200928T010619Z">
+        <seg>EVENT_REASONS_LAST_REASON:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>EVENT_REASON_SEPARATOR:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010559Z" creationid="mohammad" creationdate="20200928T010559Z">
+        <seg>EVENT_REASON_SEPARATOR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>EVENT_REASON_TRAIT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010611Z" creationid="mohammad" creationdate="20200928T010611Z">
+        <seg>EVENT_REASON_TRAIT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>EVENT_SIGNATURE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010557Z" creationid="mohammad" creationdate="20200928T010557Z">
+        <seg>EVENT_SIGNATURE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>EVENT_SIGNED:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T010443Z" creationid="mohammad" creationdate="20200928T010443Z">
@@ -15437,6 +15543,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000837Z" creationid="mohammad" creationdate="20200926T000837Z">
         <seg>EXPENSES:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FATHER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010822Z" creationid="mohammad" creationdate="20200928T010822Z">
+        <seg>FATHER:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -17149,6 +17263,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T142631Z" creationid="mohammad" creationdate="20200925T142631Z">
         <seg>MONTHLY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MOTHER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T010800Z" creationid="mohammad" creationdate="20200928T010800Z">
+        <seg>MOTHER:0</seg>
       </tuv>
     </tu>
     <tu>
