@@ -10583,8 +10583,8 @@
       <tuv lang="en">
         <seg>"Several wooden watchtowers overlook the peasants as they're toiling in their fields. From their vantage points, archers offer excellent protection."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200928T174640Z" creationid="mohammad" creationdate="20200928T174640Z">
-        <seg>"چندین برج دیده بانی چوبی؛  از نظر نقاط قوت،کمانداران حفاظت عالی برخوردار می شوند."</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T175107Z" creationid="mohammad" creationdate="20200928T174640Z">
+        <seg>"چندین برج دیده بانی چوبی؛  از نظر نقاط قوت،کمانداران حفاظت عالی برخوردار می شوند.اما درباره محافظت از دهقانان، همچین خبری نیست."</seg>
       </tuv>
     </tu>
     <tu>
@@ -10831,8 +10831,8 @@
       <tuv lang="en">
         <seg>"Small Mudbrick Keeps"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200928T174931Z" creationid="mohammad" creationdate="20200928T174931Z">
-        <seg>"Small Mudbrick Keeps"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T175225Z" creationid="mohammad" creationdate="20200928T174931Z">
+        <seg>"اجر های خشتی کوچک"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11593,6 +11593,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T142436Z" creationid="mohammad" creationdate="20200927T142436Z">
         <seg>"گودالهای معدن گسترش یافته اند و مهندسانی به این منظور آورده شده اند که قادر به استخراج الماس هستند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The refined mudbrick keeps, while small, offer superior protection to more mundane watchtowers. In times of war, they can protect a host of peasants from raiders, and even contain a small granary for leaner times."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200928T175027Z" creationid="mohammad" creationdate="20200928T175027Z">
+        <seg>"The refined mudbrick keeps, while small, offer superior protection to more mundane watchtowers. In times of war, they can protect a host of peasants from raiders, and even contain a small granary for leaner times."</seg>
       </tuv>
     </tu>
     <tu>
