@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2766,6 +2766,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$game_concept_vassal_obligations$ define how much [tax|E] and how many [levies|E] a [vassal|E] provides to their [liege|E]. The Vassal's [government_form|E] decides what the $game_concept_vassal_obligations$ are.\n\n#weak For example, Feudal Vassals have their $game_concept_vassal_obligations$ set by their [feudal_contract|E].#!\n\n[feudal] [vassals] pay a percentage of their total [taxes] and [levies] through the #high $feudal_government_taxes$#! and #high $feudal_government_levies$#! Obligations. #EMP These [modifier_contributions|E] can in turn be modified by 'fine print' options such as [GetVassalContractType( 'fortification_rights' ).GetObligationName( 'fortification_rights_granted' )] or [GetVassalContractType( 'special_contract' ).GetObligationName( 'special_contract_march' )].#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200928T050401Z" creationid="BIG GAMER" creationdate="20200928T050401Z">
+        <seg>"$game_concept_vassal_obligations$ define how much [tax|E] and how many [levies|E] a [vassal|E] provides to their [liege|E]. The Vassal's [government_form|E] decides what the $game_concept_vassal_obligations$ are.\n\n#weak For example, Feudal Vassals have their $game_concept_vassal_obligations$ set by their [feudal_contract|E].#!\n\n[feudal] [vassals] pay a percentage of their total [taxes] and [levies] through the #high $feudal_government_taxes$#! and #high $feudal_government_levies$#! Obligations. #EMP These [modifier_contributions|E] can in turn be modified by 'fine print' options such as [GetVassalContractType( 'fortification_rights' ).GetObligationName( 'forti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$intrigue_modifier$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013904Z" creationid="mohammad" creationdate="20200927T013904Z">
@@ -3532,6 +3540,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T070336Z" creationid="mohammad" creationdate="20200927T070336Z">
         <seg>"@warning_icon!#X [recipient.GetShortUIName] is not independent#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"A $game_concept_health_trait$ is a [trait|E] that directly affects one's physical and mental [health|E], such as [diseases|E]. Temporary traits that affect one's bodily capabilities, such as pregnancies and wounds also falls under this category."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200928T052247Z" creationid="BIG GAMER" creationdate="20200928T052247Z">
+        <seg>"A $game_concept_health_trait$ یک [trait|E] که مستقیما دارای اثر بر روی زهن و جسم [health|E], مانند [diseases|E].صفاتی موقتی که برتوانایی های جسمی شخص مثل بارداری و زخمها تاثیر میگزارد  در این دسته بندی جا میگرند ."</seg>
       </tuv>
     </tu>
     <tu>
@@ -4364,6 +4380,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T222909Z" creationid="mohammad" creationdate="20200925T222003Z">
         <seg>"اولیه: $VALUE|V0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Battle Phase"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200928T050440Z" creationid="BIG GAMER" creationdate="20200928T050440Z">
+        <seg>مرحله نبرد</seg>
       </tuv>
     </tu>
     <tu>
@@ -7226,6 +7250,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Health Trait"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200928T051541Z" creationid="BIG GAMER" creationdate="20200928T051541Z">
+        <seg>صفت سلامتی</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Health"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T235217Z" creationid="mohammad" creationdate="20200925T235217Z">
@@ -8426,6 +8458,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Maneuver"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200928T050537Z" creationid="BIG GAMER" creationdate="20200928T050537Z">
+        <seg>ارایش</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Manor Houses"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063308Z" creationid="Novin Pendar" creationdate="20200925T063308Z">
@@ -9214,6 +9254,22 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T062757Z" creationid="Novin Pendar" creationdate="20200925T062757Z">
         <seg>"ردیف درخت گردو"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Obligation"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200928T050310Z" creationid="BIG GAMER" creationdate="20200928T050310Z">
+        <seg>تعهد</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Obligations"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200928T050245Z" creationid="BIG GAMER" creationdate="20200928T050245Z">
+        <seg>تعهدات</seg>
       </tuv>
     </tu>
     <tu>
@@ -11125,6 +11181,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"The $game_concept_maneuver$ phase occurs at the start of a [battle|E] and indicates the time it takes before the [main_phase|E] begins, and [armies|E] engage each other in combat."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200928T051306Z" creationid="BIG GAMER" creationdate="20200928T051306Z">
+        <seg>"The $game_concept_maneuver$ مرحله اتفاق میافتد در اغاز  [battle|E]و نشانگر زمان لازم  قبل از[main_phase|E] شروع میشود و [armies|E].به نبرد میپردازند"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"The AI will attempt to start the Hungarian Migration any time between 5 years after game start and 910."</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T122848Z" creationid="mahan" creationdate="20200925T122848Z">
@@ -12331,6 +12395,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T223658Z" creationid="mohammad" creationdate="20200925T223658Z">
         <seg>"ارزش: $VALUE|+0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Vassal Obligations"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="BIG GAMER" changedate="20200928T050226Z" creationid="BIG GAMER" creationdate="20200928T050226Z">
+        <seg>تعهدات خراجگزار</seg>
       </tuv>
     </tu>
     <tu>
