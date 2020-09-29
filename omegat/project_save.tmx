@@ -4136,6 +4136,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Argentiera Mine"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200929T124741Z" creationid="mohammad" creationdate="20200929T124741Z">
+        <seg>"Argentiera Mine"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Army Maintenance: [gold_i]$VALUE|=+1$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T235521Z" creationid="mohammad" creationdate="20200925T235521Z">
@@ -10601,6 +10609,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200929T103401Z" creationid="mohammad" creationdate="20200929T103148Z">
         <seg>"معدن شواز"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Schwaz Mining Complex"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200929T122629Z" creationid="mohammad" creationdate="20200929T122629Z">
+        <seg>" مجموعه معدنی شواز"</seg>
       </tuv>
     </tu>
     <tu>
