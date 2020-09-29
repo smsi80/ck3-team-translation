@@ -8114,6 +8114,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Kutná Hora Mines V"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200929T103024Z" creationid="mohammad" creationdate="20200929T103024Z">
+        <seg>"معدن کوتنا هورا سطح پنج"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Kutná Hora Mines VI"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200929T103032Z" creationid="mohammad" creationdate="20200929T103032Z">
+        <seg>"معدن کوتنا هورا سطح شیش"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Kutná Hora Mines VII"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200929T103041Z" creationid="mohammad" creationdate="20200929T103041Z">
+        <seg>"معدن کوتنا هورا سطح هفت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Kutná Hora Mines VIII"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200929T103118Z" creationid="mohammad" creationdate="20200929T103118Z">
+        <seg>"معدن کوتنا هورا سطح هشت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Kutná Hora Mining Complex"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200929T102955Z" creationid="mohammad" creationdate="20200929T102955Z">
+        <seg>"Kutná Hora Mining Complex"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Kutná Hora Mining Settlement"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200929T102737Z" creationid="mohammad" creationdate="20200929T102737Z">
@@ -8174,6 +8214,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T142455Z" creationid="mohammad" creationdate="20200927T142455Z">
         <seg>"معدن کلور بزرگ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Large Kutná Hora Mine"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200929T102829Z" creationid="mohammad" creationdate="20200929T102829Z">
+        <seg>"معدن وسیع کوتنا هورا "</seg>
       </tuv>
     </tu>
     <tu>
@@ -10529,6 +10577,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T025812Z" creationid="mohammad" creationdate="20200922T025812Z">
         <seg>"تمرکز روی دانش"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Schwaz Mine"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200929T103148Z" creationid="mohammad" creationdate="20200929T103148Z">
+        <seg>"Schwaz Mine"</seg>
       </tuv>
     </tu>
     <tu>
@@ -15653,6 +15709,14 @@
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T175126Z" creationid="Alireza" creationdate="20200925T175126Z">
         <seg>#\n\n@coa_icon!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#building_kutna_hora_mines_08_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200929T103043Z" creationid="mohammad" creationdate="20200929T103043Z">
+        <seg>#building_kutna_hora_mines_08_desc:0</seg>
       </tuv>
     </tu>
     <tu>
