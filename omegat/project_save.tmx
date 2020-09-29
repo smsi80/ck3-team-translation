@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#F The Schwaz silver mine lies at the foot of the Kellerjoch and Eiblschrofen mountains, in the middle of a valley. The opportunity for mining means that a lot of people are drawn to the area."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200929T103515Z" creationid="mohammad" creationdate="20200929T103515Z">
+        <seg>"#F The Schwaz silver mine lies at the foot of the Kellerjoch and Eiblschrofen mountains, in the middle of a valley. The opportunity for mining means that a lot of people are drawn to the area."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#F The Tower of London is a castle that serves as both a vital fortification and a prison. The central tower is called the 'White Tower' and houses the ruling class. The position of the Tower of London means that it's vital to the defense of the entire County.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T113706Z" creationid="Novin Pendar" creationdate="20200925T113706Z">
@@ -8148,8 +8156,8 @@
       <tuv lang="en">
         <seg>"Kutná Hora Mining Complex"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200929T102955Z" creationid="mohammad" creationdate="20200929T102955Z">
-        <seg>"Kutná Hora Mining Complex"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200929T103345Z" creationid="mohammad" creationdate="20200929T102955Z">
+        <seg>"مجموعه معدنی کوتنا هورا"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10583,8 +10591,8 @@
       <tuv lang="en">
         <seg>"Schwaz Mine"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200929T103148Z" creationid="mohammad" creationdate="20200929T103148Z">
-        <seg>"Schwaz Mine"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200929T103401Z" creationid="mohammad" creationdate="20200929T103148Z">
+        <seg>"معدن شواز"</seg>
       </tuv>
     </tu>
     <tu>
