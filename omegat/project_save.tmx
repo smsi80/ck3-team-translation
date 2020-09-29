@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#F Marcher lords protect the borders with fortifications and local garrisons.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200929T125539Z" creationid="mohammad" creationdate="20200929T125539Z">
+        <seg>"#F Marcher lords protect the borders with fortifications and local garrisons.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#F Not satisfied with a small and modest temple, local artisans and architects have worked together to create a true work of art. This grand temple seemingly calls down the power of heaven itself into any worshiper who enters its glorious halls.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T124614Z" creationid="Novin Pendar" creationdate="20200924T120505Z">
@@ -8622,6 +8630,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T143156Z" creationid="mohammad" creationdate="20200925T143110Z">
         <seg>"کنترل نقشه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Marches"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200929T125808Z" creationid="mohammad" creationdate="20200929T125503Z">
+        <seg>"راهپیمایی"</seg>
       </tuv>
     </tu>
     <tu>
