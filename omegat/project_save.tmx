@@ -8250,6 +8250,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Large Schwaz Mine"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200929T122552Z" creationid="mohammad" creationdate="20200929T122552Z">
+        <seg>"معدن وسیع شواز"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Last Count, First King"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215057Z" creationid="BIG GAMER" creationdate="20200924T215057Z">
