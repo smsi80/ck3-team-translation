@@ -9588,8 +9588,8 @@
       <tuv lang="en">
         <seg>"Palisades"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200927T184913Z" creationid="mohammad" creationdate="20200927T184836Z">
-        <seg>"پرچین ها"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200929T124816Z" creationid="mohammad" creationdate="20200927T184836Z">
+        <seg>"حصار ها"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10871,16 +10871,16 @@
       <tuv lang="en">
         <seg>"Simple Palisade"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200927T184924Z" creationid="mohammad" creationdate="20200927T140419Z">
-        <seg>"پرچین های ساده"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200929T124801Z" creationid="mohammad" creationdate="20200927T140419Z">
+        <seg>"حصار های ساده"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"Simple palisades offer limited protection, while effective against skirmishes they are less reliable against larger groups of enemies."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200927T185648Z" creationid="mohammad" creationdate="20200927T185648Z">
-        <seg>"پرجین های ساده از محافظت محدودتری برخوردار هستند ، در حالی که در برابر درگیری موثر و مفید هستند اما در برابر گروههای بزرگ دشمن از اطمینان کمتری برخوردار است."</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200929T125213Z" creationid="mohammad" creationdate="20200927T185648Z">
+        <seg>"حصار های ساده از محافظت محدودتری برخوردار هستند ، در حالی که در برابر درگیری موثر و مفید هستند اما در برابر گروههای بزرگ دشمن از اطمینان کمتری برخوردار است."</seg>
       </tuv>
     </tu>
     <tu>
