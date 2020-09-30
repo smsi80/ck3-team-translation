@@ -8842,6 +8842,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Learning lifestyle perk points: $NUM|V0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T073512Z" creationid="Smsi" creationdate="20200930T073512Z">
+        <seg>"امتیازات مزایای سبک زندگی یادگیری: $NUM|V0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Learning"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T024545Z" creationid="mohammad" creationdate="20200922T023901Z">
@@ -20245,6 +20253,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T020442Z" creationid="mohammad" creationdate="20200928T020442Z">
         <seg>LAUNCHER_SAVE_DESCRIPTION_OBSERVER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LEARNING_LIFESTYLE_PERK_POINTS_TRIGGER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T073416Z" creationid="Smsi" creationdate="20200930T073416Z">
+        <seg>LEARNING_LIFESTYLE_PERK_POINTS_TRIGGER:0</seg>
       </tuv>
     </tu>
     <tu>
