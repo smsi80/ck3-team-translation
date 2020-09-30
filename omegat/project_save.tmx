@@ -9266,6 +9266,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Nice"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T051436Z" creationid="mohammad" creationdate="20200930T051436Z">
+        <seg>"خیلی عالی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Niece"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T013236Z" creationid="mohammad" creationdate="20200928T012931Z">
@@ -21541,6 +21549,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T015546Z" creationid="mohammad" creationdate="20200928T015546Z">
         <seg>SKILL_GOOD:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SKILL_NICE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T051424Z" creationid="mohammad" creationdate="20200930T051424Z">
+        <seg>SKILL_NICE:0</seg>
       </tuv>
     </tu>
     <tu>
