@@ -1778,6 +1778,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T [FocusType.GetNameNoTooltip]#!\n[CharacterLifestyleWindow.CanSelectFocusDesc( FocusType.Self )]\n[FocusType.GetEffectDescription]\n[FocusType.GetLifestyle.GetName] Experience: [FocusType.GetGainAmount( GetPlayer.Self )|P0]/month\n\n#I Click to select#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T071006Z" creationid="mohammad" creationdate="20200930T070937Z">
+        <seg>"#T [FocusType.GetNameNoTooltip]#!\n[CharacterLifestyleWindow.CanSelectFocusDesc( FocusType.Self )]\n[FocusType.GetEffectDescription]\n[FocusType.GetLifestyle.GetName] تجربه: [FocusType.GetGainAmount( GetPlayer.Self )|P0]/month\n\n#I Click to select#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T [Lifestyle.GetNameNoTooltip]#!\n #I Click to open.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T070647Z" creationid="mohammad" creationdate="20200930T070647Z">
@@ -3732,6 +3740,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T063640Z" creationid="mohammad" creationdate="20200930T063616Z">
         <seg>"@warning_icon!#X شما قبلاً این تمرکز را داشته اید!#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@warning_icon!#X You need to select a focus in this lifestyle to unlock its perks#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T071244Z" creationid="mohammad" creationdate="20200930T071244Z">
+        <seg>"@warning_icon!#X برای باز کردن  مزایا  ، باید تمرکز در این سبک زندگی را انتخاب کنید#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11317,10 +11333,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Select [FOCUS.GetName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T071019Z" creationid="mohammad" creationdate="20200930T071019Z">
+        <seg>"انتخاب کنید [FOCUS.GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Select a save game to load"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T061910Z" creationid="mohammad" creationdate="20200930T061910Z">
         <seg>"انتخاب یک بازی ذخیره برای بارگذاری"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Select"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T071057Z" creationid="mohammad" creationdate="20200930T071057Z">
+        <seg>"انتخاب کنید"</seg>
       </tuv>
     </tu>
     <tu>
@@ -14511,10 +14543,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[FOCUS.GetDescription( GetPlayer.GetID )]\n[FOCUS.GetEffectDescription]\n\n[FOCUS.GetLifestyle.GetName] Experience: [FOCUS.GetGainAmount( GetPlayer )|P0]/month\n[FOCUS.GetGainBreakdown( GetPlayer )]\n\nCan only be changed every [GetGameTimeDifferenceForDiffMonths( GetDefine('NCharacter', 'FOCUS_ADULT_COOLDOWN_MONTHS'), '(bool)yes' )]."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T071054Z" creationid="mohammad" creationdate="20200930T071054Z">
+        <seg>"[FOCUS.GetDescription( GetPlayer.GetID )]\n[FOCUS.GetEffectDescription]\n\n[FOCUS.GetLifestyle.GetName] تجربه: [FOCUS.GetGainAmount( GetPlayer )|P0]/month\n[FOCUS.GetGainBreakdown( GetPlayer )]\n\nمیتواند تغیر کند هر [GetGameTimeDifferenceForDiffMonths( GetDefine('NCharacter', 'FOCUS_ADULT_COOLDOWN_MONTHS'), '(bool)yes' )]."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[FocusType.GetDescription( Character.GetID )]#low \n[FocusType.GetEffectDescription]\n[FocusType.GetLifestyle.GetName] Experience: [FocusType.GetGainAmount( GetPlayer.Self )|P0]/month#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200930T070928Z" creationid="mohammad" creationdate="20200930T070928Z">
-        <seg>"[FocusType.GetDescription( Character.GetID )]#low \n[FocusType.GetEffectDescription]\n[FocusType.GetLifestyle.GetName] Experience: [FocusType.GetGainAmount( GetPlayer.Self )|P0]/month#!"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070957Z" creationid="mohammad" creationdate="20200930T070928Z">
+        <seg>"[FocusType.GetDescription( Character.GetID )]#low \n[FocusType.GetEffectDescription]\n[FocusType.GetLifestyle.GetName] تجربه: [FocusType.GetGainAmount( GetPlayer.Self )|P0]/month#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -17845,6 +17885,38 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T074943Z" creationid="mohammad" creationdate="20200924T074943Z">
         <seg>CHOOSE_FOCUS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHOOSE_FOCUS_CONFIRM_ACCEPT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T071055Z" creationid="mohammad" creationdate="20200930T071055Z">
+        <seg>CHOOSE_FOCUS_CONFIRM_ACCEPT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHOOSE_FOCUS_CONFIRM_DESC:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T071020Z" creationid="mohammad" creationdate="20200930T071020Z">
+        <seg>CHOOSE_FOCUS_CONFIRM_DESC:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHOOSE_FOCUS_CONFIRM_TITLE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T071008Z" creationid="mohammad" creationdate="20200930T071008Z">
+        <seg>CHOOSE_FOCUS_CONFIRM_TITLE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHOOSE_FOCUS_TOOLTIP:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070929Z" creationid="mohammad" creationdate="20200930T070929Z">
+        <seg>CHOOSE_FOCUS_TOOLTIP:2</seg>
       </tuv>
     </tu>
     <tu>
@@ -22669,6 +22741,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T223626Z" creationid="mohammad" creationdate="20200925T223626Z">
         <seg>SCRIPTED_VALUE_MODIFIER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SELECT_PERK_NO_LIFESTYLE_FOCUS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T071105Z" creationid="mohammad" creationdate="20200930T071105Z">
+        <seg>SELECT_PERK_NO_LIFESTYLE_FOCUS:0</seg>
       </tuv>
     </tu>
     <tu>
