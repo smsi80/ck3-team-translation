@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>""</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062023Z" creationid="mohammad" creationdate="20200930T062023Z">
+        <seg>""</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#D Boldness &amp; Dread#!: $VALUE|=+0$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T230316Z" creationid="mohammad" creationdate="20200925T230316Z">
@@ -5930,6 +5938,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"End Game"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061913Z" creationid="mohammad" creationdate="20200930T061913Z">
+        <seg>"پایان بازی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"End of an Era"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215442Z" creationid="BIG GAMER" creationdate="20200924T215442Z">
@@ -7842,6 +7858,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"If you as the Host leave the game, the Multiplayer Game will end and all other players can no longer play together."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062041Z" creationid="mohammad" creationdate="20200930T062041Z">
+        <seg>"اگر شما به عنوان میزبان از بازی خارج شوید ، بازی چند نفره به پایان می رسد و سایر بازیکنان دیگر نمی توانند با هم بازی کنند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"If you click your character portrait (highlighted in the Character view), the borders of your [realm_capital|E] ($cn_luimneach$) will light up — outside of that will be the borders of your entire [realm|E]. Munster is your [primary_title|E], which is why your $game_concept_realm$ is named after it.\n\nYou also hold the Earldom of Thomond, as a separate $game_concept_title$.\n\n#TUT If you zoom out, it will read</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200926T112121Z" creationid="Alireza" creationdate="20200925T175523Z">
@@ -8110,6 +8134,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222805Z" creationid="BIG GAMER" creationdate="20200924T222805Z">
         <seg>این یک فرقه نیست</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Join Game"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061905Z" creationid="mohammad" creationdate="20200930T061905Z">
+        <seg>"به بازی بپیوندید"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8474,6 +8506,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Leave Game"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062021Z" creationid="mohammad" creationdate="20200930T062021Z">
+        <seg>"ترک بازی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Left Faction"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T075655Z" creationid="mohammad" creationdate="20200925T075655Z">
@@ -8638,6 +8678,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T184029Z" creationid="mohammad" creationdate="20200924T184029Z">
         <seg>"قفل تاخیر باز شده"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Log in for Multiplayer"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061853Z" creationid="mohammad" creationdate="20200930T061853Z">
+        <seg>"ورود برای بخش چند نفره"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Logged in"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061902Z" creationid="mohammad" creationdate="20200930T061902Z">
+        <seg>"وارد شده"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9718,6 +9774,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T184719Z" creationid="mohammad" creationdate="20200927T184719Z">
         <seg>"فقط بزرگترین جنگجویان اجازه ورود به کلبه جنگجویان را دارند.همچنین حضور آنها الهام بخش است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Open Login window"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061859Z" creationid="mohammad" creationdate="20200930T061859Z">
+        <seg>"باز کردن پنجره ورود"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10945,6 +11009,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T102723Z" creationid="mohammad" creationdate="20200926T102558Z">
         <seg>"اغواگر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Select a save game to load"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061910Z" creationid="mohammad" creationdate="20200930T061910Z">
+        <seg>"انتخاب یک بازی ذخیره برای بارگذاری"</seg>
       </tuv>
     </tu>
     <tu>
@@ -18241,6 +18313,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FRONTEND_END_GAME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061911Z" creationid="mohammad" creationdate="20200930T061911Z">
+        <seg>FRONTEND_END_GAME:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FRONTEND_END_GAME_TEXT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062024Z" creationid="mohammad" creationdate="20200930T062024Z">
+        <seg>FRONTEND_END_GAME_TEXT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FRONTEND_GOTO_LOBBY:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T061340Z" creationid="mohammad" creationdate="20200930T061340Z">
@@ -18265,6 +18353,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FRONTEND_JOIN_MULTIPLAYER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061903Z" creationid="mohammad" creationdate="20200930T061903Z">
+        <seg>FRONTEND_JOIN_MULTIPLAYER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FRONTEND_LEAVE_GAME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061913Z" creationid="mohammad" creationdate="20200930T061913Z">
+        <seg>FRONTEND_LEAVE_GAME:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FRONTEND_LEAVE_GAME_TEXT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062042Z" creationid="mohammad" creationdate="20200930T062042Z">
+        <seg>FRONTEND_LEAVE_GAME_TEXT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FRONTEND_LOGGED_IN:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061900Z" creationid="mohammad" creationdate="20200930T061900Z">
+        <seg>FRONTEND_LOGGED_IN:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FRONTEND_LOGIN_FOR_MUTLIPLAYER_TT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061853Z" creationid="mohammad" creationdate="20200930T061853Z">
+        <seg>FRONTEND_LOGIN_FOR_MUTLIPLAYER_TT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FRONTEND_NOT_PAUSED:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T061517Z" creationid="mohammad" creationdate="20200930T061517Z">
@@ -18285,6 +18413,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T061648Z" creationid="mohammad" creationdate="20200930T061648Z">
         <seg>FRONTEND_PLAYERS_COUNT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FRONTEND_SAVE_EXIT_TEXT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062022Z" creationid="mohammad" creationdate="20200930T062022Z">
+        <seg>FRONTEND_SAVE_EXIT_TEXT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FRONTEND_SELECT_GAME_TO_LOAD:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061905Z" creationid="mohammad" creationdate="20200930T061905Z">
+        <seg>FRONTEND_SELECT_GAME_TO_LOAD:0</seg>
       </tuv>
     </tu>
     <tu>
