@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#I Click to unlock#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070908Z" creationid="mohammad" creationdate="20200930T070908Z">
+        <seg>"#I کلیک کنید برای باز کردن#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#I Click to view the War Summary\nRight-click to dismiss#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T014612Z" creationid="mohammad" creationdate="20200928T014612Z">
@@ -1770,6 +1778,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T [Lifestyle.GetNameNoTooltip]#!\n #I Click to open.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070647Z" creationid="mohammad" creationdate="20200930T070647Z">
+        <seg>"#T [Lifestyle.GetNameNoTooltip]#!\n #I برای باز شدن کلیک کنید.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T [Perk.GetNameNoTooltip( Character.Self )]#!\n[Perk.GetEffectDescription( Character.Self )]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070824Z" creationid="mohammad" creationdate="20200930T070824Z">
+        <seg>"#T [Perk.GetNameNoTooltip( Character.Self )]#!\n[Perk.GetEffectDescription( Character.Self )]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T [gold|E]: $VALUE|V0$#!\n$BALANCE|V=1$/month"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000215Z" creationid="mohammad" creationdate="20200926T000215Z">
@@ -2674,6 +2698,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T021527Z" creationid="mohammad" creationdate="20200925T215240Z">
         <seg>"$NUM|O$ محاجمان [PROVINCE.GetNameNoTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$PERK_TOOLTIP_BASE$\n[CharacterLifestyleWindow.CanSelectPerkDesc( Perk.Self )]\n #I Click to unlock#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070850Z" creationid="mohammad" creationdate="20200930T070850Z">
+        <seg>"$PERK_TOOLTIP_BASE$\n[CharacterLifestyleWindow.CanSelectPerkDesc( Perk.Self )]\n #I برای بازکردن کلیک کنید#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5146,8 +5178,8 @@
       <tuv lang="en">
         <seg>"Choose [lifestyle|E]"</seg>
       </tuv>
-      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T174438Z" creationid="BIG GAMER" creationdate="20200926T174438Z">
-        <seg>انتخاب</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070633Z" creationid="BIG GAMER" creationdate="20200926T174438Z">
+        <seg>"انتخاب [lifestyle|E]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10002,6 +10034,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Open"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070706Z" creationid="mohammad" creationdate="20200930T070706Z">
+        <seg>"بازکن"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Open-Minded"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T110755Z" creationid="mohammad" creationdate="20200926T110755Z">
@@ -13207,6 +13247,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Unlock [PERK.GetName( GetPlayer )]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070913Z" creationid="mohammad" creationdate="20200930T070913Z">
+        <seg>"بازکردن [PERK.GetName( GetPlayer )]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Unlock"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070916Z" creationid="mohammad" creationdate="20200930T070916Z">
+        <seg>"باز کردن"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Unshackled Lust"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T095251Z" creationid="mohammad" creationdate="20200926T095113Z">
@@ -14399,6 +14455,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[Character.GetPerkPointsUsed( Lifestyle.Self )]/[Lifestyle.GetPerksInLifestyle]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070818Z" creationid="mohammad" creationdate="20200930T070818Z">
+        <seg>"[Character.GetPerkPointsUsed( Lifestyle.Self )]/[Lifestyle.GetPerksInLifestyle]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[DATE.GetStringShort|V]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013213Z" creationid="mohammad" creationdate="20200927T013213Z">
@@ -14435,6 +14499,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T075340Z" creationid="mohammad" creationdate="20200925T075340Z">
         <seg>"[FACTION.GetName] هدف [CHARACTER.GetUINameNoTooltip] فوت کرد, به همین خاطر جناح منحل شد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[FOCUS.GetDescription( CHARACTER.GetID )]\n[FOCUS.GetEffectDescription]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070920Z" creationid="mohammad" creationdate="20200930T070920Z">
+        <seg>"[FOCUS.GetDescription( CHARACTER.GetID )]\n[FOCUS.GetEffectDescription]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[FocusType.GetDescription( Character.GetID )]#low \n[FocusType.GetEffectDescription]\n[FocusType.GetLifestyle.GetName] Experience: [FocusType.GetGainAmount( GetPlayer.Self )|P0]/month#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070928Z" creationid="mohammad" creationdate="20200930T070928Z">
+        <seg>"[FocusType.GetDescription( Character.GetID )]#low \n[FocusType.GetEffectDescription]\n[FocusType.GetLifestyle.GetName] Experience: [FocusType.GetGainAmount( GetPlayer.Self )|P0]/month#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[FocusType.GetDescription( GetPlayer.GetID )]\n[FocusType.GetEffectDescription]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070921Z" creationid="mohammad" creationdate="20200930T070921Z">
+        <seg>"[FocusType.GetDescription( GetPlayer.GetID )]\n[FocusType.GetEffectDescription]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -14827,6 +14915,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065615Z" creationid="mohammad" creationdate="20200925T065615Z">
         <seg>"[MessageFeedHandler.GetNumberOfQueuedMessages] پیام های بیشتر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[PERK.GetEffectDescription( GetPlayer )]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070914Z" creationid="mohammad" creationdate="20200930T070914Z">
+        <seg>"[PERK.GetEffectDescription( GetPlayer )]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -15379,6 +15475,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T001127Z" creationid="mohammad" creationdate="20200926T001127Z">
         <seg>"[opinion|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[perks|E] to Unlock: [Character.GetPerkPoints( Lifestyle.Self )]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070720Z" creationid="mohammad" creationdate="20200930T070720Z">
+        <seg>"[perks|E] برای بازکردن: [Character.GetPerkPoints( Lifestyle.Self )]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -17521,6 +17625,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CHARACTER_LIFESTYLE_HEADER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070619Z" creationid="mohammad" creationdate="20200930T070619Z">
+        <seg>CHARACTER_LIFESTYLE_HEADER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_LIFESTYLE_OPEN_TEXT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070647Z" creationid="mohammad" creationdate="20200930T070647Z">
+        <seg>CHARACTER_LIFESTYLE_OPEN_TEXT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_LIFESTYLE_OPEN_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070626Z" creationid="mohammad" creationdate="20200930T070626Z">
+        <seg>CHARACTER_LIFESTYLE_OPEN_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CHARACTER_LORD:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T231631Z" creationid="mohammad" creationdate="20200925T231631Z">
@@ -17717,6 +17845,46 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T074943Z" creationid="mohammad" creationdate="20200924T074943Z">
         <seg>CHOOSE_FOCUS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHOOSE_PERK_CONFIRM_ACCEPT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070914Z" creationid="mohammad" creationdate="20200930T070914Z">
+        <seg>CHOOSE_PERK_CONFIRM_ACCEPT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHOOSE_PERK_CONFIRM_DESC:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070913Z" creationid="mohammad" creationdate="20200930T070913Z">
+        <seg>CHOOSE_PERK_CONFIRM_DESC:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHOOSE_PERK_CONFIRM_TITLE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070908Z" creationid="mohammad" creationdate="20200930T070908Z">
+        <seg>CHOOSE_PERK_CONFIRM_TITLE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHOOSE_PERK_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070825Z" creationid="mohammad" creationdate="20200930T070825Z">
+        <seg>CHOOSE_PERK_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHOOSE_PERK_UNLOCK_TEXT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070851Z" creationid="mohammad" creationdate="20200930T070851Z">
+        <seg>CHOOSE_PERK_UNLOCK_TEXT:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -18725,6 +18893,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030421Z" creationid="mohammad" creationdate="20200922T030421Z">
         <seg>FOCUS_MAX_CHANGES:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FOCUS_TOOLTIP_TEXT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070919Z" creationid="mohammad" creationdate="20200930T070919Z">
+        <seg>FOCUS_TOOLTIP_TEXT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FOCUS_TOOLTIP_TEXT_PLAYER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070920Z" creationid="mohammad" creationdate="20200930T070920Z">
+        <seg>FOCUS_TOOLTIP_TEXT_PLAYER:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -19773,6 +19957,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T074918Z" creationid="mohammad" creationdate="20200924T074918Z">
         <seg>LIFESTYLE_FOCUS_VIEW_TITLE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LIFESTYLE_POINTS_ALREADY_USED_TEXT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070721Z" creationid="mohammad" creationdate="20200930T070721Z">
+        <seg>LIFESTYLE_POINTS_ALREADY_USED_TEXT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LIFESTYLE_POINTS_TO_USE_TEXT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070706Z" creationid="mohammad" creationdate="20200930T070706Z">
+        <seg>LIFESTYLE_POINTS_TO_USE_TEXT:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -20889,6 +21089,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LONG_FOCUS_TEXT:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070922Z" creationid="mohammad" creationdate="20200930T070922Z">
+        <seg>LONG_FOCUS_TEXT:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LOWBORN:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T213706Z" creationid="mohammad" creationdate="20200925T213706Z">
@@ -21397,6 +21605,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011258Z" creationid="mohammad" creationdate="20200926T011258Z">
         <seg>PAUSED:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PERK_TOOLTIP_BASE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070819Z" creationid="mohammad" creationdate="20200930T070819Z">
+        <seg>PERK_TOOLTIP_BASE:0</seg>
       </tuv>
     </tu>
     <tu>
