@@ -14063,6 +14063,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"You are a medieval ruler! Your reign may be brief, but through your heirs you can bring your dynasty to prominence. Land is yours for the taking, by way of the sword or through marriage, and clever diplomacy can extend your reach far beyond the wildest dreams of any conqueror...\n\n#TUT There is no one way to</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200930T120050Z" creationid="Alireza" creationdate="20200930T120050Z">
+        <seg>"You are a medieval ruler! Your reign may be brief, but through your heirs you can bring your dynasty to prominence. Land is yours for the taking, by way of the sword or through marriage, and clever diplomacy can extend your reach far beyond the wildest dreams of any conqueror...\n\n#TUT There is no one way to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"You are already planning another [activity|E]"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T195900Z" creationid="BIG GAMER" creationdate="20200925T195900Z">
@@ -16505,6 +16513,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233154Z" creationid="mohammad" creationdate="20200925T233154Z">
         <seg>"همسر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"win" in Crusader Kings III, only different ways to enjoy your story as it unfolds.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20200930T120300Z" creationid="Alireza" creationdate="20200930T120300Z">
+        <seg>"win" in Crusader Kings III, only different ways to enjoy your story as it unfolds.#!"</seg>
       </tuv>
     </tu>
     <tu>
