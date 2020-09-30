@@ -7268,8 +7268,8 @@
       <tuv lang="en">
         <seg>"Gathering Army in $LOCATION$"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T215313Z" creationid="mohammad" creationdate="20200925T215313Z">
-        <seg>"جمع اورش ارتش در $LOCATION$"</seg>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T135849Z" creationid="mohammad" creationdate="20200925T215313Z">
+        <seg>"جمع اوری ارتش در $LOCATION$"</seg>
       </tuv>
     </tu>
     <tu>
