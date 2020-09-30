@@ -83,7 +83,7 @@
  nick_the_dragon:0 "the Dragon"
  nick_the_devourer:0 "the Devourer"
  nick_the_bewitched:0 "the Bewitched"
- nick_the_witch:0 "the Witch" # Maybe Warlock for males?
+ nick_the_witch:0 "the Witch"
  nick_the_unfaithful:0 "the Unfaithful"
  nick_the_unchaste:0 "the Unchaste"
  nick_the_beguiling:0 "the Beguiling"
@@ -270,3 +270,5 @@
  nick_bad_hand:0 "Bad Hand"
  nick_the_little:0 "the Little"
  nick_the_one_eyed:0 "the One-eyed"
+ nick_the_oppressor:0 "the Oppressor"
+ nick_the_apostate:0 "the Apostate"
