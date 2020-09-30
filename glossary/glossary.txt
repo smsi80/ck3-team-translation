@@ -30,3 +30,4 @@ Concubine	صیغه
 titles	عناوین
 County	شهرستان
 Skill	مهارت
+Perks	مزایا
