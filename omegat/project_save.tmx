@@ -8092,8 +8092,8 @@
       <tuv lang="en">
         <seg>"In the tutorial, you will play as $bookmark_rags_to_riches_petty_king_murchad$, a Ruler in Ireland. Lead your family and Dynasty to defeat your enemies and become King of Ireland!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200930T064856Z" creationid="mohammad" creationdate="20200930T064856Z">
-        <seg>"In the tutorial, you will play as $bookmark_rags_to_riches_petty_king_murchad$, a Ruler in Ireland. Lead your family and Dynasty to defeat your enemies and become King of Ireland!"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T065240Z" creationid="mohammad" creationdate="20200930T064856Z">
+        <seg>"Iدر این اموزش شما به عنوان $bookmark_rags_to_riches_petty_king_murchad$یک حاکم در ایرلند.رهبری کنید خانواده و خاندانتان را برای نابودی دشمنانتان و تبدیل شدن به پادشاه ایرلند"</seg>
       </tuv>
     </tu>
     <tu>
@@ -18949,6 +18949,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T064838Z" creationid="mohammad" creationdate="20200930T064838Z">
         <seg>GAMESETUP_TUTORIAL_PROMPT_ABOUT_RULER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GAMESETUP_TUTORIAL_PROMPT_ASK:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T065020Z" creationid="mohammad" creationdate="20200930T065020Z">
+        <seg>GAMESETUP_TUTORIAL_PROMPT_ASK:0</seg>
       </tuv>
     </tu>
     <tu>
