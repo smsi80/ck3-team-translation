@@ -24757,6 +24757,16 @@ building_royal_forest_03:0</seg>
     <tu>
       <tuv lang="en">
         <seg>l_english:
+ LIFESTYLE_WINDOW_DESCRIPTION:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T065357Z" creationid="mohammad" creationdate="20200930T065357Z">
+        <seg>l_english:
+ LIFESTYLE_WINDOW_DESCRIPTION:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
  LOADING_TIP_0:1</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200924T131837Z" creationid="Alireza" creationdate="20200924T131837Z">
