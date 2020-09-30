@@ -2734,6 +2734,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$WHEN$ ago"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T060248Z" creationid="mohammad" creationdate="20200930T060248Z">
+        <seg>"$WHEN$ قبل"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$WHO$ has a hook on you."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000725Z" creationid="mohammad" creationdate="20200926T000725Z">
@@ -7514,6 +7522,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Host Game"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T060407Z" creationid="mohammad" creationdate="20200930T060407Z">
+        <seg>"میزبانی بازی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Host left"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T013020Z" creationid="mohammad" creationdate="20200926T013020Z">
@@ -8018,6 +8034,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Join via ID"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T060632Z" creationid="mohammad" creationdate="20200930T060632Z">
+        <seg>"پیوستن از طریق ID"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Joining server: $PROGRESS|0%$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T012325Z" creationid="mohammad" creationdate="20200926T012325Z">
@@ -8478,6 +8502,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205331Z" creationid="mohammad" creationdate="20200925T205331Z">
         <seg>"بارگزاری بازی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Load multiplayer game"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T060426Z" creationid="mohammad" creationdate="20200930T060426Z">
+        <seg>"بارگذاری بازی چند نفره"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Load"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T060346Z" creationid="mohammad" creationdate="20200930T060346Z">
+        <seg>"بارگذاری"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9230,6 +9270,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T080556Z" creationid="mohammad" creationdate="20200925T080556Z">
         <seg>"رهبر جناح جدید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"New Game"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T060336Z" creationid="mohammad" creationdate="20200930T060336Z">
+        <seg>"بازی جدید"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10617,6 +10665,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T193858Z" creationid="mohammad" creationdate="20200927T193858Z">
         <seg>"کارگاه چوب بری"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Scan for games"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T060415Z" creationid="mohammad" creationdate="20200930T060415Z">
+        <seg>"Scan for games"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12315,6 +12371,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184932Z" creationid="mohammad" creationdate="20200921T184932Z">
         <seg>"فرمانروایی یعنی همه جنبه های یک قلمرو را متحد و هماهنگ کردن."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Today"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T060333Z" creationid="mohammad" creationdate="20200930T060333Z">
+        <seg>"امروز"</seg>
       </tuv>
     </tu>
     <tu>
@@ -17081,6 +17145,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CONTINUE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T060347Z" creationid="mohammad" creationdate="20200930T060347Z">
+        <seg>CONTINUE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CONTRACTED_VALUE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000615Z" creationid="mohammad" creationdate="20200926T000615Z">
@@ -18417,6 +18489,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HOST_GAME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T060349Z" creationid="mohammad" creationdate="20200930T060349Z">
+        <seg>HOST_GAME:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HOST_LEFT:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T013003Z" creationid="mohammad" creationdate="20200926T013003Z">
@@ -18541,6 +18621,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T085940Z" creationid="mohammad" creationdate="20200924T085940Z">
         <seg>I_HAVE_THIS_LIFESTYLE_FOCUS_DESCRIPTION:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JOIN:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T060427Z" creationid="mohammad" creationdate="20200930T060427Z">
+        <seg>JOIN:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -18677,6 +18765,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T074918Z" creationid="mohammad" creationdate="20200924T074918Z">
         <seg>LIFESTYLE_FOCUS_VIEW_TITLE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOAD:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T060336Z" creationid="mohammad" creationdate="20200930T060336Z">
+        <seg>LOAD:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -19633,6 +19729,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LOAD_AND_HOST_GAME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T060416Z" creationid="mohammad" creationdate="20200930T060416Z">
+        <seg>LOAD_AND_HOST_GAME:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LOAD_CLOUDSAVE_TOOLTIP:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T205800Z" creationid="mohammad" creationdate="20200925T205800Z">
@@ -20009,6 +20113,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>NEW_GAME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T060334Z" creationid="mohammad" creationdate="20200930T060334Z">
+        <seg>NEW_GAME:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>NIECE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T012927Z" creationid="mohammad" creationdate="20200928T012927Z">
@@ -20253,6 +20365,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000259Z" creationid="mohammad" creationdate="20200926T000259Z">
         <seg>PIETY_WITH_BALANCE_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PLAYED_TODAY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T060331Z" creationid="mohammad" creationdate="20200930T060331Z">
+        <seg>PLAYED_TODAY:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -20861,6 +20981,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T001138Z" creationid="mohammad" creationdate="20200926T001138Z">
         <seg>SAVE_IN_PROGRESS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCAN_FOR_GAME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T060408Z" creationid="mohammad" creationdate="20200930T060408Z">
+        <seg>SCAN_FOR_GAME:0</seg>
       </tuv>
     </tu>
     <tu>
