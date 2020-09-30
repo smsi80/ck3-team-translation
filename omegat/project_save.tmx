@@ -6906,6 +6906,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Game is paused"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061647Z" creationid="mohammad" creationdate="20200930T061647Z">
+        <seg>"بازی موقتاً متوقف شده است"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Game is saved automatically. Switching Character or playing Multiplayer is not allowed."</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T113627Z" creationid="mahan" creationdate="20200924T112809Z">
@@ -7966,6 +7974,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T012545Z" creationid="mohammad" creationdate="20200927T012545Z">
         <seg>"رابطه نامعتبر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Invite more players by sending them the Server ID:\n[GetServerInfo.GetServerID]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061731Z" creationid="mohammad" creationdate="20200930T061731Z">
+        <seg>"با ارسال ID سرور ، از بازیکنان بیشتری دعوت کنید:\n[GetServerInfo.GetServerID]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -14151,6 +14167,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[GetPlayersCount] Players"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061654Z" creationid="mohammad" creationdate="20200930T061654Z">
+        <seg>"[GetPlayersCount] بازیکنان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[GovernmentType.GetRuleInfo][GovernmentType.GetFlagInfo][GovernmentType.GetDescription]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T015846Z" creationid="mohammad" creationdate="20200928T015846Z">
@@ -18225,6 +18249,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FRONTEND_INVITE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061654Z" creationid="mohammad" creationdate="20200930T061654Z">
+        <seg>FRONTEND_INVITE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FRONTEND_IS_PAUSED:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061641Z" creationid="mohammad" creationdate="20200930T061641Z">
+        <seg>FRONTEND_IS_PAUSED:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FRONTEND_NOT_PAUSED:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T061517Z" creationid="mohammad" creationdate="20200930T061517Z">
@@ -18237,6 +18277,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T061117Z" creationid="mohammad" creationdate="20200930T061117Z">
         <seg>FRONTEND_NO_CONTINUE_TT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FRONTEND_PLAYERS_COUNT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061648Z" creationid="mohammad" creationdate="20200930T061648Z">
+        <seg>FRONTEND_PLAYERS_COUNT:0</seg>
       </tuv>
     </tu>
     <tu>
