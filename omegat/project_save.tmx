@@ -25511,6 +25511,16 @@ building_royal_forest_03:0</seg>
     <tu>
       <tuv lang="en">
         <seg>l_english:
+ CHARACTER_IN_ACTIVITY_LOCATION:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T073542Z" creationid="Smsi" creationdate="20200930T073542Z">
+        <seg>l_english:
+ CHARACTER_IN_ACTIVITY_LOCATION:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
  COMBAT_NAME:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T152136Z" creationid="mohammad" creationdate="20200926T152136Z">
