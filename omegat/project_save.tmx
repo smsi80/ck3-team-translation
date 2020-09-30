@@ -2288,8 +2288,8 @@
       <tuv lang="en">
         <seg>"#weak You can only change Focus every $COOLDOWN$#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200930T063813Z" creationid="mohammad" creationdate="20200930T063756Z">
-        <seg>"#weak شما تمرکز را فقط میتوانید هر  $COOLDOWN$ سال عوض کنید#!"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070438Z" creationid="mohammad" creationdate="20200930T063756Z">
+        <seg>"#weak شما تمرکز را فقط میتوانید هر  $COOLDOWN$ سال یکبار عوض کنید#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5122,16 +5122,16 @@
       <tuv lang="en">
         <seg>"Choose Education Focus"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200930T063514Z" creationid="mohammad" creationdate="20200924T075341Z">
-        <seg>"تمرکز آموزشی را انتخاب کنید"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070346Z" creationid="mohammad" creationdate="20200924T075341Z">
+        <seg>"انتخاب تمرکز آموزشی"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"Choose Focus"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T074946Z" creationid="mohammad" creationdate="20200924T074946Z">
-        <seg>"تمرکز را انتخاب کنید"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070409Z" creationid="mohammad" creationdate="20200924T074946Z">
+        <seg>"انتخاب تمرکز"</seg>
       </tuv>
     </tu>
     <tu>
