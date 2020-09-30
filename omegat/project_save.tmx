@@ -1728,6 +1728,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T Reset Perks#!\n[CharacterLifestyleWindow.CanRefundPerksDesc]\n[CharacterLifestyleWindow.RefundPerksEffectsDesc]\n#weak This can only be done once in a lifetime!#!\n#I Click to reset#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T072324Z" creationid="Smsi" creationdate="20200930T072324Z">
+        <seg>"#T Reset Perks#!\n[CharacterLifestyleWindow.CanRefundPerksDesc]\n[CharacterLifestyleWindow.RefundPerksEffectsDesc]\n#weak این فقد یک بار در طول زندگی قابل انجام است!#!\n#I Click to reset#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T Reset Reactive Advice#!\nPreviously seen Reactive Advice will show up once more."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T173020Z" creationid="mohammad" creationdate="20200925T173020Z">
@@ -2530,6 +2538,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T074615Z" creationid="mohammad" creationdate="20200925T074615Z">
         <seg>"$EFFECT$\n\n$DESCRIPTION$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$EFFECTS$\n#weak This can only be done once in a lifetime!#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T072222Z" creationid="Smsi" creationdate="20200930T072222Z">
+        <seg>"$EFFECTS$\n#weak این فقد یک بار در طول زنگی فابل انجام است!#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3702,6 +3718,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"@warning_icon!#X It is too soon to change Focus again. Wait until [DATE.GetString]#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T072601Z" creationid="Smsi" creationdate="20200930T072601Z">
+        <seg>"@warning_icon!#X خیلی زود است برای تغییر تمرکز از دوباره. صبر کنید تا [DATE.GetString]#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"@warning_icon!#X May not inherit titles#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T015105Z" creationid="mohammad" creationdate="20200928T015105Z">
@@ -3780,6 +3804,14 @@
       </tuv>
       <tuv lang="fa" changeid="Smsi" changedate="20200930T071615Z" creationid="Smsi" creationdate="20200930T071615Z">
         <seg>"@warning_icon!#X شما در حال حاظر دارانیستید [PERK.GetName( GetPlayer )] #underline [perk]#!#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@warning_icon!#X You have not selected a [lifestyle|E]#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T072427Z" creationid="Smsi" creationdate="20200930T072427Z">
+        <seg>"@warning_icon!#X شما هیچ  [lifestyle|E]را انتخواب نکرده اید#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9810,6 +9842,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"No Focus"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T072432Z" creationid="Smsi" creationdate="20200930T072432Z">
+        <seg>"بدون تمرکز"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"No Save Game found"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T061122Z" creationid="mohammad" creationdate="20200930T061122Z">
@@ -10919,8 +10959,8 @@
       <tuv lang="en">
         <seg>"Reset Perks"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200930T065822Z" creationid="BIG GAMER" creationdate="20200926T174228Z">
-        <seg>ارایش مجدد مزایا</seg>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T072151Z" creationid="BIG GAMER" creationdate="20200926T174228Z">
+        <seg>"ارایش مجدد مزایا"</seg>
       </tuv>
     </tu>
     <tu>
@@ -14755,6 +14795,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T023737Z" creationid="mohammad" creationdate="20200922T023737Z">
         <seg>"[GetFocus('stewardship_wealth_focus').GetName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[GetLifestyleTooltipForCharacter( GetPlayer )]\n[GetLifestyleTooltipWarnings( GetPlayer )]\n\n#I Click to view [lifestyle|E]#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T072339Z" creationid="Smsi" creationdate="20200930T072339Z">
+        <seg>"[GetLifestyleTooltipForCharacter( GetPlayer )]\n[GetLifestyleTooltipWarnings( GetPlayer )]\n\n#I برای دیدن کلیک کنید [lifestyle|E]#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[GetLifestyleTooltipForCharacter( GetPlayer )]\n\n#I Click to view [education_focus|E]#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T072351Z" creationid="Smsi" creationdate="20200930T072351Z">
+        <seg>"[GetLifestyleTooltipForCharacter( GetPlayer )]\n\n#I برای دیدن کلیک کنید [education_focus|E]#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -19017,6 +19073,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FOCUS_COOLDOWN_DATE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T072432Z" creationid="Smsi" creationdate="20200930T072432Z">
+        <seg>FOCUS_COOLDOWN_DATE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FOCUS_MAX_CHANGES:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030421Z" creationid="mohammad" creationdate="20200922T030421Z">
@@ -21625,6 +21689,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>NO_FOCUS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T072428Z" creationid="Smsi" creationdate="20200930T072428Z">
+        <seg>NO_FOCUS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>NO_STRESS_EFFECT:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013736Z" creationid="mohammad" creationdate="20200927T013736Z">
@@ -21921,6 +21993,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PLAYER_EDUCATION_FOCUS_TOOLTIP:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T072340Z" creationid="Smsi" creationdate="20200930T072340Z">
+        <seg>PLAYER_EDUCATION_FOCUS_TOOLTIP:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PLAYER_HEIR_RELATION:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T012908Z" creationid="mohammad" creationdate="20200928T012908Z">
@@ -21949,6 +22029,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T012814Z" creationid="mohammad" creationdate="20200926T012814Z">
         <seg>PLAYER_LEFT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PLAYER_LIFESTYLE_TOOLTIP:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T072327Z" creationid="Smsi" creationdate="20200930T072327Z">
+        <seg>PLAYER_LIFESTYLE_TOOLTIP:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PLAYER_LIFESTYLE_TOOLTIP_NO_FOCUS_WARNING:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T072352Z" creationid="Smsi" creationdate="20200930T072352Z">
+        <seg>PLAYER_LIFESTYLE_TOOLTIP_NO_FOCUS_WARNING:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -22165,6 +22261,38 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T065640Z" creationid="mohammad" creationdate="20200930T065640Z">
         <seg>REFUND_PERKS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>REFUND_PERKS_CONFIRM_ACCEPT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T072222Z" creationid="Smsi" creationdate="20200930T072222Z">
+        <seg>REFUND_PERKS_CONFIRM_ACCEPT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>REFUND_PERKS_CONFIRM_DESC:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T072151Z" creationid="Smsi" creationdate="20200930T072151Z">
+        <seg>REFUND_PERKS_CONFIRM_DESC:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>REFUND_PERKS_CONFIRM_TITLE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T072144Z" creationid="Smsi" creationdate="20200930T072144Z">
+        <seg>REFUND_PERKS_CONFIRM_TITLE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>REFUND_PERKS_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T072231Z" creationid="Smsi" creationdate="20200930T072231Z">
+        <seg>REFUND_PERKS_TOOLTIP:0</seg>
       </tuv>
     </tu>
     <tu>
