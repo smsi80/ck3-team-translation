@@ -1802,6 +1802,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T [Lifestyle.GetNameNoTooltip] Perks Available: [Character.GetPerkPoints( Lifestyle.Self )|+]#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T073028Z" creationid="Smsi" creationdate="20200930T073028Z">
+        <seg>"#T [Lifestyle.GetNameNoTooltip] مزایا موجود است: [Character.GetPerkPoints( Lifestyle.Self )|+]#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T [Lifestyle.GetNameNoTooltip]#!\n #I Click to open.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T070647Z" creationid="mohammad" creationdate="20200930T070647Z">
@@ -5914,6 +5922,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Diplomacy lifestyle perk points: $NUM|V0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T073111Z" creationid="Smsi" creationdate="20200930T073111Z">
+        <seg>"مزایای سبک زندگی دیپلماسی: $NUM|V0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Diplomacy"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183006Z" creationid="mohammad" creationdate="20200921T183006Z">
@@ -8886,6 +8902,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T090748Z" creationid="mohammad" creationdate="20200926T090748Z">
         <seg>"ارباب"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Lifestyle [focus|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T073013Z" creationid="Smsi" creationdate="20200930T073013Z">
+        <seg>"سبک زندگی [focus|E]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -14111,10 +14135,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"You have already reset your Perks once!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T072957Z" creationid="Smsi" creationdate="20200930T072957Z">
+        <seg>"شما قبلاً مزایای خود را یک بار تنظیم کرده اید!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"You have gotten [divorced|E] from [LEFT_CHARACTER.GetShortUIName] – [LEFT_CHARACTER.GetSheHe] is no longer your [spouse|E]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T154925Z" creationid="mohammad" creationdate="20200925T154925Z">
         <seg>"شما گرفتید [divorced|E] از [LEFT_CHARACTER.GetShortUIName] – [LEFT_CHARACTER.GetSheHe] دیگر نامزد شما نیست [spouse|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"You have no Perks to reset!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T073046Z" creationid="Smsi" creationdate="20200930T073046Z">
+        <seg>"شما هیچ مزایایی برای تنظیم مجدد ندارید!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -15075,6 +15115,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T065839Z" creationid="mohammad" creationdate="20200930T065839Z">
         <seg>"[Lifestyle.GetDescription]\n\n#weak [Lifestyle.GetHighlightDescription]#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[Lifestyle.GetNameNoTooltip] [experience|E]: [Character.GetLifestyleXp( Lifestyle.Self, '(bool)yes' )|0]/[Lifestyle.GetXpPerLevel]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T073003Z" creationid="Smsi" creationdate="20200930T073003Z">
+        <seg>"[Lifestyle.GetNameNoTooltip] [experience|E]: [Character.GetLifestyleXp( Lifestyle.Self, '(bool)yes' )|0]/[Lifestyle.GetXpPerLevel]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[Lifestyle.GetNameNoTooltip] [lifestyle|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T073007Z" creationid="Smsi" creationdate="20200930T073007Z">
+        <seg>"[Lifestyle.GetNameNoTooltip] [lifestyle|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[Lifestyle.GetNameNoTooltip] [perks|E] unlocked: [Character.GetPerkPointsUsed( Lifestyle.Self )]/[Lifestyle.GetPerksInLifestyle]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T073005Z" creationid="Smsi" creationdate="20200930T073005Z">
+        <seg>"[Lifestyle.GetNameNoTooltip] [perks|E] unlocked: [Character.GetPerkPointsUsed( Lifestyle.Self )]/[Lifestyle.GetPerksInLifestyle]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -18633,6 +18697,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DIPLOMACY_LIFESTYLE_PERK_POINTS_TRIGGER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T073046Z" creationid="Smsi" creationdate="20200930T073046Z">
+        <seg>DIPLOMACY_LIFESTYLE_PERK_POINTS_TRIGGER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DIPLOMATIC_ITEM_TOOLTIP:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T014655Z" creationid="mohammad" creationdate="20200928T014655Z">
@@ -19005,6 +19077,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000837Z" creationid="mohammad" creationdate="20200926T000837Z">
         <seg>EXPENSES:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>EXPERIENCE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T073002Z" creationid="Smsi" creationdate="20200930T073002Z">
+        <seg>EXPERIENCE:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -20185,6 +20265,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LIFESTYLE_FOCUS_HEADER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T073007Z" creationid="Smsi" creationdate="20200930T073007Z">
+        <seg>LIFESTYLE_FOCUS_HEADER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LIFESTYLE_FOCUS_VIEW_TITLE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T074918Z" creationid="mohammad" creationdate="20200924T074918Z">
@@ -20205,6 +20293,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T070721Z" creationid="mohammad" creationdate="20200930T070721Z">
         <seg>LIFESTYLE_POINTS_ALREADY_USED_TEXT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LIFESTYLE_POINTS_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T073014Z" creationid="Smsi" creationdate="20200930T073014Z">
+        <seg>LIFESTYLE_POINTS_TOOLTIP:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -20237,6 +20333,14 @@
       </tuv>
       <tuv lang="fa" changeid="Smsi" changedate="20200930T072121Z" creationid="Smsi" creationdate="20200930T072121Z">
         <seg>LIFESTYLE_SELECT_TOOLTIP:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LIFESTYLE_WINDOW_TITLE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T073006Z" creationid="Smsi" creationdate="20200930T073006Z">
+        <seg>LIFESTYLE_WINDOW_TITLE:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -21901,6 +22005,14 @@
       </tuv>
       <tuv lang="fa" changeid="Smsi" changedate="20200930T071538Z" creationid="Smsi" creationdate="20200930T071538Z">
         <seg>PERK_MISSING_PARENT:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PERK_POINTS_ASSIGNED_TRIGGER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T073029Z" creationid="Smsi" creationdate="20200930T073029Z">
+        <seg>PERK_POINTS_ASSIGNED_TRIGGER:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -23933,6 +24045,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>UNLOCKED_PERKS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T073003Z" creationid="Smsi" creationdate="20200930T073003Z">
+        <seg>UNLOCKED_PERKS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>UNSAVED_PROGRESS_WILL_BE_LOST:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011702Z" creationid="mohammad" creationdate="20200926T011702Z">
@@ -24145,6 +24265,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T224831Z" creationid="mohammad" creationdate="20200924T224831Z">
         <seg>adulterer_intolerant:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>already_reset_perks_tt:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T072927Z" creationid="Smsi" creationdate="20200930T072927Z">
+        <seg>already_reset_perks_tt:1</seg>
       </tuv>
     </tu>
     <tu>
