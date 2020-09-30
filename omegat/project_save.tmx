@@ -2006,6 +2006,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#X @warning_icon!A child of less than $AGE$ cannot have an [education_focus|E]#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T090846Z" creationid="mohammad" creationdate="20200930T090846Z">
+        <seg>"#X @warning_icon!کودکان کوچکتر از $AGE$ نمی توانند یک [education_focus|E] داشته باشند.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#X Invalid savegame. Might cause crashes.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T210932Z" creationid="mohammad" creationdate="20200925T210932Z">
@@ -16639,6 +16647,16 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030302Z" creationid="mohammad" creationdate="20200922T030302Z">
         <seg>### EDUCATION
  FOCUS_NO_AGE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>### EDUCATION
+ FOCUS_NO_AGE:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T090732Z" creationid="mohammad" creationdate="20200930T090732Z">
+        <seg>### EDUCATION
+ FOCUS_NO_AGE:1</seg>
       </tuv>
     </tu>
     <tu>
