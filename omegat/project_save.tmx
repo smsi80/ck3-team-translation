@@ -5136,6 +5136,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Choose a Character in the Bookmark before starting the game. Or, choose freely by clicking 'Choose any Character'."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T064625Z" creationid="mohammad" creationdate="20200930T064625Z">
+        <seg>"قبل از شروع بازی یک کاراکتر را در بوکمارک انتخاب کنید. یا با کلیک بر روی" انتخاب هر کاراکتر "آزادانه آن را انتخاب کنید."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Choose a Character on the Map."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T064457Z" creationid="mohammad" creationdate="20200930T064457Z">
+        <seg>"یک شخصیت را روی نقشه انتخاب کنید."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Choosing this [education_focus|E] will also have the following effects:"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T031405Z" creationid="mohammad" creationdate="20200922T031405Z">
@@ -10186,6 +10202,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Play as any Ruler in #light_background;bold [GameSetup.GetSelectedBookmark.GetDate.GetYear]#!..."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T064542Z" creationid="mohammad" creationdate="20200930T064542Z">
+        <seg>"بازی به عنوان هر فرمانروا در:  #light_background;bold [GameSetup.GetSelectedBookmark.GetDate.GetYear]#!..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Played joined"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T012954Z" creationid="mohammad" creationdate="20200926T012954Z">
@@ -11397,6 +11421,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Single Player"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T064647Z" creationid="mohammad" creationdate="20200930T064647Z">
+        <seg>"بخش تک نفره"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Single player"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T061013Z" creationid="mohammad" creationdate="20200930T061013Z">
@@ -12457,6 +12489,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T122242Z" creationid="mohammad" creationdate="20200926T122242Z">
         <seg>"نسب خونی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"This Bookmark is disabled"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T064555Z" creationid="mohammad" creationdate="20200930T064555Z">
+        <seg>"این بوکمارک غیرفعال است"</seg>
       </tuv>
     </tu>
     <tu>
@@ -16833,6 +16873,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>BOOKMARK_DISABLED:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T064543Z" creationid="mohammad" creationdate="20200930T064543Z">
+        <seg>BOOKMARK_DISABLED:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>BOOKMARK_NOT_PICKED_CHARACTER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T064555Z" creationid="mohammad" creationdate="20200930T064555Z">
+        <seg>BOOKMARK_NOT_PICKED_CHARACTER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>BREAKDOWN_ARMY_MAINTENANCE:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T235523Z" creationid="mohammad" creationdate="20200925T235523Z">
@@ -21153,6 +21209,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PICK_ANY_CHARACTER:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T064458Z" creationid="mohammad" creationdate="20200930T064458Z">
+        <seg>PICK_ANY_CHARACTER:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PIETY:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000217Z" creationid="mohammad" creationdate="20200926T000217Z">
@@ -22605,6 +22669,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011410Z" creationid="mohammad" creationdate="20200926T011410Z">
         <seg>SHOW_LEGACY:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SINGLEPLAYER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T064639Z" creationid="mohammad" creationdate="20200930T064639Z">
+        <seg>SINGLEPLAYER:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -24560,6 +24632,16 @@ building_royal_forest_03:0</seg>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T010629Z" creationid="mohammad" creationdate="20200930T010629Z">
         <seg>l_english:
  PLAYED_PAST:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
+ SELECT_CHARACTER_ON_MAP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T064426Z" creationid="mohammad" creationdate="20200930T064426Z">
+        <seg>l_english:
+ SELECT_CHARACTER_ON_MAP:0</seg>
       </tuv>
     </tu>
     <tu>
