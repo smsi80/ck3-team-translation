@@ -1812,16 +1812,24 @@
       <tuv lang="en">
         <seg>"#TUT_KW Current Lifestyle Focus#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T085938Z" creationid="mohammad" creationdate="20200924T085938Z">
-        <seg>"#TUT_KW Current Lifestyle Focus#!"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T063944Z" creationid="mohammad" creationdate="20200924T085938Z">
+        <seg>"#TUT_KW تمرکز سبک زندگی فعلی#!"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"#TUT_KW My current Lifestyle Focus#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T085946Z" creationid="mohammad" creationdate="20200924T085946Z">
-        <seg>"#TUT_KW My current Lifestyle Focus#!"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T064006Z" creationid="mohammad" creationdate="20200924T085946Z">
+        <seg>"#TUT_KW My تمرکز سبک زنگی فعلی#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#TUT_KW [CHARACTER.GetShortUINameNoTooltip] already has this education focus.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T064034Z" creationid="mohammad" creationdate="20200930T064034Z">
+        <seg>"#TUT_KW [CHARACTER.GetShortUINameNoTooltip] قبلا این تمرکز اموزشی را داشته است.#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2230,6 +2238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#weak Can only change Education Focus once!#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T063841Z" creationid="mohammad" creationdate="20200930T063810Z">
+        <seg>"#weak فقط میتوانید یک بار تمرکز آموزش را تغیر دهید!#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#weak No effect#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013742Z" creationid="mohammad" creationdate="20200927T013742Z">
@@ -2238,10 +2254,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#weak You can only change Education Focus once!#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T063925Z" creationid="mohammad" creationdate="20200930T063849Z">
+        <seg>"#weak شما فقط میتوانید یک بار تمرکز آموزش را تغیر دهید!#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#weak You can only change Focus every $COOLDOWN$#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200930T063756Z" creationid="mohammad" creationdate="20200930T063756Z">
-        <seg>"#weak شما تمرکز را فقد میتوانید هر  $COOLDOWN$ سال عوض کنید#!"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T063813Z" creationid="mohammad" creationdate="20200930T063756Z">
+        <seg>"#weak شما تمرکز را فقط میتوانید هر  $COOLDOWN$ سال عوض کنید#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -17065,6 +17089,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CHARACTER_HAS_THIS_EDUCATION_FOCUS_DESCRIPTION:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T064008Z" creationid="mohammad" creationdate="20200930T064008Z">
+        <seg>CHARACTER_HAS_THIS_EDUCATION_FOCUS_DESCRIPTION:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CHARACTER_HAS_THIS_LIFESTYLE_FOCUS_DESCRIPTION:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T085940Z" creationid="mohammad" creationdate="20200924T085940Z">
@@ -19293,6 +19325,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T063603Z" creationid="mohammad" creationdate="20200930T063603Z">
         <seg>I_ALREADY_HAVE_THIS_FOCUS:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I_CAN_ONLY_CHANGE_FOCUS_ONCE:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T063842Z" creationid="mohammad" creationdate="20200930T063842Z">
+        <seg>I_CAN_ONLY_CHANGE_FOCUS_ONCE:1</seg>
       </tuv>
     </tu>
     <tu>
