@@ -1624,6 +1624,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T Continue From Save Game\n#!"[SaveGameItem.GetName]"\n[SaveGameItem.GetPlayerName|V]\n[SaveGameItem.GetTitleName|VU]\n[SaveGameItem.GetDate.GetString|V]\n[Select_CString( SaveGameItem.IsCloudSave, 'Cloud Save', '' )]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061148Z" creationid="mohammad" creationdate="20200930T061148Z">
+        <seg>"#T ادامه از ذخیره بازی\n#!"[SaveGameItem.GetName]"\n[SaveGameItem.GetPlayerName|V]\n[SaveGameItem.GetTitleName|VU]\n[SaveGameItem.GetDate.GetString|V]\n[Select_CString( SaveGameItem.IsCloudSave, 'Cloud Save', '' )]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T County Control: $VALUE|1$/100% #!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T015949Z" creationid="mohammad" creationdate="20200928T015901Z">
@@ -3784,6 +3792,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Account"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061116Z" creationid="mohammad" creationdate="20200930T061116Z">
+        <seg>"اکانت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Achievements"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T111912Z" creationid="mahan" creationdate="20200924T111912Z">
@@ -5292,6 +5308,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T015832Z" creationid="mohammad" creationdate="20200928T015832Z">
         <seg>"ایجاد کردن"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Credits"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061105Z" creationid="mohammad" creationdate="20200930T061105Z">
+        <seg>"سازنده ها"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9146,6 +9170,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Multiplayer"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061055Z" creationid="mohammad" creationdate="20200930T061055Z">
+        <seg>"بخش چند نفره"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Multiplayer: Murder Schemes"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T104933Z" creationid="mahan" creationdate="20200925T104933Z">
@@ -9366,6 +9398,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000013Z" creationid="mohammad" creationdate="20200926T000013Z">
         <seg>"بدون هزینه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"No Save Game found"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061122Z" creationid="mohammad" creationdate="20200930T061122Z">
+        <seg>"هیچ بازی ذخیره ای یافت نشد"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9646,6 +9686,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T235159Z" creationid="mohammad" creationdate="20200925T235159Z">
         <seg>"نظز نسبت به شما"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Options"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061100Z" creationid="mohammad" creationdate="20200930T061100Z">
+        <seg>"تنظیمات"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10094,6 +10142,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013851Z" creationid="mohammad" creationdate="20200927T013851Z">
         <seg>"قدرت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Quit"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061112Z" creationid="mohammad" creationdate="20200930T061107Z">
+        <seg>"خروج"</seg>
       </tuv>
     </tu>
     <tu>
@@ -15945,6 +16001,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ACCOUNT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061109Z" creationid="mohammad" creationdate="20200930T061109Z">
+        <seg>ACCOUNT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ACHIEVEMENT_GROUP_easy_achievements:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T140834Z" creationid="mohammad" creationdate="20200925T140834Z">
@@ -17273,6 +17337,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CREDITS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061101Z" creationid="mohammad" creationdate="20200930T061101Z">
+        <seg>CREDITS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CURRENT_BALANCE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T235218Z" creationid="mohammad" creationdate="20200925T235218Z">
@@ -18061,6 +18133,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T204525Z" creationid="mohammad" creationdate="20200925T204525Z">
         <seg>FRENCH_SUPPORTED:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FRONTEND_CONTINUE_TT:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061123Z" creationid="mohammad" creationdate="20200930T061123Z">
+        <seg>FRONTEND_CONTINUE_TT:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FRONTEND_NO_CONTINUE_TT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061117Z" creationid="mohammad" creationdate="20200930T061117Z">
+        <seg>FRONTEND_NO_CONTINUE_TT:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -19809,6 +19897,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LOAD_SAVE_ITEM_DATE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061256Z" creationid="mohammad" creationdate="20200930T061256Z">
+        <seg>LOAD_SAVE_ITEM_DATE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LOAD_SHOW_INVALID_SAVEGAMES:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T210959Z" creationid="mohammad" creationdate="20200925T210959Z">
@@ -20065,6 +20161,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MULTI_PLAYER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061014Z" creationid="mohammad" creationdate="20200930T061014Z">
+        <seg>MULTI_PLAYER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MY_REALM_LABEL:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T015655Z" creationid="mohammad" creationdate="20200928T015655Z">
@@ -20269,6 +20373,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T223446Z" creationid="mohammad" creationdate="20200925T223446Z">
         <seg>OPINION_MTTH:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OPTIONS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061055Z" creationid="mohammad" creationdate="20200930T061055Z">
+        <seg>OPTIONS:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -20565,6 +20677,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T013317Z" creationid="mohammad" creationdate="20200928T013317Z">
         <seg>PRISONER_RELATION:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>QUIT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061106Z" creationid="mohammad" creationdate="20200930T061106Z">
+        <seg>QUIT:0</seg>
       </tuv>
     </tu>
     <tu>
