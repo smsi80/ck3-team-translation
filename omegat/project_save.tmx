@@ -3498,6 +3498,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"@warning_icon! #X No bookmark or save game selected#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T063116Z" creationid="mohammad" creationdate="20200930T063116Z">
+        <seg>"@warning_icon! #X No bookmark or save game selected#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"@warning_icon! #X You need to set a Username in order to play Multiplayer. You can do that in the Account Window.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T062335Z" creationid="mohammad" creationdate="20200930T062335Z">
@@ -24370,6 +24378,16 @@ building_royal_forest_03:0</seg>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T074901Z" creationid="mohammad" creationdate="20200924T074901Z">
         <seg>l_english:
  EDUCATION_FOCUS_VIEW_TITLE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
+ FRONTEND_MP_GAME_SETUP_SELECT_BOOKMARK:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062957Z" creationid="mohammad" creationdate="20200930T062957Z">
+        <seg>l_english:
+ FRONTEND_MP_GAME_SETUP_SELECT_BOOKMARK:0</seg>
       </tuv>
     </tu>
     <tu>
