@@ -5924,8 +5924,8 @@
       <tuv lang="en">
         <seg>"Diplomacy lifestyle perk points: $NUM|V0$"</seg>
       </tuv>
-      <tuv lang="fa" changeid="Smsi" changedate="20200930T073111Z" creationid="Smsi" creationdate="20200930T073111Z">
-        <seg>"مزایای سبک زندگی دیپلماسی: $NUM|V0$"</seg>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T073139Z" creationid="Smsi" creationdate="20200930T073111Z">
+        <seg>"امتیازات مزایای سبک زندگی دیپلماسی: $NUM|V0$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8306,6 +8306,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Intrigue lifestyle perk points: $NUM|V0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T073416Z" creationid="Smsi" creationdate="20200930T073416Z">
+        <seg>"امتیازات مزایای سبک زندگی دسیسه چینی: $NUM|V0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Intrigue"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T212805Z" creationid="mohammad" creationdate="20200921T185220Z">
@@ -9238,6 +9246,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030515Z" creationid="mohammad" creationdate="20200922T030509Z">
         <seg>"آموزش رزمی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Martial lifestyle perk points: $NUM|V0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T073318Z" creationid="Smsi" creationdate="20200930T073126Z">
+        <seg>"امتیازات مزایای سبک زندگی نظامی: $NUM|V0$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11961,6 +11977,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030604Z" creationid="mohammad" creationdate="20200922T030510Z">
         <seg>"آموزش مدیریت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Stewardship lifestyle perk points: $NUM|V0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T073343Z" creationid="Smsi" creationdate="20200930T073327Z">
+        <seg>"امتیازات مزایای سبک زندگی مدیریت: $NUM|V0$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -20065,6 +20089,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>INTRIGUE_LIFESTYLE_PERK_POINTS_TRIGGER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T073344Z" creationid="Smsi" creationdate="20200930T073344Z">
+        <seg>INTRIGUE_LIFESTYLE_PERK_POINTS_TRIGGER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>INTRIGUE_VIEW:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234448Z" creationid="mohammad" creationdate="20200925T234448Z">
@@ -21533,6 +21565,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T060201Z" creationid="mohammad" creationdate="20200930T060201Z">
         <seg>MAP_SCREENSHOT_TAKEN:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MARTIAL_LIFESTYLE_PERK_POINTS_TRIGGER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T073112Z" creationid="Smsi" creationdate="20200930T073112Z">
+        <seg>MARTIAL_LIFESTYLE_PERK_POINTS_TRIGGER:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -23757,6 +23797,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T211457Z" creationid="mohammad" creationdate="20200925T211457Z">
         <seg>START:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>STEWARDSHIP_LIFESTYLE_PERK_POINTS_TRIGGER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T073319Z" creationid="Smsi" creationdate="20200930T073319Z">
+        <seg>STEWARDSHIP_LIFESTYLE_PERK_POINTS_TRIGGER:0</seg>
       </tuv>
     </tu>
     <tu>
