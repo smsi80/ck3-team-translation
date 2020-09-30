@@ -11021,6 +11021,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Single player"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T061013Z" creationid="mohammad" creationdate="20200930T061013Z">
+        <seg>"بخش تک نفره"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Sister"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T012130Z" creationid="mohammad" creationdate="20200928T012130Z">
@@ -21709,6 +21717,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011410Z" creationid="mohammad" creationdate="20200926T011410Z">
         <seg>SHOW_LEGACY:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SINGLE_PLAYER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T060709Z" creationid="mohammad" creationdate="20200930T060709Z">
+        <seg>SINGLE_PLAYER:0</seg>
       </tuv>
     </tu>
     <tu>
