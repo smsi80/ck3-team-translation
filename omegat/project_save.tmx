@@ -3402,6 +3402,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"@warning_icon! #X Different version#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062845Z" creationid="mohammad" creationdate="20200930T062845Z">
+        <seg>"@warning_icon! #X نسخه متفاوت#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"@warning_icon! #X Game is NOT paused #!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T061639Z" creationid="mohammad" creationdate="20200930T061639Z">
@@ -7690,6 +7698,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"House: [SaveGameItem.GetHouseName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062831Z" creationid="mohammad" creationdate="20200930T062831Z">
+        <seg>"خانه: [SaveGameItem.GetHouseName]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Hover over the highlighted phrase inside the $game_concept_highlighted_text$ tooltip"</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T172804Z" creationid="Alireza" creationdate="20200925T172804Z">
@@ -9906,6 +9922,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Overwrite save"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062812Z" creationid="mohammad" creationdate="20200930T062812Z">
+        <seg>"بازنویسی ذخیره"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Overwrite"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062800Z" creationid="mohammad" creationdate="20200930T062800Z">
+        <seg>"باز نیوسی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Owner"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T015819Z" creationid="mohammad" creationdate="20200928T015819Z">
@@ -10507,6 +10539,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Recommended Start"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062950Z" creationid="mohammad" creationdate="20200930T062950Z">
+        <seg>"شروع توصیه شده"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Reconquista"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T215624Z" creationid="BIG GAMER" creationdate="20200924T215624Z">
@@ -10625,6 +10665,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T173310Z" creationid="mohammad" creationdate="20200925T173009Z">
         <seg>"راه اندازی مجدد واکنش های نصیحت آمیز "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Reset to defaults"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062946Z" creationid="mohammad" creationdate="20200930T062946Z">
+        <seg>"بازنشانی به حالت پیش فرض"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10865,6 +10913,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011651Z" creationid="mohammad" creationdate="20200926T011651Z">
         <seg>"ذخیره و $RESIGN$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Save game with the same file name already exists. Do you want to overwrite it?"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062821Z" creationid="mohammad" creationdate="20200930T062821Z">
+        <seg>"ذخیره بازی با همان نام پرونده از قبل وجود دارد. آیا می خواهید آن را بازنویسی کنید؟"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11185,6 +11241,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T122105Z" creationid="mohammad" creationdate="20200925T161301Z">
         <seg>"زخم ها و بیماری های گرافیکی را نشان بده</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Show invalid"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062809Z" creationid="mohammad" creationdate="20200930T062809Z">
+        <seg>"نمایش نامعتبرها"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12525,6 +12589,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"This save was created with a different version of\nCrusader Kings"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062905Z" creationid="mohammad" creationdate="20200930T062905Z">
+        <seg>"این ذخیره با نسخه دیگری از Crusader Kings ایجاد شده"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"This small but formidable fortification is situated upon a raised earthwork."</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T111446Z" creationid="mohammad" creationdate="20200920T140656Z">
@@ -12855,6 +12927,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Unable to load achievements: please check your internet connection"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062928Z" creationid="mohammad" creationdate="20200930T062928Z">
+        <seg>"بارگیری اچیومنت امکان پذیر نیست: لطفاً اتصال اینترنت خود را بررسی کنید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Unable to load achievements: please sign into your Paradox Account"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062942Z" creationid="mohammad" creationdate="20200930T062942Z">
+        <seg>"بارگیری اچیومنت امکان پذیر نیست: لطفاً وارد حساب Paradox خود شوید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Uncle"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T012912Z" creationid="mohammad" creationdate="20200928T012912Z">
@@ -13075,6 +13163,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T225721Z" creationid="mohammad" creationdate="20200925T225721Z">
         <seg>"انتفام جویی: $VALUE|=+0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Version: [SaveGameItem.GetVersionName]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062835Z" creationid="mohammad" creationdate="20200930T062835Z">
+        <seg>"نسخه: [SaveGameItem.GetVersionName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -14711,6 +14807,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[SelectLocalization( SaveGameItem.HasMissingDLCs, 'MISSING_DLC', '' )]\n[SelectLocalization( SaveGameItem.HasMissingMods, 'MISSING_MODS', '' )]\n[SelectLocalization( SaveGameItem.IsDifferentVersion, 'LOAD_GAME_DIFFERENT_VERSION', '' )]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062913Z" creationid="mohammad" creationdate="20200930T062913Z">
+        <seg>"[SelectLocalization( SaveGameItem.HasMissingDLCs, 'MISSING_DLC', '' )]\n[SelectLocalization( SaveGameItem.HasMissingMods, 'MISSING_MODS', '' )]\n[SelectLocalization( SaveGameItem.IsDifferentVersion, 'LOAD_GAME_DIFFERENT_VERSION', '' )]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[SelectLocalization( SaveGameWindow.IsOverwrite, 'SAVE_WINDOW_OVERWRITE', '' )][SelectLocalization( And( Not( SaveGameWindow.IsOverwrite ), SaveGameWindow.IsIronman ), 'START_IRONMAN_SAVE', '' )][SelectLocalization( And( Not( SaveGameWindow.IsOverwrite ), Not( SaveGameWindow.IsIronman ) ), 'SAVE', '' )]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062803Z" creationid="mohammad" creationdate="20200930T062803Z">
+        <seg>"[SelectLocalization( SaveGameWindow.IsOverwrite, 'SAVE_WINDOW_OVERWRITE', '' )][SelectLocalization( And( Not( SaveGameWindow.IsOverwrite ), SaveGameWindow.IsIronman ), 'START_IRONMAN_SAVE', '' )][SelectLocalization( And( Not( SaveGameWindow.IsOverwrite ), Not( SaveGameWindow.IsIronman ) ), 'SAVE', '' )]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[SelectLocalization(FeedMessageItem.IsExpanded,'MESSAGE_CLICK_TO_HIDE','MESSAGE_CLICK_TO_HIDE')]\n$MESSAGE_CLICK_TO_DISMISS$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T192525Z" creationid="mohammad" creationdate="20200924T192525Z">
@@ -16221,6 +16333,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T061109Z" creationid="mohammad" creationdate="20200930T061109Z">
         <seg>ACCOUNT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ACHIEVEMENTS_UNAVAILABLE_PLAZA_TT:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062929Z" creationid="mohammad" creationdate="20200930T062929Z">
+        <seg>ACHIEVEMENTS_UNAVAILABLE_PLAZA_TT:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ACHIEVEMENTS_UNAVAILABLE_TT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062914Z" creationid="mohammad" creationdate="20200930T062914Z">
+        <seg>ACHIEVEMENTS_UNAVAILABLE_TT:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -18625,6 +18753,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GAME_RULES_RESET_TO_DEFAULTS_TEXT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062943Z" creationid="mohammad" creationdate="20200930T062943Z">
+        <seg>GAME_RULES_RESET_TO_DEFAULTS_TEXT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GAME_RULE_BLOCKS_ACHIEVEMENTS_ENTRY:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T010311Z" creationid="mohammad" creationdate="20200926T010311Z">
@@ -20257,6 +20393,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LOAD_GAME_DIFFERENT_VERSION:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062836Z" creationid="mohammad" creationdate="20200930T062836Z">
+        <seg>LOAD_GAME_DIFFERENT_VERSION:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOAD_GAME_DIFFERENT_VERSION_TT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062845Z" creationid="mohammad" creationdate="20200930T062845Z">
+        <seg>LOAD_GAME_DIFFERENT_VERSION_TT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LOAD_GAME_FAILED_DESC:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T005456Z" creationid="mohammad" creationdate="20200926T005456Z">
@@ -20269,6 +20421,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T005409Z" creationid="mohammad" creationdate="20200926T005409Z">
         <seg>LOAD_GAME_FAILED_TITLE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOAD_GAME_VERSION:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062831Z" creationid="mohammad" creationdate="20200930T062831Z">
+        <seg>LOAD_GAME_VERSION:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOAD_GAME_WINDOW_HOUSE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062822Z" creationid="mohammad" creationdate="20200930T062822Z">
+        <seg>LOAD_GAME_WINDOW_HOUSE:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -20293,6 +20461,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T210933Z" creationid="mohammad" creationdate="20200925T210933Z">
         <seg>LOAD_LAST_PLAYED:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LOAD_MISSING_ITEMS_TT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062905Z" creationid="mohammad" creationdate="20200930T062905Z">
+        <seg>LOAD_MISSING_ITEMS_TT:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -20809,6 +20985,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OVERWRITE_CONFIRMATION_DESC:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062813Z" creationid="mohammad" creationdate="20200930T062813Z">
+        <seg>OVERWRITE_CONFIRMATION_DESC:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OVERWRITE_GAME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062810Z" creationid="mohammad" creationdate="20200930T062810Z">
+        <seg>OVERWRITE_GAME:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OWNER:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T015814Z" creationid="mohammad" creationdate="20200928T015814Z">
@@ -21165,6 +21357,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234451Z" creationid="mohammad" creationdate="20200925T234451Z">
         <seg>REALM_VIEW:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RECOMMEND_START_BOOKMARK:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062946Z" creationid="mohammad" creationdate="20200930T062946Z">
+        <seg>RECOMMEND_START_BOOKMARK:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -21533,6 +21733,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T001138Z" creationid="mohammad" creationdate="20200926T001138Z">
         <seg>SAVE_IN_PROGRESS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SAVE_WINDOW_OVERWRITE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062754Z" creationid="mohammad" creationdate="20200930T062754Z">
+        <seg>SAVE_WINDOW_OVERWRITE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SAVE_WINDOW_SAVE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062801Z" creationid="mohammad" creationdate="20200930T062801Z">
+        <seg>SAVE_WINDOW_SAVE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SAVE_WINDOW_SHOW_INVALID:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062804Z" creationid="mohammad" creationdate="20200930T062804Z">
+        <seg>SAVE_WINDOW_SHOW_INVALID:0</seg>
       </tuv>
     </tu>
     <tu>
