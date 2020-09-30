@@ -2014,6 +2014,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#X @warning_icon!The [education_focus|E] can only be changed once#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T090955Z" creationid="mohammad" creationdate="20200930T090955Z">
+        <seg>"#X @warning_icon! [education_focus|E] فقط یک بار قابل تغییر است.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#X Invalid savegame. Might cause crashes.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T210932Z" creationid="mohammad" creationdate="20200925T210932Z">
@@ -19231,6 +19239,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030421Z" creationid="mohammad" creationdate="20200922T030421Z">
         <seg>FOCUS_MAX_CHANGES:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FOCUS_MAX_CHANGES:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T090849Z" creationid="mohammad" creationdate="20200930T090849Z">
+        <seg>FOCUS_MAX_CHANGES:1</seg>
       </tuv>
     </tu>
     <tu>
