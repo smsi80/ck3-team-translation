@@ -4296,6 +4296,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Auto Saving..."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T054332Z" creationid="mohammad" creationdate="20200930T054332Z">
+        <seg>"ذخیره خودکار ..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Autosave interval"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T172058Z" creationid="mohammad" creationdate="20200924T170940Z">
@@ -5220,6 +5228,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000022Z" creationid="mohammad" creationdate="20200926T000022Z">
         <seg>"هزینه [gold_i]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Could not find the Savegame:\n$SAVE_GAME$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T054502Z" creationid="mohammad" creationdate="20200930T054502Z">
+        <seg>"ذخیره بازی پیدا نشد\n$SAVE_GAME$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8902,6 +8918,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T122215Z" creationid="mohammad" creationdate="20200925T142522Z">
         <seg>متفرقه</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Missing Savegame"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T054355Z" creationid="mohammad" creationdate="20200930T054337Z">
+        <seg>"ذخیره گم شده است"</seg>
       </tuv>
     </tu>
     <tu>
@@ -13627,6 +13651,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T223543Z" creationid="mohammad" creationdate="20200925T223543Z">
         <seg>"[CHARACTER.GetShortUINamePossessive] نظر [TARGET_CHARACTER.GetShortUIName]: $VALUE|+0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[CHARACTER.GetShortUINamePossessive] Opinion of [TARGET_CHARACTER.GetShortUIName]: $VALUE|=+0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T054328Z" creationid="mohammad" creationdate="20200930T054328Z">
+        <seg>"[CHARACTER.GetShortUINamePossessive] Opinion of [TARGET_CHARACTER.GetShortUIName]: $VALUE|=+0$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -19765,6 +19797,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234439Z" creationid="mohammad" creationdate="20200925T234439Z">
         <seg>MILITARY_VIEW:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MISSING_CONTINUE_SAVE_GAME_DESC:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T054357Z" creationid="mohammad" creationdate="20200930T054357Z">
+        <seg>MISSING_CONTINUE_SAVE_GAME_DESC:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MISSING_CONTINUE_SAVE_GAME_TITLE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T054338Z" creationid="mohammad" creationdate="20200930T054338Z">
+        <seg>MISSING_CONTINUE_SAVE_GAME_TITLE:0</seg>
       </tuv>
     </tu>
     <tu>
