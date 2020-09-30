@@ -3410,6 +3410,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"@warning_icon! #X Log in to your Paradox Account to play Multiplayer#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062258Z" creationid="mohammad" creationdate="20200930T062258Z">
+        <seg>"@warning_icon! #X برای بخش چند نفره وارد اکانت پارادوکس خود شوید#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"@warning_icon! #X Missing DLC#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T005404Z" creationid="mohammad" creationdate="20200926T005404Z">
@@ -3470,6 +3478,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T020229Z" creationid="mohammad" creationdate="20200928T020229Z">
         <seg>"@warning_icon! #X کمبود [prestige_i] $VALUE|^$#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@warning_icon! #X Multiplayer is unavailable in Ironman#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062240Z" creationid="mohammad" creationdate="20200930T062240Z">
+        <seg>"@warning_icon! #X بخش چند نفره در حالت ایرون من غیر فعال هست#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@warning_icon! #X You need to set a Username in order to play Multiplayer. You can do that in the Account Window.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062335Z" creationid="mohammad" creationdate="20200930T062335Z">
+        <seg>"@warning_icon! #X برای بازی چند نفره ، باید نام کاربری تعیین کنید. می توانید این کار را در پنجره اکانت انجام دهید.#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7874,6 +7898,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"If you leave, the Multiplayer Game will continue without you"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062128Z" creationid="mohammad" creationdate="20200930T062128Z">
+        <seg>"اگربازی را ترک کنید ، بازی چند نفره بدون شما ادامه خواهد یافت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Illegitimate bastards cannot pass your Dynasty on."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T122909Z" creationid="mohammad" creationdate="20200924T122909Z">
@@ -10050,6 +10082,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Play as an Observer, seeing the game unfold without directly participating.\n\nOnce in the game, you can Ctrl-click a Character to see the game from their perspective.\n\nYou can return to this lobby later if you want to play as a Character instead."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062753Z" creationid="mohammad" creationdate="20200930T062753Z">
+        <seg>"به عنوان یک ناظر بازی کنید ، بازی را بدون حضور مستقیم در جریان بازی مشاهده کنید. \\ n \\ n پس از ورود به بازی ، می توانید با click+Ctrl بر روی یک شخصیت کلیک کنید تا بازی را از روی شخصیت ان ها ببینید. \\ n \\ n اگر بخواهید بعداً می توانید به این لابی بازگردید و به جای یک شخصیت بازی کنید. "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Played joined"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T012954Z" creationid="mohammad" creationdate="20200926T012954Z">
@@ -10829,6 +10869,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Save the game as #high [GetAutosaveName]#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062215Z" creationid="mohammad" creationdate="20200930T062149Z">
+        <seg>"ذخیره بازی به عنوان #high [GetAutosaveName]#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Save to cloud"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T222111Z" creationid="mohammad" creationdate="20200925T205705Z">
@@ -11589,6 +11637,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Switch Character"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062221Z" creationid="mohammad" creationdate="20200930T062221Z">
+        <seg>"تغییر شخصیت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"TODO: $WHAT$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T060140Z" creationid="mohammad" creationdate="20200930T060140Z">
@@ -12025,6 +12081,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T054608Z" creationid="Novin Pendar" creationdate="20200925T054608Z">
         <seg>"باغ های میوه درحین کوچکی ، برداشت های پرباری را تولید میکنند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The game will be saved as #high [GetAutosaveName]#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062210Z" creationid="mohammad" creationdate="20200930T062210Z">
+        <seg>"بازی ذخیره خواهد شد به عنوان #high [GetAutosaveName]#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -18289,6 +18353,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FRONTEND_AUTO_SAVE:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062134Z" creationid="mohammad" creationdate="20200930T062134Z">
+        <seg>FRONTEND_AUTO_SAVE:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FRONTEND_AUTO_SAVE_IRONMAN:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062149Z" creationid="mohammad" creationdate="20200930T062149Z">
+        <seg>FRONTEND_AUTO_SAVE_IRONMAN:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FRONTEND_CONTINUE_TT:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T061123Z" creationid="mohammad" creationdate="20200930T061123Z">
@@ -18377,6 +18457,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FRONTEND_LOBBY_UNAVAILABLE_IRONMAN:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062224Z" creationid="mohammad" creationdate="20200930T062224Z">
+        <seg>FRONTEND_LOBBY_UNAVAILABLE_IRONMAN:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FRONTEND_LOBBY_UNAVAILABLE_LOGIN:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062241Z" creationid="mohammad" creationdate="20200930T062241Z">
+        <seg>FRONTEND_LOBBY_UNAVAILABLE_LOGIN:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FRONTEND_LOBBY_UNAVAILABLE_USERNAME:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062258Z" creationid="mohammad" creationdate="20200930T062258Z">
+        <seg>FRONTEND_LOBBY_UNAVAILABLE_USERNAME:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FRONTEND_LOGGED_IN:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T061900Z" creationid="mohammad" creationdate="20200930T061900Z">
@@ -18393,6 +18497,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FRONTEND_LOGIN_PROMPT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062337Z" creationid="mohammad" creationdate="20200930T062337Z">
+        <seg>FRONTEND_LOGIN_PROMPT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FRONTEND_NOT_PAUSED:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T061517Z" creationid="mohammad" creationdate="20200930T061517Z">
@@ -18405,6 +18517,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T061117Z" creationid="mohammad" creationdate="20200930T061117Z">
         <seg>FRONTEND_NO_CONTINUE_TT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FRONTEND_OBSERVER_DESC:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062341Z" creationid="mohammad" creationdate="20200930T062341Z">
+        <seg>FRONTEND_OBSERVER_DESC:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -18429,6 +18549,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T061905Z" creationid="mohammad" creationdate="20200930T061905Z">
         <seg>FRONTEND_SELECT_GAME_TO_LOAD:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FRONTEND_SWITCH_CHARACTER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T062218Z" creationid="mohammad" creationdate="20200930T062218Z">
+        <seg>FRONTEND_SWITCH_CHARACTER:0</seg>
       </tuv>
     </tu>
     <tu>
