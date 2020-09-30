@@ -1826,6 +1826,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#TUT_KW You already have this education focus.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T064048Z" creationid="mohammad" creationdate="20200930T064048Z">
+        <seg>"#TUT_KW شما قبلا این تمرکز اموزشی را داشته اید.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#TUT_KW [CHARACTER.GetShortUINameNoTooltip] already has this education focus.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T064034Z" creationid="mohammad" creationdate="20200930T064034Z">
@@ -1836,8 +1844,16 @@
       <tuv lang="en">
         <seg>"#TUT_KW [CHARACTER.GetShortUINameNoTooltip] can change to this education focus.#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T075034Z" creationid="mohammad" creationdate="20200924T075034Z">
-        <seg>"#TUT_KW [CHARACTER.GetShortUINameNoTooltip] can change to this education focus.#!"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T064234Z" creationid="mohammad" creationdate="20200924T075034Z">
+        <seg>"#TUT_KW [CHARACTER.GetShortUINameNoTooltip] میتوانید تمرکز اموزشی را تغیر دهید#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#TUT_KW [CHARACTER.GetShortUINameNoTooltip] can change to this lifestyle focus.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T064108Z" creationid="mohammad" creationdate="20200930T064108Z">
+        <seg>"#TUT_KW [CHARACTER.GetShortUINameNoTooltip] میتوانید این سبک زنگی را تغیر دهید.#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -17033,6 +17049,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CHARACTER_CAN_CHOOSE_THIS_EDUCATION_FOCUS_DESCRIPTION:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T064110Z" creationid="mohammad" creationdate="20200930T064110Z">
+        <seg>CHARACTER_CAN_CHOOSE_THIS_EDUCATION_FOCUS_DESCRIPTION:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CHARACTER_CAN_CHOOSE_THIS_LIFESTYLE_FOCUS_DESCRIPTION:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T064050Z" creationid="mohammad" creationdate="20200930T064050Z">
+        <seg>CHARACTER_CAN_CHOOSE_THIS_LIFESTYLE_FOCUS_DESCRIPTION:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CHARACTER_CHILDREN:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T231619Z" creationid="mohammad" creationdate="20200925T231619Z">
@@ -19333,6 +19365,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T063842Z" creationid="mohammad" creationdate="20200930T063842Z">
         <seg>I_CAN_ONLY_CHANGE_FOCUS_ONCE:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I_HAVE_THIS_EDUCATION_FOCUS_DESCRIPTION:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T064035Z" creationid="mohammad" creationdate="20200930T064035Z">
+        <seg>I_HAVE_THIS_EDUCATION_FOCUS_DESCRIPTION:2</seg>
       </tuv>
     </tu>
     <tu>
