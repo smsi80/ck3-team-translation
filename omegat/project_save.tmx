@@ -1786,6 +1786,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T [Lifestyle.GetNameNoTooltip] Experience: [Character.GetLifestyleXp( Lifestyle.Self, '(bool)yes' )|0]/[Lifestyle.GetXpPerLevel]#!\n[CharacterLifestyleWindow.GetLifestyleProgressTooltip( Lifestyle.Self )]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T071621Z" creationid="Smsi" creationdate="20200930T071621Z">
+        <seg>"#T [Lifestyle.GetNameNoTooltip] Experience: [Character.GetLifestyleXp( Lifestyle.Self, '(bool)yes' )|0]/[Lifestyle.GetXpPerLevel]#!\n[CharacterLifestyleWindow.GetLifestyleProgressTooltip( Lifestyle.Self )]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T [Lifestyle.GetNameNoTooltip]#!\n #I Click to open.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T070647Z" creationid="mohammad" creationdate="20200930T070647Z">
@@ -3756,6 +3764,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T063640Z" creationid="mohammad" creationdate="20200930T063616Z">
         <seg>"@warning_icon!#X شما قبلاً این تمرکز را داشته اید!#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@warning_icon!#X You do not have the [PERK.GetName( GetPlayer )] #underline [perk]#!#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T071615Z" creationid="Smsi" creationdate="20200930T071615Z">
+        <seg>"@warning_icon!#X شما در حال حاظر دارانیستید [PERK.GetName( GetPlayer )] #underline [perk]#!#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9822,6 +9838,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T124245Z" creationid="Novin Pendar" creationdate="20200924T124245Z">
         <seg>"دیگر کشتی تجار سر مکانی برای بارگیری یا باراندازی بار ارزشمندشان رقابت نخواهند داشت — مکان فراوان داخل بندر مکانی فرا تر از کافی برای همه ایجاد میکند تا به کارشان برسند!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"No passive [experience|E] gain as you have not chosen a [focus|E] within this Lifestyle"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T072042Z" creationid="Smsi" creationdate="20200930T072042Z">
+        <seg>"هیچ [experience|E] را کسب نمیکنید وقتی که  [focus|E] سبک زنگی را انتخواب نکرده اید"</seg>
       </tuv>
     </tu>
     <tu>
@@ -20049,6 +20073,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LIFESTYLE_NOT_SELECTED_PROGRESS:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T071622Z" creationid="Smsi" creationdate="20200930T071622Z">
+        <seg>LIFESTYLE_NOT_SELECTED_PROGRESS:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LIFESTYLE_POINTS_ALREADY_USED_TEXT:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T070721Z" creationid="mohammad" creationdate="20200930T070721Z">
@@ -20061,6 +20093,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T070706Z" creationid="mohammad" creationdate="20200930T070706Z">
         <seg>LIFESTYLE_POINTS_TO_USE_TEXT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LIFESTYLE_XP_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T071616Z" creationid="Smsi" creationdate="20200930T071616Z">
+        <seg>LIFESTYLE_XP_TOOLTIP:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -21701,6 +21741,14 @@
       </tuv>
       <tuv lang="fa" changeid="Smsi" changedate="20200930T071426Z" creationid="Smsi" creationdate="20200930T071426Z">
         <seg>PERK_ALREADY_UNLOCKED:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PERK_MISSING_PARENT:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T071538Z" creationid="Smsi" creationdate="20200930T071538Z">
+        <seg>PERK_MISSING_PARENT:1</seg>
       </tuv>
     </tu>
     <tu>
