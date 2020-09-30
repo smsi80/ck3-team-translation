@@ -2238,6 +2238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#weak You can only change Focus every $COOLDOWN$#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T063756Z" creationid="mohammad" creationdate="20200930T063756Z">
+        <seg>"#weak شما تمرکز را فقد میتوانید هر  $COOLDOWN$ سال عوض کنید#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$ACHIEVEMENT_LOCKED_GENERIC$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T140945Z" creationid="mohammad" creationdate="20200925T140945Z">
@@ -3632,10 +3640,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"@warning_icon!#X You already have this focus!#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T063640Z" creationid="mohammad" creationdate="20200930T063616Z">
+        <seg>"@warning_icon!#X شما قبلاً این تمرکز را داشته اید!#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"@warning_icon!#X [CHARACTER.GetShortUINameNoTooltip] already has this focus!#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T074949Z" creationid="mohammad" creationdate="20200924T074949Z">
-        <seg>"@warning_icon!#X [CHARACTER.GetShortUINameNoTooltip] already has this focus!#!"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T063600Z" creationid="mohammad" creationdate="20200924T074949Z">
+        <seg>"@warning_icon!#X [CHARACTER.GetShortUINameNoTooltip] قبلاً این تمرکز را داشته است!#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5066,8 +5082,8 @@
       <tuv lang="en">
         <seg>"Choose Lifestyle Focus"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200924T075345Z" creationid="mohammad" creationdate="20200924T075345Z">
-        <seg>"Choose Lifestyle Focus"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T063521Z" creationid="mohammad" creationdate="20200924T075345Z">
+        <seg>"انتخاب سبک زندگی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -16913,6 +16929,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CHANGE_FOCUS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T063521Z" creationid="mohammad" creationdate="20200930T063521Z">
+        <seg>CHANGE_FOCUS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CHANGE_SPEED_TOOLTIP_1:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T212209Z" creationid="mohammad" creationdate="20200925T212209Z">
@@ -19261,6 +19285,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T012540Z" creationid="mohammad" creationdate="20200927T012540Z">
         <seg>INVALID_RELATION:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I_ALREADY_HAVE_THIS_FOCUS:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T063603Z" creationid="mohammad" creationdate="20200930T063603Z">
+        <seg>I_ALREADY_HAVE_THIS_FOCUS:1</seg>
       </tuv>
     </tu>
     <tu>
