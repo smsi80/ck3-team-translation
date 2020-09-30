@@ -1820,16 +1820,16 @@
       <tuv lang="en">
         <seg>"#TUT_KW Current Lifestyle Focus#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200930T063944Z" creationid="mohammad" creationdate="20200924T085938Z">
-        <seg>"#TUT_KW تمرکز سبک زندگی فعلی#!"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070605Z" creationid="mohammad" creationdate="20200924T085938Z">
+        <seg>c"#TUT_KW تمرکز سبک زندگی فعلی#!"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"#TUT_KW My current Lifestyle Focus#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200930T064006Z" creationid="mohammad" creationdate="20200924T085946Z">
-        <seg>"#TUT_KW My تمرکز سبک زنگی فعلی#!"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070620Z" creationid="mohammad" creationdate="20200924T085946Z">
+        <seg>"#TUT_KW My تمرکز سبک زندگی فعلی#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1860,8 +1860,8 @@
       <tuv lang="en">
         <seg>"#TUT_KW [CHARACTER.GetShortUINameNoTooltip] can change to this lifestyle focus.#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200930T064108Z" creationid="mohammad" creationdate="20200930T064108Z">
-        <seg>"#TUT_KW [CHARACTER.GetShortUINameNoTooltip] میتوانید این سبک زنگی را تغیر دهید.#!"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070805Z" creationid="mohammad" creationdate="20200930T064108Z">
+        <seg>"#TUT_KW [CHARACTER.GetShortUINameNoTooltip] میتوانید این سبک زندگی را تغیر دهید.#!"</seg>
       </tuv>
     </tu>
     <tu>
