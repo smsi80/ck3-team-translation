@@ -10815,8 +10815,8 @@
       <tuv lang="en">
         <seg>"Reset Perks"</seg>
       </tuv>
-      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T174228Z" creationid="BIG GAMER" creationdate="20200926T174228Z">
-        <seg>ارایش مجدد برتریها</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T065822Z" creationid="BIG GAMER" creationdate="20200926T174228Z">
+        <seg>ارایش مجدد مزایا</seg>
       </tuv>
     </tu>
     <tu>
@@ -14815,6 +14815,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[Lifestyle.GetDescription]\n\n#weak [Lifestyle.GetHighlightDescription]#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T065839Z" creationid="mohammad" creationdate="20200930T065839Z">
+        <seg>"[Lifestyle.GetDescription]\n\n#weak [Lifestyle.GetHighlightDescription]#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[MessageFeedHandler.GetNumberOfQueuedMessages] more messages"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065615Z" creationid="mohammad" creationdate="20200925T065615Z">
@@ -17953,6 +17961,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CURRENT_FOCUS:1 " (Current)"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T065943Z" creationid="mohammad" creationdate="20200930T065824Z">
+        <seg>CURRENT_FOCUS:1 " (فعلی)"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CURRENT_MAX:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T015827Z" creationid="mohammad" creationdate="20200928T015827Z">
@@ -18685,6 +18701,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T142704Z" creationid="mohammad" creationdate="20200925T142704Z">
         <seg>FIVE_YEAR:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FOCUS_CANCHANGE:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T065828Z" creationid="mohammad" creationdate="20200930T065828Z">
+        <seg>FOCUS_CANCHANGE:1</seg>
       </tuv>
     </tu>
     <tu>
@@ -21709,6 +21733,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T062946Z" creationid="mohammad" creationdate="20200930T062946Z">
         <seg>RECOMMEND_START_BOOKMARK:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>REFUND_PERKS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T065640Z" creationid="mohammad" creationdate="20200930T065640Z">
+        <seg>REFUND_PERKS:0</seg>
       </tuv>
     </tu>
     <tu>
