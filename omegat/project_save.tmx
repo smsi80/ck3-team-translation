@@ -1704,6 +1704,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T Play as $bookmark_rags_to_riches_petty_king_murchad$, in 1066#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T065009Z" creationid="mohammad" creationdate="20200930T065009Z">
+        <seg>"#T بازی کنید به عنوان $bookmark_rags_to_riches_petty_king_murchad$, در 1066#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T Rename#!\n[GameDialog.GetCanAcceptBlocker]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T021122Z" creationid="mohammad" creationdate="20200928T021122Z">
@@ -6998,6 +7006,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T185212Z" creationid="mohammad" creationdate="20200921T185212Z">
         <seg>"دلاور"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Game Info"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T064949Z" creationid="mohammad" creationdate="20200930T064949Z">
+        <seg>"اطلاعات بازی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -18913,6 +18929,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GAMESETUP_GAME_INFO:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T064946Z" creationid="mohammad" creationdate="20200930T064946Z">
+        <seg>GAMESETUP_GAME_INFO:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GAMESETUP_PLAY_TUTORIAL:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T064932Z" creationid="mohammad" creationdate="20200930T064932Z">
@@ -18949,6 +18973,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T064724Z" creationid="mohammad" creationdate="20200930T064724Z">
         <seg>GAMESETUP_TUTORIAL_PROMPT_INTRO:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GAMESETUP_TUTORIAL_PROMPT_PLAY_BUTTON_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T064951Z" creationid="mohammad" creationdate="20200930T064951Z">
+        <seg>GAMESETUP_TUTORIAL_PROMPT_PLAY_BUTTON_TOOLTIP:0</seg>
       </tuv>
     </tu>
     <tu>
