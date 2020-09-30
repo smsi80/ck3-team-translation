@@ -8666,6 +8666,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Map screenshot being taken!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T060215Z" creationid="mohammad" creationdate="20200930T060200Z">
+        <seg>"از مپ عکس گرفته شد!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Marches"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200929T125808Z" creationid="mohammad" creationdate="20200929T125503Z">
@@ -11313,6 +11321,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T104332Z" creationid="mohammad" creationdate="20200926T104332Z">
         <seg>"اعدام سریع"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"TODO: $WHAT$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T060140Z" creationid="mohammad" creationdate="20200930T060140Z">
+        <seg>"انجام دادن: $WHAT$"</seg>
       </tuv>
     </tu>
     <tu>
@@ -14803,6 +14819,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T154927Z" creationid="mohammad" creationdate="20200925T154927Z">
         <seg>"[player_heir|E] $msg_spouse_invalidated$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"[player_heir|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T060148Z" creationid="mohammad" creationdate="20200930T060148Z">
+        <seg>"[player_heir|E]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -19745,6 +19769,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MAP_SCREENSHOT_TAKEN:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T060201Z" creationid="mohammad" creationdate="20200930T060201Z">
+        <seg>MAP_SCREENSHOT_TAKEN:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MENU:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011144Z" creationid="mohammad" creationdate="20200926T011144Z">
@@ -20245,6 +20277,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T012908Z" creationid="mohammad" creationdate="20200928T012908Z">
         <seg>PLAYER_HEIR_RELATION:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PLAYER_HEIR_RELATION:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T060147Z" creationid="mohammad" creationdate="20200930T060147Z">
+        <seg>PLAYER_HEIR_RELATION:2</seg>
       </tuv>
     </tu>
     <tu>
@@ -21817,6 +21857,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013110Z" creationid="mohammad" creationdate="20200927T013110Z">
         <seg>TITLE_DEFINITE_FORM:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TODO:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T060103Z" creationid="mohammad" creationdate="20200930T060103Z">
+        <seg>TODO:0</seg>
       </tuv>
     </tu>
     <tu>
