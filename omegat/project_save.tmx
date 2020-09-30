@@ -5532,16 +5532,16 @@
       <tuv lang="en">
         <seg>"Current: No Focus"</seg>
       </tuv>
-      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T174410Z" creationid="BIG GAMER" creationdate="20200926T174410Z">
-        <seg>هماکنون بدون تمرکز</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070618Z" creationid="BIG GAMER" creationdate="20200926T174410Z">
+        <seg>"فعلی: بدون تمرکز"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"Current: [Character.GetFocus.GetName]"</seg>
       </tuv>
-      <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T174310Z" creationid="BIG GAMER" creationdate="20200926T174310Z">
-        <seg>تمرکز کنونی</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070339Z" creationid="BIG GAMER" creationdate="20200926T174310Z">
+        <seg>"فعلی: [Character.GetFocus.GetName]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -18709,6 +18709,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T065828Z" creationid="mohammad" creationdate="20200930T065828Z">
         <seg>FOCUS_CANCHANGE:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FOCUS_CANCHANGE_NO_FOCUS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T070330Z" creationid="mohammad" creationdate="20200930T070330Z">
+        <seg>FOCUS_CANCHANGE_NO_FOCUS:0</seg>
       </tuv>
     </tu>
     <tu>
