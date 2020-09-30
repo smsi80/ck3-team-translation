@@ -1762,6 +1762,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T [siege_progress|E]: [RegimentType.GetStat( GetPlayer, 'siege_value' )|1V]/day#!\n[RegimentType.GetStatDesc( GetPlayer, 'siege_value' )]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T050925Z" creationid="mohammad" creationdate="20200930T050925Z">
+        <seg>"#T [siege_progress|E]: [RegimentType.GetStat( GetPlayer, 'siege_value' )|1V]/day#!\n[RegimentType.GetStatDesc( GetPlayer, 'siege_value' )]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#TOOLTIP:NUMBER_OF_MEN_DESC $VALUE$ #!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000603Z" creationid="mohammad" creationdate="20200926T000603Z">
@@ -9918,6 +9926,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000436Z" creationid="mohammad" creationdate="20200926T000316Z">
         <seg>"اعتبار: [prestige_i] $VALUE|0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Pretender Rebels"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T051232Z" creationid="mohammad" creationdate="20200930T051232Z">
+        <seg>"Pretender Rebels"</seg>
       </tuv>
     </tu>
     <tu>
@@ -22242,6 +22258,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T185123Z" creationid="mohammad" creationdate="20200921T185123Z">
         <seg>chivalry_name:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>claimant_faction_event_troops:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T051206Z" creationid="mohammad" creationdate="20200930T051206Z">
+        <seg>claimant_faction_event_troops:0</seg>
       </tuv>
     </tu>
     <tu>
