@@ -3726,12 +3726,28 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"@warning_icon!#X No [PERK.GetLifestyle.GetName] #underline [perk]#! unlock available#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T071421Z" creationid="mohammad" creationdate="20200930T071326Z">
+        <seg>"@warning_icon!#X نه [PERK.GetLifestyle.GetName] #underline [perk]#! قابل باز کردن است#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"@warning_icon!#X No target selected#! "
  CHARACTER_OTHER_PLAYER_TOOLTIP:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T221605Z" creationid="mohammad" creationdate="20200925T221605Z">
         <seg>"@warning_icon!#X هیچ هدفی انتخاب نشده است#! "
  CHARACTER_OTHER_PLAYER_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@warning_icon!#X You already have [PERK.GetName( GetPlayer )]#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T071537Z" creationid="Smsi" creationdate="20200930T071537Z">
+        <seg>"@warning_icon!#X شما در حال حاظر دارای [PERK.GetName( GetPlayer )]#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -21677,6 +21693,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011258Z" creationid="mohammad" creationdate="20200926T011258Z">
         <seg>PAUSED:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PERK_ALREADY_UNLOCKED:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Smsi" changedate="20200930T071426Z" creationid="Smsi" creationdate="20200930T071426Z">
+        <seg>PERK_ALREADY_UNLOCKED:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PERK_POINTS_NEEDED:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20200930T071246Z" creationid="mohammad" creationdate="20200930T071246Z">
+        <seg>PERK_POINTS_NEEDED:0</seg>
       </tuv>
     </tu>
     <tu>
