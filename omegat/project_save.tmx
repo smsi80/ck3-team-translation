@@ -7410,6 +7410,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Gold Mines of Mali"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T102902Z" creationid="mohammad" creationdate="20201001T102902Z">
+        <seg>"معادن طلای مالی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Gold Mining Complex"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200929T131108Z" creationid="mohammad" creationdate="20200929T131108Z">
@@ -10858,6 +10866,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Rammelsberg Mines V"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T102933Z" creationid="mohammad" creationdate="20201001T102933Z">
+        <seg>"معادن  راملزبرگ سطح پنج"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Rammelsberg Mines VI"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T102946Z" creationid="mohammad" creationdate="20201001T102946Z">
+        <seg>"معادن  راملزبرگ سطح شیش"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Rammelsberg Mines VII"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T103044Z" creationid="mohammad" creationdate="20201001T103044Z">
+        <seg>"معادن  راملزبرگ سطح هفت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Rammelsberg Mining Complex"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200927T120538Z" creationid="mahan" creationdate="20200927T120538Z">
@@ -11737,6 +11769,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201001T102443Z" creationid="mohammad" creationdate="20201001T102443Z">
         <seg>"معادن سیدروکاوسیا"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Siderokausia Mining Settlement"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T102824Z" creationid="mohammad" creationdate="20201001T102824Z">
+        <seg>"شهرک معدن سیدروکاوسیا"</seg>
       </tuv>
     </tu>
     <tu>
