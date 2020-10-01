@@ -13367,6 +13367,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"To move your [army|E], left-click on the $game_concept_army$ (on the map) and right-click on the area you want them to go. Perhaps the enemy capital [barony|E]?\n\n#TUT If you order your $game_concept_army$ across waters, it will [embark|E], turning it into a [fleet|E]. For now, let's stay on land.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T173121Z" creationid="Alireza" creationdate="20201001T173121Z">
+        <seg>"To move your [army|E], left-click on the $game_concept_army$ (on the map) and right-click on the area you want them to go. Perhaps the enemy capital [barony|E]?\n\n#TUT If you order your $game_concept_army$ across waters, it will [embark|E], turning it into a [fleet|E]. For now, let's stay on land.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"To rule is to make all the aspects of a realm move in unison and work together."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T184932Z" creationid="mohammad" creationdate="20200921T184932Z">
@@ -15801,8 +15809,8 @@
       <tuv lang="en">
         <seg>"[characters|E] have [skills|E], indicating their proficiency within a certain field. Some are great talkers, while others prefer to make their intent clear on the battlefield.\n\n#TUT The main Skills are:\n#![diplomacy_i|E] [diplomacy|E]\n[martial_i|E] [martial|E]\n[stewardship_i|E] [stewardship|E]\n[intrigue_i|E] [intrigue|E]\n[learning_i|E] [learning|E]\n\n#TUT Remember, since the text above is [Concept( 'highlighted_text', 'Highlighted' )|E], you can mouse over each Skill for a breakdown of what it entails.#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="Alireza" changedate="20201001T132739Z" creationid="Alireza" creationdate="20201001T132739Z">
-        <seg>"[characters|E] have [skills|E], indicating their proficiency within a certain field. Some are great talkers, while others prefer to make their intent clear on the battlefield.\n\n#TUT The main Skills are:\n#![diplomacy_i|E] [diplomacy|E]\n[martial_i|E] [martial|E]\n[stewardship_i|E] [stewardship|E]\n[intrigue_i|E] [intrigue|E]\n[learning_i|E] [learning|E]\n\n#TUT Remember, since the text above is [Concept( 'highlighted_text', 'Highlighted' )|E], you can mouse over each Skill for a breakdown of what it entails.#!"</seg>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T174336Z" creationid="Alireza" creationdate="20201001T132739Z">
+        <seg>[characters|E] دارای [skills|E] دارند، که نشان دهنده مهارت آنها در یک زمینه خاص است. برخی از آنها سخنرانان خوبی هستند، در حالی که برخی دیگر ترجیح می دهند اهداف خود را در میدان جنگ روشن کنند.\n\n#TUT مهارت های اصلی عبارتند از:\n#![diplomacy_i|E] [diplomacy|E]\n[martial_i|E] [martial|E]\n[stewardship_i|E] [stewardship|E]\n[intrigue_i|E] [intrigue|E]\n[learning_i|E] [learning|E]\n\n#TUT به یاد داشته باشید، از آنجایی که متن بالا در [Concept( 'highlighted_text', 'Highlighted' )|E] بالا قرار دارد، شما می توانید برای تجزیه و تحلیل آن مهارت، نشانگر موس را روی آن قرار دهید.#!"</seg>
       </tuv>
     </tu>
     <tu>
