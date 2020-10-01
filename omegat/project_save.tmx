@@ -12973,6 +12973,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"There are many things you could do now that you have dipped your toes in some of the essential systems — Crusader Kings III is about setting your own goals.\n\nIf you want a suggestion, we recommend you try to become the King or Queen of all $k_ireland$! [war|E] is not the only way, either...\n\nOr you can click the #bold Issues#! icon up top and see if any of the items under Suggestions or Current Situation strikes your fancy!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T130936Z" creationid="Alireza" creationdate="20201001T130936Z">
+        <seg>"There are many things you could do now that you have dipped your toes in some of the essential systems — Crusader Kings III is about setting your own goals.\n\nIf you want a suggestion, we recommend you try to become the King or Queen of all $k_ireland$! [war|E] is not the only way, either...\n\nOr you can click the #bold Issues#! icon up top and see if any of the items under Suggestions or Current Situation strikes your fancy!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"These watchtowers offer a magnificent vantage point, not only for archers but also for lords inspecting their peasants."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T175856Z" creationid="mohammad" creationdate="20200928T175856Z">
