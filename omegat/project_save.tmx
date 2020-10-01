@@ -11445,6 +11445,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Schwaz Mining Settlement"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T101426Z" creationid="mohammad" creationdate="20201001T101426Z">
+        <seg>"Schwaz Mining Settlement"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Scientific"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T110820Z" creationid="mohammad" creationdate="20200926T110820Z">
