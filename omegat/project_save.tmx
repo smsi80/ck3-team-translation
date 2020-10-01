@@ -6588,7 +6588,7 @@
       <tuv lang="en">
         <seg>"Falun Mine"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200927T144514Z" creationid="mohammad" creationdate="20200927T144514Z">
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T102545Z" creationid="mohammad" creationdate="20200927T144514Z">
         <seg>"معدن فالون"</seg>
       </tuv>
     </tu>
@@ -12473,6 +12473,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201001T100622Z" creationid="mohammad" creationdate="20201001T095846Z">
         <seg>"معدن نقره شواز در دامنه کوههای کلایوخ و ایبلشروفن ، در وسط یک دره قرار دارد. فرصت استخراج معادن به معنای جذب افراد و کارگران زیادی به این منطقه است."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The Siderokausia mines are rich in silver and gold, and are exploited by twelve separate villages that each run a part of the mines."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T102716Z" creationid="mohammad" creationdate="20201001T102628Z">
+        <seg>"معادن سیدروکاوسیا که سرشار از نقره و طلا هستند و توسط دوازده روستای جداگانه که هر یک بخشی از معادن را اداره می کنند ، مورد بهره برداری قرار می گیرد.."</seg>
       </tuv>
     </tu>
     <tu>
@@ -24554,6 +24562,14 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>building_siderokausia_mines_01:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T102549Z" creationid="mohammad" creationdate="20201001T102549Z">
+        <seg>building_siderokausia_mines_01:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>building_type_kutna_hora_mines_01_desc:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200929T100853Z" creationid="mohammad" creationdate="20200929T100853Z">
@@ -24566,6 +24582,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201001T101428Z" creationid="mohammad" creationdate="20201001T101428Z">
         <seg>building_type_schwaz_mines_01_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>building_type_siderokausia_mines_01_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T102445Z" creationid="mohammad" creationdate="20201001T102445Z">
+        <seg>building_type_siderokausia_mines_01_desc:0</seg>
       </tuv>
     </tu>
     <tu>
