@@ -14247,6 +14247,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"You are a medieval ruler! Your reign may be brief, but through your heirs you can bring your dynasty to prominence. Land is yours for the taking, by way of the sword or through marriage, and clever diplomacy can extend your reach far beyond the wildest dreams of any conqueror...\n\n#TUT There is no one way to</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T121535Z" creationid="Alireza" creationdate="20201001T121535Z">
+        <seg>"شما یک حاکم قرون وسطایی هستید! سرزمین مال شماست، از طریق ازدواج های زیرکانه و دیپلماسی، یا از طریق شمشیر...\n\n#TUT هیچ راهی برای 'پیروزی' در کروسیدر کینگز ویجود ندارد، فقط مسیر های متفاوت برای لذت بردن از داستانی که آشکار می شود.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"You are already planning another [activity|E]"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200925T195900Z" creationid="BIG GAMER" creationdate="20200925T195900Z">
@@ -16695,8 +16703,8 @@
       <tuv lang="en">
         <seg>"win" in Crusader Kings III, only different ways to enjoy your story as it unfolds.#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="Alireza" changedate="20200930T120300Z" creationid="Alireza" creationdate="20200930T120300Z">
-        <seg>"win" in Crusader Kings III, only different ways to enjoy your story as it unfolds.#!"</seg>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T121639Z" creationid="Alireza" creationdate="20201001T121639Z">
+        <seg>"پیروزی" در کروسیدر کینگز 3 وجود ندارد، فقط مسیرهای متفاوت برای لذت بردن از داستانی که آشکار می شود.#!"</seg>
       </tuv>
     </tu>
     <tu>
