@@ -12023,8 +12023,8 @@
       <tuv lang="en">
         <seg>"Sometimes you will see blue [highlighted_text|E]. This means you can hover your cursor over the words to display an informative tooltip.\n\n#TUT Some of these tooltips may also have highlighted words, which can also be #EMP tooltipped#! for further information. [duchy|E] can lead to [county|E], which can lead to [barony|E].\n\nBy default, #bold it takes a couple of seconds#! for a tooltip to</seg>
       </tuv>
-      <tuv lang="fa" changeid="Alireza" changedate="20201001T123945Z" creationid="Alireza" creationdate="20201001T123945Z">
-        <seg>"گاهی اوقات شما متن های آبی می بینید [highlighted_text|E] مثل این. این بدان معنی است که شما می توانید نشانگر موس را برای اطلاعات بیشتر روی کلمات قرار دهید.\n\n#TUT برخی از این کلمات می توانند شما را به کلمات برجسته دیگری که اطلاعات بیشتری را به شما نشان می دهند راهنمایی کنند. [duchy|E] می تواند به [county|E] منجر شود، که در نهایت به [barony|E] تبدیل می شود.#!\n"</seg>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T124653Z" creationid="Alireza" creationdate="20201001T123945Z">
+        <seg>"گاهی اوقات شما متن های آبی می بینید [highlighted_text|E] مثل این. این بدان معنی است که شما می توانید نشانگر موس را برای اطلاعات بیشتر روی کلمات قرار دهید.\n\n#TUT برخی از این کلمات می توانند شما را به کلمات برجسته دیگری که اطلاعات بیشتری را به شما نشان می دهند راهنمایی کنند. [duchy|E] می تواند به [county|E] منجر شود، که در نهایت به [barony|E] تبدیل می شود.\n\nBy در حالت عادی، #bold چند دقیقه طول می کشد#! برای یک تولتیپ به</seg>
       </tuv>
     </tu>
     <tu>
@@ -16569,6 +16569,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T213023Z" creationid="mohammad" creationdate="20200925T213023Z">
         <seg>"کمتر از"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"lock in" for mouse-overs — this can be adjusted in the game's Settings.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T124003Z" creationid="Alireza" creationdate="20201001T124003Z">
+        <seg>"lock in" for mouse-overs — this can be adjusted in the game's Settings.#!"</seg>
       </tuv>
     </tu>
     <tu>
