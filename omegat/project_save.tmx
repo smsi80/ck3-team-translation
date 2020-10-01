@@ -1714,8 +1714,8 @@
       <tuv lang="en">
         <seg>"#T Play as $bookmark_rags_to_riches_petty_king_murchad$, in 1066#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200930T065009Z" creationid="mohammad" creationdate="20200930T065009Z">
-        <seg>"#T بازی کنید به عنوان $bookmark_rags_to_riches_petty_king_murchad$, در 1066#!"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T060307Z" creationid="mohammad" creationdate="20200930T065009Z">
+        <seg>"#T به عنوان $bookmark_rags_to_riches_petty_king_murchad$ در سال ۱۰۶۶ بازی کنید!#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8188,8 +8188,8 @@
       <tuv lang="en">
         <seg>"If you are new to the world of Crusader Kings, we strongly recommend you play the tutorial."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200930T064837Z" creationid="mohammad" creationdate="20200930T064837Z">
-        <seg>"اگر تازه وارد دنیای Crusader Kings هستید ، اکیداً توصیه می کنیم آموزش را بازی کنید."</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T060021Z" creationid="mohammad" creationdate="20200930T064837Z">
+        <seg>"اگر دردنیای Crusader Kings تازه وارد هستید ، اکیداً توصیه می کنیم آموزش را بازی کنید."</seg>
       </tuv>
     </tu>
     <tu>
@@ -8268,8 +8268,8 @@
       <tuv lang="en">
         <seg>"In the tutorial, you will play as $bookmark_rags_to_riches_petty_king_murchad$, a Ruler in Ireland. Lead your family and Dynasty to defeat your enemies and become King of Ireland!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200930T065240Z" creationid="mohammad" creationdate="20200930T064856Z">
-        <seg>"Iدر این اموزش شما به عنوان $bookmark_rags_to_riches_petty_king_murchad$یک حاکم در ایرلند.رهبری کنید خانواده و خاندانتان را برای نابودی دشمنانتان و تبدیل شدن به پادشاه ایرلند"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T060159Z" creationid="mohammad" creationdate="20200930T064856Z">
+        <seg>"Iدر این اموزش شما به عنوان $bookmark_rags_to_riches_petty_king_murchad$، حاکمی در ایرلند بازی می کنید. خانواده و خاندان خود را به سوی شکست دشمنان و تصاحب پادشاهی ایرلند هدایت کنید!"</seg>
       </tuv>
     </tu>
     <tu>
