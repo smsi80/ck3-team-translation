@@ -5024,6 +5024,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"By walling off the wetlands, the peasants can more easily control the growth of plants, and protect the valuable harvest therein."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200927T125637Z" creationid="Novin Pendar" creationdate="20200927T125637Z">
+        <seg>"با دیوار کشی در اطراف باتلاق ، روستاییان به راحتی میتوانند رشد گیاهان را کنترل کنند و از محصولات با ارزش آنجا مراقبت کنند."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Cadet Branch"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T160329Z" creationid="mohammad" creationdate="20200925T160329Z">
@@ -11293,6 +11301,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Salt Wells"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200927T123348Z" creationid="Novin Pendar" creationdate="20200927T123348Z">
+        <seg>"چاه آب نمک"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Same [culture|E]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T020054Z" creationid="mohammad" creationdate="20200928T020054Z">
@@ -13791,6 +13807,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Walled Wetlands"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200927T125511Z" creationid="Novin Pendar" creationdate="20200927T125511Z">
+        <seg>"باتلاق های دیوارکشی شده"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Walls &amp; Ditches"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T185710Z" creationid="mohammad" creationdate="20200927T185710Z">
@@ -13927,6 +13951,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Wetland Fields"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200927T125552Z" creationid="Novin Pendar" creationdate="20200927T125552Z">
+        <seg>"زمین های باتلاقی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"What Nepotism?"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221215Z" creationid="BIG GAMER" creationdate="20200924T221215Z">
@@ -14059,6 +14091,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T175331Z" creationid="mohammad" creationdate="20200928T172930Z">
         <seg>"برج های چوبی دیدبانی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Workers use large pans to heat water and extract salt from the wetlands. This salt is then used to preserve meat, which is then traded."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20200927T125538Z" creationid="Novin Pendar" creationdate="20200927T123525Z">
+        <seg>"کارگر ها از ظرف های بزرگی برای حرارت دادن آب و استخراج نمک در زمین های باتلاقی استفاده میکنن ، این نمک در گوشت استفاده شده که بعدا مبادله خواهند شد." </seg>
       </tuv>
     </tu>
     <tu>
