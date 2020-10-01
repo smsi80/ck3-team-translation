@@ -8044,8 +8044,8 @@
       <tuv lang="en">
         <seg>"Hover over the highlighted phrase inside the $game_concept_highlighted_text$ tooltip"</seg>
       </tuv>
-      <tuv lang="fa" changeid="Alireza" changedate="20200925T172804Z" creationid="Alireza" creationdate="20200925T172804Z">
-        <seg>"Hover over the highlighted phrase inside the $game_concept_highlighted_text$ tooltip"</seg>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T125632Z" creationid="Alireza" creationdate="20200925T172804Z">
+        <seg>"نشانگر موس را بر روی عبارت برجسته تولتیپ $game_concept_highlighted_text$ قرار دهید" "</seg>
       </tuv>
     </tu>
     <tu>
