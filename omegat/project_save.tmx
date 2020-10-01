@@ -4344,6 +4344,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Also known as</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T103155Z" creationid="mohammad" creationdate="20201001T103155Z">
+        <seg>"همچنین شناخته شده به عنوان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Always Hide"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T142918Z" creationid="mohammad" creationdate="20200925T142906Z">
@@ -10898,6 +10906,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Rammelsberg Mines VIII"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T103100Z" creationid="mohammad" creationdate="20201001T103100Z">
+        <seg>"معادن  راملزبرگ سطح هشت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Rammelsberg Mining Complex"</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200927T120538Z" creationid="mahan" creationdate="20200927T120538Z">
@@ -12137,6 +12153,14 @@
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T121936Z" creationid="Novin Pendar" creationdate="20200925T121936Z">
         <seg>"استون هنج"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Stora Kopparberget" #italic (the Great Copper Mountain)#! this mine produces vast quantities of copper."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T111217Z" creationid="mohammad" creationdate="20201001T111217Z">
+        <seg>"Stora Kopparberget" #italic (the Great Copper Mountain)#! this mine produces vast quantities of copper."</seg>
       </tuv>
     </tu>
     <tu>
