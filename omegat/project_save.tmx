@@ -10508,8 +10508,8 @@
       <tuv lang="en">
         <seg>"Play as any Ruler in #light_background;bold [GameSetup.GetSelectedBookmark.GetDate.GetYear]#!..."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20201001T055727Z" creationid="mohammad" creationdate="20200930T064542Z">
-        <seg>به عنوان حاکم دلخواه خود  در #light_background;bold [GameSetup.GetSelectedBookmark.GetDate.GetYear]# بازی کنید!</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T060316Z" creationid="mohammad" creationdate="20200930T064542Z">
+        <seg>"به عنوان حاکم دلخواه خود  در #light_background;bold [GameSetup.GetSelectedBookmark.GetDate.GetYear]# بازی کنید!"</seg>
       </tuv>
     </tu>
     <tu>
