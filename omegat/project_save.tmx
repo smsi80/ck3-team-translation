@@ -13521,8 +13521,8 @@
       <tuv lang="en">
         <seg>"Traits ($lesson_basics_character$)"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200926T152227Z" creationid="mohammad" creationdate="20200926T152227Z">
-        <seg>"Traits ($lesson_basics_character$)"</seg>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T174434Z" creationid="mohammad" creationdate="20200926T152227Z">
+        <seg>"صفات ($lesson_basics_character$)"</seg>
       </tuv>
     </tu>
     <tu>
@@ -15799,6 +15799,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[characters|E] also have [traits|E], which can affect [skills|E], as well as how they react to things. These are illustrated by icons in the Character View.\n\nSome Traits tell you about a $game_concept_character$'s personality, like [GetTrait('fickle').GetName( GetNullCharacter )], [GetTrait('calm').GetName( GetNullCharacter )], or [GetTrait('generous').GetName( GetNullCharacter )]. Other Traits are specific to how a $game_concept_character$ has lived their life, such as an [tutorial_education_trait|E] or [commander_traits|E].\n\n#TUT You are:\n$EFFECT_LIST_BULLET$@temperate_icon! [GetTrait('temperate').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$@wrathful_icon! [GetTrait('wrathful').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$@impatient_icon! [GetTrait('impatient').GetName( GetNullCharacter )]\nFrom this, you can see that your $game_concept_character$ typically leads a modest life and expects others to do the same, and is quick to anger when they don't.\n\nWhen a Character chooses to behave contrary their personality Traits, it can cause them [stress|E].#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T174746Z" creationid="Alireza" creationdate="20201001T174746Z">
+        <seg>"[characters|E]  همچنین دارای [traits|E] هستند، که می تواند ها [skills|E]و همچنین نحوه واکنش آنها در برابر  مسائل تحت  تأثیر قرار دهد. اینها با نمادها درم نمای شخصیت ش ما نشان داده می شوند. \ n \ n بعضی از ویژگی ها در مورد شخصیت $ game_concept_character $ مانند [GetTrait ('متزلزل'). GetName (GetNullCharacter)] ، [GetTrait ('آرام'). GetName (GetNullCharacter)] یا [GetTrait ("سخاوتمندانه"). GetName (GetNullCharacter) ]. سایر صفات مختص چگونگی زندگی یک شخصیت $ game_concept_character هستند ، مانند [tutorial_education_trait|E] یا [commander_traits|E] . \ n \ n # TUT ]شما هستید: \ n $ EFFECT_LIST_BULLET $ @ temperate_icon! [GetTrait ('معتدل'). GetName (GetNullCharacter)] \ n $ EFFECT_LIST_BULLET $ @ wrathful_icon! [GetTrait ('عصبانی)'. GetName (GetNullCharacter)] \ n $ EFFECT_LIST_BULLET $ @ impatient_icon!] GetName (GetNullCharacter)] \ n از این طریق می بینید که $ game_concept_character $ شما معمولاً زندگی متوسطی دارد ، اما انتظار دارد دیگران نیز چنین کنند و اگر این کار را نکنند زود عصبانی می شوند. \ n \ n acter رفتارهای خلاف خصوصیات شخصیتی خود را انتخاب می کند ، می تواند باعث ایجاد [stress|E]  شود.!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[characters|E] also have [traits|E], which can affect [skills|E], as well as how they react to things. These are illustrated by icons in your Character View.\n\nSome Traits tell you about a $game_concept_character$'s personality, like [GetTrait('fickle').GetName( GetNullCharacter )], [GetTrait('calm').GetName( GetNullCharacter )], or [GetTrait('generous').GetName( GetNullCharacter )]. Other Traits are specific to how a $game_concept_character$ has lived their life, such as your [tutorial_education_trait|E], or [commander_traits|E].\n\n#TUT You are:\n$EFFECT_LIST_BULLET$@temperate_icon! [GetTrait('temperate').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$@wrathful_icon! [GetTrait('wrathful').GetName( GetNullCharacter )]\n$EFFECT_LIST_BULLET$@impatient_icon! [GetTrait('impatient').GetName( GetNullCharacter )]\nFrom this, you can see that your $game_concept_character$ typically lives a modest life, but expects others to do so also and is quick to anger when they don't.\n\nWhen a Character chooses to behave against their personality Traits, it can cause [stress|E].#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T140605Z" creationid="mohammad" creationdate="20200926T152617Z">
@@ -15809,8 +15817,8 @@
       <tuv lang="en">
         <seg>"[characters|E] have [skills|E], indicating their proficiency within a certain field. Some are great talkers, while others prefer to make their intent clear on the battlefield.\n\n#TUT The main Skills are:\n#![diplomacy_i|E] [diplomacy|E]\n[martial_i|E] [martial|E]\n[stewardship_i|E] [stewardship|E]\n[intrigue_i|E] [intrigue|E]\n[learning_i|E] [learning|E]\n\n#TUT Remember, since the text above is [Concept( 'highlighted_text', 'Highlighted' )|E], you can mouse over each Skill for a breakdown of what it entails.#!"</seg>
       </tuv>
-      <tuv lang="fa" changeid="Alireza" changedate="20201001T174336Z" creationid="Alireza" creationdate="20201001T132739Z">
-        <seg>[characters|E] دارای [skills|E] دارند، که نشان دهنده مهارت آنها در یک زمینه خاص است. برخی از آنها سخنرانان خوبی هستند، در حالی که برخی دیگر ترجیح می دهند اهداف خود را در میدان جنگ روشن کنند.\n\n#TUT مهارت های اصلی عبارتند از:\n#![diplomacy_i|E] [diplomacy|E]\n[martial_i|E] [martial|E]\n[stewardship_i|E] [stewardship|E]\n[intrigue_i|E] [intrigue|E]\n[learning_i|E] [learning|E]\n\n#TUT به یاد داشته باشید، از آنجایی که متن بالا در [Concept( 'highlighted_text', 'Highlighted' )|E] بالا قرار دارد، شما می توانید برای تجزیه و تحلیل آن مهارت، نشانگر موس را روی آن قرار دهید.#!"</seg>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T174403Z" creationid="Alireza" creationdate="20201001T132739Z">
+        <seg>"[characters|E] دارای [skills|E] دارند، که نشان دهنده مهارت آنها در یک زمینه خاص است. برخی از آنها سخنرانان خوبی هستند، در حالی که برخی دیگر ترجیح می دهند اهداف خود را در میدان جنگ روشن کنند.\n\n#TUT مهارت های اصلی عبارتند از:\n#![diplomacy_i|E] [diplomacy|E]\n[martial_i|E] [martial|E]\n[stewardship_i|E] [stewardship|E]\n[intrigue_i|E] [intrigue|E]\n[learning_i|E] [learning|E]\n\n#TUT به یاد داشته باشید، از آنجایی که متن بالا در [Concept( 'highlighted_text', 'Highlighted' )|E] بالا قرار دارد، شما می توانید برای تجزیه و تحلیل آن مهارت، نشانگر موس را روی آن قرار دهید.#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -26712,6 +26720,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T152323Z" creationid="mohammad" creationdate="20200926T152323Z">
         <seg>lesson_basics_traits_1_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_traits_1_desc:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T174434Z" creationid="Alireza" creationdate="20201001T174434Z">
+        <seg>lesson_basics_traits_1_desc:2</seg>
       </tuv>
     </tu>
     <tu>
