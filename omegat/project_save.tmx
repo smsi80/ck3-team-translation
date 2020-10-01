@@ -9858,6 +9858,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Nested Tooltips ($lesson_basics$)"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T123304Z" creationid="Alireza" creationdate="20201001T123304Z">
+        <seg>"تولتیپ ها ($lesson_basics$)"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Never Back Down"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T125428Z" creationid="mohammad" creationdate="20200926T125428Z">
@@ -12008,6 +12016,14 @@
         <seg>"Sometimes you will see blue [highlighted_text|E] like this. This means you can hover your cursor over the words for more information.\n\n#TUT Some of these words can lead to other highlighted words, which can then show even further information. [duchy|E] can lead to [county|E], which can lead to [barony|E].#!\n"</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T172513Z" creationid="Alireza" creationdate="20200925T172513Z">
+        <seg>"گاهی اوقات شما متن های آبی می بینید [highlighted_text|E] مثل این. این بدان معنی است که شما می توانید نشانگر موس را برای اطلاعات بیشتر روی کلمات قرار دهید.\n\n#TUT برخی از این کلمات می توانند شما را به کلمات برجسته دیگری که اطلاعات بیشتری را به شما نشان می دهند راهنمایی کنند. [duchy|E] می تواند به [county|E] منجر شود، که در نهایت به [barony|E] تبدیل می شود.#!\n"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Sometimes you will see blue [highlighted_text|E]. This means you can hover your cursor over the words to display an informative tooltip.\n\n#TUT Some of these tooltips may also have highlighted words, which can also be #EMP tooltipped#! for further information. [duchy|E] can lead to [county|E], which can lead to [barony|E].\n\nBy default, #bold it takes a couple of seconds#! for a tooltip to</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T123945Z" creationid="Alireza" creationdate="20201001T123945Z">
         <seg>"گاهی اوقات شما متن های آبی می بینید [highlighted_text|E] مثل این. این بدان معنی است که شما می توانید نشانگر موس را برای اطلاعات بیشتر روی کلمات قرار دهید.\n\n#TUT برخی از این کلمات می توانند شما را به کلمات برجسته دیگری که اطلاعات بیشتری را به شما نشان می دهند راهنمایی کنند. [duchy|E] می تواند به [county|E] منجر شود، که در نهایت به [barony|E] تبدیل می شود.#!\n"</seg>
       </tuv>
     </tu>
@@ -26532,6 +26548,14 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>lesson_basics_tooltips_in_tooltips:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T123208Z" creationid="Alireza" creationdate="20201001T123208Z">
+        <seg>lesson_basics_tooltips_in_tooltips:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>lesson_basics_tooltips_in_tooltips_complete:0</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T172806Z" creationid="Alireza" creationdate="20200925T172806Z">
@@ -26552,6 +26576,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T170927Z" creationid="Alireza" creationdate="20200925T170927Z">
         <seg>lesson_basics_tooltips_in_tooltips_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_tooltips_in_tooltips_desc:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T123305Z" creationid="Alireza" creationdate="20201001T123305Z">
+        <seg>lesson_basics_tooltips_in_tooltips_desc:2</seg>
       </tuv>
     </tu>
     <tu>
