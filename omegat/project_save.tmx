@@ -6628,8 +6628,8 @@
       <tuv lang="en">
         <seg>"Falun Mining Complex"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200927T151057Z" creationid="mohammad" creationdate="20200927T151057Z">
-        <seg>"معادن مختلط فالون"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T102131Z" creationid="mohammad" creationdate="20200927T151057Z">
+        <seg>"مجموعه معادن فالون"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11729,6 +11729,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T221911Z" creationid="BIG GAMER" creationdate="20200924T221911Z">
         <seg>رقابت خواهر برادری</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Siderokausia Mines"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T102443Z" creationid="mohammad" creationdate="20201001T102443Z">
+        <seg>"معادن سیدروکاوسیا"</seg>
       </tuv>
     </tu>
     <tu>
