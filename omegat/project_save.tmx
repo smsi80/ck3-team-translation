@@ -10130,6 +10130,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Now, let's talk about the #EMP game#!! Everything takes place on the map before you. The world consists of large and small territories — landed [titles|E] held by various [rulers|E].\n\n#TUT $game_concept_titles$ are represented by elaborate coats of arms, shown as icons on the map.\n\nThe icon representing your [realm|E] is that of your [primary_title|E], the most important and prestigious $game_concept_title$ you hold.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T130406Z" creationid="Alireza" creationdate="20201001T130406Z">
+        <seg>"اکنون، بیاید در مورد #EMP بازی# صحبت کنیم!! هر چیزی که روی نقشه وجود دارد قبل از شما مکانش مشخص شده است. جهان از زمین های بزرگ و کوچک تشکیل شده است که هرکدام متعلق به کسی بر اساس [titles|E] است.\n\n#TUT مال شما $game_concept_titles$ به وسیله آیکون هایی نمایندگی می شود که به طور دقیق نشان خانوادگی شما را به نمایش کشیده اند.\n\n آیکون [realm|E] شما را نشان می دهد که به وسیله ی [primary_title|E] قرار گرفته است، که این مهمترین و معتبرترین $game_concept_title$ عنوانی است که شما نگه می دارید.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Number of Regiments"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013353Z" creationid="mohammad" creationdate="20200927T013353Z">
@@ -26664,6 +26672,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T172956Z" creationid="Alireza" creationdate="20200925T172956Z">
         <seg>lesson_basics_web_of_titles_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_web_of_titles_desc:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T125643Z" creationid="Alireza" creationdate="20201001T125643Z">
+        <seg>lesson_basics_web_of_titles_desc:2</seg>
       </tuv>
     </tu>
     <tu>
