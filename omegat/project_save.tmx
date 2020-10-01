@@ -4466,8 +4466,8 @@
       <tuv lang="en">
         <seg>"Argentiera Mine"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200929T124741Z" creationid="mohammad" creationdate="20200929T124741Z">
-        <seg>"Argentiera Mine"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T101636Z" creationid="mohammad" creationdate="20200929T124741Z">
+        <seg>"معدن  آرژانتیرا"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11447,8 +11447,8 @@
       <tuv lang="en">
         <seg>"Schwaz Mining Settlement"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20201001T101426Z" creationid="mohammad" creationdate="20201001T101426Z">
-        <seg>"Schwaz Mining Settlement"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T101542Z" creationid="mohammad" creationdate="20201001T101426Z">
+        <seg>"قرارگاه معدن شواز"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12297,6 +12297,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T021350Z" creationid="mohammad" creationdate="20200928T021350Z">
         <seg>"المحدس ها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"The Argentaria del Sigerro is rich in underground silver veins. With sufficient incentive and development, this area could be exploited for vast quantities of precious silver."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T101739Z" creationid="mohammad" creationdate="20201001T101739Z">
+        <seg>"آرژانتار دل سیگرو غنی از رگه های نقره ای زیرزمینی است. با انگیزه و توسعه کافی ، می توان از این منطقه برای مقادیر زیادی نقره گرانبها بهره برداری کرد."</seg>
       </tuv>
     </tu>
     <tu>
@@ -24518,6 +24526,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200929T100853Z" creationid="mohammad" creationdate="20200929T100853Z">
         <seg>building_type_kutna_hora_mines_01_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>building_type_schwaz_mines_01_desc:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T101428Z" creationid="mohammad" creationdate="20201001T101428Z">
+        <seg>building_type_schwaz_mines_01_desc:0</seg>
       </tuv>
     </tu>
     <tu>
