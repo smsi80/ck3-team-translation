@@ -13655,6 +13655,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Use the W, A, S, and D keys to move the camera across the map. You can also move the cursor to the edge of the screen to pan. Pressing the 'Home' key takes you to your [realm_capital|E].\n\nTo zoom in and out on the map, use the Scroll Wheel.\n\n#TUT Different information is displayed at the different zoom levels: [detail_zoom|E], [political_zoom|E], and [paper_zoom|E].\n\nZoomed in, you have the ability to select and manage your [holdings|E]. Zooming out gives you an overview of all [realms|E].#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T122930Z" creationid="Alireza" creationdate="20201001T122930Z">
+        <seg>"برای حرکت دادن دوربین روی نقشه از کلیدهای W ، A ، S و D استفاده کنید. همچنین می توانید مکان نما را به سمت لبه صفحه حرکت دهید تا صفحه حرکت کند. با فشار دادن کلید "Home" شما به  [realm_capital|E] هدایت می شوید.\n\nبرای بزرگنمایی و کوچک کردن نقشه، از چرخ اسکرول موس خود استفاده کنید.\n\n#TUT اطلاعات مختلف در سطوح مختلف بزرگنمایی نمایش داده می شوند; [detail_zoom|E], [political_zoom|E], و [paper_zoom|E].\n\nبا کوچک نمایی شما تونایی انتخاب و مدیریت [holdings|E] خواهید داشت. بزرگنمایی یک نمای کلی از [realms|E] به شما می دهد.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Use the W, A, S, and D keys to move the camera across the map. You can also move the cursor to the edge of the screen to pan. Pressing the 'Home' key takes you to your [realm_capital|E].\n\nTo zoom in and out on the map, use the Scroll Wheel.\n\n#TUT Different information is displayed at the different zoom levels; [detail_zoom|E], [political_zoom|E], and [paper_zoom|E].\n\nZoomed in, you have the ability to select and manage your [holdings|E]. Zooming out gives you an overview of all [realms|E].#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T161953Z" creationid="Alireza" creationdate="20200925T161953Z">
@@ -14249,8 +14257,8 @@
       <tuv lang="en">
         <seg>"You are a medieval ruler! Your reign may be brief, but through your heirs you can bring your dynasty to prominence. Land is yours for the taking, by way of the sword or through marriage, and clever diplomacy can extend your reach far beyond the wildest dreams of any conqueror...\n\n#TUT There is no one way to</seg>
       </tuv>
-      <tuv lang="fa" changeid="Alireza" changedate="20201001T122558Z" creationid="Alireza" creationdate="20201001T121535Z">
-        <seg>"شما یک حاکم قرون وسطایی هستید! سلطنت شما ممکن است کوتاه باشد، اما با داشتن وارثان قدرتمند سلسله شما سالها حکومت خواهند کرد. سرزمین ها آماده تصاحب شدن توسط شماست، از طریق ازدواج های زیرکانه یا شمشیر، یک دیپلماسی هوشمندانه می تواند دامنه حکمرانی شما را فراتر از شیطانی ترین رویاهای یک فاتح گسترش دهد...\n\n#TUT هیچ راهی برای</seg>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T122715Z" creationid="Alireza" creationdate="20201001T121535Z">
+        <seg>"شما یک حاکم قرون وسطایی هستید! سلطنت شما ممکن است کوتاه باشد، اما به وسیله وارثان قدرتمند، سلسله شما ممکن است سال ها حکومت کند. سرزمین ها آماده تصاحب شدن توسط شماست، از طریق ازدواج های زیرکانه یا شمشیر، یک دیپلماسی هوشمندانه می تواند دامنه حکمرانی شما را فراتر از شیطانی ترین رویاهای یک فاتح گسترش دهد...\n\n#TUT هیچ راهی برای</seg>
       </tuv>
     </tu>
     <tu>
@@ -16902,8 +16910,8 @@
         <seg>#Camera &amp; Map
  lesson_basics_camera:0</seg>
       </tuv>
-      <tuv lang="fa" changeid="Alireza" changedate="20200925T160236Z" creationid="Alireza" creationdate="20200925T160236Z">
-        <seg>#Camera &amp; Map
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T122740Z" creationid="Alireza" creationdate="20200925T160236Z">
+        <seg>#دوربین و نقشه
  lesson_basics_camera:0</seg>
       </tuv>
     </tu>
