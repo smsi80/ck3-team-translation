@@ -8260,8 +8260,8 @@
       <tuv lang="en">
         <seg>"If you hover over your character portrait, the coat of arms over your [realm_capital|E] ($cn_luimneach$) will glow and the entirety of your [realm|E] will be highlighted. Munster is your [primary_title|E], which is why your $game_concept_realm$ is named after it.\n\nYou also hold the Earldom of Thomond as a separate $game_concept_title$.\n\n#TUT If you zoom out, it will read</seg>
       </tuv>
-      <tuv lang="fa" changeid="Alireza" changedate="20201001T130956Z" creationid="Alireza" creationdate="20201001T130956Z">
-        <seg>"If you hover over your character portrait, the coat of arms over your [realm_capital|E] ($cn_luimneach$) will glow and the entirety of your [realm|E] will be highlighted. Munster is your [primary_title|E], which is why your $game_concept_realm$ is named after it.\n\nYou also hold the Earldom of Thomond as a separate $game_concept_title$.\n\n#TUT If you zoom out, it will read</seg>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T131919Z" creationid="Alireza" creationdate="20201001T130956Z">
+        <seg>"اگر روی پرتره شخصیت خود کلیک کنید (در نمای شخصیت برجسته شده است)، نشان خانوادگی شما در [realm_capital|E] ($cn_luimneach$) روشن خواهد شد و تمام [realm|E] شما برجسته خواهد شد. Munster [primary_title|E] شما خواهد بود، به همین دلیل $game_concept_realm$ شما بعد از آن نامگذاری شده است.\n\n شما همچنین Earldom of Thomond را به عنوان یک $game_concept_title$ مجزا نگه داشته اید.\n\n#TUT اگرنقشه را بزرگنمایی کنید، در این قسمت از نقشه</seg>
       </tuv>
     </tu>
     <tu>
@@ -26512,6 +26512,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200925T175500Z" creationid="Alireza" creationdate="20200925T175500Z">
         <seg>lesson_basics_realm_desc:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_realm_desc:3</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T131448Z" creationid="Alireza" creationdate="20201001T131448Z">
+        <seg>lesson_basics_realm_desc:3</seg>
       </tuv>
     </tu>
     <tu>
