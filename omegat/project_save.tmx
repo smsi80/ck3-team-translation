@@ -4472,6 +4472,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Argentiera Mining Complex"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T102110Z" creationid="mohammad" creationdate="20201001T102110Z">
+        <seg>"مجموعه معادن آرژانتیرا"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Argentiera Mining Settlement"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T101920Z" creationid="mohammad" creationdate="20201001T101835Z">
+        <seg>"قرارگاه معدن آرژانتیرا"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Army Maintenance: [gold_i]$VALUE|=+1$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T235521Z" creationid="mohammad" creationdate="20200925T235521Z">
@@ -8738,6 +8754,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Large Argentiera Mine"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T102012Z" creationid="mohammad" creationdate="20201001T101958Z">
+        <seg>"معدن وسیع آرژانتیرا"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Large City"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200924T120937Z" creationid="Novin Pendar" creationdate="20200924T120937Z">
@@ -12303,8 +12327,8 @@
       <tuv lang="en">
         <seg>"The Argentaria del Sigerro is rich in underground silver veins. With sufficient incentive and development, this area could be exploited for vast quantities of precious silver."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20201001T101739Z" creationid="mohammad" creationdate="20201001T101739Z">
-        <seg>"آرژانتار دل سیگرو غنی از رگه های نقره ای زیرزمینی است. با انگیزه و توسعه کافی ، می توان از این منطقه برای مقادیر زیادی نقره گرانبها بهره برداری کرد."</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T101824Z" creationid="mohammad" creationdate="20201001T101739Z">
+        <seg>"آرژانتیرا دل سیگرو، غنی از رگه های زیرزمینی نقره است. با انگیزه و توسعه کافی ، می توان از این منطقه برای مقادیر زیادی نقره گرانبها بهره برداری کرد."</seg>
       </tuv>
     </tu>
     <tu>
