@@ -12013,6 +12013,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"So many lessons learned! The things you will take with you into the future!$lesson_war_final_notes_reuse$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T173041Z" creationid="Alireza" creationdate="20201001T173041Z">
+        <seg>"So many lessons learned! The things you will take with you into the future!$lesson_war_final_notes_reuse$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Sociability: $VALUE|=+0$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T225854Z" creationid="mohammad" creationdate="20200925T225854Z">
@@ -14593,8 +14601,8 @@
       <tuv lang="en">
         <seg>"You're still here! Excellent! How strange that the war stopped being valid though.$lesson_war_final_notes_reuse$"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200926T153117Z" creationid="mohammad" creationdate="20200926T152817Z">
-        <seg>"شما هنوز اینجا هستید! بسیار عالیست ! چقدر عجیب است که جنگ از اعتبار متوقف شد. $ study_war_final_notes_reuse $"</seg>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T172936Z" creationid="mohammad" creationdate="20200926T152817Z">
+        <seg>"شما هنوز اینجا هستید! بسیار عالیست ! چقدر عجیب است که جنگ از درستی خارج شد.$lesson_war_final_notes_reuse$"</seg>
       </tuv>
     </tu>
     <tu>
