@@ -9980,8 +9980,8 @@
       <tuv lang="en">
         <seg>"No passive [experience|E] gain as you have not chosen a [focus|E] within this Lifestyle"</seg>
       </tuv>
-      <tuv lang="fa" changeid="Smsi" changedate="20200930T072042Z" creationid="Smsi" creationdate="20200930T072042Z">
-        <seg>"هیچ [experience|E] را کسب نمیکنید وقتی که  [focus|E] سبک زنگی را انتخواب نکرده اید"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20201001T093532Z" creationid="Smsi" creationdate="20200930T072042Z">
+        <seg>"هیچ [experience|E] ای دریافت نمیکنید چون هیچ یک از [focus|E] های این سبک زندگی را انتخاب نکرده اید"</seg>
       </tuv>
     </tu>
     <tu>
