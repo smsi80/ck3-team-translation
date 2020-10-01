@@ -4536,6 +4536,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"As a [ruler|E], you can only hold so much land on your own — you will often have other $game_concept_rulers$ helping with the administration of the [realm|E] by holding land ([titles|E]) within your borders, making them your [vassals|E].\n\n#TUT To find your own land, your [domain|E], press the 'Home' key, and zoom in. Once closer up, you can see blue labels on the [baronies|E] that belong to you (in this case it will only be $cn_luimneach$).\n\nThe Earldom of $c_ormond$ is held by your Vassal.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T132408Z" creationid="Alireza" creationdate="20201001T132408Z">
+        <seg>"به عنوان یک [ruler|E]، شما تنها می توانید این همه زمین را به تنهایی در اختیار داشته باشید — شما اغلب کمک دیگر $game_concept_rulers$ را برای اداره ی [realm|E] به وسیله نگهداری ([titles|E]) های آن سرزمین در درون مرزها خود خواهید داشت، آنها را به [vassals|E] خود تبدیل کنید.\n\n#TUT برای پیدا کردن زمین خود، [domain|E] خود، بر روی دکمه 'Home' کلیک و سپس زووم کنید. وقتی نزدیک تر شدید، شما می توانید برچسب های آبی روی [baronies|E] را ببینید که متعلق به شما هستند (در این حالت فقط $cn_luimneach$ خواهد بود).\n\nThe Earldom of $c_ormond$ توسط واسال شما نگهداری می شود."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"As far as the eye can see, there is row upon row of fruit-bearing trees."</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T063051Z" creationid="Novin Pendar" creationdate="20200925T063051Z">
