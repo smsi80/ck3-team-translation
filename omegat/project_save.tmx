@@ -14551,6 +14551,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"You play one of many [characters|E] in this world, represented by Character avatars. Your Character is the [ruler|E] of a [realm|E]!\n\n#TUT You will need to make sure that your [dynasty|E] survives and thrives throughout the ages. Your [titles|E] give you power and control over territory, as well as over other Characters (who might hold Titles and land of their own).#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T132656Z" creationid="Alireza" creationdate="20201001T132656Z">
+        <seg>"شما به عنوان یکی از هزاران [characters|E] موجود در جهان بازی می کنید، که توسط آواتار های شخصیت نشان داده می شود. شخصیت شما [ruler|E] از [realm|E] است!\n\n#TUT شما باید اطمینان حاصل کنید که [dynasty|E] شما برای قرن ها زنده مانده و رشد می کند. [titles|E] به شما قدرت و قابلیت کنترل بر روی سرزمین و دیگر شخصیت ها (که ممکن است عناوین و سرزمین خود را داشته باشند) را می دهد.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"You replaced [RIGHT_CHARACTER.GetUINameNoTooltip] in the [WAR.GetName|V]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T073804Z" creationid="mohammad" creationdate="20200925T073804Z">
@@ -26408,6 +26416,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200926T113809Z" creationid="Alireza" creationdate="20200926T113809Z">
         <seg>lesson_basics_characters_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_characters_desc:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T132508Z" creationid="Alireza" creationdate="20201001T132508Z">
+        <seg>lesson_basics_characters_desc:1</seg>
       </tuv>
     </tu>
     <tu>
