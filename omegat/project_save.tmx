@@ -12461,6 +12461,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"The House of Wisdom contains a vast collection of books, and the scribes therein work tirelessly both day and night to translate even more great works of literature. The sources vary from Greek, Persian, Indian and many more — truly, it contains the entire world's knowledge! A shining beacon of human knowledge! And comfortably far from the illiterate horsemen of the steppe..."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Novin Pendar" changedate="20201001T110238Z" creationid="Novin Pendar" creationdate="20201001T110238Z">
+        <seg>" بیت الحکمة مجموعه های عظیمی از کتاب و کتیبه در بردارد که  کاتبان شبانه روز درحال نگهداری و ترجمه انها هستند تا به اثاری ادبی چه بسا بزرگتر تبدیل شوند. منابع این کتابخانه زبان های یونانی ، فارسی ، هندی و غیره را شامل میشود — همانا که حکمت عالم را در خود دارد! و دور از اسب سواران صحرایی بی سواد و نامتمدن است.... "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"The Hungarian Migration will already be active on game start."</seg>
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200925T122546Z" creationid="mahan" creationdate="20200925T122546Z">
