@@ -15791,6 +15791,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[characters|E] have [skills|E], indicating their proficiency within a certain field. Some are great talkers, while others prefer to make their intent clear on the battlefield.\n\n#TUT The main Skills are:\n#![diplomacy_i|E] [diplomacy|E]\n[martial_i|E] [martial|E]\n[stewardship_i|E] [stewardship|E]\n[intrigue_i|E] [intrigue|E]\n[learning_i|E] [learning|E]\n\n#TUT Remember, since the text above is [Concept( 'highlighted_text', 'Highlighted' )|E], you can mouse over each Skill for a breakdown of what it entails.#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T132739Z" creationid="Alireza" creationdate="20201001T132739Z">
+        <seg>"[characters|E] have [skills|E], indicating their proficiency within a certain field. Some are great talkers, while others prefer to make their intent clear on the battlefield.\n\n#TUT The main Skills are:\n#![diplomacy_i|E] [diplomacy|E]\n[martial_i|E] [martial|E]\n[stewardship_i|E] [stewardship|E]\n[intrigue_i|E] [intrigue|E]\n[learning_i|E] [learning|E]\n\n#TUT Remember, since the text above is [Concept( 'highlighted_text', 'Highlighted' )|E], you can mouse over each Skill for a breakdown of what it entails.#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[characters|E] have [skills|E], indicating their proficiency within a certain field. Some are great talkers, while others prefer to make their intent clear on the battlefield.\n\n#TUT The main Skills are:\n#![diplomacy_i|E] [diplomacy|E]\n[martial_i|E] [martial|E]\n[stewardship_i|E] [stewardship|E]\n[intrigue_i|E] [intrigue|E]\n[learning_i|E] [learning|E]\n\n#TUT Remember, since these are [highlighted_text|E], you can mouse over each for a breakdown of what they mean.#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200926T122454Z" creationid="Alireza" creationdate="20200926T122454Z">
@@ -26584,6 +26592,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="Alireza" changedate="20200926T114507Z" creationid="Alireza" creationdate="20200926T114507Z">
         <seg>lesson_basics_skills_desc:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lesson_basics_skills_desc:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="Alireza" changedate="20201001T132700Z" creationid="Alireza" creationdate="20201001T132700Z">
+        <seg>lesson_basics_skills_desc:2</seg>
       </tuv>
     </tu>
     <tu>
