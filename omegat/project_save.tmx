@@ -4866,8 +4866,8 @@
       <tuv lang="en">
         <seg>"Bellum Justum"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200926T122727Z" creationid="mohammad" creationdate="20200926T122727Z">
-        <seg>"Bellum Justum"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T082056Z" creationid="mohammad" creationdate="20200926T122727Z">
+        <seg>"جنگ عادلانه"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6820,8 +6820,8 @@
       <tuv lang="en">
         <seg>"Firm Hand"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200926T122512Z" creationid="mohammad" creationdate="20200926T122512Z">
-        <seg>"Firm Hand"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T082221Z" creationid="mohammad" creationdate="20200926T122512Z">
+        <seg>"قاطع"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9076,8 +9076,8 @@
       <tuv lang="en">
         <seg>"Living Off the Land"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200926T130533Z" creationid="mohammad" creationdate="20200926T130533Z">
-        <seg>"Living Off the Land"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T081908Z" creationid="mohammad" creationdate="20200926T130533Z">
+        <seg>"خودکفا"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10444,8 +10444,8 @@
       <tuv lang="en">
         <seg>"Parthian Tactics"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200926T125202Z" creationid="mohammad" creationdate="20200926T125202Z">
-        <seg>"Parthian Tactics"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T081919Z" creationid="mohammad" creationdate="20200926T125202Z">
+        <seg>"پارتیزان"</seg>
       </tuv>
     </tu>
     <tu>
@@ -17179,6 +17179,16 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200922T031406Z" creationid="mohammad" creationdate="20200922T031406Z">
         <seg>#Martial Education Focus
  education_martial:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#Martial: Strategy Tree
+ bellum_justum_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T082038Z" creationid="mohammad" creationdate="20201002T082038Z">
+        <seg>#Martial: Strategy Tree
+ bellum_justum_perk_name:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -28646,6 +28656,14 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>parthian_tactics_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T082036Z" creationid="mohammad" creationdate="20201002T082036Z">
+        <seg>parthian_tactics_perk_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>peasant_faction_event_troops:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T021231Z" creationid="mohammad" creationdate="20200928T021231Z">
@@ -28722,6 +28740,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T020604Z" creationid="mohammad" creationdate="20200928T020604Z">
         <seg>rite_pronouncements_law_cost_tooltip:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sappers_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T081826Z" creationid="mohammad" creationdate="20201002T081826Z">
+        <seg>sappers_perk_name:0</seg>
       </tuv>
     </tu>
     <tu>
