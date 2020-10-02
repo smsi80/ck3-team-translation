@@ -1672,6 +1672,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T Court#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T084657Z" creationid="mohammad" creationdate="20201002T084657Z">
+        <seg>"#T دربار#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T Current date: [DATE.GetString]#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T212601Z" creationid="mohammad" creationdate="20200925T212601Z">
@@ -1692,6 +1700,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T015848Z" creationid="mohammad" creationdate="20200928T015848Z">
         <seg>"#T Development Level: $LEVEL|+0$ #!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T Factions#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T084648Z" creationid="mohammad" creationdate="20201002T084648Z">
+        <seg>"#T دسته ها#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T Find Title#!\nFind any [title|E] in the game."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T084926Z" creationid="mohammad" creationdate="20201002T084926Z">
+        <seg>"#T یافتن عنوان#!\nجستجوی عنوان میان تمام عنوان های بازی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1728,6 +1752,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T Intrigue#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T084631Z" creationid="mohammad" creationdate="20201002T084631Z">
+        <seg>"#T دسیسه چینی#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T Military#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201002T084539Z" creationid="mohammad" creationdate="20201002T084539Z">
@@ -1740,6 +1772,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201001T060307Z" creationid="mohammad" creationdate="20200930T065009Z">
         <seg>"#T به عنوان $bookmark_rags_to_riches_petty_king_murchad$ در سال ۱۰۶۶ بازی کنید!#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T Prisoners#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T084652Z" creationid="mohammad" creationdate="20201002T084652Z">
+        <seg>"#T زندانیان#!"</seg>
       </tuv>
     </tu>
     <tu>
