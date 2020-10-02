@@ -1744,10 +1744,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T Go to Capital#!\nPan to Move the camera to [GetPlayer.GetCapitalLocation.GetName|V]."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091511Z" creationid="mohammad" creationdate="20201002T091511Z">
+        <seg>#T رفتن به پایتخت#!\nبرای رفتن به  [GetPlayer.GetCapitalLocation.GetName|V] حرکت دهید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T Go to [PlayerMessageItem.GetGotoProvince.GetName].#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T065625Z" creationid="mohammad" creationdate="20200925T065625Z">
         <seg>"#T برو به [PlayerMessageItem.GetGotoProvince.GetName].#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T Go to your Location#!\nMove the camera to [GetPlayer.GetCurrentLocation.GetName|V]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091641Z" creationid="mohammad" creationdate="20201002T091604Z">
+        <seg>"#T رفتن به مکان شما#!\nجابجایی دوربین به [GetPlayer.GetCurrentLocation.GetName|V]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12029,6 +12045,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Show Focus View"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091549Z" creationid="mohammad" creationdate="20201002T091549Z">
+        <seg>"رفتن به حالت متمرکز"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Show Invalid Savegames"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T021628Z" creationid="mohammad" creationdate="20200925T211035Z">
@@ -20151,6 +20175,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FOCUS_BUTTON:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091512Z" creationid="mohammad" creationdate="20201002T091512Z">
+        <seg>FOCUS_BUTTON:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FOCUS_CANCHANGE:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T065828Z" creationid="mohammad" creationdate="20200930T065828Z">
@@ -20783,6 +20815,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GOTO_CAPITAL:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091642Z" creationid="mohammad" creationdate="20201002T091642Z">
+        <seg>GOTO_CAPITAL:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GOTO_PLAYER:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091549Z" creationid="mohammad" creationdate="20201002T091549Z">
+        <seg>GOTO_PLAYER:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GOTO_PROVINCE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011019Z" creationid="mohammad" creationdate="20200926T011019Z">
@@ -21027,6 +21075,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201002T091320Z" creationid="mohammad" creationdate="20201002T091320Z">
         <seg>IM_TT_FIND_CHARACTER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IM_TT_GO_TO_CAPITAL:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091339Z" creationid="mohammad" creationdate="20201002T091339Z">
+        <seg>IM_TT_GO_TO_CAPITAL:0</seg>
       </tuv>
     </tu>
     <tu>
