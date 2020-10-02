@@ -3036,6 +3036,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$REASON$: $VALUE|+=1$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T092136Z" creationid="mohammad" creationdate="20201002T092136Z">
+        <seg>"$REASON$: $VALUE|+=1$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$REASON$: $VALUE|V=0$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201002T091917Z" creationid="mohammad" creationdate="20201002T091917Z">
@@ -4586,6 +4594,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222248Z" creationid="BIG GAMER" creationdate="20200924T222248Z">
         <seg>خداوند بالاسری</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Above Natural Dread"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T092128Z" creationid="mohammad" creationdate="20201002T092128Z">
+        <seg>"بالاتر از وحشت طبیعی" </seg>
       </tuv>
     </tu>
     <tu>
@@ -11452,6 +11468,14 @@
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200926T180733Z" creationid="BIG GAMER" creationdate="20200926T180733Z">
         <seg>عنوان اعلا</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Prison"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T092141Z" creationid="mohammad" creationdate="20201002T092141Z">
+        <seg>"زندان"</seg>
       </tuv>
     </tu>
     <tu>
@@ -19669,6 +19693,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>COUNCIL_BUTTON:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T092152Z" creationid="mohammad" creationdate="20201002T092152Z">
+        <seg>COUNCIL_BUTTON:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>COUNTY_OPINION_DIFFERENT_CULTURE:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T020055Z" creationid="mohammad" creationdate="20200928T020055Z">
@@ -19697,6 +19729,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T233246Z" creationid="mohammad" creationdate="20200925T233246Z">
         <seg>COURTIER:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>COURT_BUTTON:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T092153Z" creationid="mohammad" creationdate="20201002T092153Z">
+        <seg>COURT_BUTTON:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -19989,6 +20029,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DECISIONS_BUTTON:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T092151Z" creationid="mohammad" creationdate="20201002T092151Z">
+        <seg>DECISIONS_BUTTON:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DEFENDERS:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T015715Z" creationid="mohammad" creationdate="20200928T015715Z">
@@ -20189,10 +20237,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DREAD_MONTHLY_NORMALIZING_NEGATIVE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T092116Z" creationid="mohammad" creationdate="20201002T092116Z">
+        <seg>DREAD_MONTHLY_NORMALIZING_NEGATIVE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DREAD_MONTHLY_NORMALIZING_POSITIVE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201002T091920Z" creationid="mohammad" creationdate="20201002T091920Z">
         <seg>DREAD_MONTHLY_NORMALIZING_POSITIVE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DREAD_MONTHLY_REASON:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T092128Z" creationid="mohammad" creationdate="20201002T092128Z">
+        <seg>DREAD_MONTHLY_REASON:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -20537,6 +20601,14 @@
       </tuv>
       <tuv lang="fa" changeid="Smsi" changedate="20200930T073002Z" creationid="Smsi" creationdate="20200930T073002Z">
         <seg>EXPERIENCE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FACTION_BUTTON:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T092152Z" creationid="mohammad" creationdate="20201002T092152Z">
+        <seg>FACTION_BUTTON:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -21517,6 +21589,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>IM_TT_FIND_TITLE:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T092154Z" creationid="mohammad" creationdate="20201002T092154Z">
+        <seg>IM_TT_FIND_TITLE:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>IM_TT_GO_TO_CAPITAL:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201002T091339Z" creationid="mohammad" creationdate="20201002T091339Z">
@@ -21617,6 +21697,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T013743Z" creationid="mohammad" creationdate="20200928T013743Z">
         <seg>INTERACTION_REPLY_TIMEOUT_REJECT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>INTRIGUE_BUTTON:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T092152Z" creationid="mohammad" creationdate="20201002T092152Z">
+        <seg>INTRIGUE_BUTTON:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -23173,6 +23261,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MILITARY_BUTTON:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T092151Z" creationid="mohammad" creationdate="20201002T092151Z">
+        <seg>MILITARY_BUTTON:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MILITARY_VIEW:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T234439Z" creationid="mohammad" creationdate="20200925T234439Z">
@@ -23329,6 +23425,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T013324Z" creationid="mohammad" creationdate="20200928T013324Z">
         <seg>MY_VALUE_COLON:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MY_WAR_ITEM_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T092149Z" creationid="mohammad" creationdate="20201002T092149Z">
+        <seg>MY_WAR_ITEM_TOOLTIP:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -24317,10 +24421,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PRISON:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T092137Z" creationid="mohammad" creationdate="20201002T092137Z">
+        <seg>PRISON:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PRISONER_RELATION:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T013317Z" creationid="mohammad" creationdate="20200928T013317Z">
         <seg>PRISONER_RELATION:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PRISON_BUTTON:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T092153Z" creationid="mohammad" creationdate="20201002T092153Z">
+        <seg>PRISON_BUTTON:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -24841,6 +24961,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T060408Z" creationid="mohammad" creationdate="20200930T060408Z">
         <seg>SCAN_FOR_GAME:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCHEMES_BUTTON:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T092151Z" creationid="mohammad" creationdate="20201002T092151Z">
+        <seg>SCHEMES_BUTTON:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -28160,6 +28288,16 @@ building_royal_forest_03:0</seg>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T214744Z" creationid="mohammad" creationdate="20200924T214744Z">
         <seg>l_english:
  MESSAGE_CLICK_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>l_english:
+ MY_REALM_BUTTON:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T092150Z" creationid="mohammad" creationdate="20201002T092150Z">
+        <seg>l_english:
+ MY_REALM_BUTTON:0</seg>
       </tuv>
     </tu>
     <tu>
