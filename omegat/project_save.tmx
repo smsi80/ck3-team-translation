@@ -14,6 +14,116 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_10:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091850Z" creationid="mohammad" creationdate="20201002T091850Z">
+        <seg>"" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_10:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_1:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091843Z" creationid="mohammad" creationdate="20201002T091843Z">
+        <seg>"" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_1:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_2:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091849Z" creationid="mohammad" creationdate="20201002T091849Z">
+        <seg>"" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_2:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_3:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091849Z" creationid="mohammad" creationdate="20201002T091849Z">
+        <seg>"" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_3:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_4:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091849Z" creationid="mohammad" creationdate="20201002T091849Z">
+        <seg>"" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_4:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_5:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091849Z" creationid="mohammad" creationdate="20201002T091849Z">
+        <seg>"" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_5:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_6:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091850Z" creationid="mohammad" creationdate="20201002T091850Z">
+        <seg>"" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_6:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_7:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091850Z" creationid="mohammad" creationdate="20201002T091850Z">
+        <seg>"" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_7:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_8:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091850Z" creationid="mohammad" creationdate="20201002T091850Z">
+        <seg>"" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_8:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_9:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091850Z" creationid="mohammad" creationdate="20201002T091850Z">
+        <seg>"" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_9:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"" Delete this
+ PIETY_PROGRESS_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091851Z" creationid="mohammad" creationdate="20201002T091851Z">
+        <seg>"" Delete this
+ PIETY_PROGRESS_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#D Boldness &amp; Dread#!: $VALUE|=+0$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T230316Z" creationid="mohammad" creationdate="20200925T230316Z">
@@ -1768,6 +1878,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T Go to your [realm_capital|E]#!\nMove the camera to [GetPlayer.GetCapitalLocation.GetName|V]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091657Z" creationid="mohammad" creationdate="20201002T091657Z">
+        <seg>"#T Go to your [realm_capital|E]#!\nMove the camera to [GetPlayer.GetCapitalLocation.GetName|V]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T In-game Menu#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201002T090824Z" creationid="mohammad" creationdate="20201002T090824Z">
@@ -2918,6 +3036,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"$REASON$: $VALUE|V=0$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091917Z" creationid="mohammad" creationdate="20201002T091917Z">
+        <seg>"$REASON$: $VALUE|V=0$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"$REASONS$ and $LAST_REASON$"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T010625Z" creationid="mohammad" creationdate="20200928T010625Z">
@@ -3002,6 +3128,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T015428Z" creationid="mohammad" creationdate="20200928T015428Z">
         <seg>"$VALUE$ سالها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"$VALUE|+=$/year"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091826Z" creationid="mohammad" creationdate="20201002T091826Z">
+        <seg>"$VALUE|+=$/year"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3702,6 +3836,246 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T182957Z" creationid="mohammad" creationdate="20200921T182957Z">
         <seg>"9 14 20 18 9 7 21 5"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@piety_level_0_icon_christian! [GetModifier( 'piety_level_0' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091710Z" creationid="mohammad" creationdate="20201002T091710Z">
+        <seg>"@piety_level_0_icon_christian! [GetModifier( 'piety_level_0' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@piety_level_0_icon_eastern! [GetModifier( 'piety_level_0' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091831Z" creationid="mohammad" creationdate="20201002T091831Z">
+        <seg>"@piety_level_0_icon_eastern! [GetModifier( 'piety_level_0' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@piety_level_0_icon_islam! [GetModifier( 'piety_level_0' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091827Z" creationid="mohammad" creationdate="20201002T091827Z">
+        <seg>"@piety_level_0_icon_islam! [GetModifier( 'piety_level_0' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@piety_level_0_icon_pagan! [GetModifier( 'piety_level_0' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091829Z" creationid="mohammad" creationdate="20201002T091829Z">
+        <seg>"@piety_level_0_icon_pagan! [GetModifier( 'piety_level_0' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@piety_level_1_icon_christian! [GetModifier( 'piety_level_1' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091711Z" creationid="mohammad" creationdate="20201002T091711Z">
+        <seg>"@piety_level_1_icon_christian! [GetModifier( 'piety_level_1' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@piety_level_1_icon_eastern! [GetModifier( 'piety_level_1' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091831Z" creationid="mohammad" creationdate="20201002T091831Z">
+        <seg>"@piety_level_1_icon_eastern! [GetModifier( 'piety_level_1' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@piety_level_1_icon_islam! [GetModifier( 'piety_level_1' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091827Z" creationid="mohammad" creationdate="20201002T091827Z">
+        <seg>"@piety_level_1_icon_islam! [GetModifier( 'piety_level_1' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@piety_level_1_icon_pagan! [GetModifier( 'piety_level_1' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091829Z" creationid="mohammad" creationdate="20201002T091829Z">
+        <seg>"@piety_level_1_icon_pagan! [GetModifier( 'piety_level_1' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@piety_level_2_icon_christian! [GetModifier( 'piety_level_2' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091711Z" creationid="mohammad" creationdate="20201002T091711Z">
+        <seg>"@piety_level_2_icon_christian! [GetModifier( 'piety_level_2' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@piety_level_2_icon_eastern! [GetModifier( 'piety_level_2' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091832Z" creationid="mohammad" creationdate="20201002T091832Z">
+        <seg>"@piety_level_2_icon_eastern! [GetModifier( 'piety_level_2' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@piety_level_2_icon_islam! [GetModifier( 'piety_level_2' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091828Z" creationid="mohammad" creationdate="20201002T091828Z">
+        <seg>"@piety_level_2_icon_islam! [GetModifier( 'piety_level_2' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@piety_level_2_icon_pagan! [GetModifier( 'piety_level_2' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091830Z" creationid="mohammad" creationdate="20201002T091830Z">
+        <seg>"@piety_level_2_icon_pagan! [GetModifier( 'piety_level_2' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@piety_level_3_icon_christian! [GetModifier( 'piety_level_3' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091711Z" creationid="mohammad" creationdate="20201002T091711Z">
+        <seg>"@piety_level_3_icon_christian! [GetModifier( 'piety_level_3' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@piety_level_3_icon_eastern! [GetModifier( 'piety_level_3' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091832Z" creationid="mohammad" creationdate="20201002T091832Z">
+        <seg>"@piety_level_3_icon_eastern! [GetModifier( 'piety_level_3' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@piety_level_3_icon_islam! [GetModifier( 'piety_level_3' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091828Z" creationid="mohammad" creationdate="20201002T091828Z">
+        <seg>"@piety_level_3_icon_islam! [GetModifier( 'piety_level_3' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@piety_level_3_icon_pagan! [GetModifier( 'piety_level_3' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091830Z" creationid="mohammad" creationdate="20201002T091830Z">
+        <seg>"@piety_level_3_icon_pagan! [GetModifier( 'piety_level_3' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@piety_level_4_icon_christian! [GetModifier( 'piety_level_4' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091712Z" creationid="mohammad" creationdate="20201002T091712Z">
+        <seg>"@piety_level_4_icon_christian! [GetModifier( 'piety_level_4' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@piety_level_4_icon_eastern! [GetModifier( 'piety_level_4' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091832Z" creationid="mohammad" creationdate="20201002T091832Z">
+        <seg>"@piety_level_4_icon_eastern! [GetModifier( 'piety_level_4' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@piety_level_4_icon_islam! [GetModifier( 'piety_level_4' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091828Z" creationid="mohammad" creationdate="20201002T091828Z">
+        <seg>"@piety_level_4_icon_islam! [GetModifier( 'piety_level_4' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@piety_level_4_icon_pagan! [GetModifier( 'piety_level_4' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091830Z" creationid="mohammad" creationdate="20201002T091830Z">
+        <seg>"@piety_level_4_icon_pagan! [GetModifier( 'piety_level_4' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@piety_level_5_icon_christian! [GetModifier( 'piety_level_5' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091712Z" creationid="mohammad" creationdate="20201002T091712Z">
+        <seg>"@piety_level_5_icon_christian! [GetModifier( 'piety_level_5' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@piety_level_5_icon_eastern! [GetModifier( 'piety_level_5' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091701Z" creationid="mohammad" creationdate="20201002T091701Z">
+        <seg>"@piety_level_5_icon_eastern! [GetModifier( 'piety_level_5' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@piety_level_5_icon_islam! [GetModifier( 'piety_level_5' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091829Z" creationid="mohammad" creationdate="20201002T091829Z">
+        <seg>"@piety_level_5_icon_islam! [GetModifier( 'piety_level_5' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@piety_level_5_icon_pagan! [GetModifier( 'piety_level_5' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091831Z" creationid="mohammad" creationdate="20201002T091831Z">
+        <seg>"@piety_level_5_icon_pagan! [GetModifier( 'piety_level_5' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@prestige_level_0_icon! [GetModifier( 'prestige_level_0' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091701Z" creationid="mohammad" creationdate="20201002T091701Z">
+        <seg>"@prestige_level_0_icon! [GetModifier( 'prestige_level_0' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@prestige_level_1_icon! [GetModifier( 'prestige_level_1' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091702Z" creationid="mohammad" creationdate="20201002T091702Z">
+        <seg>"@prestige_level_1_icon! [GetModifier( 'prestige_level_1' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@prestige_level_2_icon! [GetModifier( 'prestige_level_2' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091702Z" creationid="mohammad" creationdate="20201002T091702Z">
+        <seg>"@prestige_level_2_icon! [GetModifier( 'prestige_level_2' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@prestige_level_3_icon! [GetModifier( 'prestige_level_3' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091703Z" creationid="mohammad" creationdate="20201002T091703Z">
+        <seg>"@prestige_level_3_icon! [GetModifier( 'prestige_level_3' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@prestige_level_4_icon! [GetModifier( 'prestige_level_4' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091704Z" creationid="mohammad" creationdate="20201002T091704Z">
+        <seg>"@prestige_level_4_icon! [GetModifier( 'prestige_level_4' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"@prestige_level_5_icon! [GetModifier( 'prestige_level_5' ).GetNameWithTooltip|L]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091704Z" creationid="mohammad" creationdate="20201002T091704Z">
+        <seg>"@prestige_level_5_icon! [GetModifier( 'prestige_level_5' ).GetNameWithTooltip|L]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4922,8 +5296,8 @@
       <tuv lang="en">
         <seg>"Base"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200925T222945Z" creationid="mohammad" creationdate="20200925T222945Z">
-        <seg>"اولیه"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091911Z" creationid="mohammad" creationdate="20200925T222945Z">
+        <seg>"پایه"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5036,6 +5410,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201002T082056Z" creationid="mohammad" creationdate="20200926T122727Z">
         <seg>"جنگ عادلانه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Below Natural Dread"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T092115Z" creationid="mohammad" creationdate="20201002T092115Z">
+        <seg>"زیر وحشت طبیعی" </seg>
       </tuv>
     </tu>
     <tu>
@@ -9890,6 +10272,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Monthly change"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091920Z" creationid="mohammad" creationdate="20201002T091920Z">
+        <seg>"تغییر ماهانه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Monumental"</seg>
       </tuv>
       <tuv lang="fa" changeid="BIG GAMER" changedate="20200924T222735Z" creationid="BIG GAMER" creationdate="20200924T222735Z">
@@ -11086,6 +11476,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T111531Z" creationid="mohammad" creationdate="20200926T111531Z">
         <seg>"نیروی کار حرفه ای "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Progress toward: $LEVEL$"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091818Z" creationid="mohammad" creationdate="20201002T091818Z">
+        <seg>"پیشرفت به سمت: $LEVEL$"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Progress: $VALUE|0V$/$MAX|0$ towards the next [piety_level|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091900Z" creationid="mohammad" creationdate="20201002T091900Z">
+        <seg>"Progress: $VALUE|0V$/$MAX|0$ towards the next [piety_level|E]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -17485,6 +17891,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>#DYNASTY_PRESTIGE_LEVEL_LABEL_0:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091709Z" creationid="mohammad" creationdate="20201002T091709Z">
+        <seg>#DYNASTY_PRESTIGE_LEVEL_LABEL_0:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>#Diplomacy
  diplomacy_lifestyle_name:0</seg>
       </tuv>
@@ -19755,6 +20169,30 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013743Z" creationid="mohammad" creationdate="20200927T013743Z">
         <seg>DREAD:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DREAD_BASE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091904Z" creationid="mohammad" creationdate="20201002T091904Z">
+        <seg>DREAD_BASE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DREAD_BASE_REASON:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091912Z" creationid="mohammad" creationdate="20201002T091912Z">
+        <seg>DREAD_BASE_REASON:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DREAD_MONTHLY_NORMALIZING_POSITIVE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091920Z" creationid="mohammad" creationdate="20201002T091920Z">
+        <seg>DREAD_MONTHLY_NORMALIZING_POSITIVE:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -23319,6 +23757,246 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_0:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091727Z" creationid="mohammad" creationdate="20201002T091727Z">
+        <seg>PIETY_LEVEL_LABEL_0:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_0_christian:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091713Z" creationid="mohammad" creationdate="20201002T091713Z">
+        <seg>PIETY_LEVEL_LABEL_0_christian:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_0_eastern:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091831Z" creationid="mohammad" creationdate="20201002T091831Z">
+        <seg>PIETY_LEVEL_LABEL_0_eastern:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_0_islam:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091827Z" creationid="mohammad" creationdate="20201002T091827Z">
+        <seg>PIETY_LEVEL_LABEL_0_islam:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_0_pagan:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091829Z" creationid="mohammad" creationdate="20201002T091829Z">
+        <seg>PIETY_LEVEL_LABEL_0_pagan:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_1:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091710Z" creationid="mohammad" creationdate="20201002T091710Z">
+        <seg>PIETY_LEVEL_LABEL_1:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_1_christian:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091716Z" creationid="mohammad" creationdate="20201002T091716Z">
+        <seg>PIETY_LEVEL_LABEL_1_christian:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_1_eastern:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091831Z" creationid="mohammad" creationdate="20201002T091831Z">
+        <seg>PIETY_LEVEL_LABEL_1_eastern:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_1_islam:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091827Z" creationid="mohammad" creationdate="20201002T091827Z">
+        <seg>PIETY_LEVEL_LABEL_1_islam:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_1_pagan:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091829Z" creationid="mohammad" creationdate="20201002T091829Z">
+        <seg>PIETY_LEVEL_LABEL_1_pagan:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_2:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091711Z" creationid="mohammad" creationdate="20201002T091711Z">
+        <seg>PIETY_LEVEL_LABEL_2:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_2_christian:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091717Z" creationid="mohammad" creationdate="20201002T091717Z">
+        <seg>PIETY_LEVEL_LABEL_2_christian:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_2_eastern:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091831Z" creationid="mohammad" creationdate="20201002T091831Z">
+        <seg>PIETY_LEVEL_LABEL_2_eastern:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_2_islam:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091828Z" creationid="mohammad" creationdate="20201002T091828Z">
+        <seg>PIETY_LEVEL_LABEL_2_islam:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_2_pagan:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091829Z" creationid="mohammad" creationdate="20201002T091829Z">
+        <seg>PIETY_LEVEL_LABEL_2_pagan:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_3:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091711Z" creationid="mohammad" creationdate="20201002T091711Z">
+        <seg>PIETY_LEVEL_LABEL_3:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_3_christian:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091717Z" creationid="mohammad" creationdate="20201002T091717Z">
+        <seg>PIETY_LEVEL_LABEL_3_christian:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_3_eastern:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091832Z" creationid="mohammad" creationdate="20201002T091832Z">
+        <seg>PIETY_LEVEL_LABEL_3_eastern:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_3_islam:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091828Z" creationid="mohammad" creationdate="20201002T091828Z">
+        <seg>PIETY_LEVEL_LABEL_3_islam:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_3_pagan:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091830Z" creationid="mohammad" creationdate="20201002T091830Z">
+        <seg>PIETY_LEVEL_LABEL_3_pagan:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_4:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091712Z" creationid="mohammad" creationdate="20201002T091712Z">
+        <seg>PIETY_LEVEL_LABEL_4:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_4_christian:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091718Z" creationid="mohammad" creationdate="20201002T091718Z">
+        <seg>PIETY_LEVEL_LABEL_4_christian:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_4_eastern:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091832Z" creationid="mohammad" creationdate="20201002T091832Z">
+        <seg>PIETY_LEVEL_LABEL_4_eastern:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_4_islam:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091828Z" creationid="mohammad" creationdate="20201002T091828Z">
+        <seg>PIETY_LEVEL_LABEL_4_islam:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_4_pagan:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091830Z" creationid="mohammad" creationdate="20201002T091830Z">
+        <seg>PIETY_LEVEL_LABEL_4_pagan:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_5:2</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091712Z" creationid="mohammad" creationdate="20201002T091712Z">
+        <seg>PIETY_LEVEL_LABEL_5:2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_5_christian:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091719Z" creationid="mohammad" creationdate="20201002T091719Z">
+        <seg>PIETY_LEVEL_LABEL_5_christian:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_5_eastern:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091833Z" creationid="mohammad" creationdate="20201002T091833Z">
+        <seg>PIETY_LEVEL_LABEL_5_eastern:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_5_islam:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091828Z" creationid="mohammad" creationdate="20201002T091828Z">
+        <seg>PIETY_LEVEL_LABEL_5_islam:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PIETY_LEVEL_LABEL_5_pagan:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091830Z" creationid="mohammad" creationdate="20201002T091830Z">
+        <seg>PIETY_LEVEL_LABEL_5_pagan:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PIETY_WITH_BALANCE_TOOLTIP:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000259Z" creationid="mohammad" creationdate="20200926T000259Z">
@@ -23583,6 +24261,54 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PRESTIGE_LEVEL_LABEL_0:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091701Z" creationid="mohammad" creationdate="20201002T091701Z">
+        <seg>PRESTIGE_LEVEL_LABEL_0:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PRESTIGE_LEVEL_LABEL_1:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091701Z" creationid="mohammad" creationdate="20201002T091701Z">
+        <seg>PRESTIGE_LEVEL_LABEL_1:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PRESTIGE_LEVEL_LABEL_2:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091702Z" creationid="mohammad" creationdate="20201002T091702Z">
+        <seg>PRESTIGE_LEVEL_LABEL_2:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PRESTIGE_LEVEL_LABEL_3:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091703Z" creationid="mohammad" creationdate="20201002T091703Z">
+        <seg>PRESTIGE_LEVEL_LABEL_3:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PRESTIGE_LEVEL_LABEL_4:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091703Z" creationid="mohammad" creationdate="20201002T091703Z">
+        <seg>PRESTIGE_LEVEL_LABEL_4:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PRESTIGE_LEVEL_LABEL_5:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091704Z" creationid="mohammad" creationdate="20201002T091704Z">
+        <seg>PRESTIGE_LEVEL_LABEL_5:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PRESTIGE_WITH_BALANCE_TOOLTIP:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000446Z" creationid="mohammad" creationdate="20200926T000446Z">
@@ -23595,6 +24321,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T013317Z" creationid="mohammad" creationdate="20200928T013317Z">
         <seg>PRISONER_RELATION:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PROGRESS_TOWARD_LEVEL:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091819Z" creationid="mohammad" creationdate="20201002T091819Z">
+        <seg>PROGRESS_TOWARD_LEVEL:0</seg>
       </tuv>
     </tu>
     <tu>
