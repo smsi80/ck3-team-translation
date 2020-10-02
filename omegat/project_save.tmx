@@ -1824,6 +1824,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T Scheme: #!\n[Scheme.GetTooltip]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090744Z" creationid="mohammad" creationdate="20201002T090744Z">
+        <seg>"#T نقشه: #!\n[Scheme.GetTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T Schemes#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201002T084515Z" creationid="mohammad" creationdate="20201002T084515Z">
@@ -7426,6 +7434,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Game is automatically paused. It will continue after all events are closed. The game can be set to manual pause"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090550Z" creationid="mohammad" creationdate="20201002T090550Z">
+        <seg>"بازی به طور خودکار متوقف شده است. بعد از بسته شدن همه رویدادها ادامه خواهد یافت. می توان بازی را روی توقف دستی تنظیم کرد"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Game is paused by the player"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201002T090041Z" creationid="mohammad" creationdate="20201002T090041Z">
@@ -10684,8 +10700,8 @@
       <tuv lang="en">
         <seg>"Paused"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20201002T090141Z" creationid="mohammad" creationdate="20200926T011344Z">
-        <seg>"توقف"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090651Z" creationid="mohammad" creationdate="20200926T011344Z">
+        <seg>"مکث"</seg>
       </tuv>
     </tu>
     <tu>
@@ -18055,6 +18071,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>BOTTOMBAR_SCHEME_TOOLTIP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090720Z" creationid="mohammad" creationdate="20201002T090720Z">
+        <seg>BOTTOMBAR_SCHEME_TOOLTIP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>BREAKDOWN_ARMY_MAINTENANCE:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T235523Z" creationid="mohammad" creationdate="20200925T235523Z">
@@ -22795,6 +22819,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201002T090415Z" creationid="mohammad" creationdate="20201002T090415Z">
         <seg>PAUSED_BY_EVENT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PAUSED_BY_EVENT_TT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090513Z" creationid="mohammad" creationdate="20201002T090513Z">
+        <seg>PAUSED_BY_EVENT_TT:0</seg>
       </tuv>
     </tu>
     <tu>
