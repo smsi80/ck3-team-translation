@@ -1712,6 +1712,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T Find Character#!\nFind any living character in the game."</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091339Z" creationid="mohammad" creationdate="20201002T091339Z">
+        <seg>"#T یافتن شخصیت#!\nجستجوی شخصیت میان تمام شخصیت های بازی"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T Find Title#!\nFind any [title|E] in the game."</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201002T084926Z" creationid="mohammad" creationdate="20201002T084926Z">
@@ -1866,8 +1874,8 @@
       <tuv lang="en">
         <seg>"#T Show Lineage#!\nSee all the characters you have played."</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20201002T085609Z" creationid="mohammad" creationdate="20201002T085609Z">
-        <seg>"#T Show Lineage#!\nSee all the characters you have played."</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091319Z" creationid="mohammad" creationdate="20201002T085609Z">
+        <seg>"#T نمایش شجره نامه#!\nدیدن تمام شخصیت هایی که به عنوان آنها بازی کرده اید"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5572,6 +5580,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T105737Z" creationid="mohammad" creationdate="20200926T105737Z">
         <seg>"توجیهات روحانیت"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Click here to go back to showing [realms|E] on the map!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091214Z" creationid="mohammad" creationdate="20201002T091214Z">
+        <seg>"برای نمایش [realms|E] روی نقشه کلیک کنید !"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11477,6 +11493,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Return to Realms Map Mode"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091141Z" creationid="mohammad" creationdate="20201002T091141Z">
+        <seg>"بازگشت به حالت نقشه سرزمین ها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Rich"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T215147Z" creationid="mohammad" creationdate="20200925T215147Z">
@@ -12081,6 +12105,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201002T091016Z" creationid="mohammad" creationdate="20201002T091016Z">
         <seg>"نمایش: [realms|E] های بازیکنان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Showing: Simple [terrain|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091132Z" creationid="mohammad" creationdate="20201002T091132Z">
+        <seg>"نمایش: [terrain|E] ساده"</seg>
       </tuv>
     </tu>
     <tu>
@@ -18047,6 +18079,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>BACK_TO_REALMS:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091132Z" creationid="mohammad" creationdate="20201002T091132Z">
+        <seg>BACK_TO_REALMS:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>BACK_TO_REALMS_TT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091142Z" creationid="mohammad" creationdate="20201002T091142Z">
+        <seg>BACK_TO_REALMS_TT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>BAD_COLOR:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011014Z" creationid="mohammad" creationdate="20200926T011014Z">
@@ -20975,6 +21023,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>IM_TT_FIND_CHARACTER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091320Z" creationid="mohammad" creationdate="20201002T091320Z">
+        <seg>IM_TT_FIND_CHARACTER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IM_TT_SHOW_LEGACY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091235Z" creationid="mohammad" creationdate="20201002T091235Z">
+        <seg>IM_TT_SHOW_LEGACY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>INCOME:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000830Z" creationid="mohammad" creationdate="20200926T000830Z">
@@ -23271,6 +23335,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PLAYER_CHANGED_CHARACTER_TITLE_SWITCH:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091215Z" creationid="mohammad" creationdate="20201002T091215Z">
+        <seg>PLAYER_CHANGED_CHARACTER_TITLE_SWITCH:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PLAYER_DATE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T212630Z" creationid="mohammad" creationdate="20200925T212630Z">
@@ -24715,6 +24787,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011410Z" creationid="mohammad" creationdate="20200926T011410Z">
         <seg>SHOW_LEGACY:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SIMPLE_TERRAIN_HEADER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091106Z" creationid="mohammad" creationdate="20201002T091106Z">
+        <seg>SIMPLE_TERRAIN_HEADER:0</seg>
       </tuv>
     </tu>
     <tu>
