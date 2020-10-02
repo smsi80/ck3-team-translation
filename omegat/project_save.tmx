@@ -6188,8 +6188,8 @@
       <tuv lang="en">
         <seg>"Ducal Conquest"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200927T110120Z" creationid="mohammad" creationdate="20200927T110120Z">
-        <seg>"Ducal Conquest"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T082812Z" creationid="mohammad" creationdate="20200927T110120Z">
+        <seg>"فتوحات دوکی"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6852,8 +6852,8 @@
       <tuv lang="en">
         <seg>"Flexible Truces"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200926T121515Z" creationid="mohammad" creationdate="20200926T121515Z">
-        <seg>"Flexible Truces"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083037Z" creationid="mohammad" creationdate="20200926T121515Z">
+        <seg>"آتش بس موقت"</seg>
       </tuv>
     </tu>
     <tu>
@@ -24759,6 +24759,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>adaptive_traditions_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T082813Z" creationid="mohammad" creationdate="20201002T082813Z">
+        <seg>adaptive_traditions_perk_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>administrator_perk_name:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201002T082651Z" creationid="mohammad" creationdate="20201002T082651Z">
@@ -25556,6 +25564,22 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T021323Z" creationid="mohammad" creationdate="20200928T021323Z">
         <seg>first_almohad_event_troops:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>flexible_truces_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T082814Z" creationid="mohammad" creationdate="20201002T082814Z">
+        <seg>flexible_truces_perk_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>forced_vassalage_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T082812Z" creationid="mohammad" creationdate="20201002T082812Z">
+        <seg>forced_vassalage_perk_name:0</seg>
       </tuv>
     </tu>
     <tu>
