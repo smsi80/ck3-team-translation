@@ -4512,6 +4512,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Anyone can unpause"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090414Z" creationid="mohammad" creationdate="20201002T090414Z">
+        <seg>"همه می توانند بازی را از سر بگیرند"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Apiaries"</seg>
       </tuv>
       <tuv lang="fa" changeid="Novin Pendar" changedate="20200925T053924Z" creationid="Novin Pendar" creationdate="20200925T053924Z">
@@ -4740,6 +4748,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T054332Z" creationid="mohammad" creationdate="20200930T054332Z">
         <seg>"ذخیره خودکار ..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Automatically paused"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090512Z" creationid="mohammad" creationdate="20201002T090512Z">
+        <seg>"توقف خودکار"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10402,6 +10418,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Only I can unpause the game for [GetTimeAnyoneUnpause] more seconds"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090248Z" creationid="mohammad" creationdate="20201002T090248Z">
+        <seg>"تا حداقل [GetTimeAnyoneUnpause] ثانیه دیگر فقط شما می توانید بازی را از سر گیری کنید"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Only [GetPausedBy] can unpause for [GetTimeAnyoneUnpause] more seconds"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090324Z" creationid="mohammad" creationdate="20201002T090324Z">
+        <seg>"تا حداقل [GetTimeAnyoneUnpause] ثانیه دیگر فقط [GetPausedBy] می تواند بازی را از سر گیری کند"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Only the Host can change speed"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T021635Z" creationid="mohammad" creationdate="20200925T212126Z">
@@ -10638,6 +10670,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T011255Z" creationid="mohammad" creationdate="20200926T011255Z">
         <seg>"مکث"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Paused by [GetPausedBy]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090208Z" creationid="mohammad" creationdate="20201002T090208Z">
+        <seg>"توقف توسط [GetPausedBy]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -22751,10 +22791,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PAUSED_BY_EVENT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090415Z" creationid="mohammad" creationdate="20201002T090415Z">
+        <seg>PAUSED_BY_EVENT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PAUSED_BY_PLAYER_MP:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090151Z" creationid="mohammad" creationdate="20201002T090151Z">
+        <seg>PAUSED_BY_PLAYER_MP:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PAUSED_BY_PLAYER_TT:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201002T090021Z" creationid="mohammad" creationdate="20201002T090021Z">
         <seg>PAUSED_BY_PLAYER_TT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PAUSED_BY_UNPAUSE_ANYONE:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090324Z" creationid="mohammad" creationdate="20201002T090324Z">
+        <seg>PAUSED_BY_UNPAUSE_ANYONE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PAUSED_BY_UNPAUSE_ONLY_ME:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090208Z" creationid="mohammad" creationdate="20201002T090208Z">
+        <seg>PAUSED_BY_UNPAUSE_ONLY_ME:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PAUSED_BY_UNPAUSE_ONLY_PAUSED_BY:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090248Z" creationid="mohammad" creationdate="20201002T090248Z">
+        <seg>PAUSED_BY_UNPAUSE_ONLY_PAUSED_BY:0</seg>
       </tuv>
     </tu>
     <tu>
