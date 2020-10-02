@@ -13561,8 +13561,8 @@
       <tuv lang="en">
         <seg>"Truth is Relative"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200926T102701Z" creationid="mohammad" creationdate="20200926T102701Z">
-        <seg>"Truth is Relative"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T081747Z" creationid="mohammad" creationdate="20200926T102701Z">
+        <seg>"حقیقت نسبی است"</seg>
       </tuv>
     </tu>
     <tu>
@@ -24878,6 +24878,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T221412Z" creationid="mohammad" creationdate="20200924T221412Z">
         <seg>deviant_intolerant:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>digging_for_dirt_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T081738Z" creationid="mohammad" creationdate="20201002T081738Z">
+        <seg>digging_for_dirt_perk_name:0</seg>
       </tuv>
     </tu>
     <tu>
