@@ -12087,8 +12087,8 @@
       <tuv lang="en">
         <seg>"Sound Foundations"</seg>
       </tuv>
-      <tuv lang="fa" changeid="mohammad" changedate="20200926T122331Z" creationid="mohammad" creationdate="20200926T122331Z">
-        <seg>"Sound Foundations"</seg>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083213Z" creationid="mohammad" creationdate="20200926T122331Z">
+        <seg>"شالوده مستحکم"</seg>
       </tuv>
     </tu>
     <tu>
@@ -16231,6 +16231,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"[skills|E] from [spouse|E] [councillor_tasks|E]: #p +25%#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083328Z" creationid="mohammad" creationdate="20201002T083328Z">
+        <seg>"[skills|E] های [spouse|E][councillor_tasks|E]: #P + 25%#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"[soldier_i]"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T001126Z" creationid="mohammad" creationdate="20200926T001126Z">
@@ -17047,6 +17055,26 @@
       <tuv lang="fa" changeid="mohammad" changedate="20200922T030800Z" creationid="mohammad" creationdate="20200922T030800Z">
         <seg>#Diplomacy Education Focus
  education_diplomacy:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#Diplomacy: Family Tree
+ befriend_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083040Z" creationid="mohammad" creationdate="20201002T083040Z">
+        <seg>#Diplomacy: Family Tree
+ befriend_perk_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#Diplomacy: Majesty Tree
+ benevolent_intent_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083045Z" creationid="mohammad" creationdate="20201002T083045Z">
+        <seg>#Diplomacy: Majesty Tree
+ benevolent_intent_perk_name:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -24759,6 +24787,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>a_life_of_glory_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083048Z" creationid="mohammad" creationdate="20201002T083048Z">
+        <seg>a_life_of_glory_perk_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>accomplished_forger_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083039Z" creationid="mohammad" creationdate="20201002T083039Z">
+        <seg>accomplished_forger_perk_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>adaptive_traditions_perk_name:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201002T082813Z" creationid="mohammad" creationdate="20201002T082813Z">
@@ -25016,6 +25060,14 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>confidants_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083040Z" creationid="mohammad" creationdate="20201002T083040Z">
+        <seg>confidants_perk_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>court_of_shadows_perk_name:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201002T082459Z" creationid="mohammad" creationdate="20201002T082459Z">
@@ -25048,6 +25100,14 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>defensive_negotiations_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083037Z" creationid="mohammad" creationdate="20201002T083037Z">
+        <seg>defensive_negotiations_perk_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>deviant_crime:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T221353Z" creationid="mohammad" creationdate="20200924T221353Z">
@@ -25068,6 +25128,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201002T081738Z" creationid="mohammad" creationdate="20201002T081738Z">
         <seg>digging_for_dirt_perk_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>dignitas_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083048Z" creationid="mohammad" creationdate="20201002T083048Z">
+        <seg>dignitas_perk_name:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -25212,6 +25280,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013859Z" creationid="mohammad" creationdate="20200927T013859Z">
         <seg>diplomacy_modifier_with_offset:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>diplomat_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083040Z" creationid="mohammad" creationdate="20201002T083040Z">
+        <seg>diplomat_perk_name:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -25480,6 +25556,14 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>embassies_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083038Z" creationid="mohammad" creationdate="20201002T083038Z">
+        <seg>embassies_perk_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>enticing_opportunity_perk_name:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T100025Z" creationid="mohammad" creationdate="20200926T100025Z">
@@ -25544,6 +25628,30 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>familial_familiar_perk_name:1</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083042Z" creationid="mohammad" creationdate="20201002T083042Z">
+        <seg>familial_familiar_perk_name:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>family_man_perk_female_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083045Z" creationid="mohammad" creationdate="20201002T083045Z">
+        <seg>family_man_perk_female_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>family_man_perk_male_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083044Z" creationid="mohammad" creationdate="20201002T083044Z">
+        <seg>family_man_perk_male_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>family_name:1</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200921T183803Z" creationid="mohammad" creationdate="20200921T183803Z">
@@ -25560,10 +25668,26 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>firm_hand_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083046Z" creationid="mohammad" creationdate="20201002T083046Z">
+        <seg>firm_hand_perk_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>first_almohad_event_troops:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T021323Z" creationid="mohammad" creationdate="20200928T021323Z">
         <seg>first_almohad_event_troops:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>flatterer_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083041Z" creationid="mohammad" creationdate="20201002T083041Z">
+        <seg>flatterer_perk_name:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -25620,6 +25744,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T013527Z" creationid="mohammad" creationdate="20200926T013527Z">
         <seg>friend_plural:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>friendly_counsel_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083043Z" creationid="mohammad" creationdate="20201002T083043Z">
+        <seg>friendly_counsel_perk_name:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -25752,6 +25884,14 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>groomed_to_rule_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083041Z" creationid="mohammad" creationdate="20201002T083041Z">
+        <seg>groomed_to_rule_perk_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>healthy_perk_name:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201002T082521Z" creationid="mohammad" creationdate="20201002T082521Z">
@@ -25796,6 +25936,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T222350Z" creationid="mohammad" creationdate="20200924T222350Z">
         <seg>incest_intolerant:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>inspiring_rule_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083045Z" creationid="mohammad" creationdate="20201002T083045Z">
+        <seg>inspiring_rule_perk_name:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -29052,6 +29200,14 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>praetorian_guard_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083046Z" creationid="mohammad" creationdate="20201002T083046Z">
+        <seg>praetorian_guard_perk_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>prepared_for_anything_perk_name:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201002T082459Z" creationid="mohammad" creationdate="20201002T082459Z">
@@ -29724,6 +29880,14 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>sound_foundations_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083043Z" creationid="mohammad" creationdate="20201002T083043Z">
+        <seg>sound_foundations_perk_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>stewardship:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200927T013821Z" creationid="mohammad" creationdate="20200927T013821Z">
@@ -29932,6 +30096,14 @@ building_royal_forest_03:0</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>thicker_than_water_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083042Z" creationid="mohammad" creationdate="20201002T083042Z">
+        <seg>thicker_than_water_perk_name:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>thriving_in_chaos_perk_name:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201002T082502Z" creationid="mohammad" creationdate="20201002T082502Z">
@@ -29960,6 +30132,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T220506Z" creationid="mohammad" creationdate="20200924T220506Z">
         <seg>trait_cannibal_character_desc:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>true_ruler_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083047Z" creationid="mohammad" creationdate="20201002T083047Z">
+        <seg>true_ruler_perk_name:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -30112,6 +30292,14 @@ building_royal_forest_03:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200924T222142Z" creationid="mohammad" creationdate="20200924T222142Z">
         <seg>witchcraft_intolerant:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>writing_history_perk_name:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T083047Z" creationid="mohammad" creationdate="20201002T083047Z">
+        <seg>writing_history_perk_name:0</seg>
       </tuv>
     </tu>
     <tu>
