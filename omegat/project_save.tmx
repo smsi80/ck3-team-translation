@@ -1656,6 +1656,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T Council#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T084615Z" creationid="mohammad" creationdate="20201002T084615Z">
+        <seg>"#T شورا#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T County Control: $VALUE|1$/100% #!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T015949Z" creationid="mohammad" creationdate="20200928T015901Z">
@@ -1668,6 +1676,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T212601Z" creationid="mohammad" creationdate="20200925T212601Z">
         <seg>"#T تاریخ فعلی: [DATE.GetString]#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T Decisions#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T084544Z" creationid="mohammad" creationdate="20201002T084544Z">
+        <seg>"#T تصمیمات#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1712,10 +1728,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T Military#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T084539Z" creationid="mohammad" creationdate="20201002T084539Z">
+        <seg>"#T ارتش#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T Play as $bookmark_rags_to_riches_petty_king_murchad$, in 1066#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201001T060307Z" creationid="mohammad" creationdate="20200930T065009Z">
         <seg>"#T به عنوان $bookmark_rags_to_riches_petty_king_murchad$ در سال ۱۰۶۶ بازی کنید!#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T Realm#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T084506Z" creationid="mohammad" creationdate="20201002T084506Z">
+        <seg>"#T سرزمین#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1748,6 +1780,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T021536Z" creationid="mohammad" creationdate="20200928T021536Z">
         <seg>"#T بازنشانی#!\nبه عقب برگردان #EMP $CURRENT_SITUATION_HEADER$#! مواردی را که رد کرده اید.\n\n#کلیک کنید برای بازنشانی#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T Schemes#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T084515Z" creationid="mohammad" creationdate="20201002T084515Z">
+        <seg>"#T نقشه ها#!"</seg>
       </tuv>
     </tu>
     <tu>
