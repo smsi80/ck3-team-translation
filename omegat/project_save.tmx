@@ -1744,6 +1744,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T In-game Menu#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090824Z" creationid="mohammad" creationdate="20201002T090824Z">
+        <seg>"#T منوی درون بازی#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T Incapable#!\n[Character.GetUINameNotMe] is [GetTrait('incapable').GetName( Character.Self )] and cannot take actions independently"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T215915Z" creationid="mohammad" creationdate="20200925T215915Z">
@@ -1760,10 +1768,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"#T Military strength#!:\n[InGameTopbar.GetStrengthTooltip]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090757Z" creationid="mohammad" creationdate="20201002T090757Z">
+        <seg>"#T قدرت نظامی#!:\n[InGameTopbar.GetStrengthTooltip]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"#T Military#!"</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201002T084539Z" creationid="mohammad" creationdate="20201002T084539Z">
         <seg>"#T ارتش#!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"#T More...#!"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090836Z" creationid="mohammad" creationdate="20201002T090836Z">
+        <seg>"#T بیشتر...#!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10186,6 +10210,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"No Expenses"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090813Z" creationid="mohammad" creationdate="20201002T090813Z">
+        <seg>"بدون هزینه"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"No Focus"</seg>
       </tuv>
       <tuv lang="fa" changeid="Smsi" changedate="20200930T072432Z" creationid="Smsi" creationdate="20200930T072432Z">
@@ -10246,6 +10278,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T021430Z" creationid="mohammad" creationdate="20200928T021430Z">
         <seg>"هیچ راز قابل استفاده برای اخاذی نیست"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"No values"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090806Z" creationid="mohammad" creationdate="20201002T090806Z">
+        <seg>"بدون داده"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12025,6 +12065,86 @@
       </tuv>
       <tuv lang="fa" changeid="mahan" changedate="20200924T113949Z" creationid="mahan" creationdate="20200924T113949Z">
         <seg>"نمایش لیست دستاورد ها"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Showing: County [development|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091106Z" creationid="mohammad" creationdate="20201002T091106Z">
+        <seg>"نمایش: [development|E] ی شهر"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Showing: Player [realms|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091016Z" creationid="mohammad" creationdate="20201002T091016Z">
+        <seg>"نمایش: [realms|E] های بازیکنان"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Showing: [counties|E], [de_jure|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090920Z" creationid="mohammad" creationdate="20201002T090920Z">
+        <seg>"نمایش: [counties|E], [de_jure|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Showing: [cultures|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090936Z" creationid="mohammad" creationdate="20201002T090936Z">
+        <seg>"نمایش: [cultures|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Showing: [duchies|E], [de_jure|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090848Z" creationid="mohammad" creationdate="20201002T090848Z">
+        <seg>"نمایش: [duchies|E], [de_jure|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Showing: [empires|E], [de_jure|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090910Z" creationid="mohammad" creationdate="20201002T090910Z">
+        <seg>"نمایش: [empires|E], [de_jure|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Showing: [faiths|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090928Z" creationid="mohammad" creationdate="20201002T090928Z">
+        <seg>"نمایش: [faiths|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Showing: [governments|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090949Z" creationid="mohammad" creationdate="20201002T090949Z">
+        <seg>"نمایش: [governments|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Showing: [houses|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090942Z" creationid="mohammad" creationdate="20201002T090942Z">
+        <seg>"نمایش: [houses|E]"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Showing: [kingdoms|E], [de_jure|E]"</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090903Z" creationid="mohammad" creationdate="20201002T090903Z">
+        <seg>"نمایش: [kingdoms|E], [de_jure|E]"</seg>
       </tuv>
     </tu>
     <tu>
@@ -19127,6 +19247,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CULTURES_HEADER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090929Z" creationid="mohammad" creationdate="20201002T090929Z">
+        <seg>CULTURES_HEADER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CURRENT_BALANCE:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200925T235218Z" creationid="mohammad" creationdate="20200925T235218Z">
@@ -19423,6 +19551,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DEVELOPMENT_HEADER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T091018Z" creationid="mohammad" creationdate="20201002T091018Z">
+        <seg>DEVELOPMENT_HEADER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DEVELOPMENT_PROGRESS:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T015852Z" creationid="mohammad" creationdate="20200928T015852Z">
@@ -19439,10 +19575,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DE_JURE_COUNTIES_HEADER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090911Z" creationid="mohammad" creationdate="20201002T090911Z">
+        <seg>DE_JURE_COUNTIES_HEADER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DE_JURE_DUCHIES_HEADER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090836Z" creationid="mohammad" creationdate="20201002T090836Z">
+        <seg>DE_JURE_DUCHIES_HEADER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DE_JURE_EMPIRES_HEADER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090903Z" creationid="mohammad" creationdate="20201002T090903Z">
+        <seg>DE_JURE_EMPIRES_HEADER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DE_JURE_HIERARCHY:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20201002T085707Z" creationid="mohammad" creationdate="20201002T085707Z">
         <seg>DE_JURE_HIERARCHY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DE_JURE_KINGDOMS_HEADER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090848Z" creationid="mohammad" creationdate="20201002T090848Z">
+        <seg>DE_JURE_KINGDOMS_HEADER:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -19859,6 +20027,14 @@
       </tuv>
       <tuv lang="fa" changeid="Smsi" changedate="20200930T073002Z" creationid="Smsi" creationdate="20200930T073002Z">
         <seg>EXPERIENCE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FAITHS_HEADER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090920Z" creationid="mohammad" creationdate="20201002T090920Z">
+        <seg>FAITHS_HEADER:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -20575,6 +20751,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GOVERNMENTS_HEADER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090945Z" creationid="mohammad" creationdate="20201002T090945Z">
+        <seg>GOVERNMENTS_HEADER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GOVERNMENT_FLAG_INFO:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T015847Z" creationid="mohammad" creationdate="20200928T015847Z">
@@ -20775,6 +20959,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HOUSES_HEADER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090936Z" creationid="mohammad" creationdate="20201002T090936Z">
+        <seg>HOUSES_HEADER:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HUSBAND:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T013314Z" creationid="mohammad" creationdate="20200928T013314Z">
@@ -20787,6 +20979,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200926T000830Z" creationid="mohammad" creationdate="20200926T000830Z">
         <seg>INCOME:1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>INGAME_MENU_TT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090813Z" creationid="mohammad" creationdate="20201002T090813Z">
+        <seg>INGAME_MENU_TT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>INGAME_TOPBAR_MILITARY_STRENGTH:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090744Z" creationid="mohammad" creationdate="20201002T090744Z">
+        <seg>INGAME_TOPBAR_MILITARY_STRENGTH:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -22519,6 +22727,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MORE_POPOUT_TT:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090824Z" creationid="mohammad" creationdate="20201002T090824Z">
+        <seg>MORE_POPOUT_TT:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MOTHER:0</seg>
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T010800Z" creationid="mohammad" creationdate="20200928T010800Z">
@@ -22995,6 +23211,14 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200930T060331Z" creationid="mohammad" creationdate="20200930T060331Z">
         <seg>PLAYED_TODAY:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PLAYERS_HEADER:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090949Z" creationid="mohammad" creationdate="20201002T090949Z">
+        <seg>PLAYERS_HEADER:0</seg>
       </tuv>
     </tu>
     <tu>
@@ -25031,6 +25255,22 @@
       </tuv>
       <tuv lang="fa" changeid="mohammad" changedate="20200928T015844Z" creationid="mohammad" creationdate="20200928T015844Z">
         <seg>VALUE_BREAKDOWN_ENTRY_TOOLTIP_SUBHEADER_NO_VALUE:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>VALUE_BREAKDOWN_NO_EXPENSES:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090806Z" creationid="mohammad" creationdate="20201002T090806Z">
+        <seg>VALUE_BREAKDOWN_NO_EXPENSES:0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>VALUE_BREAKDOWN_NO_VALUES:0</seg>
+      </tuv>
+      <tuv lang="fa" changeid="mohammad" changedate="20201002T090758Z" creationid="mohammad" creationdate="20201002T090758Z">
+        <seg>VALUE_BREAKDOWN_NO_VALUES:0</seg>
       </tuv>
     </tu>
     <tu>
